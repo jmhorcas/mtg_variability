@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Basic'}
+Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
+Subtypes: {'Orc', 'Island', 'Pegasus', 'Faerie', 'Zombie', 'Bear', 'Bat', 'Mountain', 'Construct', 'Archer', 'Minion', 'Imp', 'Wraith', 'Human', 'Boar', 'Merfolk', 'Beast', 'Giant', 'Plains', 'Monk', 'Spirit', 'Unicorn', 'Wall', 'Warrior', 'Swamp', 'Forest', 'Elf', 'Skeleton', 'Wizard', 'Elephant', 'Bird', 'Goblin', 'Aura'}
+Rarity: {'Common', 'Rare', 'Uncommon'}
+Power: {'4', '1', '2', '0', '3'}
+Toughness: {'3', '4', '2', '1'}
+Loyalty: set()

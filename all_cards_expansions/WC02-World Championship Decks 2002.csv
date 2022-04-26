@@ -1,0 +1,121 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Genesis,5.0,['Green'],['G'],None,['Creature'],['Incarnation'],Rare,WC02,4,4,None,"At the beginning of your upkeep, if Genesis is in your graveyard, you may pay {2}{G}. If you do, return target creature card from your graveyard to your hand."
+Glory,5.0,['White'],['W'],None,['Creature'],['Incarnation'],Rare,WC02,3,3,None,Flying\n{2}{W}: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate only if Glory is in your graveyard.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Squirrel Nest,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,WC02,None,None,None,"Enchant land\nEnchanted land has ""{T}: Create a 1/1 green Squirrel creature token."""
+Wild Mongrel,2.0,['Green'],['G'],None,['Creature'],['Dog'],Common,WC02,2,2,None,Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.
+Fire // Ice,4.0,['Blue'],"['R', 'U']",None,['Instant'],None,Uncommon,WC02,None,None,None,Tap target permanent.\nDraw a card.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC02,None,None,None,({T}: Add {R}.)
+Birds of Paradise,1.0,['Green'],['G'],None,['Creature'],['Bird'],Rare,WC02,0,1,None,Flying\n{T}: Add one mana of any color.
+Llanowar Elves,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,WC02,1,1,None,{T}: Add {G}.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC02,None,None,None,({T}: Add {R}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC02,None,None,None,({T}: Add {W}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Simoon,2.0,"['Green', 'Red']","['G', 'R']",None,['Instant'],None,Uncommon,WC02,None,None,None,Simoon deals 1 damage to each creature target opponent controls.
+Reprisal,2.0,['White'],['W'],None,['Instant'],None,Uncommon,WC02,None,None,None,Destroy target creature with power 4 or greater. It can't be regenerated.
+Shivan Reef,0.0,None,"['R', 'U']",None,['Land'],None,Rare,WC02,None,None,None,{T}: Add {C}.\n{T}: Add {U} or {R}. Shivan Reef deals 1 damage to you.
+Upheaval,6.0,['Blue'],['U'],None,['Sorcery'],None,Rare,WC02,None,None,None,Return all permanents to their owners' hands.
+Karplusan Forest,0.0,None,"['G', 'R']",None,['Land'],None,Rare,WC02,None,None,None,{T}: Add {C}.\n{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.
+Careful Study,1.0,['Blue'],['U'],None,['Sorcery'],None,Common,WC02,None,None,None,"Draw two cards, then discard two cards."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC02,None,None,None,({T}: Add {W}.)
+Wonder,4.0,['Blue'],['U'],None,['Creature'],['Incarnation'],Uncommon,WC02,2,2,None,"Flying\nAs long as Wonder is in your graveyard and you control an Island, creatures you control have flying."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Call of the Herd,3.0,['Green'],['G'],None,['Sorcery'],None,Rare,WC02,None,None,None,Create a 3/3 green Elephant creature token.\nFlashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Thornscape Battlemage,3.0,['Green'],"['G', 'R', 'W']",None,['Creature'],"['Elf', 'Wizard']",Uncommon,WC02,2,2,None,"Kicker {R} and/or {W} (You may pay an additional {R} and/or {W} as you cast this spell.)\nWhen Thornscape Battlemage enters the battlefield, if it was kicked with its {R} kicker, it deals 2 damage to any target.\nWhen Thornscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, destroy target artifact."
+Disrupt,1.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC02,None,None,None,Counter target instant or sorcery spell unless its controller pays {1}.\nDraw a card.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC02,None,None,None,({T}: Add {W}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Mental Note,1.0,['Blue'],['U'],None,['Instant'],None,Common,WC02,None,None,None,Mill two cards.\nDraw a card.
+Phantom Centaur,4.0,['Green'],['G'],None,['Creature'],"['Centaur', 'Spirit']",Uncommon,WC02,2,0,None,"Protection from black\nPhantom Centaur enters the battlefield with three +1/+1 counters on it.\nIf damage would be dealt to Phantom Centaur, prevent that damage. Remove a +1/+1 counter from Phantom Centaur."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Thunderscape Battlemage,3.0,['Red'],"['B', 'G', 'R']",None,['Creature'],"['Human', 'Wizard']",Uncommon,WC02,2,2,None,"Kicker {1}{B} and/or {G} (You may pay an additional {1}{B} and/or {G} as you cast this spell.)\nWhen Thunderscape Battlemage enters the battlefield, if it was kicked with its {1}{B} kicker, target player discards two cards.\nWhen Thunderscape Battlemage enters the battlefield, if it was kicked with its {G} kicker, destroy target enchantment."
+Living Wish,2.0,['Green'],['G'],None,['Sorcery'],None,Rare,WC02,None,None,None,You may reveal a creature or land card you own from outside the game and put it into your hand. Exile Living Wish.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Intrepid Hero,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,WC02,1,1,None,{T}: Destroy target creature with power 4 or greater.
+Global Ruin,5.0,['White'],['W'],None,['Sorcery'],None,Rare,WC02,None,None,None,"Each player chooses from the lands they control a land of each basic land type, then sacrifices the rest."
+Flametongue Kavu,4.0,['Red'],['R'],None,['Creature'],['Kavu'],Uncommon,WC02,4,2,None,"When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature."
+Opposition,4.0,['Blue'],['U'],None,['Enchantment'],None,Rare,WC02,None,None,None,"Tap an untapped creature you control: Tap target artifact, creature, or land."
+Phantom Nishoba,7.0,"['Green', 'White']","['G', 'W']",None,['Creature'],"['Cat', 'Beast', 'Spirit']",Rare,WC02,0,0,None,"Trample\nPhantom Nishoba enters the battlefield with seven +1/+1 counters on it.\nWhenever Phantom Nishoba deals damage, you gain that much life.\nIf damage would be dealt to Phantom Nishoba, prevent that damage. Remove a +1/+1 counter from Phantom Nishoba."
+Merfolk Looter,2.0,['Blue'],['U'],None,['Creature'],"['Merfolk', 'Rogue']",Uncommon,WC02,1,1,None,"{T}: Draw a card, then discard a card."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Quiet Speculation,2.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,WC02,None,None,None,Search target player's library for up to three cards with flashback and put them into that player's graveyard. Then the player shuffles.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Anurid Brushhopper,3.0,"['Green', 'White']","['G', 'W']",None,['Creature'],"['Frog', 'Beast']",Rare,WC02,3,4,None,Discard two cards: Exile Anurid Brushhopper. Return it to the battlefield under its owner's control at the beginning of the next end step.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+City of Brass,0.0,None,None,None,['Land'],None,Rare,WC02,None,None,None,"Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
+Sylvan Safekeeper,1.0,['Green'],['G'],None,['Creature'],"['Human', 'Wizard']",Rare,WC02,1,1,None,Sacrifice a land: Target creature you control gains shroud until end of turn. (It can't be the target of spells or abilities.)
+Ghastly Demise,1.0,['Black'],['B'],None,['Instant'],None,Common,WC02,None,None,None,Destroy target nonblack creature if its toughness is less than or equal to the number of cards in your graveyard.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Duress,1.0,['Black'],['B'],None,['Sorcery'],None,Common,WC02,None,None,None,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Coffin Purge,1.0,['Black'],['B'],None,['Instant'],None,Common,WC02,None,None,None,Exile target card from a graveyard.\nFlashback {B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Brushland,0.0,None,"['G', 'W']",None,['Land'],None,Rare,WC02,None,None,None,{T}: Add {C}.\n{T}: Add {G} or {W}. Brushland deals 1 damage to you.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Wax // Wane,2.0,['White'],"['G', 'W']",None,['Instant'],None,Uncommon,WC02,None,None,None,Destroy target enchantment.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC02,None,None,None,({T}: Add {G}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Rushing River,3.0,['Blue'],['U'],None,['Instant'],None,Common,WC02,None,None,None,"Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)\nReturn target nonland permanent to its owner's hand. If this spell was kicked, return another target nonland permanent to its owner's hand."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Werebear,2.0,['Green'],['G'],None,['Creature'],"['Human', 'Bear', 'Druid']",Common,WC02,1,1,None,{T}: Add {G}.\nThreshold — Werebear gets +3/+3 as long as seven or more cards are in your graveyard.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Roar of the Wurm,7.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,WC02,None,None,None,Create a 6/6 green Wurm creature token.\nFlashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Breakthrough,1.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,WC02,None,None,None,"Draw four cards, then choose X cards in your hand and discard the rest."
+Nimble Mongoose,1.0,['Green'],['G'],None,['Creature'],['Mongoose'],Uncommon,WC02,1,1,None,Shroud (This creature can't be the target of spells or abilities.)\nThreshold — Nimble Mongoose gets +2/+2 as long as seven or more cards are in your graveyard.
+Compost,2.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,WC02,None,None,None,"Whenever a black card is put into an opponent's graveyard from anywhere, you may draw a card."
+Ray of Revelation,2.0,['White'],"['G', 'W']",None,['Instant'],None,Common,WC02,None,None,None,Destroy target enchantment.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Yavimaya Coast,0.0,None,"['G', 'U']",None,['Land'],None,Rare,WC02,None,None,None,{T}: Add {C}.\n{T}: Add {G} or {U}. Yavimaya Coast deals 1 damage to you.
+Seton's Scout,2.0,['Green'],['G'],None,['Creature'],"['Centaur', 'Druid', 'Scout', 'Archer']",Uncommon,WC02,2,1,None,Reach (This creature can block creatures with flying.)\nThreshold — Seton's Scout gets +2/+2 as long as seven or more cards are in your graveyard.
+Cunning Wish,3.0,['Blue'],['U'],None,['Instant'],None,Rare,WC02,None,None,None,You may reveal an instant card you own from outside the game and put it into your hand. Exile Cunning Wish.
+Mana Short,3.0,['Blue'],['U'],None,['Instant'],None,Rare,WC02,None,None,None,Tap all lands target player controls and that player loses all unspent mana.
+Memory Lapse,2.0,['Blue'],['U'],None,['Instant'],None,Common,WC02,None,None,None,"Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Hibernation,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC02,None,None,None,Return all green permanents to their owners' hands.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Teferi's Response,2.0,['Blue'],['U'],None,['Instant'],None,Rare,WC02,None,None,None,"Counter target spell or ability an opponent controls that targets a land you control. If a permanent's ability is countered this way, destroy that permanent.\nDraw two cards."
+Repulse,3.0,['Blue'],['U'],None,['Instant'],None,Common,WC02,None,None,None,Return target creature to its owner's hand.\nDraw a card.
+Fact or Fiction,4.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC02,None,None,None,Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+Counterspell,2.0,['Blue'],['U'],None,['Instant'],None,Common,WC02,None,None,None,Counter target spell.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Nightscape Familiar,2.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,WC02,1,1,None,Blue spells and red spells you cast cost {1} less to cast.\n{1}{B}: Regenerate Nightscape Familiar.
+Deep Analysis,4.0,['Blue'],['U'],None,['Sorcery'],None,Common,WC02,None,None,None,"Target player draws two cards.\nFlashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Chainer's Edict,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,WC02,None,None,None,Target player sacrifices a creature.\nFlashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Slay,3.0,['Black'],['B'],None,['Instant'],None,Uncommon,WC02,None,None,None,Destroy target green creature. It can't be regenerated.\nDraw a card.
+Underground River,0.0,None,"['B', 'U']",None,['Land'],None,Rare,WC02,None,None,None,{T}: Add {C}.\n{T}: Add {U} or {B}. Underground River deals 1 damage to you.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC02,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC02,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC02,None,None,None,({T}: Add {B}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Circular Logic,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC02,None,None,None,"Counter target spell unless its controller pays {1} for each card in your graveyard.\nMadness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+Salt Marsh,0.0,None,"['B', 'U']",None,['Land'],None,Uncommon,WC02,None,None,None,Salt Marsh enters the battlefield tapped.\n{T}: Add {U} or {B}.
+Darkwater Catacombs,0.0,None,"['B', 'U']",None,['Land'],None,Rare,WC02,None,None,None,"{1}, {T}: Add {U}{B}."
+Cephalid Coliseum,0.0,None,['U'],None,['Land'],None,Uncommon,WC02,None,None,None,"{T}: Add {U}. Cephalid Coliseum deals 1 damage to you.\nThreshold — {U}, {T}, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate only if seven or more cards are in your graveyard."
+Psychatog,3.0,"['Black', 'Blue']","['B', 'U']",None,['Creature'],['Atog'],Uncommon,WC02,1,2,None,Discard a card: Psychatog gets +1/+1 until end of turn.\nExile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Gainsay,2.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC02,None,None,None,Counter target blue spell.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC02,None,None,None,({T}: Add {U}.)
+Recoil,3.0,"['Black', 'Blue']","['B', 'U']",None,['Instant'],None,Common,WC02,None,None,None,Return target permanent to its owner's hand. Then that player discards a card.

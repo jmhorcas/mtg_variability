@@ -1,0 +1,9 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Rare,PAL03,None,None,None,({T}: Add {U}.)
+Bonesplitter,1.0,None,None,None,['Artifact'],['Equipment'],Rare,PAL03,None,None,None,Equipped creature gets +2/+0.\nEquip {1}
+Elvish Aberration,6.0,['Green'],['G'],None,['Creature'],"['Elf', 'Mutant']",Rare,PAL03,4,5,None,"{T}: Add {G}{G}{G}.\nForestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)"
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Rare,PAL03,None,None,None,({T}: Add {B}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Rare,PAL03,None,None,None,({T}: Add {W}.)
+Skirk Marauder,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Rare,PAL03,2,1,None,"Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Skirk Marauder is turned face up, it deals 2 damage to any target."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Rare,PAL03,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Rare,PAL03,None,None,None,({T}: Add {R}.)

@@ -1,0 +1,4 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Icatian Javelineers,1.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,PGTW,1,1,None,"Icatian Javelineers enters the battlefield with a javelin counter on it.\n{T}, Remove a javelin counter from Icatian Javelineers: It deals 1 damage to any target."
+Fiery Temper,3.0,['Red'],['R'],None,['Instant'],None,Rare,PGTW,None,None,None,"Fiery Temper deals 3 damage to any target.\nMadness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+Wood Elves,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Scout']",Rare,PGTW,1,1,None,"When Wood Elves enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle."

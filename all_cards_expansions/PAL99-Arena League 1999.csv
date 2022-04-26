@@ -1,0 +1,11 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Skittering Skirge,2.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Imp']",Rare,PAL99,3,2,None,"Flying\nWhen you cast a creature spell, sacrifice Skittering Skirge."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Rare,PAL99,None,None,None,({T}: Add {R}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Rare,PAL99,None,None,None,({T}: Add {U}.)
+"Karn, Silver Golem",5.0,None,None,['Legendary'],"['Artifact', 'Creature']",['Golem'],Rare,PAL99,4,4,None,"Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.\n{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value until end of turn."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Rare,PAL99,None,None,None,({T}: Add {W}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Rare,PAL99,None,None,None,({T}: Add {B}.)
+Rewind,4.0,['Blue'],['U'],None,['Instant'],None,Rare,PAL99,None,None,None,Counter target spell. Untap up to four lands.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Rare,PAL99,None,None,None,({T}: Add {U}.)
+Pouncing Jaguar,1.0,['Green'],['G'],None,['Creature'],['Cat'],Rare,PAL99,2,2,None,"Echo {G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Rare,PAL99,None,None,None,({T}: Add {G}.)

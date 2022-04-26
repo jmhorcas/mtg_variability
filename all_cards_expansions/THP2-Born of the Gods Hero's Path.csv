@@ -1,0 +1,8 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+The Savant,0.0,None,None,None,['Hero'],None,Common,THP2,None,None,None,Exile The Savant: Tap all creatures your opponents control. Those creatures don't untap during their controllers' next untap steps.
+The Tyrant,0.0,None,None,None,['Hero'],None,Common,THP2,None,None,None,Exile The Tyrant: Creatures your opponents control get -1/-1 until end of turn.
+The General,0.0,None,None,None,['Hero'],None,Common,THP2,None,None,None,Exile The General: Creatures you control get +1/+1 until end of turn. Untap them.
+The Explorer,0.0,None,None,None,['Hero'],None,Common,THP2,None,None,None,You may play an additional land on each of your turns.
+The Provider,0.0,None,None,None,['Hero'],None,Common,THP2,None,None,None,Exile The Provider: Put two +1/+1 counters on target creature you control. You gain life equal to that creature's toughness.
+The Warmonger,0.0,None,None,None,['Hero'],None,Common,THP2,None,None,None,Exile The Warmonger: Creatures you control get +2/+0 and gain haste until end of turn.
+The Vanquisher,0.0,None,None,None,['Hero'],None,Common,THP2,None,None,None,Your starting hand size is increased by one.\nYour maximum hand size is increased by one.

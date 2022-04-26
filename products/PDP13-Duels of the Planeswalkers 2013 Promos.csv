@@ -1,0 +1,4 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Primordial Hydra,2.0,['Green'],['G'],None,['Creature'],['Hydra'],Mythic,PDP13,0,0,None,"Primordial Hydra enters the battlefield with X +1/+1 counters on it.\nAt the beginning of your upkeep, double the number of +1/+1 counters on Primordial Hydra.\nPrimordial Hydra has trample as long as it has ten or more +1/+1 counters on it."
+Vampire Nocturnus,4.0,['Black'],['B'],None,['Creature'],['Vampire'],Mythic,PDP13,3,3,None,"Play with the top card of your library revealed.\nAs long as the top card of your library is black, Vampire Nocturnus and other Vampire creatures you control get +2/+1 and have flying."
+Serra Avatar,7.0,['White'],['W'],None,['Creature'],['Avatar'],Mythic,PDP13,*,*,None,"Serra Avatar's power and toughness are each equal to your life total.\nWhen Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library."

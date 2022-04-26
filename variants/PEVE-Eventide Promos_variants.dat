@@ -1,0 +1,10 @@
+CMC: {1.0, 5.0}
+Colors: {'Red', 'Green', 'White', 'Blue'}
+ColorIdentity: {'W', 'R', 'G', 'U'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Kithkin', 'Avatar', 'Spirit'}
+Rarity: {'Rare'}
+Power: {'*', '1'}
+Toughness: {'*', '1'}
+Loyalty: set()

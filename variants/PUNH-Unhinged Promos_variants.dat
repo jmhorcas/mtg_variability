@@ -1,0 +1,10 @@
+CMC: {3.0}
+Colors: {'Black', 'White'}
+ColorIdentity: {'W', 'B'}
+Supertypes: set()
+Types: {'Sorcery'}
+Subtypes: set()
+Rarity: {'Rare'}
+Power: set()
+Toughness: set()
+Loyalty: set()

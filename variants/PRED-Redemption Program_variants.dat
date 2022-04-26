@@ -1,0 +1,10 @@
+CMC: {4.0}
+Colors: {'Red'}
+ColorIdentity: {'R'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Dragon'}
+Rarity: {'Rare'}
+Power: {'1'}
+Toughness: {'1'}
+Loyalty: set()

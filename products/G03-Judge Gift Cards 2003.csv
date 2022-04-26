@@ -1,0 +1,4 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Argothian Enchantress,2.0,['Green'],['G'],None,['Creature'],"['Human', 'Druid']",Rare,G03,0,1,None,"Shroud (This creature can't be the target of spells or abilities.)\nWhenever you cast an enchantment spell, draw a card."
+Living Death,5.0,['Black'],['B'],None,['Sorcery'],None,Rare,G03,None,None,None,"Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield."
+Intuition,3.0,['Blue'],['U'],None,['Instant'],None,Rare,G03,None,None,None,Search your library for three cards and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. Then shuffle.

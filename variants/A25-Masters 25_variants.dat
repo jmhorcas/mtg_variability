@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Jace', 'Myr', 'Druid', 'Snake', 'Elemental', 'Orc', 'Vedalken', 'Advisor', 'Spellshaper', 'Scout', 'Lizard', 'Shade', 'Kor', 'Ranger', 'Assassin', 'Faerie', 'Jackal', 'Zombie', 'Bear', 'Cat', 'Vampire', 'Rat', 'Dragon', 'Horror', 'Equipment', 'Bat', 'Ally', 'Construct', 'Angel', 'Wolf', 'Nightmare', 'Mutant', 'Boar', 'Human', 'Knight', 'Kavu', 'Cleric', 'Wraith', 'Golem', 'Worm', 'Merfolk', 'Sheep', 'Beast', 'Dog', 'Assembly-Worker', 'Shapeshifter', 'Jellyfish', 'Ogre', 'Giant', 'Plant', 'Ape', 'Elder', 'Spider', 'Monk', 'Treefolk', 'Spirit', 'Dinosaur', 'Griffin', 'Phyrexian', 'Shaman', 'Warrior', 'Centaur', 'Soldier', 'Illusion', 'Elf', 'Wizard', 'Insect', 'Rogue', 'Berserker', 'Bird', 'Elephant', 'Goblin', 'Artificer', 'Barbarian', 'Crab', 'Aura'}
+Rarity: {'Rare', 'Common', 'Uncommon', 'Mythic'}
+Power: {'4', '7', '5', '1', '*', '2', '9', '0', '3', '6'}
+Toughness: {'13', '4', '7', '5', '*', '1', '2', '9', '0', '3', '6', '10'}
+Loyalty: {'3'}

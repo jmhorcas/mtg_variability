@@ -1,0 +1,3 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Avatar of Discord,3.0,"['Black', 'Red']","['B', 'R']",None,['Creature'],['Avatar'],Rare,PDIS,5,3,None,"({B/R} can be paid with either {B} or {R}.)\nFlying\nWhen Avatar of Discord enters the battlefield, sacrifice it unless you discard two cards."
+Azorius Guildmage,2.0,"['Blue', 'White']","['U', 'W']",None,['Creature'],"['Vedalken', 'Wizard']",Rare,PDIS,2,2,None,{2}{W}: Tap target creature.\n{2}{U}: Counter target activated ability. (Mana abilities can't be targeted.)

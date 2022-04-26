@@ -1,0 +1,13 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Two-Headed Dragon,6.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,PJJT,4,4,None,Flying\nMenace (This creature can't be blocked except by two or more creatures.)\nTwo-Headed Dragon can block an additional creature each combat.\n{1}{R}: Two-Headed Dragon gets +2/+0 until end of turn.
+Shard Phoenix,5.0,['Red'],['R'],None,['Creature'],['Phoenix'],Rare,PJJT,2,2,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\nSacrifice Shard Phoenix: It deals 2 damage to each creature without flying.\n{R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate only during your upkeep.
+Slith Firewalker,2.0,['Red'],['R'],None,['Creature'],['Slith'],Rare,PJJT,1,1,None,"Haste\nWhenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it."
+Volcanic Hammer,2.0,['Red'],['R'],None,['Sorcery'],None,Rare,PJJT,None,None,None,Volcanic Hammer deals 3 damage to any target.
+Mad Auntie,3.0,['Black'],['B'],None,['Creature'],"['Goblin', 'Shaman']",Rare,PJJT,2,2,None,Other Goblin creatures you control get +1/+1.\n{T}: Regenerate another target Goblin.
+Whirling Dervish,2.0,['Green'],['G'],None,['Creature'],"['Human', 'Monk']",Rare,PJJT,1,1,None,"Protection from black\nAt the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it."
+Glorious Anthem,3.0,['White'],['W'],None,['Enchantment'],None,Rare,PJJT,None,None,None,Creatures you control get +1/+1.
+Soltari Priest,2.0,['White'],['W'],None,['Creature'],"['Soltari', 'Cleric']",Rare,PJJT,2,1,None,Protection from red\nShadow (This creature can block or be blocked by only creatures with shadow.)
+Elvish Champion,3.0,['Green'],['G'],None,['Creature'],['Elf'],Rare,PJJT,2,2,None,Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.)
+Giant Growth,1.0,['Green'],['G'],None,['Instant'],None,Rare,PJJT,None,None,None,Target creature gets +3/+3 until end of turn.
+Sakura-Tribe Elder,2.0,['Green'],['G'],None,['Creature'],"['Snake', 'Shaman']",Rare,PJJT,1,1,None,"Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+Royal Assassin,3.0,['Black'],['B'],None,['Creature'],"['Human', 'Assassin']",Rare,PJJT,1,1,None,{T}: Destroy target tapped creature.

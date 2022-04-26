@@ -1,0 +1,8 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Pyroclasm,2.0,['Red'],['R'],None,['Sorcery'],None,Rare,P06,None,None,None,Pyroclasm deals 2 damage to each creature.
+Putrefy,3.0,"['Black', 'Green']","['B', 'G']",None,['Instant'],None,Rare,P06,None,None,None,Destroy target artifact or creature. It can't be regenerated.
+Giant Growth,1.0,['Green'],['G'],None,['Instant'],None,Rare,P06,None,None,None,Target creature gets +3/+3 until end of turn.
+Lightning Helix,2.0,"['Red', 'White']","['R', 'W']",None,['Instant'],None,Rare,P06,None,None,None,Lightning Helix deals 3 damage to any target and you gain 3 life.
+Hinder,3.0,['Blue'],['U'],None,['Instant'],None,Rare,P06,None,None,None,"Counter target spell. If that spell is countered this way, put that card on the top or bottom of its owner's library instead of into that player's graveyard."
+Zombify,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,P06,None,None,None,Return target creature card from your graveyard to the battlefield.
+Hypnotic Specter,3.0,['Black'],['B'],None,['Creature'],['Specter'],Rare,P06,2,2,None,"Flying\nWhenever Hypnotic Specter deals damage to an opponent, that player discards a card at random."

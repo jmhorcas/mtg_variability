@@ -1,0 +1,3 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Sudden Shock,2.0,['Red'],['R'],None,['Instant'],None,Rare,PTSP,None,None,None,"Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nSudden Shock deals 2 damage to any target."
+Lotus Bloom,0.0,None,None,None,['Artifact'],None,Rare,PTSP,None,None,None,"Suspend 3—{0} (Rather than cast this card from your hand, pay {0} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)\n{T}, Sacrifice Lotus Bloom: Add three mana of any one color."

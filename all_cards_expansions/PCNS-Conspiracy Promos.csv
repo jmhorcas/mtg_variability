@@ -1,0 +1,2 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Magister of Worth,6.0,"['Black', 'White']","['B', 'W']",None,['Creature'],['Angel'],Rare,PCNS,4,4,None,"Flying\nWill of the council — When Magister of Worth enters the battlefield, starting with you, each player votes for grace or condemnation. If grace gets more votes, each player returns each creature card from their graveyard to the battlefield. If condemnation gets more votes or the vote is tied, destroy all creatures other than Magister of Worth."

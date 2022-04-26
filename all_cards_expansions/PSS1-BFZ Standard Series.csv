@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Prairie Stream,0.0,None,"['U', 'W']",None,['Land'],"['Plains', 'Island']",Rare,PSS1,None,None,None,({T}: Add {W} or {U}.)\nPrairie Stream enters the battlefield tapped unless you control two or more basic lands.
+Sunken Hollow,0.0,None,"['B', 'U']",None,['Land'],"['Island', 'Swamp']",Rare,PSS1,None,None,None,({T}: Add {U} or {B}.)\nSunken Hollow enters the battlefield tapped unless you control two or more basic lands.
+Canopy Vista,0.0,None,"['G', 'W']",None,['Land'],"['Forest', 'Plains']",Rare,PSS1,None,None,None,({T}: Add {G} or {W}.)\nCanopy Vista enters the battlefield tapped unless you control two or more basic lands.
+Cinder Glade,0.0,None,"['G', 'R']",None,['Land'],"['Mountain', 'Forest']",Rare,PSS1,None,None,None,({T}: Add {R} or {G}.)\nCinder Glade enters the battlefield tapped unless you control two or more basic lands.
+Smoldering Marsh,0.0,None,"['B', 'R']",None,['Land'],"['Swamp', 'Mountain']",Rare,PSS1,None,None,None,({T}: Add {B} or {R}.)\nSmoldering Marsh enters the battlefield tapped unless you control two or more basic lands.

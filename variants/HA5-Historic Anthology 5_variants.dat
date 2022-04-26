@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 7.0, 8.0, 9.0, 10.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Legendary'}
+Types: {'Enchantment', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Praetor', 'Imp', 'Rogue', 'Artificer', 'Homunculus', 'Human', 'Phyrexian', 'Merfolk'}
+Rarity: {'Rare', 'Common', 'Mythic', 'Uncommon'}
+Power: {'4', '7', '5', '1', '2', '6'}
+Toughness: {'4', '7', '1', '2', '6'}
+Loyalty: set()

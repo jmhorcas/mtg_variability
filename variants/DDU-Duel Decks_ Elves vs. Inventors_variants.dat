@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
+Colors: {'Red', 'Green', 'Blue'}
+ColorIdentity: {'R', 'G', 'U'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Myr', 'Druid', 'Elemental', 'Vedalken', 'Island', 'Faerie', 'Thopter', 'Equipment', 'Mountain', 'Ally', 'Construct', 'Archer', 'Mutant', 'Boar', 'Knight', 'Human', 'Beast', 'Ogre', 'Phyrexian', 'Shaman', 'Warrior', 'Forest', 'Elf', 'Wizard', 'Rogue', 'Artificer', 'Fox', 'Goblin', 'Golem'}
+Rarity: {'Uncommon', 'Common', 'Rare', 'Mythic'}
+Power: {'4', '5', '1', '*', '2', '3', '6'}
+Toughness: {'4', '7', '5', '1', '*', '2', '3', '6'}
+Loyalty: set()

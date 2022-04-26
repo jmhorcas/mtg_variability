@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Rare,PPP1,None,None,None,({T}: Add {U}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Rare,PPP1,None,None,None,({T}: Add {W}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Rare,PPP1,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Rare,PPP1,None,None,None,({T}: Add {R}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Rare,PPP1,None,None,None,({T}: Add {B}.)

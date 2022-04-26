@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0, 11.0, 12.0, 15.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Tribal', 'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Druid', 'Avatar', 'Elemental', 'Island', 'Scout', 'Lizard', 'Shade', 'Kor', 'Assassin', 'Basilisk', 'Zombie', 'Vampire', 'Gideon', 'Horror', 'Equipment', 'Bat', 'Mountain', 'Scorpion', 'Construct', 'Angel', 'Demon', 'Imp', 'Boar', 'Human', 'Knight', 'Cleric', 'Minotaur', 'Merfolk', 'Dog', 'Beast', 'Eldrazi', 'Frog', 'Shapeshifter', 'Jellyfish', 'Ogre', 'Giant', 'Plains', 'Spider', 'Sarkhan', 'Drake', 'Monk', 'Spirit', 'Griffin', 'Wall', 'Antelope', 'Hydra', 'Shaman', 'Warrior', 'Drone', 'Wurm', 'Swamp', 'Manticore', 'Forest', 'Soldier', 'Skeleton', 'Insect', 'Wizard', 'Sphinx', 'Illusion', 'Elf', 'Surrakar', 'Rogue', 'Berserker', 'Goblin', 'Golem', 'Crab', 'Aura'}
+Rarity: {'Common', 'Rare', 'Uncommon', 'Mythic'}
+Power: {'4', '11', '7', '5', '12', '1', '8', '*', '2', '9', '0', '15', '3', '6', '10'}
+Toughness: {'4', '11', '7', '5', '12', '1', '8', '2', '9', '15', '3', '6', '10'}
+Loyalty: {'6', '7'}

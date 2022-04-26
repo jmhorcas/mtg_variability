@@ -1,0 +1,10 @@
+CMC: {5.0}
+Colors: {'Black'}
+ColorIdentity: {'B'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Spirit'}
+Rarity: {'Rare'}
+Power: {'*'}
+Toughness: {'*'}
+Loyalty: set()

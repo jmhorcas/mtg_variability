@@ -1,0 +1,11 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Spawn of Thraxes,7.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,PJOU,5,5,None,"Flying\nWhen Spawn of Thraxes enters the battlefield, it deals damage to any target equal to the number of Mountains you control."
+Dictate of the Twin Gods,5.0,['Red'],['R'],None,['Enchantment'],None,Rare,PJOU,None,None,None,"Flash\nIf a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
+Eidolon of Blossoms,4.0,['Green'],['G'],None,"['Enchantment', 'Creature']",['Spirit'],Rare,PJOU,2,2,None,"Constellation — Whenever Eidolon of Blossoms or another enchantment enters the battlefield under your control, draw a card."
+Dawnbringer Charioteers,4.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,PJOU,2,4,None,"Flying, lifelink\nHeroic — Whenever you cast a spell that targets Dawnbringer Charioteers, put a +1/+1 counter on Dawnbringer Charioteers."
+Squelching Leeches,4.0,['Black'],['B'],None,['Creature'],['Leech'],Uncommon,PJOU,*,*,None,Squelching Leeches's power and toughness are each equal to the number of Swamps you control.
+Heroes' Bane,5.0,['Green'],['G'],None,['Creature'],['Hydra'],Rare,PJOU,0,0,None,"Heroes' Bane enters the battlefield with four +1/+1 counters on it.\n{2}{G}{G}: Put X +1/+1 counters on Heroes' Bane, where X is its power."
+Doomwake Giant,5.0,['Black'],['B'],None,"['Enchantment', 'Creature']",['Giant'],Rare,PJOU,4,6,None,"Constellation — Whenever Doomwake Giant or another enchantment enters the battlefield under your control, creatures your opponents control get -1/-1 until end of turn."
+Dictate of Kruphix,3.0,['Blue'],['U'],None,['Enchantment'],None,Rare,PJOU,None,None,None,"Flash\nAt the beginning of each player's draw step, that player draws an additional card."
+Scourge of Fleets,7.0,['Blue'],['U'],None,['Creature'],['Kraken'],Rare,PJOU,6,6,None,"When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner's hand, where X is the number of Islands you control."
+Hall of Triumph,3.0,None,None,['Legendary'],['Artifact'],None,Rare,PJOU,None,None,None,"As Hall of Triumph enters the battlefield, choose a color.\nCreatures you control of the chosen color get +1/+1."

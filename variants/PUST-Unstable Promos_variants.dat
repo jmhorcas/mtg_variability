@@ -1,0 +1,10 @@
+CMC: {6.0}
+Colors: {'Green'}
+ColorIdentity: {'G'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Advisor', 'Squirrel', 'Noble'}
+Rarity: {'Rare'}
+Power: {'4'}
+Toughness: {'4'}
+Loyalty: set()

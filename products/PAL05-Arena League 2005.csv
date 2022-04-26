@@ -1,0 +1,9 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Genju of the Spires,1.0,['Red'],['R'],None,['Enchantment'],['Aura'],Rare,PAL05,None,None,None,"Enchant Mountain\n{2}: Enchanted Mountain becomes a 6/1 red Spirit creature until end of turn. It's still a land.\nWhen enchanted Mountain is put into a graveyard, you may return Genju of the Spires from your graveyard to your hand."
+Okina Nightwatch,5.0,['Green'],['G'],None,['Creature'],"['Human', 'Monk']",Rare,PAL05,4,3,None,"As long as you have more cards in hand than each opponent, Okina Nightwatch gets +3/+3."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Rare,PAL05,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Rare,PAL05,None,None,None,({T}: Add {R}.)
+Skyknight Legionnaire,3.0,"['Red', 'White']","['R', 'W']",None,['Creature'],"['Human', 'Knight']",Rare,PAL05,2,2,None,"Flying, haste"
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Rare,PAL05,None,None,None,({T}: Add {W}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Rare,PAL05,None,None,None,({T}: Add {U}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Rare,PAL05,None,None,None,({T}: Add {B}.)

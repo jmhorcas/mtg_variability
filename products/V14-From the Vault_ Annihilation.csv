@@ -1,0 +1,16 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Decree of Annihilation,10.0,['Red'],['R'],None,['Sorcery'],None,Mythic,V14,None,None,None,"Exile all artifacts, creatures, and lands from the battlefield, all cards from all graveyards, and all cards from all hands.\nCycling {5}{R}{R} ({5}{R}{R}, Discard this card: Draw a card.)\nWhen you cycle Decree of Annihilation, destroy all lands."
+Child of Alara,5.0,"['Black', 'Green', 'Red', 'Blue', 'White']","['B', 'G', 'R', 'U', 'W']",['Legendary'],['Creature'],['Avatar'],Mythic,V14,6,6,None,"Trample\nWhen Child of Alara dies, destroy all nonland permanents. They can't be regenerated."
+Wrath of God,4.0,['White'],['W'],None,['Sorcery'],None,Mythic,V14,None,None,None,Destroy all creatures. They can't be regenerated.
+Firespout,3.0,"['Green', 'Red']","['G', 'R']",None,['Sorcery'],None,Mythic,V14,None,None,None,Firespout deals 3 damage to each creature without flying if {R} was spent to cast this spell and 3 damage to each creature with flying if {G} was spent to cast this spell. (Do both if {R}{G} was spent.)
+Armageddon,4.0,['White'],['W'],None,['Sorcery'],None,Mythic,V14,None,None,None,Destroy all lands.
+Cataclysm,4.0,['White'],['W'],None,['Sorcery'],None,Mythic,V14,None,None,None,"Each player chooses from among the permanents they control an artifact, a creature, an enchantment, and a land, then sacrifices the rest."
+Smokestack,4.0,None,None,None,['Artifact'],None,Mythic,V14,None,None,None,"At the beginning of your upkeep, you may put a soot counter on Smokestack.\nAt the beginning of each player's upkeep, that player sacrifices a permanent for each soot counter on Smokestack."
+Terminus,6.0,['White'],['W'],None,['Sorcery'],None,Mythic,V14,None,None,None,Put all creatures on the bottom of their owners' libraries.\nMiracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
+Upheaval,6.0,['Blue'],['U'],None,['Sorcery'],None,Mythic,V14,None,None,None,Return all permanents to their owners' hands.
+Virtue's Ruin,3.0,['Black'],['B'],None,['Sorcery'],None,Mythic,V14,None,None,None,Destroy all white creatures.
+Fracturing Gust,5.0,"['Green', 'White']","['G', 'W']",None,['Instant'],None,Mythic,V14,None,None,None,Destroy all artifacts and enchantments. You gain 2 life for each permanent destroyed this way.
+Martial Coup,2.0,['White'],['W'],None,['Sorcery'],None,Mythic,V14,None,None,None,"Create X 1/1 white Soldier creature tokens. If X is 5 or more, destroy all other creatures."
+Rolling Earthquake,1.0,['Red'],['R'],None,['Sorcery'],None,Mythic,V14,None,None,None,Rolling Earthquake deals X damage to each creature without horsemanship and each player.
+Living Death,5.0,['Black'],['B'],None,['Sorcery'],None,Mythic,V14,None,None,None,"Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield."
+Burning of Xinye,6.0,['Red'],['R'],None,['Sorcery'],None,Mythic,V14,None,None,None,"You destroy four lands you control, then target opponent destroys four lands they control. Then Burning of Xinye deals 4 damage to each creature."

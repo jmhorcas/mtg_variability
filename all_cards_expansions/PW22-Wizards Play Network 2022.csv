@@ -1,0 +1,4 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Consider,1.0,['Blue'],['U'],None,['Instant'],None,Rare,PW22,None,None,None,Look at the top card of your library. You may put that card into your graveyard.\nDraw a card.
+"Atsushi, the Blazing Sky",4.0,['Red'],['R'],['Legendary'],['Creature'],"['Dragon', 'Spirit']",Mythic,PW22,4,4,None,"Flying, trample\nWhen Atsushi, the Blazing Sky dies, choose one —\n• Exile the top two cards of your library. Until the end of your next turn, you may play those cards.\n• Create three Treasure tokens."
+Fateful Absence,2.0,['White'],['W'],None,['Instant'],None,Rare,PW22,None,None,None,"Destroy target creature or planeswalker. Its controller investigates. (They create a colorless Clue artifact token with ""{2}, Sacrifice this artifact: Draw a card."")"

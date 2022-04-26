@@ -1,0 +1,4 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Gaea's Cradle,0.0,None,['G'],['Legendary'],['Land'],None,Rare,JGP,None,None,None,{T}: Add {G} for each creature you control.
+Stroke of Genius,3.0,['Blue'],['U'],None,['Instant'],None,Rare,JGP,None,None,None,Target player draws X cards.
+Lightning Bolt,1.0,['Red'],['R'],None,['Instant'],None,Rare,JGP,None,None,None,Lightning Bolt deals 3 damage to any target.

@@ -1,0 +1,2 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Overtaker,2.0,['Blue'],['U'],None,['Creature'],"['Merfolk', 'Spellshaper']",Rare,PMMQ,1,1,None,"{3}{U}, {T}, Discard a card: Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn."

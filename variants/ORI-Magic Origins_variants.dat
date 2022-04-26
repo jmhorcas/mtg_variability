@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 9.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
+Subtypes: {'Druid', 'Elemental', 'Vedalken', 'Island', 'Pegasus', 'Lizard', 'Scout', 'Horse', 'Assassin', 'Faerie', 'Hellion', 'Zombie', 'Cat', 'Vampire', 'Equipment', 'Dragon', 'Mountain', 'Horror', 'Fish', 'Construct', 'Angel', 'Demon', 'Archer', 'Imp', 'Wolf', 'Nightmare', 'Slug', 'Boar', 'Human', 'Cleric', 'Djinn', 'Knight', 'Dog', 'Merfolk', 'Beast', 'Giant', 'Rhino', 'Plains', 'Spider', 'Drake', 'Monk', 'Starfish', 'Spirit', 'Unicorn', 'Griffin', 'Wall', 'Chimera', 'Serpent', 'Ox', 'Antelope', 'Shaman', 'Hydra', 'Warrior', 'Swamp', 'Wurm', 'Forest', 'Soldier', 'Elf', 'Centaur', 'Wizard', 'Insect', 'Illusion', 'Sphinx', 'Rogue', 'Berserker', 'Artificer', 'Bird', 'Goblin', 'Golem', 'Troll', 'Dryad', 'Juggernaut', 'Aura'}
+Rarity: {'Common', 'Rare', 'Uncommon', 'Mythic'}
+Power: {'4', '7', '5', '1', '*', '8', '2', '0', '3', '6'}
+Toughness: {'4', '7', '5', '1', '*', '8', '2', '9', '0', '3', '6'}
+Loyalty: set()

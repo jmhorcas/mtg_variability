@@ -1,0 +1,63 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Fallen Angel,5.0,['Black'],['B'],None,['Creature'],['Angel'],Uncommon,DVD,3,3,None,Flying\nSacrifice a creature: Fallen Angel gets +2/+1 until end of turn.
+Cackling Imp,4.0,['Black'],['B'],None,['Creature'],['Imp'],Common,DVD,2,2,None,Flying\n{T}: Target player loses 1 life.
+Abyssal Specter,4.0,['Black'],['B'],None,['Creature'],['Specter'],Uncommon,DVD,2,3,None,"Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card."
+Souldrinker,4.0,['Black'],['B'],None,['Creature'],['Spirit'],Uncommon,DVD,2,2,None,Pay 3 life: Put a +1/+1 counter on Souldrinker.
+Serra Advocate,4.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,DVD,2,2,None,Flying\n{T}: Target attacking or blocking creature gets +2/+2 until end of turn.
+Demon's Jester,4.0,['Black'],['B'],None,['Creature'],['Imp'],Common,DVD,2,2,None,Flying\nHellbent — Demon's Jester gets +2/+1 as long as you have no cards in hand.
+Angelic Protector,4.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,DVD,2,2,None,"Flying\nWhenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn."
+Soot Imp,3.0,['Black'],['B'],None,['Creature'],['Imp'],Uncommon,DVD,1,2,None,"Flying\nWhenever a player casts a nonblack spell, that player loses 1 life."
+Stinkweed Imp,3.0,['Black'],['B'],None,['Creature'],['Imp'],Common,DVD,1,2,None,"Flying\nWhenever Stinkweed Imp deals combat damage to a creature, destroy that creature.\nDredge 5 (If you would draw a card, you may mill five cards instead. If you do, return this card from your graveyard to your hand.)"
+Overeager Apprentice,3.0,['Black'],['B'],None,['Creature'],"['Human', 'Minion']",Common,DVD,1,2,None,"Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B}."
+Dusk Imp,3.0,['Black'],['B'],None,['Creature'],['Imp'],Common,DVD,2,1,None,Flying
+Icatian Priest,1.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Uncommon,DVD,1,1,None,{1}{W}{W}: Target creature gets +1/+1 until end of turn.
+Daggerclaw Imp,3.0,['Black'],['B'],None,['Creature'],['Imp'],Uncommon,DVD,3,1,None,Flying\nDaggerclaw Imp can't block.
+"Akroma, Angel of Wrath",8.0,['White'],['W'],['Legendary'],['Creature'],['Angel'],Mythic,DVD,6,6,None,"Flying, first strike, vigilance, trample, haste, protection from black and from red"
+Foul Imp,2.0,['Black'],['B'],None,['Creature'],['Imp'],Common,DVD,2,2,None,"Flying\nWhen Foul Imp enters the battlefield, you lose 2 life."
+Venerable Monk,3.0,['White'],['W'],None,['Creature'],"['Human', 'Monk', 'Cleric']",Common,DVD,2,2,None,"When Venerable Monk enters the battlefield, you gain 2 life."
+Abyssal Gatekeeper,2.0,['Black'],['B'],None,['Creature'],['Horror'],Common,DVD,1,1,None,"When Abyssal Gatekeeper dies, each player sacrifices a creature."
+Charging Paladin,3.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Common,DVD,2,2,None,"Whenever Charging Paladin attacks, it gets +0/+3 until end of turn."
+Lord of the Pit,7.0,['Black'],['B'],None,['Creature'],['Demon'],Mythic,DVD,7,7,None,"Flying, trample\nAt the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you."
+Angelic Page,2.0,['White'],['W'],None,['Creature'],"['Angel', 'Spirit']",Common,DVD,1,1,None,Flying\n{T}: Target attacking or blocking creature gets +1/+1 until end of turn.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DVD,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DVD,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DVD,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DVD,None,None,None,({T}: Add {W}.)
+Secluded Steppe,0.0,None,['W'],None,['Land'],None,Common,DVD,None,None,None,"Secluded Steppe enters the battlefield tapped.\n{T}: Add {W}.\nCycling {W} ({W}, Discard this card: Draw a card.)"
+Marble Diamond,2.0,None,['W'],None,['Artifact'],None,Uncommon,DVD,None,None,None,Marble Diamond enters the battlefield tapped.\n{T}: Add {W}.
+Angel's Feather,2.0,None,None,None,['Artifact'],None,Uncommon,DVD,None,None,None,"Whenever a player casts a white spell, you may gain 1 life."
+Righteous Cause,5.0,['White'],['W'],None,['Enchantment'],None,Uncommon,DVD,None,None,None,"Whenever a creature attacks, you gain 1 life."
+Serra's Embrace,4.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,DVD,None,None,None,Enchant creature\nEnchanted creature gets +2/+2 and has flying and vigilance.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,DVD,None,None,None,({T}: Add {B}.)
+Faith's Fetters,4.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,DVD,None,None,None,"Enchant permanent\nWhen Faith's Fetters enters the battlefield, you gain 4 life.\nEnchanted permanent can't attack or block, and its activated abilities can't be activated unless they're mana abilities."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,DVD,None,None,None,({T}: Add {B}.)
+Angelic Benediction,4.0,['White'],['W'],None,['Enchantment'],None,Uncommon,DVD,None,None,None,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhenever a creature you control attacks alone, you may tap target creature."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,DVD,None,None,None,({T}: Add {B}.)
+Serra's Boon,3.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,DVD,None,None,None,"Enchant creature\nEnchanted creature gets +1/+2 as long as it's white. Otherwise, it gets -2/-1."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,DVD,None,None,None,({T}: Add {B}.)
+Sustainer of the Realm,4.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,DVD,2,3,None,"Flying\nWhenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn."
+Barren Moor,0.0,None,['B'],None,['Land'],None,Common,DVD,None,None,None,"Barren Moor enters the battlefield tapped.\n{T}: Add {B}.\nCycling {B} ({B}, Discard this card: Draw a card.)"
+Healing Salve,1.0,['White'],['W'],None,['Instant'],None,Common,DVD,None,None,None,Choose one —\n• Target player gains 3 life.\n• Prevent the next 3 damage that would be dealt to any target this turn.
+Demon's Horn,2.0,None,None,None,['Artifact'],None,Uncommon,DVD,None,None,None,"Whenever a player casts a black spell, you may gain 1 life."
+Otherworldly Journey,2.0,['White'],['W'],None,['Instant'],['Arcane'],Uncommon,DVD,None,None,None,"Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it."
+Consume Spirit,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,DVD,None,None,None,Spend only black mana on X.\nConsume Spirit deals X damage to any target and you gain X life.
+Pacifism,2.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,DVD,None,None,None,Enchant creature\nEnchanted creature can't attack or block.
+Corrupt,6.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,DVD,None,None,None,Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.
+Angelsong,2.0,['White'],['W'],None,['Instant'],None,Common,DVD,None,None,None,"Prevent all combat damage that would be dealt this turn.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Promise of Power,5.0,['Black'],['B'],None,['Sorcery'],None,Rare,DVD,None,None,None,"Choose one —\n• You draw five cards and you lose 5 life.\n• Create an X/X black Demon creature token with flying, where X is the number of cards in your hand.\nEntwine {4} (Choose both if you pay the entwine cost.)"
+Reya Dawnbringer,9.0,['White'],['W'],['Legendary'],['Creature'],['Angel'],Rare,DVD,4,6,None,"Flying\nAt the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield."
+Breeding Pit,4.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,DVD,None,None,None,"At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}.\nAt the beginning of your end step, create a 0/1 black Thrull creature token."
+Luminous Angel,7.0,['White'],['W'],None,['Creature'],['Angel'],Rare,DVD,4,4,None,"Flying\nAt the beginning of your upkeep, you may create a 1/1 white Spirit creature token with flying."
+Barter in Blood,4.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,DVD,None,None,None,Each player sacrifices two creatures.
+Twilight Shepherd,6.0,['White'],['W'],None,['Creature'],['Angel'],Rare,DVD,5,5,None,"Flying, vigilance\nWhen Twilight Shepherd enters the battlefield, return to your hand all cards in your graveyard that were put there from the battlefield this turn.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)"
+Oni Possession,3.0,['Black'],['B'],None,['Enchantment'],['Aura'],Uncommon,DVD,None,None,None,"Enchant creature\nAt the beginning of your upkeep, sacrifice a creature.\nEnchanted creature gets +3/+3 and has trample.\nEnchanted creature is a Demon Spirit."
+Angel of Mercy,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,DVD,3,3,None,"Flying\nWhen Angel of Mercy enters the battlefield, you gain 3 life."
+Dark Banishing,3.0,['Black'],['B'],None,['Instant'],None,Common,DVD,None,None,None,Destroy target nonblack creature. It can't be regenerated.
+Demonic Tutor,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,DVD,None,None,None,"Search your library for a card, put that card into your hand, then shuffle."
+Cruel Edict,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,DVD,None,None,None,Target opponent sacrifices a creature.
+Unholy Strength,1.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,DVD,None,None,None,Enchant creature\nEnchanted creature gets +2/+1.
+Duress,1.0,['Black'],['B'],None,['Sorcery'],None,Common,DVD,None,None,None,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+Dark Ritual,1.0,['Black'],['B'],None,['Instant'],None,Common,DVD,None,None,None,Add {B}{B}{B}.
+Serra Angel,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,DVD,4,4,None,"Flying, vigilance"
+"Kuro, Pitlord",9.0,['Black'],['B'],['Legendary'],['Creature'],"['Demon', 'Spirit']",Rare,DVD,9,9,None,"At the beginning of your upkeep, sacrifice Kuro, Pitlord unless you pay {B}{B}{B}{B}.\nPay 1 life: Target creature gets -1/-1 until end of turn."
+Reiver Demon,8.0,['Black'],['B'],None,['Creature'],['Demon'],Rare,DVD,6,6,None,"Flying\nWhen Reiver Demon enters the battlefield, if you cast it from your hand, destroy all nonartifact, nonblack creatures. They can't be regenerated."

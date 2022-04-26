@@ -1,0 +1,3 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Demigod of Revenge,5.0,"['Black', 'Red']","['B', 'R']",None,['Creature'],"['Spirit', 'Avatar']",Rare,PSHM,5,4,None,"When you cast this spell, return all cards named Demigod of Revenge from your graveyard to the battlefield.\nFlying, haste"
+Vexing Shusher,2.0,"['Green', 'Red']","['G', 'R']",None,['Creature'],"['Goblin', 'Shaman']",Rare,PSHM,2,2,None,This spell can't be countered.\n{R/G}: Target spell can't be countered.

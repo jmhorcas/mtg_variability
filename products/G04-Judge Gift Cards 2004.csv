@@ -1,0 +1,7 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Armageddon,4.0,['White'],['W'],None,['Sorcery'],None,Rare,G04,None,None,None,Destroy all lands.
+Time Warp,5.0,['Blue'],['U'],None,['Sorcery'],None,Rare,G04,None,None,None,Target player takes an extra turn after this one.
+Balance,2.0,['White'],['W'],None,['Sorcery'],None,Rare,G04,None,None,None,"Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way."
+Phyrexian Negator,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Horror']",Rare,G04,5,5,None,"Trample\nWhenever Phyrexian Negator is dealt damage, sacrifice that many permanents."
+Hermit Druid,2.0,['Green'],['G'],None,['Creature'],"['Human', 'Druid']",Rare,G04,1,1,None,"{G}, {T}: Reveal cards from the top of your library until you reveal a basic land card. Put that card into your hand and all other cards revealed this way into your graveyard."
+Deranged Hermit,5.0,['Green'],['G'],None,['Creature'],['Elf'],Rare,G04,1,1,None,"Echo {3}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Deranged Hermit enters the battlefield, create four 1/1 green Squirrel creature tokens.\nSquirrel creatures get +1/+1."

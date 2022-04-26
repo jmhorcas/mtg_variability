@@ -1,0 +1,13 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Duress,1.0,['Black'],['B'],None,['Sorcery'],None,Rare,F05,None,None,None,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+Kird Ape,1.0,['Red'],['R'],None,['Creature'],['Ape'],Rare,F05,1,1,None,Kird Ape gets +1/+2 as long as you control a Forest.
+Circle of Protection: Red,2.0,['White'],['W'],None,['Enchantment'],None,Rare,F05,None,None,None,"{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage."
+Flametongue Kavu,4.0,['Red'],['R'],None,['Creature'],['Kavu'],Rare,F05,4,2,None,"When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature."
+Seal of Cleansing,2.0,['White'],['W'],None,['Enchantment'],None,Rare,F05,None,None,None,Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.
+Icy Manipulator,4.0,None,None,None,['Artifact'],None,Rare,F05,None,None,None,"{1}, {T}: Tap target artifact, creature, or land."
+Juggernaut,4.0,None,None,None,"['Artifact', 'Creature']",['Juggernaut'],Rare,F05,5,3,None,Juggernaut attacks each combat if able.\nJuggernaut can't be blocked by Walls.
+Rancor,1.0,['Green'],['G'],None,['Enchantment'],['Aura'],Rare,F05,None,None,None,"Enchant creature\nEnchanted creature gets +2/+0 and has trample.\nWhen Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand."
+Cabal Therapy,1.0,['Black'],['B'],None,['Sorcery'],None,Rare,F05,None,None,None,Choose a nonland card name. Target player reveals their hand and discards all cards with that name.\nFlashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Blastoderm,4.0,['Green'],['G'],None,['Creature'],['Beast'],Rare,F05,5,5,None,"Shroud (This creature can't be the target of spells or abilities.)\nFading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)"
+Fact or Fiction,4.0,['Blue'],['U'],None,['Instant'],None,Rare,F05,None,None,None,Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+Counterspell,2.0,['Blue'],['U'],None,['Instant'],None,Rare,F05,None,None,None,Counter target spell.

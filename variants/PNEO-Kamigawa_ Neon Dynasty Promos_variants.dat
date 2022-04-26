@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 10.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
+Subtypes: {'Druid', 'Snake', 'Tezzeret', 'Egg', 'Advisor', 'Kaito', 'Lizard', 'Samurai', 'Cat', 'Rat', 'Equipment', 'Dragon', 'Moonfolk', 'Demon', 'Human', 'Praetor', 'Jellyfish', 'Ogre', 'Vehicle', 'Monk', 'Spirit', 'Kirin', 'Phyrexian', 'Shaman', 'Insect', 'Wizard', 'Artificer', 'Fox', 'Goblin', 'Tamiyo', 'Pilot', 'Ninja'}
+Rarity: {'Rare', 'Mythic'}
+Power: {'4', '5', '1', '2', '0', '3', '6'}
+Toughness: {'4', '5', '1', '2', '3', '6'}
+Loyalty: {'3', '4', '5'}

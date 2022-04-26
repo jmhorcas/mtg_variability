@@ -1,0 +1,10 @@
+CMC: {5.0}
+Colors: {'Black'}
+ColorIdentity: {'B'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Vampire'}
+Rarity: {'Rare'}
+Power: {'3'}
+Toughness: {'4'}
+Loyalty: set()

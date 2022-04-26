@@ -1,0 +1,3 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Woolly Thoctar,3.0,"['Green', 'Red', 'White']","['G', 'R', 'W']",None,['Creature'],['Beast'],Rare,PWPN,5,4,None,None
+Sprouting Thrinax,3.0,"['Black', 'Green', 'Red']","['B', 'G', 'R']",None,['Creature'],['Lizard'],Rare,PWPN,3,3,None,"When Sprouting Thrinax dies, create three 1/1 green Saproling creature tokens."

@@ -1,0 +1,2 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Helm of Kaldra,3.0,None,None,['Legendary'],['Artifact'],['Equipment'],Rare,P5DN,None,None,None,"Equipped creature has first strike, trample, and haste.\n{1}: If you control Equipment named Helm of Kaldra, Sword of Kaldra, and Shield of Kaldra, create Kaldra, a legendary 4/4 colorless Avatar creature token. Attach those Equipment to it.\nEquip {2}"

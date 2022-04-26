@@ -1,0 +1,9 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Merchant Scroll,2.0,['Blue'],['U'],None,['Sorcery'],None,Rare,J18,None,None,None,"Search your library for a blue instant card, reveal that card, put it into your hand, then shuffle."
+Teferi's Protection,3.0,['White'],['W'],None,['Instant'],None,Rare,J18,None,None,None,"Until your next turn, your life total can't change and you gain protection from everything. All permanents you control phase out. (While they're phased out, they're treated as though they don't exist. They phase in before you untap during your untap step.)\nExile Teferi's Protection."
+"Nin, the Pain Artist",2.0,"['Red', 'Blue']","['R', 'U']",['Legendary'],['Creature'],"['Vedalken', 'Wizard']",Rare,J18,1,1,None,"{X}{U}{R}, {T}: Nin, the Pain Artist deals X damage to target creature. That creature's controller draws X cards."
+Food Chain,3.0,['Green'],['G'],None,['Enchantment'],None,Rare,J18,None,None,None,"Exile a creature you control: Add X mana of any one color, where X is 1 plus the exiled creature's mana value. Spend this mana only to cast creature spells."
+Rhystic Study,3.0,['Blue'],['U'],None,['Enchantment'],None,Rare,J18,None,None,None,"Whenever an opponent casts a spell, you may draw a card unless that player pays {1}."
+Lord of Atlantis,2.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Rare,J18,2,2,None,Other Merfolk get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)
+Vampiric Tutor,1.0,['Black'],['B'],None,['Instant'],None,Rare,J18,None,None,None,"Search your library for a card, then shuffle and put that card on top. You lose 2 life."
+Commander's Sphere,3.0,None,None,None,['Artifact'],None,Rare,J18,None,None,None,{T}: Add one mana of any color in your commander's color identity.\nSacrifice Commander's Sphere: Draw a card.

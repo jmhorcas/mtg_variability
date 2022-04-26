@@ -1,0 +1,10 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Terminate,2.0,"['Black', 'Red']","['B', 'R']",None,['Instant'],None,Rare,P09,None,None,None,Destroy target creature. It can't be regenerated.
+Remove Soul,2.0,['Blue'],['U'],None,['Instant'],None,Rare,P09,None,None,None,Counter target creature spell.
+Unmake,3.0,"['Black', 'White']","['B', 'W']",None,['Instant'],None,Rare,P09,None,None,None,Exile target creature.
+Nameless Inversion,2.0,['Black'],['B'],None,"['Tribal', 'Instant']",['Shapeshifter'],Rare,P09,None,None,None,Changeling (This card is every creature type.)\nTarget creature gets +3/-3 and loses all creature types until end of turn.
+Blightning,3.0,"['Black', 'Red']","['B', 'R']",None,['Sorcery'],None,Rare,P09,None,None,None,Blightning deals 3 damage to target player or planeswalker. That player or that planeswalker's controller discards two cards.
+Rampant Growth,2.0,['Green'],['G'],None,['Sorcery'],None,Rare,P09,None,None,None,"Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+Negate,2.0,['Blue'],['U'],None,['Instant'],None,Rare,P09,None,None,None,Counter target noncreature spell.
+Flame Javelin,6.0,['Red'],['R'],None,['Instant'],None,Rare,P09,None,None,None,({2/R} can be paid with any two mana or with {R}. This card's mana value is 6.)\nFlame Javelin deals 4 damage to any target.
+Cryptic Command,4.0,['Blue'],['U'],None,['Instant'],None,Rare,P09,None,None,None,Choose two —\n• Counter target spell.\n• Return target permanent to its owner's hand.\n• Tap all creatures your opponents control.\n• Draw a card.

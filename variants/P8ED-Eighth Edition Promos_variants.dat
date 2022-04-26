@@ -1,0 +1,10 @@
+CMC: {4.0}
+Colors: {'Red'}
+ColorIdentity: {'R'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Egg', 'Bird'}
+Rarity: {'Rare'}
+Power: {'0'}
+Toughness: {'3'}
+Loyalty: set()

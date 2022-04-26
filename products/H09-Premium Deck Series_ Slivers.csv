@@ -1,0 +1,42 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Necrotic Sliver,3.0,"['Black', 'White']","['B', 'W']",None,['Creature'],['Sliver'],Uncommon,H09,2,2,None,"All Slivers have ""{3}, Sacrifice this permanent: Destroy target permanent."""
+Homing Sliver,3.0,['Red'],['R'],None,['Creature'],['Sliver'],Common,H09,2,2,None,"Each Sliver card in each player's hand has slivercycling {3}.\nSlivercycling {3} ({3}, Discard this card: Search your library for a Sliver card, reveal it, put it into your hand, then shuffle.)"
+Barbed Sliver,3.0,['Red'],['R'],None,['Creature'],['Sliver'],Uncommon,H09,2,2,None,"All Sliver creatures have ""{2}: This creature gets +1/+0 until end of turn."""
+Virulent Sliver,1.0,['Green'],['G'],None,['Creature'],['Sliver'],Common,H09,1,1,None,"All Sliver creatures have poisonous 1. (Whenever a Sliver deals combat damage to a player, that player gets a poison counter. A player with ten or more poison counters loses the game.)"
+Spined Sliver,2.0,"['Green', 'Red']","['G', 'R']",None,['Creature'],['Sliver'],Uncommon,H09,2,2,None,"Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it."
+Armor Sliver,3.0,['White'],['W'],None,['Creature'],['Sliver'],Uncommon,H09,2,2,None,"All Sliver creatures have ""{2}: This creature gets +0/+1 until end of turn."""
+Spectral Sliver,3.0,['Black'],['B'],None,['Creature'],"['Sliver', 'Spirit']",Uncommon,H09,2,2,None,"All Sliver creatures have ""{2}: This creature gets +1/+1 until end of turn."""
+Victual Sliver,2.0,"['Green', 'White']","['G', 'W']",None,['Creature'],['Sliver'],Uncommon,H09,2,2,None,"All Slivers have ""{2}, Sacrifice this permanent: You gain 4 life."""
+Acidic Sliver,2.0,"['Black', 'Red']","['B', 'R']",None,['Creature'],['Sliver'],Uncommon,H09,2,2,None,"All Slivers have ""{2}, Sacrifice this permanent: This permanent deals 2 damage to any target."""
+Hibernation Sliver,2.0,"['Black', 'Blue']","['B', 'U']",None,['Creature'],['Sliver'],Uncommon,H09,2,2,None,"All Slivers have ""Pay 2 life: Return this permanent to its owner's hand."""
+Crystalline Sliver,2.0,"['Blue', 'White']","['U', 'W']",None,['Creature'],['Sliver'],Uncommon,H09,2,2,None,All Slivers have shroud. (They can't be the targets of spells or abilities.)
+Heart Sliver,2.0,['Red'],['R'],None,['Creature'],['Sliver'],Common,H09,1,1,None,All Sliver creatures have haste.
+Quick Sliver,2.0,['Green'],['G'],None,['Creature'],['Sliver'],Common,H09,1,1,None,Flash\nAny player may cast Sliver spells as though they had flash.
+Muscle Sliver,2.0,['Green'],['G'],None,['Creature'],['Sliver'],Common,H09,1,1,None,All Sliver creatures get +1/+1.
+Gemhide Sliver,2.0,['Green'],['G'],None,['Creature'],['Sliver'],Common,H09,1,1,None,"All Slivers have ""{T}: Add one mana of any color."""
+Amoeboid Changeling,2.0,['Blue'],['U'],None,['Creature'],['Shapeshifter'],Common,H09,1,1,None,Changeling (This card is every creature type.)\n{T}: Target creature gains all creature types until end of turn.\n{T}: Target creature loses all creature types until end of turn.
+Metallic Sliver,1.0,None,None,None,"['Artifact', 'Creature']",['Sliver'],Common,H09,1,1,None,None
+Frenzy Sliver,2.0,['Black'],['B'],None,['Creature'],['Sliver'],Common,H09,1,1,None,"All Sliver creatures have frenzy 1. (Whenever a Sliver attacks and isn't blocked, it gets +1/+0 until end of turn.)"
+Clot Sliver,2.0,['Black'],['B'],None,['Creature'],['Sliver'],Common,H09,1,1,None,"All Slivers have ""{2}: Regenerate this permanent."""
+Winged Sliver,2.0,['Blue'],['U'],None,['Creature'],['Sliver'],Common,H09,1,1,None,All Sliver creatures have flying.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,H09,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,H09,None,None,None,({T}: Add {R}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,H09,None,None,None,({T}: Add {B}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,H09,None,None,None,({T}: Add {U}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,H09,None,None,None,({T}: Add {W}.)
+Vivid Grove,0.0,None,['G'],None,['Land'],None,Uncommon,H09,None,None,None,"Vivid Grove enters the battlefield tapped with two charge counters on it.\n{T}: Add {G}.\n{T}, Remove a charge counter from Vivid Grove: Add one mana of any color."
+Vivid Creek,0.0,None,['U'],None,['Land'],None,Uncommon,H09,None,None,None,"Vivid Creek enters the battlefield tapped with two charge counters on it.\n{T}: Add {U}.\n{T}, Remove a charge counter from Vivid Creek: Add one mana of any color."
+Terramorphic Expanse,0.0,None,None,None,['Land'],None,Common,H09,None,None,None,"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+Rupture Spire,0.0,None,None,None,['Land'],None,Common,H09,None,None,None,"Rupture Spire enters the battlefield tapped.\nWhen Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.\n{T}: Add one mana of any color."
+Rootbound Crag,0.0,None,"['G', 'R']",None,['Land'],None,Rare,H09,None,None,None,Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G}.
+Ancient Ziggurat,0.0,None,None,None,['Land'],None,Uncommon,H09,None,None,None,{T}: Add one mana of any color. Spend this mana only to cast a creature spell.
+Wild Pair,6.0,['Green'],['G'],None,['Enchantment'],None,Rare,H09,None,None,None,"Whenever a creature enters the battlefield, if you cast it from your hand, you may search your library for a creature card with the same total power and toughness, put it onto the battlefield, then shuffle."
+Coat of Arms,5.0,None,None,None,['Artifact'],None,Rare,H09,None,None,None,"Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)"
+Aphetto Dredging,4.0,['Black'],['B'],None,['Sorcery'],None,Common,H09,None,None,None,Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.
+Distant Melody,4.0,['Blue'],['U'],None,['Sorcery'],None,Common,H09,None,None,None,Choose a creature type. Draw a card for each permanent you control of that type.
+Heartstone,3.0,None,None,None,['Artifact'],None,Uncommon,H09,None,None,None,Activated abilities of creatures cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+Fury Sliver,6.0,['Red'],['R'],None,['Creature'],['Sliver'],Uncommon,H09,3,3,None,All Sliver creatures have double strike.
+Sliver Overlord,5.0,"['Black', 'Green', 'Red', 'Blue', 'White']","['B', 'G', 'R', 'U', 'W']",['Legendary'],['Creature'],"['Sliver', 'Mutant']",Mythic,H09,7,7,None,"{3}: Search your library for a Sliver card, reveal that card, put it into your hand, then shuffle.\n{3}: Gain control of target Sliver. (This effect lasts indefinitely.)"
+Might Sliver,5.0,['Green'],['G'],None,['Creature'],['Sliver'],Uncommon,H09,2,2,None,All Sliver creatures get +2/+2.
+Brood Sliver,5.0,['Green'],['G'],None,['Creature'],['Sliver'],Rare,H09,3,3,None,"Whenever a Sliver deals combat damage to a player, its controller may create a 1/1 colorless Sliver creature token."
+Fungus Sliver,4.0,['Green'],['G'],None,['Creature'],"['Fungus', 'Sliver']",Rare,H09,2,2,None,"All Sliver creatures have ""Whenever this creature is dealt damage, put a +1/+1 counter on it."" (It must survive the damage to get the counter.)"

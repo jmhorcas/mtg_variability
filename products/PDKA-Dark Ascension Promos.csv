@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Strangleroot Geist,2.0,['Green'],['G'],None,['Creature'],['Spirit'],Uncommon,PDKA,2,1,None,"Haste\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)"
+Gravecrawler,1.0,['Black'],['B'],None,['Creature'],['Zombie'],Rare,PDKA,2,1,None,Gravecrawler can't block.\nYou may cast Gravecrawler from your graveyard as long as you control a Zombie.
+Mondronen Shaman // Tovolar's Magehunter,4.0,['Red'],['R'],None,['Creature'],['Werewolf'],Rare,PDKA,5,5,None,"Whenever an opponent casts a spell, Tovolar's Magehunter deals 2 damage to that player.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar's Magehunter."
+Ravenous Demon // Archdemon of Greed,5.0,['Black'],['B'],None,['Creature'],['Demon'],Rare,PDKA,9,9,None,"Flying, trample\nAt the beginning of your upkeep, sacrifice a Human. If you can't, tap Archdemon of Greed and it deals 9 damage to you."
+Zombie Apocalypse,6.0,['Black'],['B'],None,['Sorcery'],None,Rare,PDKA,None,None,None,"Return all Zombie creature cards from your graveyard to the battlefield tapped, then destroy all Humans."

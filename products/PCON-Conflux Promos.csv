@@ -1,0 +1,3 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Obelisk of Alara,6.0,None,"['B', 'G', 'R', 'U', 'W']",None,['Artifact'],None,Rare,PCON,None,None,None,"{1}{W}, {T}: You gain 5 life.\n{1}{U}, {T}: Draw a card, then discard a card.\n{1}{B}, {T}: Target creature gets -2/-2 until end of turn.\n{1}{R}, {T}: Obelisk of Alara deals 3 damage to target player or planeswalker.\n{1}{G}, {T}: Target creature gets +4/+4 until end of turn."
+Malfegor,6.0,"['Black', 'Red']","['B', 'R']",['Legendary'],['Creature'],"['Demon', 'Dragon']",Rare,PCON,6,6,None,"Flying\nWhen Malfegor enters the battlefield, discard your hand. Each opponent sacrifices a creature for each card discarded this way."

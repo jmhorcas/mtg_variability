@@ -1,0 +1,26 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Saw in Half,3.0,['Black'],['B'],None,['Instant'],None,Rare,UNF,None,None,None,"Destroy target creature. If that creature dies this way, its controller creates two tokens that are copies of that creature, except their base power is half that creature's power and their base toughness is half that creature's toughness. Round up each time."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,UNF,None,None,None,({T}: Add {G}.)
+Hallowed Fountain,0.0,None,"['U', 'W']",None,['Land'],"['Plains', 'Island']",Rare,UNF,None,None,None,"({T}: Add {W} or {U}.)\nAs Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+Watery Grave,0.0,None,"['B', 'U']",None,['Land'],"['Island', 'Swamp']",Rare,UNF,None,None,None,"({T}: Add {U} or {B}.)\nAs Watery Grave enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,UNF,None,None,None,({T}: Add {R}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,UNF,None,None,None,({T}: Add {B}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,UNF,None,None,None,({T}: Add {U}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,UNF,None,None,None,({T}: Add {B}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,UNF,None,None,None,({T}: Add {W}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,UNF,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,UNF,None,None,None,({T}: Add {R}.)
+Killer Cosplay,1.0,['Green'],['G'],None,['Artifact'],['Equipment'],Mythic,UNF,None,None,None,"Whenever Killer Cosplay becomes attached to a creature, choose a creature card name with an identical mana cost. That creature becomes a copy of the card with the chosen name until Killer Cosplay becomes unattached from it.\nEquip {3}"
+Assembled Ensemble,5.0,['White'],['W'],None,"['Artifact', 'Creature']","['Clown', 'Robot', 'Bard']",Uncommon,UNF,*,6,None,"Vigilance\nAssembled Ensemble's power is equal to the number of Robots you control.\nWhenever you cast a spell with an artifact creature in its art, create a 1/1 white Clown Robot artifact creature token."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,UNF,None,None,None,({T}: Add {U}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,UNF,None,None,None,({T}: Add {W}.)
+The Space Family Goblinson,4.0,"['Green', 'Red']","['G', 'R']",['Legendary'],['Creature'],"['Goblin', 'Guest']",Uncommon,UNF,1,1,None,"The Space Family Goblinson has trample as long as you've rolled three or more dice this turn.\nWhenever you roll a die, put a +1/+1 counter on The Space Family Goblinson."
+Water Gun Balloon Game,2.0,None,None,None,['Artifact'],None,Rare,UNF,None,None,None,"As Water Gun Balloon Game enters the battlefield, each player puts a pop! counter on ""0.""\nWhenever a player casts a spell, move that player's pop! counter up one.\nWhenever a player's pop! counter hits ""5,"" that player creates a 5/5 pink Giant Teddy Bear creature token and resets all pop! counters to ""0."""
+Breeding Pool,0.0,None,"['G', 'U']",None,['Land'],"['Forest', 'Island']",Rare,UNF,None,None,None,"({T}: Add {G} or {U}.)\nAs Breeding Pool enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+Sacred Foundry,0.0,None,"['R', 'W']",None,['Land'],"['Mountain', 'Plains']",Rare,UNF,None,None,None,"({T}: Add {R} or {W}.)\nAs Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+Overgrown Tomb,0.0,None,"['B', 'G']",None,['Land'],"['Swamp', 'Forest']",Rare,UNF,None,None,None,"({T}: Add {B} or {G}.)\nAs Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+Steam Vents,0.0,None,"['R', 'U']",None,['Land'],"['Island', 'Mountain']",Rare,UNF,None,None,None,"({T}: Add {U} or {R}.)\nAs Steam Vents enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+Godless Shrine,0.0,None,"['B', 'W']",None,['Land'],"['Plains', 'Swamp']",Rare,UNF,None,None,None,"({T}: Add {W} or {B}.)\nAs Godless Shrine enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+Temple Garden,0.0,None,"['G', 'W']",None,['Land'],"['Forest', 'Plains']",Rare,UNF,None,None,None,"({T}: Add {G} or {W}.)\nAs Temple Garden enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+Stomping Ground,0.0,None,"['G', 'R']",None,['Land'],"['Mountain', 'Forest']",Rare,UNF,None,None,None,"({T}: Add {R} or {G}.)\nAs Stomping Ground enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+Blood Crypt,0.0,None,"['B', 'R']",None,['Land'],"['Swamp', 'Mountain']",Rare,UNF,None,None,None,"({T}: Add {B} or {R}.)\nAs Blood Crypt enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."

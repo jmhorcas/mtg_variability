@@ -1,0 +1,5 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Grim Lavamancer,1.0,['Red'],['R'],None,['Creature'],"['Human', 'Wizard']",Rare,G06,1,1,None,"{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to any target."
+Exalted Angel,6.0,['White'],['W'],None,['Creature'],['Angel'],Rare,G06,4,5,None,"Flying\nWhenever Exalted Angel deals damage, you gain that much life.\nMorph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)"
+Pernicious Deed,3.0,"['Black', 'Green']","['B', 'G']",None,['Enchantment'],None,Rare,G06,None,None,None,"{X}, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with mana value X or less."
+Meddling Mage,2.0,"['Blue', 'White']","['U', 'W']",None,['Creature'],"['Human', 'Wizard']",Rare,G06,2,2,None,"As Meddling Mage enters the battlefield, choose a nonland card name.\nSpells with the chosen name can't be cast."

@@ -1,0 +1,10 @@
+CMC: {1.0, 3.0}
+Colors: {'Red', 'Blue'}
+ColorIdentity: {'R', 'G', 'U'}
+Supertypes: {'Legendary'}
+Types: {'Instant', 'Land'}
+Subtypes: set()
+Rarity: {'Rare'}
+Power: set()
+Toughness: set()
+Loyalty: set()

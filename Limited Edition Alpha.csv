@@ -1,421 +1,421 @@
-"normal", "1.0", "['White']", "['W']", "None", "['Enchantment']", "['Aura']", "Rare", "None", "None", "Enchant Wall
+"Animate Wall", "1.0", "['White']", "['W']", "Rare", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant Wall
 Enchanted Wall can attack as though it didn't have defender."
-"normal", "4.0", "['White']", "['W']", "None", "['Sorcery']", "None", "Rare", "None", "None", "Destroy all lands."
-"normal", "2.0", "['White']", "['W']", "None", "['Sorcery']", "None", "Rare", "None", "None", "Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way."
-"normal", "1.0", "['White']", "['W']", "None", "['Creature']", "['Human', 'Soldier']", "Common", "1", "1", "Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
-"normal", "1.0", "['White']", "['W']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant creature
+"Armageddon", "4.0", "['White']", "['W']", "Rare", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Destroy all lands."
+"Balance", "2.0", "['White']", "['W']", "Rare", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way."
+"Benalish Hero", "1.0", "['White']", "['W']", "Common", "Creature — Human Soldier", "None", "['Creature']", "['Human', 'Soldier']", "1", "1", "Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
+"Black Ward", "1.0", "['White']", "['W']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 Enchanted creature has protection from black. This effect doesn't remove Black Ward."
-"normal", "1.0", "['White']", "['W']", "None", "['Instant']", "None", "Rare", "None", "None", "Cast this spell only during combat before blockers are declared.
+"Blaze of Glory", "1.0", "['White']", "['W']", "Rare", "Instant", "None", "['Instant']", "None", "None", "None", "Cast this spell only during combat before blockers are declared.
 Target creature defending player controls can block any number of creatures this turn. It blocks each attacking creature this turn if able."
-"normal", "2.0", "['White']", "['W']", "None", "['Enchantment']", "['Aura']", "Rare", "None", "None", "Enchant creature
+"Blessing", "2.0", "['White']", "['W']", "Rare", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 {W}: Enchanted creature gets +1/+1 until end of turn."
-"normal", "1.0", "['White']", "['W']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant creature
+"Blue Ward", "1.0", "['White']", "['W']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 Enchanted creature has protection from blue. This effect doesn't remove Blue Ward."
-"normal", "4.0", "['White']", "['W']", "None", "['Enchantment']", "None", "Uncommon", "None", "None", "Untapped creatures you control get +0/+2."
-"normal", "2.0", "['White']", "['W']", "None", "['Enchantment']", "None", "Common", "None", "None", "{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage."
-"normal", "2.0", "['White']", "['W']", "None", "['Enchantment']", "None", "Common", "None", "None", "{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage."
-"normal", "2.0", "['White']", "['W']", "None", "['Enchantment']", "None", "Common", "None", "None", "{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage."
-"normal", "2.0", "['White']", "['W']", "None", "['Enchantment']", "None", "Common", "None", "None", "{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage."
-"normal", "1.0", "['White']", "['W']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant land
+"Castle", "4.0", "['White']", "['W']", "Uncommon", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "Untapped creatures you control get +0/+2."
+"Circle of Protection: Blue", "2.0", "['White']", "['W']", "Common", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage."
+"Circle of Protection: Green", "2.0", "['White']", "['W']", "Common", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage."
+"Circle of Protection: Red", "2.0", "['White']", "['W']", "Common", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage."
+"Circle of Protection: White", "2.0", "['White']", "['W']", "Common", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage."
+"Consecrate Land", "1.0", "['White']", "['W']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant land
 Enchanted land has indestructible and can't be enchanted by other Auras."
-"normal", "4.0", "['White']", "['W']", "None", "['Enchantment']", "None", "Uncommon", "None", "None", "At the beginning of your upkeep, sacrifice Conversion unless you pay {W}{W}.
+"Conversion", "4.0", "['White']", "['W']", "Uncommon", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "At the beginning of your upkeep, sacrifice Conversion unless you pay {W}{W}.
 All Mountains are Plains."
-"normal", "2.0", "['White']", "['W']", "None", "['Enchantment']", "None", "Rare", "None", "None", "White creatures get +1/+1."
-"normal", "1.0", "['White']", "['W']", "None", "['Instant']", "None", "Common", "None", "None", "Regenerate target creature."
-"normal", "2.0", "['White']", "['W']", "None", "['Instant']", "None", "Common", "None", "None", "Destroy target artifact or enchantment."
-"normal", "3.0", "['White']", "['W']", "None", "['Enchantment']", "['Aura']", "Rare", "None", "None", "Enchant land
+"Crusade", "2.0", "['White']", "['W']", "Rare", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "White creatures get +1/+1."
+"Death Ward", "1.0", "['White']", "['W']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Regenerate target creature."
+"Disenchant", "2.0", "['White']", "['W']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Destroy target artifact or enchantment."
+"Farmstead", "3.0", "['White']", "['W']", "Rare", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant land
 Enchanted land has "At the beginning of your upkeep, you may pay {W}{W}. If you do, you gain 1 life.""
-"normal", "1.0", "['White']", "['W']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant creature
+"Green Ward", "1.0", "['White']", "['W']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 Enchanted creature has protection from green. This effect doesn't remove Green Ward."
-"normal", "1.0", "['White']", "['W']", "None", "['Instant']", "None", "Common", "None", "None", "Prevent the next X damage that would be dealt to any target this turn. Until end of turn, you may pay {1} any time you could cast an instant. If you do, prevent the next 1 damage that would be dealt to that permanent or player this turn."
-"normal", "1.0", "['White']", "['W']", "None", "['Instant']", "None", "Common", "None", "None", "Choose one —
+"Guardian Angel", "1.0", "['White']", "['W']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Prevent the next X damage that would be dealt to any target this turn. Until end of turn, you may pay {1} any time you could cast an instant. If you do, prevent the next 1 damage that would be dealt to that permanent or player this turn."
+"Healing Salve", "1.0", "['White']", "['W']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Choose one —
 • Target player gains 3 life.
 • Prevent the next 3 damage that would be dealt to any target this turn."
-"normal", "1.0", "['White']", "['W']", "None", "['Enchantment']", "['Aura']", "Common", "None", "None", "Enchant creature
+"Holy Armor", "1.0", "['White']", "['W']", "Common", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 Enchanted creature gets +0/+2.
 {W}: Enchanted creature gets +0/+1 until end of turn."
-"normal", "1.0", "['White']", "['W']", "None", "['Enchantment']", "['Aura']", "Common", "None", "None", "Enchant creature
+"Holy Strength", "1.0", "['White']", "['W']", "Common", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 Enchanted creature gets +1/+2."
-"normal", "2.0", "['White']", "['W']", "None", "['Enchantment']", "None", "Rare", "None", "None", "If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk."
-"normal", "4.0", "['White']", "['W']", "None", "['Enchantment']", "None", "Uncommon", "None", "None", "At the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps they control."
-"normal", "1.0", "['White']", "['W']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant creature
+"Island Sanctuary", "2.0", "['White']", "['W']", "Rare", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk."
+"Karma", "4.0", "['White']", "['W']", "Uncommon", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "At the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps they control."
+"Lance", "1.0", "['White']", "['W']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 Enchanted creature has first strike."
-"normal", "2.0", "['White']", "['W']", "None", "['Creature']", "['Pegasus']", "Common", "1", "1", "Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
-"normal", "4.0", "['White']", "['W']", "None", "['Creature']", "['Human', 'Knight']", "Rare", "3", "3", "{W}{W}, {T}: Destroy target black permanent."
-"normal", "3.0", "['White']", "['W']", "None", "['Creature']", "['Unicorn']", "Common", "2", "2", "None"
-"normal", "6.0", "['White']", "['W']", "None", "['Creature']", "['Avatar', 'Incarnation']", "Rare", "6", "6", "{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Only Personal Incarnation's owner may activate this ability.
+"Mesa Pegasus", "2.0", "['White']", "['W']", "Common", "Creature — Pegasus", "None", "['Creature']", "['Pegasus']", "1", "1", "Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
+"Northern Paladin", "4.0", "['White']", "['W']", "Rare", "Creature — Human Knight", "None", "['Creature']", "['Human', 'Knight']", "3", "3", "{W}{W}, {T}: Destroy target black permanent."
+"Pearled Unicorn", "3.0", "['White']", "['W']", "Common", "Creature — Unicorn", "None", "['Creature']", "['Unicorn']", "2", "2", "None"
+"Personal Incarnation", "6.0", "['White']", "['W']", "Rare", "Creature — Avatar Incarnation", "None", "['Creature']", "['Avatar', 'Incarnation']", "6", "6", "{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Only Personal Incarnation's owner may activate this ability.
 When Personal Incarnation dies, its owner loses half their life, rounded up."
-"normal", "1.0", "['White']", "['W']", "None", "['Instant']", "None", "Rare", "None", "None", "Target spell or permanent becomes white. (Mana symbols on that permanent remain unchanged.)"
-"normal", "1.0", "['White']", "['W']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant creature
+"Purelace", "1.0", "['White']", "['W']", "Rare", "Instant", "None", "['Instant']", "None", "None", "None", "Target spell or permanent becomes white. (Mana symbols on that permanent remain unchanged.)"
+"Red Ward", "1.0", "['White']", "['W']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 Enchanted creature has protection from red. This effect doesn't remove Red Ward."
-"normal", "4.0", "['White']", "['W']", "None", "['Sorcery']", "None", "Uncommon", "None", "None", "Return target creature card from your graveyard to the battlefield."
-"normal", "3.0", "['White']", "['W']", "None", "['Instant']", "None", "Rare", "None", "None", "The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way."
-"normal", "1.0", "['White']", "['W']", "None", "['Instant']", "None", "Rare", "None", "None", "Target blocking creature gets +7/+7 until end of turn."
-"normal", "2.0", "['White']", "['W']", "None", "['Creature']", "['Human', 'Cleric']", "Common", "1", "1", "{T}: Prevent the next 1 damage that would be dealt to any target this turn."
-"normal", "1.0", "['White']", "['W']", "None", "['Creature']", "['Cat']", "Rare", "2", "1", "None"
-"normal", "5.0", "['White']", "['W']", "None", "['Creature']", "['Angel']", "Uncommon", "4", "4", "Flying, vigilance"
-"normal", "1.0", "['White']", "['W']", "None", "['Instant']", "None", "Uncommon", "None", "None", "Exile target creature. Its controller gains life equal to its power."
-"normal", "5.0", "['White']", "['W']", "None", "['Creature']", "['Human']", "Rare", "2", "5", "As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead."
-"normal", "4.0", "['White']", "['W']", "None", "['Creature']", "['Wall']", "Uncommon", "3", "5", "Defender (This creature can't attack.)
+"Resurrection", "4.0", "['White']", "['W']", "Uncommon", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Return target creature card from your graveyard to the battlefield."
+"Reverse Damage", "3.0", "['White']", "['W']", "Rare", "Instant", "None", "['Instant']", "None", "None", "None", "The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way."
+"Righteousness", "1.0", "['White']", "['W']", "Rare", "Instant", "None", "['Instant']", "None", "None", "None", "Target blocking creature gets +7/+7 until end of turn."
+"Samite Healer", "2.0", "['White']", "['W']", "Common", "Creature — Human Cleric", "None", "['Creature']", "['Human', 'Cleric']", "1", "1", "{T}: Prevent the next 1 damage that would be dealt to any target this turn."
+"Savannah Lions", "1.0", "['White']", "['W']", "Rare", "Creature — Cat", "None", "['Creature']", "['Cat']", "2", "1", "None"
+"Serra Angel", "5.0", "['White']", "['W']", "Uncommon", "Creature — Angel", "None", "['Creature']", "['Angel']", "4", "4", "Flying, vigilance"
+"Swords to Plowshares", "1.0", "['White']", "['W']", "Uncommon", "Instant", "None", "['Instant']", "None", "None", "None", "Exile target creature. Its controller gains life equal to its power."
+"Veteran Bodyguard", "5.0", "['White']", "['W']", "Rare", "Creature — Human", "None", "['Creature']", "['Human']", "2", "5", "As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead."
+"Wall of Swords", "4.0", "['White']", "['W']", "Uncommon", "Creature — Wall", "None", "['Creature']", "['Wall']", "3", "5", "Defender (This creature can't attack.)
 Flying"
-"normal", "2.0", "['White']", "['W']", "None", "['Creature']", "['Human', 'Knight']", "Uncommon", "2", "2", "First strike (This creature deals combat damage before creatures without first strike.)
+"White Knight", "2.0", "['White']", "['W']", "Uncommon", "Creature — Human Knight", "None", "['Creature']", "['Human', 'Knight']", "2", "2", "First strike (This creature deals combat damage before creatures without first strike.)
 Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)"
-"normal", "1.0", "['White']", "['W']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant creature
+"White Ward", "1.0", "['White']", "['W']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 Enchanted creature has protection from white. This effect doesn't remove White Ward."
-"normal", "4.0", "['White']", "['W']", "None", "['Sorcery']", "None", "Rare", "None", "None", "Destroy all creatures. They can't be regenerated."
-"normal", "5.0", "['Blue']", "['U']", "None", "['Creature']", "['Elemental']", "Uncommon", "4", "4", "Flying"
-"normal", "1.0", "['Blue']", "['U']", "None", "['Instant']", "None", "Rare", "None", "None", "Target player draws three cards."
-"normal", "4.0", "['Blue']", "['U']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant artifact
+"Wrath of God", "4.0", "['White']", "['W']", "Rare", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Destroy all creatures. They can't be regenerated."
+"Air Elemental", "5.0", "['Blue']", "['U']", "Uncommon", "Creature — Elemental", "None", "['Creature']", "['Elemental']", "4", "4", "Flying"
+"Ancestral Recall", "1.0", "['Blue']", "['U']", "Rare", "Instant", "None", "['Instant']", "None", "None", "None", "Target player draws three cards."
+"Animate Artifact", "4.0", "['Blue']", "['U']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant artifact
 As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its mana value."
-"normal", "1.0", "['Blue']", "['U']", "None", "['Instant']", "None", "Common", "None", "None", "Choose one —
+"Blue Elemental Blast", "1.0", "['Blue']", "['U']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Choose one —
 • Counter target red spell.
 • Destroy target red permanent."
-"normal", "2.0", "['Blue']", "['U']", "None", "['Sorcery']", "None", "Rare", "None", "None", "Target player draws X cards."
-"normal", "4.0", "['Blue']", "['U']", "None", "['Creature']", "['Shapeshifter']", "Uncommon", "0", "0", "You may have Clone enter the battlefield as a copy of any creature on the battlefield."
-"normal", "4.0", "['Blue']", "['U']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant creature
+"Braingeyser", "2.0", "['Blue']", "['U']", "Rare", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Target player draws X cards."
+"Clone", "4.0", "['Blue']", "['U']", "Uncommon", "Creature — Shapeshifter", "None", "['Creature']", "['Shapeshifter']", "0", "0", "You may have Clone enter the battlefield as a copy of any creature on the battlefield."
+"Control Magic", "4.0", "['Blue']", "['U']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 You control enchanted creature."
-"normal", "2.0", "['Blue']", "['U']", "None", "['Enchantment']", "None", "Rare", "None", "None", "You may have Copy Artifact enter the battlefield as a copy of any artifact on the battlefield, except it's an enchantment in addition to its other types."
-"normal", "2.0", "['Blue']", "['U']", "None", "['Instant']", "None", "Uncommon", "None", "None", "Counter target spell."
-"normal", "2.0", "['Blue']", "['U']", "None", "['Enchantment']", "['Aura']", "Common", "None", "None", "Enchant creature
+"Copy Artifact", "2.0", "['Blue']", "['U']", "Rare", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "You may have Copy Artifact enter the battlefield as a copy of any artifact on the battlefield, except it's an enchantment in addition to its other types."
+"Counterspell", "2.0", "['Blue']", "['U']", "Uncommon", "Instant", "None", "['Instant']", "None", "None", "None", "Counter target spell."
+"Creature Bond", "2.0", "['Blue']", "['U']", "Common", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 When enchanted creature dies, Creature Bond deals damage equal to that creature's toughness to the creature's controller."
-"normal", "2.0", "['Blue']", "['U']", "None", "['Sorcery']", "None", "Rare", "None", "None", "Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way."
-"normal", "3.0", "['Blue']", "['U']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant enchantment
+"Drain Power", "2.0", "['Blue']", "['U']", "Rare", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way."
+"Feedback", "3.0", "['Blue']", "['U']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant enchantment
 At the beginning of the upkeep of enchanted enchantment's controller, Feedback deals 1 damage to that player."
-"normal", "1.0", "['Blue']", "['U']", "None", "['Enchantment']", "['Aura']", "Common", "None", "None", "Enchant creature
+"Flight", "1.0", "['Blue']", "['U']", "Common", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 Enchanted creature has flying."
-"normal", "2.0", "['Blue']", "['U']", "None", "['Enchantment']", "['Aura']", "Common", "None", "None", "Enchant creature
+"Invisibility", "2.0", "['Blue']", "['U']", "Common", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 Enchanted creature can't be blocked except by Walls."
-"normal", "1.0", "['Blue']", "['U']", "None", "['Instant']", "None", "Common", "None", "None", "Target creature gains flying until end of turn."
-"normal", "2.0", "['Blue']", "['U']", "None", "['Enchantment']", "None", "Uncommon", "None", "None", "Whenever a Forest an opponent controls becomes tapped, you gain 1 life."
-"normal", "2.0", "['Blue']", "['U']", "None", "['Creature']", "['Merfolk']", "Rare", "2", "2", "Other Merfolk get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)"
-"normal", "1.0", "['Blue']", "['U']", "None", "['Instant']", "None", "Rare", "None", "None", "Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)"
-"normal", "6.0", "['Blue']", "['U']", "None", "['Creature']", "['Djinn']", "Rare", "5", "6", "Flying (This creature can't be blocked except by creatures with flying or reach.)"
-"normal", "3.0", "['Blue']", "['U']", "None", "['Instant']", "None", "Rare", "None", "None", "Tap all lands target player controls and that player loses all unspent mana."
-"normal", "1.0", "['Blue']", "['U']", "None", "['Creature']", "['Merfolk']", "Common", "1", "1", "None"
-"normal", "4.0", "['Blue']", "['U']", "None", "['Creature']", "['Illusion']", "Uncommon", "4", "1", "Flying
+"Jump", "1.0", "['Blue']", "['U']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Target creature gains flying until end of turn."
+"Lifetap", "2.0", "['Blue']", "['U']", "Uncommon", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "Whenever a Forest an opponent controls becomes tapped, you gain 1 life."
+"Lord of Atlantis", "2.0", "['Blue']", "['U']", "Rare", "Creature — Merfolk", "None", "['Creature']", "['Merfolk']", "2", "2", "Other Merfolk get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)"
+"Magical Hack", "1.0", "['Blue']", "['U']", "Rare", "Instant", "None", "['Instant']", "None", "None", "None", "Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)"
+"Mahamoti Djinn", "6.0", "['Blue']", "['U']", "Rare", "Creature — Djinn", "None", "['Creature']", "['Djinn']", "5", "6", "Flying (This creature can't be blocked except by creatures with flying or reach.)"
+"Mana Short", "3.0", "['Blue']", "['U']", "Rare", "Instant", "None", "['Instant']", "None", "None", "None", "Tap all lands target player controls and that player loses all unspent mana."
+"Merfolk of the Pearl Trident", "1.0", "['Blue']", "['U']", "Common", "Creature — Merfolk", "None", "['Creature']", "['Merfolk']", "1", "1", "None"
+"Phantasmal Forces", "4.0", "['Blue']", "['U']", "Uncommon", "Creature — Illusion", "None", "['Creature']", "['Illusion']", "4", "1", "Flying
 At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}."
-"normal", "2.0", "['Blue']", "['U']", "None", "['Enchantment']", "['Aura']", "Common", "None", "None", "Enchant land
+"Phantasmal Terrain", "2.0", "['Blue']", "['U']", "Common", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant land
 As Phantasmal Terrain enters the battlefield, choose a basic land type.
 Enchanted land is the chosen type."
-"normal", "4.0", "['Blue']", "['U']", "None", "['Creature']", "['Illusion']", "Uncommon", "3", "3", "Flying"
-"normal", "5.0", "['Blue']", "['U']", "None", "['Creature']", "['Human', 'Pirate']", "Rare", "4", "3", "Pirate Ship can't attack unless defending player controls an Island.
+"Phantom Monster", "4.0", "['Blue']", "['U']", "Uncommon", "Creature — Illusion", "None", "['Creature']", "['Illusion']", "3", "3", "Flying"
+"Pirate Ship", "5.0", "['Blue']", "['U']", "Rare", "Creature — Human Pirate", "None", "['Creature']", "['Human', 'Pirate']", "4", "3", "Pirate Ship can't attack unless defending player controls an Island.
 {T}: Pirate Ship deals 1 damage to any target.
 When you control no Islands, sacrifice Pirate Ship."
-"normal", "2.0", "['Blue']", "['U']", "None", "['Enchantment']", "['Aura']", "Common", "None", "None", "Enchant enchantment
+"Power Leak", "2.0", "['Blue']", "['U']", "Common", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant enchantment
 At the beginning of the upkeep of enchanted enchantment's controller, that player may pay any amount of mana. Power Leak deals 2 damage to that player. Prevent X of that damage, where X is the amount of mana that player paid this way."
-"normal", "1.0", "['Blue']", "['U']", "None", "['Instant']", "None", "Common", "None", "None", "Counter target spell unless its controller pays {X}. If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana."
-"normal", "3.0", "['Blue']", "['U']", "None", "['Creature']", "['Human', 'Wizard']", "Common", "1", "1", "{T}: Prodigal Sorcerer deals 1 damage to any target."
-"normal", "3.0", "['Blue']", "['U']", "None", "['Instant']", "None", "Uncommon", "None", "None", "Psionic Blast deals 4 damage to any target and 2 damage to you."
-"normal", "2.0", "['Blue']", "['U']", "None", "['Enchantment']", "['Aura']", "Common", "None", "None", "Enchant land
+"Power Sink", "1.0", "['Blue']", "['U']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Counter target spell unless its controller pays {X}. If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana."
+"Prodigal Sorcerer", "3.0", "['Blue']", "['U']", "Common", "Creature — Human Wizard", "None", "['Creature']", "['Human', 'Wizard']", "1", "1", "{T}: Prodigal Sorcerer deals 1 damage to any target."
+"Psionic Blast", "3.0", "['Blue']", "['U']", "Uncommon", "Instant", "None", "['Instant']", "None", "None", "None", "Psionic Blast deals 4 damage to any target and 2 damage to you."
+"Psychic Venom", "2.0", "['Blue']", "['U']", "Common", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant land
 Whenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that land's controller."
-"normal", "6.0", "['Blue']", "['U']", "None", "['Creature']", "['Serpent']", "Common", "5", "5", "Sea Serpent can't attack unless defending player controls an Island.
+"Sea Serpent", "6.0", "['Blue']", "['U']", "Common", "Creature — Serpent", "None", "['Creature']", "['Serpent']", "5", "5", "Sea Serpent can't attack unless defending player controls an Island.
 When you control no Islands, sacrifice Sea Serpent."
-"normal", "1.0", "['Blue']", "['U']", "None", "['Instant']", "None", "Uncommon", "None", "None", "Cast this spell only during an opponent's turn, before attackers are declared.
+"Siren's Call", "1.0", "['Blue']", "['U']", "Uncommon", "Instant", "None", "['Instant']", "None", "None", "None", "Cast this spell only during an opponent's turn, before attackers are declared.
 Creatures the active player controls attack this turn if able.
 At the beginning of the next end step, destroy all non-Wall creatures that player controls that didn't attack this turn. Ignore this effect for each creature the player didn't control continuously since the beginning of the turn."
-"normal", "1.0", "['Blue']", "['U']", "None", "['Instant']", "None", "Rare", "None", "None", "Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change "target black spell" to "target blue spell." This effect lasts indefinitely.)"
-"normal", "1.0", "['Blue']", "['U']", "None", "['Instant']", "None", "Common", "None", "None", "Counter target spell with mana value X. (For example, if that spell's mana cost is {3}{U}{U}, X is 5.)"
-"normal", "2.0", "['Blue']", "['U']", "None", "['Enchantment']", "None", "Rare", "None", "None", "Players skip their untap steps.
+"Sleight of Mind", "1.0", "['Blue']", "['U']", "Rare", "Instant", "None", "['Instant']", "None", "None", "None", "Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change "target black spell" to "target blue spell." This effect lasts indefinitely.)"
+"Spell Blast", "1.0", "['Blue']", "['U']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Counter target spell with mana value X. (For example, if that spell's mana cost is {3}{U}{U}, X is 5.)"
+"Stasis", "2.0", "['Blue']", "['U']", "Rare", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "Players skip their untap steps.
 At the beginning of your upkeep, sacrifice Stasis unless you pay {U}."
-"normal", "4.0", "['Blue']", "['U']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant artifact
+"Steal Artifact", "4.0", "['Blue']", "['U']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant artifact
 You control enchanted artifact."
-"normal", "1.0", "['Blue']", "['U']", "None", "['Instant']", "None", "Rare", "None", "None", "Target spell or permanent becomes blue. (Mana symbols on that permanent remain unchanged.)"
-"normal", "2.0", "['Blue']", "['U']", "None", "['Sorcery']", "None", "Rare", "None", "None", "Take an extra turn after this one."
-"normal", "3.0", "['Blue']", "['U']", "None", "['Sorcery']", "None", "Rare", "None", "None", "Each player shuffles their hand and graveyard into their library, then draws seven cards. (Then put Timetwister into its owner's graveyard.)"
-"normal", "1.0", "['Blue']", "['U']", "None", "['Instant']", "None", "Common", "None", "None", "You may tap or untap target artifact, creature, or land."
-"normal", "1.0", "['Blue']", "['U']", "None", "['Instant']", "None", "Common", "None", "None", "Return target creature to its owner's hand."
-"normal", "5.0", "['Blue']", "['U']", "None", "['Creature']", "['Shapeshifter']", "Rare", "0", "0", "You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield, except it doesn't copy that creature's color and it has "At the beginning of your upkeep, you may have this creature become a copy of target creature, except it doesn't copy that creature's color and it has this ability.""
-"normal", "3.0", "['Blue']", "['U']", "None", "['Sorcery']", "None", "Rare", "None", "None", "Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains put into a graveyard this way."
-"normal", "3.0", "['Blue']", "['U']", "None", "['Creature']", "['Wall']", "Uncommon", "1", "5", "Defender, flying (This creature can't attack, and it can block creatures with flying.)"
-"normal", "3.0", "['Blue']", "['U']", "None", "['Creature']", "['Wall']", "Uncommon", "0", "5", "Defender (This creature can't attack.)
+"Thoughtlace", "1.0", "['Blue']", "['U']", "Rare", "Instant", "None", "['Instant']", "None", "None", "None", "Target spell or permanent becomes blue. (Mana symbols on that permanent remain unchanged.)"
+"Time Walk", "2.0", "['Blue']", "['U']", "Rare", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Take an extra turn after this one."
+"Timetwister", "3.0", "['Blue']", "['U']", "Rare", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Each player shuffles their hand and graveyard into their library, then draws seven cards. (Then put Timetwister into its owner's graveyard.)"
+"Twiddle", "1.0", "['Blue']", "['U']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "You may tap or untap target artifact, creature, or land."
+"Unsummon", "1.0", "['Blue']", "['U']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Return target creature to its owner's hand."
+"Vesuvan Doppelganger", "5.0", "['Blue']", "['U']", "Rare", "Creature — Shapeshifter", "None", "['Creature']", "['Shapeshifter']", "0", "0", "You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield, except it doesn't copy that creature's color and it has "At the beginning of your upkeep, you may have this creature become a copy of target creature, except it doesn't copy that creature's color and it has this ability.""
+"Volcanic Eruption", "3.0", "['Blue']", "['U']", "Rare", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains put into a graveyard this way."
+"Wall of Air", "3.0", "['Blue']", "['U']", "Uncommon", "Creature — Wall", "None", "['Creature']", "['Wall']", "1", "5", "Defender, flying (This creature can't attack, and it can block creatures with flying.)"
+"Wall of Water", "3.0", "['Blue']", "['U']", "Uncommon", "Creature — Wall", "None", "['Creature']", "['Wall']", "0", "5", "Defender (This creature can't attack.)
 {U}: Wall of Water gets +1/+0 until end of turn."
-"normal", "5.0", "['Blue']", "['U']", "None", "['Creature']", "['Elemental']", "Uncommon", "5", "4", "None"
-"normal", "2.0", "['Black']", "['B']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant creature card in a graveyard
+"Water Elemental", "5.0", "['Blue']", "['U']", "Uncommon", "Creature — Elemental", "None", "['Creature']", "['Elemental']", "5", "4", "None"
+"Animate Dead", "2.0", "['Black']", "['B']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature card in a graveyard
 When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.
 Enchanted creature gets -1/-0."
-"normal", "2.0", "['Black']", "['B']", "None", "['Enchantment']", "None", "Rare", "None", "None", "Black creatures get +1/+1."
-"normal", "2.0", "['Black']", "['B']", "None", "['Creature']", "['Human', 'Knight']", "Uncommon", "2", "2", "First strike (This creature deals combat damage before creatures without first strike.)
+"Bad Moon", "2.0", "['Black']", "['B']", "Rare", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "Black creatures get +1/+1."
+"Black Knight", "2.0", "['Black']", "['B']", "Uncommon", "Creature — Human Knight", "None", "['Creature']", "['Human', 'Knight']", "2", "2", "First strike (This creature deals combat damage before creatures without first strike.)
 Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)"
-"normal", "4.0", "['Black']", "['B']", "None", "['Creature']", "['Wraith']", "Uncommon", "3", "3", "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)"
-"normal", "1.0", "['Black']", "['B']", "None", "['Sorcery']", "None", "Rare", "None", "None", "Remove Contract from Below from your deck before playing if you're not playing for ante.
+"Bog Wraith", "4.0", "['Black']", "['B']", "Uncommon", "Creature — Wraith", "None", "['Creature']", "['Wraith']", "3", "3", "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)"
+"Contract from Below", "1.0", "['Black']", "['B']", "Rare", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Remove Contract from Below from your deck before playing if you're not playing for ante.
 Discard your hand, ante the top card of your library, then draw seven cards."
-"normal", "4.0", "['Black']", "['B']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant land
+"Cursed Land", "4.0", "['Black']", "['B']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant land
 At the beginning of the upkeep of enchanted land's controller, Cursed Land deals 1 damage to that player."
-"normal", "1.0", "['Black']", "['B']", "None", "['Instant']", "None", "Common", "None", "None", "Add {B}{B}{B}."
-"normal", "3.0", "['Black']", "['B']", "None", "['Sorcery']", "None", "Rare", "None", "None", "Remove Darkpact from your deck before playing if you're not playing for ante.
+"Dark Ritual", "1.0", "['Black']", "['B']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Add {B}{B}{B}."
+"Darkpact", "3.0", "['Black']", "['B']", "Rare", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Remove Darkpact from your deck before playing if you're not playing for ante.
 You own target card in the ante. Exchange that card with the top card of your library."
-"normal", "2.0", "['Black']", "['B']", "None", "['Enchantment']", "None", "Uncommon", "None", "None", "{B}{B}: Counter target green spell."
-"normal", "1.0", "['Black']", "['B']", "None", "['Instant']", "None", "Rare", "None", "None", "Target spell or permanent becomes black. (Mana symbols on that permanent remain unchanged.)"
-"normal", "3.0", "['Black']", "['B']", "None", "['Sorcery']", "None", "Rare", "None", "None", "Remove Demonic Attorney from your deck before playing if you're not playing for ante.
+"Deathgrip", "2.0", "['Black']", "['B']", "Uncommon", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "{B}{B}: Counter target green spell."
+"Deathlace", "1.0", "['Black']", "['B']", "Rare", "Instant", "None", "['Instant']", "None", "None", "None", "Target spell or permanent becomes black. (Mana symbols on that permanent remain unchanged.)"
+"Demonic Attorney", "3.0", "['Black']", "['B']", "Rare", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Remove Demonic Attorney from your deck before playing if you're not playing for ante.
 Each player antes the top card of their library."
-"normal", "6.0", "['Black']", "['B']", "None", "['Creature']", "['Demon']", "Rare", "5", "5", "{T}: Destroy target land.
+"Demonic Hordes", "6.0", "['Black']", "['B']", "Rare", "Creature — Demon", "None", "['Creature']", "['Demon']", "5", "5", "{T}: Destroy target land.
 At the beginning of your upkeep, unless you pay {B}{B}{B}, tap Demonic Hordes and sacrifice a land of an opponent's choice."
-"normal", "2.0", "['Black']", "['B']", "None", "['Sorcery']", "None", "Uncommon", "None", "None", "Search your library for a card, put that card into your hand, then shuffle."
-"normal", "2.0", "['Black']", "['B']", "None", "['Sorcery']", "None", "Common", "None", "None", "Spend only black mana on X.
+"Demonic Tutor", "2.0", "['Black']", "['B']", "Uncommon", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Search your library for a card, put that card into your hand, then shuffle."
+"Drain Life", "2.0", "['Black']", "['B']", "Common", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Spend only black mana on X.
 Drain Life deals X damage to any target. You gain life equal to the damage dealt, but not more life than the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness."
-"normal", "2.0", "['Black']", "['B']", "None", "['Creature']", "['Skeleton']", "Common", "1", "1", "{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
-"normal", "1.0", "['Black']", "['B']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant land
+"Drudge Skeletons", "2.0", "['Black']", "['B']", "Common", "Creature — Skeleton", "None", "['Creature']", "['Skeleton']", "1", "1", "{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
+"Evil Presence", "1.0", "['Black']", "['B']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant land
 Enchanted land is a Swamp."
-"normal", "2.0", "['Black']", "['B']", "None", "['Enchantment']", "['Aura']", "Common", "None", "None", "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+"Fear", "2.0", "['Black']", "['B']", "Common", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)"
-"normal", "3.0", "['Black']", "['B']", "None", "['Creature']", "['Shade']", "Common", "0", "1", "{B}: Frozen Shade gets +1/+1 until end of turn."
-"normal", "3.0", "['Black']", "['B']", "None", "['Enchantment']", "None", "Uncommon", "None", "None", "White spells cost {3} more to cast.
+"Frozen Shade", "3.0", "['Black']", "['B']", "Common", "Creature — Shade", "None", "['Creature']", "['Shade']", "0", "1", "{B}: Frozen Shade gets +1/+1 until end of turn."
+"Gloom", "3.0", "['Black']", "['B']", "Uncommon", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "White spells cost {3} more to cast.
 Activated abilities of white enchantments cost {3} more to activate."
-"normal", "1.0", "['Black']", "['B']", "None", "['Instant']", "None", "Common", "None", "None", "Target creature gets +X/+0 until end of turn."
-"normal", "3.0", "['Black']", "['B']", "None", "['Creature']", "['Specter']", "Uncommon", "2", "2", "Flying
+"Howl from Beyond", "1.0", "['Black']", "['B']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Target creature gets +X/+0 until end of turn."
+"Hypnotic Specter", "3.0", "['Black']", "['B']", "Uncommon", "Creature — Specter", "None", "['Creature']", "['Specter']", "2", "2", "Flying
 Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random."
-"normal", "4.0", "['Black']", "['B']", "None", "['Enchantment']", "None", "Rare", "None", "None", "As Lich enters the battlefield, you lose life equal to your life total.
+"Lich", "4.0", "['Black']", "['B']", "Rare", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "As Lich enters the battlefield, you lose life equal to your life total.
 You don't lose the game for having 0 or less life.
 If you would gain life, draw that many cards instead.
 Whenever you're dealt damage, sacrifice that many nontoken permanents. If you can't, you lose the game.
 When Lich is put into a graveyard from the battlefield, you lose the game."
-"normal", "7.0", "['Black']", "['B']", "None", "['Creature']", "['Demon']", "Rare", "7", "7", "Flying, trample
+"Lord of the Pit", "7.0", "['Black']", "['B']", "Rare", "Creature — Demon", "None", "['Creature']", "['Demon']", "7", "7", "Flying, trample
 At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you."
-"normal", "1.0", "['Black']", "['B']", "None", "['Sorcery']", "None", "Rare", "None", "None", "Target player discards X cards at random."
-"normal", "2.0", "['Black']", "['B']", "None", "['Creature']", "['Spirit']", "Rare", "1", "1", "Haste
+"Mind Twist", "1.0", "['Black']", "['B']", "Rare", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Target player discards X cards at random."
+"Nether Shadow", "2.0", "['Black']", "['B']", "Rare", "Creature — Spirit", "None", "['Creature']", "['Spirit']", "1", "1", "Haste
 At the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield."
-"normal", "3.0", "['Black']", "['B']", "None", "['Creature']", "['Imp']", "Uncommon", "1", "1", "{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate only during an opponent's turn, before attackers are declared."
-"normal", "6.0", "['Black']", "['B']", "None", "['Creature']", "['Nightmare', 'Horse']", "Rare", "*", "*", "Flying (This creature can't be blocked except by creatures with flying or reach.)
+"Nettling Imp", "3.0", "['Black']", "['B']", "Uncommon", "Creature — Imp", "None", "['Creature']", "['Imp']", "1", "1", "{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate only during an opponent's turn, before attackers are declared."
+"Nightmare", "6.0", "['Black']", "['B']", "Rare", "Creature — Nightmare Horse", "None", "['Creature']", "['Nightmare', 'Horse']", "*", "*", "Flying (This creature can't be blocked except by creatures with flying or reach.)
 Nightmare's power and toughness are each equal to the number of Swamps you control."
-"normal", "1.0", "['Black']", "['B']", "None", "['Enchantment']", "['Aura']", "Common", "None", "None", "Enchant creature
+"Paralyze", "1.0", "['Black']", "['B']", "Common", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 When Paralyze enters the battlefield, tap enchanted creature.
 Enchanted creature doesn't untap during its controller's untap step.
 At the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If the player does, untap the creature."
-"normal", "4.0", "['Black']", "['B']", "None", "['Enchantment']", "None", "Common", "None", "None", "At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.
+"Pestilence", "4.0", "['Black']", "['B']", "Common", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.
 {B}: Pestilence deals 1 damage to each creature and each player."
-"normal", "3.0", "['Black']", "['B']", "None", "['Creature']", "['Rat']", "Common", "*", "*", "Plague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield."
-"normal", "1.0", "['Black']", "['B']", "None", "['Sorcery']", "None", "Common", "None", "None", "Return target creature card from your graveyard to your hand."
-"normal", "3.0", "['Black']", "['B']", "None", "['Creature']", "['Human', 'Assassin']", "Rare", "1", "1", "{T}: Destroy target tapped creature."
-"normal", "1.0", "['Black']", "['B']", "None", "['Instant']", "None", "Uncommon", "None", "None", "As an additional cost to cast this spell, sacrifice a creature.
+"Plague Rats", "3.0", "['Black']", "['B']", "Common", "Creature — Rat", "None", "['Creature']", "['Rat']", "*", "*", "Plague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield."
+"Raise Dead", "1.0", "['Black']", "['B']", "Common", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Return target creature card from your graveyard to your hand."
+"Royal Assassin", "3.0", "['Black']", "['B']", "Rare", "Creature — Human Assassin", "None", "['Creature']", "['Human', 'Assassin']", "1", "1", "{T}: Destroy target tapped creature."
+"Sacrifice", "1.0", "['Black']", "['B']", "Uncommon", "Instant", "None", "['Instant']", "None", "None", "None", "As an additional cost to cast this spell, sacrifice a creature.
 Add an amount of {B} equal to the sacrificed creature's mana value."
-"normal", "3.0", "['Black']", "['B']", "None", "['Creature']", "['Zombie']", "Common", "2", "2", "None"
-"normal", "4.0", "['Black']", "['B']", "None", "['Creature']", "['Zombie']", "Uncommon", "2", "2", "At the beginning of each end step, put a corpse counter on Scavenging Ghoul for each creature that died this turn.
+"Scathe Zombies", "3.0", "['Black']", "['B']", "Common", "Creature — Zombie", "None", "['Creature']", "['Zombie']", "2", "2", "None"
+"Scavenging Ghoul", "4.0", "['Black']", "['B']", "Uncommon", "Creature — Zombie", "None", "['Creature']", "['Zombie']", "2", "2", "At the beginning of each end step, put a corpse counter on Scavenging Ghoul for each creature that died this turn.
 Remove a corpse counter from Scavenging Ghoul: Regenerate Scavenging Ghoul."
-"normal", "5.0", "['Black']", "['B']", "None", "['Creature']", "['Vampire']", "Uncommon", "4", "4", "Flying (This creature can't be blocked except by creatures with flying or reach.)
+"Sengir Vampire", "5.0", "['Black']", "['B']", "Uncommon", "Creature — Vampire", "None", "['Creature']", "['Vampire']", "4", "4", "Flying (This creature can't be blocked except by creatures with flying or reach.)
 Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire."
-"normal", "2.0", "['Black']", "['B']", "None", "['Instant']", "None", "Uncommon", "None", "None", "You gain life equal to the damage dealt to you this turn. Simulacrum deals damage to target creature you control equal to the damage dealt to you this turn."
-"normal", "2.0", "['Black']", "['B']", "None", "['Sorcery']", "None", "Common", "None", "None", "Destroy target land."
-"normal", "2.0", "['Black']", "['B']", "None", "['Instant']", "None", "Common", "None", "None", "Destroy target nonartifact, nonblack creature. It can't be regenerated."
-"normal", "1.0", "['Black']", "['B']", "None", "['Enchantment']", "['Aura']", "Common", "None", "None", "Enchant creature
+"Simulacrum", "2.0", "['Black']", "['B']", "Uncommon", "Instant", "None", "['Instant']", "None", "None", "None", "You gain life equal to the damage dealt to you this turn. Simulacrum deals damage to target creature you control equal to the damage dealt to you this turn."
+"Sinkhole", "2.0", "['Black']", "['B']", "Common", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Destroy target land."
+"Terror", "2.0", "['Black']", "['B']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Destroy target nonartifact, nonblack creature. It can't be regenerated."
+"Unholy Strength", "1.0", "['Black']", "['B']", "Common", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 Enchanted creature gets +2/+1."
-"normal", "3.0", "['Black']", "['B']", "None", "['Creature']", "['Skeleton', 'Wall']", "Uncommon", "1", "4", "Defender (This creature can't attack.)
+"Wall of Bone", "3.0", "['Black']", "['B']", "Uncommon", "Creature — Skeleton Wall", "None", "['Creature']", "['Skeleton', 'Wall']", "1", "4", "Defender (This creature can't attack.)
 {B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
-"normal", "2.0", "['Black']", "['B']", "None", "['Enchantment']", "['Aura']", "Rare", "None", "None", "Enchant artifact
+"Warp Artifact", "2.0", "['Black']", "['B']", "Rare", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant artifact
 At the beginning of the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to that player."
-"normal", "1.0", "['Black']", "['B']", "None", "['Enchantment']", "['Aura']", "Common", "None", "None", "Enchant creature
+"Weakness", "1.0", "['Black']", "['B']", "Common", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 Enchanted creature gets -2/-1."
-"normal", "1.0", "['Black']", "['B']", "None", "['Creature']", "['Spirit']", "Rare", "0", "1", "Flying (This creature can't be blocked except by creatures with flying or reach.)
+"Will-o'-the-Wisp", "1.0", "['Black']", "['B']", "Rare", "Creature — Spirit", "None", "['Creature']", "['Spirit']", "0", "1", "Flying (This creature can't be blocked except by creatures with flying or reach.)
 {B}: Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
-"normal", "2.0", "['Black']", "['B']", "None", "['Instant']", "None", "Rare", "None", "None", "Look at target opponent's hand and choose a card from it. You control that player until Word of Command finishes resolving. The player plays that card if able. While doing so, the player can activate mana abilities only if they're from lands that player controls and only if mana they produce is spent to activate other mana abilities of lands the player controls and/or to play that card. If the chosen card is cast as a spell, you control the player while that spell is resolving."
-"normal", "3.0", "['Black']", "['B']", "None", "['Creature']", "['Zombie']", "Rare", "2", "3", "Other Zombie creatures have swampwalk. (They can't be blocked as long as defending player controls a Swamp.)
+"Word of Command", "2.0", "['Black']", "['B']", "Rare", "Instant", "None", "['Instant']", "None", "None", "None", "Look at target opponent's hand and choose a card from it. You control that player until Word of Command finishes resolving. The player plays that card if able. While doing so, the player can activate mana abilities only if they're from lands that player controls and only if mana they produce is spent to activate other mana abilities of lands the player controls and/or to play that card. If the chosen card is cast as a spell, you control the player while that spell is resolving."
+"Zombie Master", "3.0", "['Black']", "['B']", "Rare", "Creature — Zombie", "None", "['Creature']", "['Zombie']", "2", "3", "Other Zombie creatures have swampwalk. (They can't be blocked as long as defending player controls a Swamp.)
 Other Zombies have "{B}: Regenerate this permanent.""
-"normal", "1.0", "['Red']", "['R']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant creature
+"Burrowing", "1.0", "['Red']", "['R']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 Enchanted creature has mountainwalk. (It can't be blocked as long as defending player controls a Mountain.)"
-"normal", "1.0", "['Red']", "['R']", "None", "['Instant']", "None", "Rare", "None", "None", "Target spell or permanent becomes red. (Its mana symbols remain unchanged.)"
-"normal", "1.0", "['Red']", "['R']", "None", "['Sorcery']", "None", "Common", "None", "None", "Disintegrate deals X damage to any target. If it's a creature, it can't be regenerated this turn, and if it would die this turn, exile it instead."
-"normal", "4.0", "['Red']", "['R']", "None", "['Creature']", "['Dragon']", "Uncommon", "2", "3", "Flying
+"Chaoslace", "1.0", "['Red']", "['R']", "Rare", "Instant", "None", "['Instant']", "None", "None", "None", "Target spell or permanent becomes red. (Its mana symbols remain unchanged.)"
+"Disintegrate", "1.0", "['Red']", "['R']", "Common", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Disintegrate deals X damage to any target. If it's a creature, it can't be regenerated this turn, and if it would die this turn, exile it instead."
+"Dragon Whelp", "4.0", "['Red']", "['R']", "Uncommon", "Creature — Dragon", "None", "['Creature']", "['Dragon']", "2", "3", "Flying
 {R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step."
-"normal", "3.0", "['Red']", "['R']", "None", "['Creature']", "['Dwarf']", "Uncommon", "1", "1", "{T}: Destroy target Wall."
-"normal", "3.0", "['Red']", "['R']", "None", "['Creature']", "['Dwarf', 'Warrior']", "Common", "1", "1", "{T}: Target creature with power 2 or less can't be blocked this turn."
-"normal", "5.0", "['Red']", "['R']", "None", "['Creature']", "['Elemental']", "Uncommon", "4", "5", "None"
-"normal", "1.0", "['Red']", "['R']", "None", "['Enchantment']", "['Aura']", "Common", "None", "None", "Enchant creature
+"Dwarven Demolition Team", "3.0", "['Red']", "['R']", "Uncommon", "Creature — Dwarf", "None", "['Creature']", "['Dwarf']", "1", "1", "{T}: Destroy target Wall."
+"Dwarven Warriors", "3.0", "['Red']", "['R']", "Common", "Creature — Dwarf Warrior", "None", "['Creature']", "['Dwarf', 'Warrior']", "1", "1", "{T}: Target creature with power 2 or less can't be blocked this turn."
+"Earth Elemental", "5.0", "['Red']", "['R']", "Uncommon", "Creature — Elemental", "None", "['Creature']", "['Elemental']", "4", "5", "None"
+"Earthbind", "1.0", "['Red']", "['R']", "Common", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains "Enchanted creature loses flying.""
-"normal", "1.0", "['Red']", "['R']", "None", "['Sorcery']", "None", "Rare", "None", "None", "Earthquake deals X damage to each creature without flying and each player."
-"normal", "1.0", "['Red']", "['R']", "None", "['Instant']", "None", "Common", "None", "None", "Cast this spell only during the declare blockers step.
+"Earthquake", "1.0", "['Red']", "['R']", "Rare", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Earthquake deals X damage to each creature without flying and each player."
+"False Orders", "1.0", "['Red']", "['R']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Cast this spell only during the declare blockers step.
 Remove target creature defending player controls from combat. Creatures it was blocking that had become blocked by only that creature this combat become unblocked. You may have it block an attacking creature of your choice."
-"normal", "5.0", "['Red']", "['R']", "None", "['Creature']", "['Elemental']", "Uncommon", "5", "4", "None"
-"normal", "1.0", "['Red']", "['R']", "None", "['Sorcery']", "None", "Common", "None", "None", "This spell costs {1} more to cast for each target beyond the first.
+"Fire Elemental", "5.0", "['Red']", "['R']", "Uncommon", "Creature — Elemental", "None", "['Creature']", "['Elemental']", "5", "4", "None"
+"Fireball", "1.0", "['Red']", "['R']", "Common", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "This spell costs {1} more to cast for each target beyond the first.
 Fireball deals X damage divided evenly, rounded down, among any number of targets."
-"normal", "1.0", "['Red']", "['R']", "None", "['Enchantment']", "['Aura']", "Common", "None", "None", "Enchant creature
+"Firebreathing", "1.0", "['Red']", "['R']", "Common", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 {R}: Enchanted creature gets +1/+0 until end of turn."
-"normal", "4.0", "['Red']", "['R']", "None", "['Sorcery']", "None", "Uncommon", "None", "None", "Destroy all Plains."
-"normal", "2.0", "['Red']", "['R']", "None", "['Instant']", "None", "Rare", "None", "None", "Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy."
-"normal", "1.0", "['Red']", "['R']", "None", "['Creature']", "['Goblin', 'Warrior']", "Uncommon", "1", "1", "{R}: Goblin Balloon Brigade gains flying until end of turn."
-"normal", "3.0", "['Red']", "['R']", "None", "['Creature']", "['Goblin']", "Rare", "2", "2", "Other Goblins get +1/+1 and have mountainwalk."
-"normal", "3.0", "['Red']", "['R']", "None", "['Creature']", "['Gargoyle']", "Rare", "2", "2", "Flying
+"Flashfires", "4.0", "['Red']", "['R']", "Uncommon", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Destroy all Plains."
+"Fork", "2.0", "['Red']", "['R']", "Rare", "Instant", "None", "['Instant']", "None", "None", "None", "Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy."
+"Goblin Balloon Brigade", "1.0", "['Red']", "['R']", "Uncommon", "Creature — Goblin Warrior", "None", "['Creature']", "['Goblin', 'Warrior']", "1", "1", "{R}: Goblin Balloon Brigade gains flying until end of turn."
+"Goblin King", "3.0", "['Red']", "['R']", "Rare", "Creature — Goblin", "None", "['Creature']", "['Goblin']", "2", "2", "Other Goblins get +1/+1 and have mountainwalk."
+"Granite Gargoyle", "3.0", "['Red']", "['R']", "Rare", "Creature — Gargoyle", "None", "['Creature']", "['Gargoyle']", "2", "2", "Flying
 {R}: Granite Gargoyle gets +0/+1 until end of turn."
-"normal", "3.0", "['Red']", "['R']", "None", "['Creature']", "['Ogre']", "Common", "2", "2", "None"
-"normal", "4.0", "['Red']", "['R']", "None", "['Creature']", "['Giant']", "Common", "3", "3", "None"
-"normal", "3.0", "['Red']", "['R']", "None", "['Creature']", "['Minotaur']", "Common", "2", "3", "None"
-"normal", "2.0", "['Red']", "['R']", "None", "['Creature']", "['Orc']", "Common", "2", "2", "Ironclaw Orcs can't block creatures with power 2 or greater."
-"normal", "4.0", "['Red']", "['R']", "None", "['Creature']", "['Human', 'Barbarian']", "Uncommon", "*", "*", "Keldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control."
-"normal", "1.0", "['Red']", "['R']", "None", "['Instant']", "None", "Common", "None", "None", "Lightning Bolt deals 3 damage to any target."
-"normal", "3.0", "['Red']", "['R']", "None", "['Enchantment']", "None", "Rare", "None", "None", "Whenever a player taps a land for mana, that player adds one mana of any type that land produced."
-"normal", "4.0", "['Red']", "['R']", "None", "['Enchantment']", "None", "Rare", "None", "None", "Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player."
-"normal", "1.0", "['Red']", "['R']", "None", "['Creature']", "['Goblin']", "Common", "1", "1", "None"
-"normal", "3.0", "['Red']", "['R']", "None", "['Creature']", "['Orc', 'Warrior']", "Uncommon", "1", "3", "{T}: Orcish Artillery deals 2 damage to any target and 3 damage to you."
-"normal", "4.0", "['Red']", "['R']", "None", "['Enchantment']", "None", "Uncommon", "None", "None", "Attacking creatures you control get +1/+0."
-"normal", "2.0", "['Red']", "['R']", "None", "['Enchantment']", "None", "Rare", "None", "None", "At the beginning of each player's upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands they controlled at the beginning of this turn."
-"normal", "2.0", "['Red']", "['R']", "None", "['Enchantment']", "None", "Rare", "None", "None", "Whenever one or more creatures you control attack, each defending player divides all creatures without flying they control into a "left" pile and a "right" pile. Then, for each attacking creature you control, choose "left" or "right." That creature can't be blocked this combat except by creatures with flying and creatures in a pile with the chosen label."
-"normal", "1.0", "['Red']", "['R']", "None", "['Instant']", "None", "Common", "None", "None", "Choose one —
+"Gray Ogre", "3.0", "['Red']", "['R']", "Common", "Creature — Ogre", "None", "['Creature']", "['Ogre']", "2", "2", "None"
+"Hill Giant", "4.0", "['Red']", "['R']", "Common", "Creature — Giant", "None", "['Creature']", "['Giant']", "3", "3", "None"
+"Hurloon Minotaur", "3.0", "['Red']", "['R']", "Common", "Creature — Minotaur", "None", "['Creature']", "['Minotaur']", "2", "3", "None"
+"Ironclaw Orcs", "2.0", "['Red']", "['R']", "Common", "Creature — Orc", "None", "['Creature']", "['Orc']", "2", "2", "Ironclaw Orcs can't block creatures with power 2 or greater."
+"Keldon Warlord", "4.0", "['Red']", "['R']", "Uncommon", "Creature — Human Barbarian", "None", "['Creature']", "['Human', 'Barbarian']", "*", "*", "Keldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control."
+"Lightning Bolt", "1.0", "['Red']", "['R']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Lightning Bolt deals 3 damage to any target."
+"Mana Flare", "3.0", "['Red']", "['R']", "Rare", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "Whenever a player taps a land for mana, that player adds one mana of any type that land produced."
+"Manabarbs", "4.0", "['Red']", "['R']", "Rare", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player."
+"Mons's Goblin Raiders", "1.0", "['Red']", "['R']", "Common", "Creature — Goblin", "None", "['Creature']", "['Goblin']", "1", "1", "None"
+"Orcish Artillery", "3.0", "['Red']", "['R']", "Uncommon", "Creature — Orc Warrior", "None", "['Creature']", "['Orc', 'Warrior']", "1", "3", "{T}: Orcish Artillery deals 2 damage to any target and 3 damage to you."
+"Orcish Oriflamme", "4.0", "['Red']", "['R']", "Uncommon", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "Attacking creatures you control get +1/+0."
+"Power Surge", "2.0", "['Red']", "['R']", "Rare", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "At the beginning of each player's upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands they controlled at the beginning of this turn."
+"Raging River", "2.0", "['Red']", "['R']", "Rare", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "Whenever one or more creatures you control attack, each defending player divides all creatures without flying they control into a "left" pile and a "right" pile. Then, for each attacking creature you control, choose "left" or "right." That creature can't be blocked this combat except by creatures with flying and creatures in a pile with the chosen label."
+"Red Elemental Blast", "1.0", "['Red']", "['R']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Choose one —
 • Counter target blue spell.
 • Destroy target blue permanent."
-"normal", "4.0", "['Red']", "['R']", "None", "['Creature']", "['Bird']", "Rare", "3", "3", "Flying"
-"normal", "2.0", "['Red']", "['R']", "None", "['Creature']", "['Hydra']", "Rare", "0", "0", "Rock Hydra enters the battlefield with X +1/+1 counters on it.
+"Roc of Kher Ridges", "4.0", "['Red']", "['R']", "Rare", "Creature — Bird", "None", "['Creature']", "['Bird']", "3", "3", "Flying"
+"Rock Hydra", "2.0", "['Red']", "['R']", "Rare", "Creature — Hydra", "None", "['Creature']", "['Hydra']", "0", "0", "Rock Hydra enters the battlefield with X +1/+1 counters on it.
 For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage.
 {R}: Prevent the next 1 damage that would be dealt to Rock Hydra this turn.
 {R}{R}{R}: Put a +1/+1 counter on Rock Hydra. Activate only during your upkeep."
-"normal", "3.0", "['Red']", "['B', 'R']", "None", "['Creature']", "['Troll']", "Rare", "2", "2", "Sedge Troll gets +1/+1 as long as you control a Swamp.
+"Sedge Troll", "3.0", "['Red']", "['B', 'R']", "Rare", "Creature — Troll", "None", "['Creature']", "['Troll']", "2", "2", "Sedge Troll gets +1/+1 as long as you control a Swamp.
 {B}: Regenerate Sedge Troll."
-"normal", "2.0", "['Red']", "['R']", "None", "['Instant']", "None", "Common", "None", "None", "Destroy target artifact."
-"normal", "6.0", "['Red']", "['R']", "None", "['Creature']", "['Dragon']", "Rare", "5", "5", "Flying (This creature can't be blocked except by creatures with flying or reach.)
+"Shatter", "2.0", "['Red']", "['R']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Destroy target artifact."
+"Shivan Dragon", "6.0", "['Red']", "['R']", "Rare", "Creature — Dragon", "None", "['Creature']", "['Dragon']", "5", "5", "Flying (This creature can't be blocked except by creatures with flying or reach.)
 {R}: Shivan Dragon gets +1/+0 until end of turn."
-"normal", "2.0", "['Red']", "['R']", "None", "['Enchantment']", "None", "Rare", "None", "None", "Players can't untap more than one creature during their untap steps."
-"normal", "4.0", "['Red']", "['R']", "None", "['Creature']", "['Giant']", "Uncommon", "3", "4", "{T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step."
-"normal", "3.0", "['Red']", "['R']", "None", "['Sorcery']", "None", "Common", "None", "None", "Destroy target land."
-"normal", "1.0", "['Red']", "['R']", "None", "['Instant']", "None", "Uncommon", "None", "None", "Destroy target Wall. It can't be regenerated."
-"normal", "5.0", "['Red']", "['R']", "None", "['Creature']", "['Giant']", "Rare", "4", "4", "Trample
+"Smoke", "2.0", "['Red']", "['R']", "Rare", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "Players can't untap more than one creature during their untap steps."
+"Stone Giant", "4.0", "['Red']", "['R']", "Uncommon", "Creature — Giant", "None", "['Creature']", "['Giant']", "3", "4", "{T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step."
+"Stone Rain", "3.0", "['Red']", "['R']", "Common", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Destroy target land."
+"Tunnel", "1.0", "['Red']", "['R']", "Uncommon", "Instant", "None", "['Instant']", "None", "None", "None", "Destroy target Wall. It can't be regenerated."
+"Two-Headed Giant of Foriys", "5.0", "['Red']", "['R']", "Rare", "Creature — Giant", "None", "['Creature']", "['Giant']", "4", "4", "Trample
 Two-Headed Giant of Foriys can block an additional creature each combat."
-"normal", "3.0", "['Red']", "['R']", "None", "['Creature']", "['Troll']", "Uncommon", "2", "2", "{R}: Regenerate Uthden Troll."
-"normal", "3.0", "['Red']", "['R']", "None", "['Creature']", "['Wall']", "Uncommon", "0", "5", "Defender (This creature can't attack.)
+"Uthden Troll", "3.0", "['Red']", "['R']", "Uncommon", "Creature — Troll", "None", "['Creature']", "['Troll']", "2", "2", "{R}: Regenerate Uthden Troll."
+"Wall of Fire", "3.0", "['Red']", "['R']", "Uncommon", "Creature — Wall", "None", "['Creature']", "['Wall']", "0", "5", "Defender (This creature can't attack.)
 {R}: Wall of Fire gets +1/+0 until end of turn."
-"normal", "3.0", "['Red']", "['R']", "None", "['Creature']", "['Wall']", "Uncommon", "0", "8", "Defender (This creature can't attack.)"
-"normal", "3.0", "['Red']", "['R']", "None", "['Sorcery']", "None", "Rare", "None", "None", "Each player discards their hand, then draws seven cards."
-"normal", "2.0", "['Green']", "['G']", "None", "['Enchantment']", "['Aura']", "Rare", "None", "None", "Enchant creature
+"Wall of Stone", "3.0", "['Red']", "['R']", "Uncommon", "Creature — Wall", "None", "['Creature']", "['Wall']", "0", "8", "Defender (This creature can't attack.)"
+"Wheel of Fortune", "3.0", "['Red']", "['R']", "Rare", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Each player discards their hand, then draws seven cards."
+"Aspect of Wolf", "2.0", "['Green']", "['G']", "Rare", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up."
-"normal", "1.0", "['Green']", "['G']", "None", "['Instant']", "None", "Uncommon", "None", "None", "Cast this spell only before the combat damage step.
+"Berserk", "1.0", "['Green']", "['G']", "Uncommon", "Instant", "None", "['Instant']", "None", "None", "None", "Cast this spell only before the combat damage step.
 Target creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn."
-"normal", "1.0", "['Green']", "['G']", "None", "['Creature']", "['Bird']", "Rare", "0", "1", "Flying
+"Birds of Paradise", "1.0", "['Green']", "['G']", "Rare", "Creature — Bird", "None", "['Creature']", "['Bird']", "0", "1", "Flying
 {T}: Add one mana of any color."
-"normal", "1.0", "['Green']", "['G']", "None", "['Instant']", "None", "Uncommon", "None", "None", "Cast this spell only during your declare attackers step.
+"Camouflage", "1.0", "['Green']", "['G']", "Uncommon", "Instant", "None", "['Instant']", "None", "None", "None", "Cast this spell only during your declare attackers step.
 This turn, instead of declaring blockers, each defending player chooses any number of creatures they control and divides them into a number of piles equal to the number of attacking creatures for whom that player is the defending player. Creatures those players control that can block additional creatures may likewise be put into additional piles. Assign each pile to a different one of those attacking creatures at random. Each creature in a pile that can block the creature that pile is assigned to does so. (Piles can be empty.)"
-"normal", "2.0", "['Green']", "['G']", "None", "['Sorcery']", "None", "Uncommon", "None", "None", "Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {C}."
-"normal", "5.0", "['Green']", "['G']", "None", "['Creature']", "['Cockatrice']", "Rare", "2", "4", "Flying
+"Channel", "2.0", "['Green']", "['G']", "Uncommon", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {C}."
+"Cockatrice", "5.0", "['Green']", "['G']", "Rare", "Creature — Cockatrice", "None", "['Creature']", "['Cockatrice']", "2", "4", "Flying
 Whenever Cockatrice blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat."
-"normal", "6.0", "['Green']", "['G']", "None", "['Creature']", "['Wurm']", "Common", "6", "4", "None"
-"normal", "2.0", "['Green']", "['G']", "None", "['Creature']", "['Elf', 'Archer']", "Rare", "2", "1", "First strike"
-"normal", "1.0", "['Green']", "['G']", "None", "['Enchantment']", "None", "Rare", "None", "None", "You may play any number of lands on each of your turns.
+"Craw Wurm", "6.0", "['Green']", "['G']", "Common", "Creature — Wurm", "None", "['Creature']", "['Wurm']", "6", "4", "None"
+"Elvish Archers", "2.0", "['Green']", "['G']", "Rare", "Creature — Elf Archer", "None", "['Creature']", "['Elf', 'Archer']", "2", "1", "First strike"
+"Fastbond", "1.0", "['Green']", "['G']", "Rare", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "You may play any number of lands on each of your turns.
 Whenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you."
-"normal", "1.0", "['Green']", "['G']", "None", "['Instant']", "None", "Common", "None", "None", "Prevent all combat damage that would be dealt this turn."
-"normal", "6.0", "['Green']", "['G']", "None", "['Creature']", "['Elemental']", "Rare", "8", "8", "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+"Fog", "1.0", "['Green']", "['G']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Prevent all combat damage that would be dealt this turn."
+"Force of Nature", "6.0", "['Green']", "['G']", "Rare", "Creature — Elemental", "None", "['Creature']", "['Elemental']", "8", "8", "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
 At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}."
-"normal", "4.0", "['Green']", "['G']", "None", "['Creature']", "['Fungus', 'Dinosaur']", "Rare", "2", "2", "Whenever Fungusaur is dealt damage, put a +1/+1 counter on it."
-"normal", "6.0", "['Green']", "['G']", "None", "['Creature']", "['Avatar']", "Rare", "*", "*", "As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.
+"Fungusaur", "4.0", "['Green']", "['G']", "Rare", "Creature — Fungus Dinosaur", "None", "['Creature']", "['Fungus', 'Dinosaur']", "2", "2", "Whenever Fungusaur is dealt damage, put a +1/+1 counter on it."
+"Gaea's Liege", "6.0", "['Green']", "['G']", "Rare", "Creature — Avatar", "None", "['Creature']", "['Avatar']", "*", "*", "As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.
 {T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield."
-"normal", "1.0", "['Green']", "['G']", "None", "['Instant']", "None", "Common", "None", "None", "Target creature gets +3/+3 until end of turn."
-"normal", "4.0", "['Green']", "['G']", "None", "['Creature']", "['Spider']", "Common", "2", "4", "Reach (This creature can block creatures with flying.)"
-"normal", "2.0", "['Green']", "['G']", "None", "['Creature']", "['Bear']", "Common", "2", "2", "None"
-"normal", "1.0", "['Green']", "['G']", "None", "['Sorcery']", "None", "Uncommon", "None", "None", "Hurricane deals X damage to each creature with flying and each player."
-"normal", "3.0", "['Green']", "['G']", "None", "['Sorcery']", "None", "Uncommon", "None", "None", "Destroy target land."
-"normal", "1.0", "['Green']", "['G']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant creature
+"Giant Growth", "1.0", "['Green']", "['G']", "Common", "Instant", "None", "['Instant']", "None", "None", "None", "Target creature gets +3/+3 until end of turn."
+"Giant Spider", "4.0", "['Green']", "['G']", "Common", "Creature — Spider", "None", "['Creature']", "['Spider']", "2", "4", "Reach (This creature can block creatures with flying.)"
+"Grizzly Bears", "2.0", "['Green']", "['G']", "Common", "Creature — Bear", "None", "['Creature']", "['Bear']", "2", "2", "None"
+"Hurricane", "1.0", "['Green']", "['G']", "Uncommon", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Hurricane deals X damage to each creature with flying and each player."
+"Ice Storm", "3.0", "['Green']", "['G']", "Uncommon", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Destroy target land."
+"Instill Energy", "1.0", "['Green']", "['G']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 Enchanted creature can attack as though it had haste.
 {0}: Untap enchanted creature. Activate only during your turn and only once each turn."
-"normal", "5.0", "['Green']", "['G']", "None", "['Creature']", "['Treefolk']", "Common", "3", "5", "None"
-"normal", "3.0", "['Green']", "['G']", "None", "['Enchantment']", "['Aura']", "Rare", "None", "None", "Enchant land
+"Ironroot Treefolk", "5.0", "['Green']", "['G']", "Common", "Creature — Treefolk", "None", "['Creature']", "['Treefolk']", "3", "5", "None"
+"Kudzu", "3.0", "['Green']", "['G']", "Rare", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant land
 When enchanted land becomes tapped, destroy it. That land's controller may attach Kudzu to a land of their choice."
-"normal", "3.0", "['Green']", "['G']", "None", "['Creature']", "['Human', 'Druid']", "Uncommon", "1", "1", "{T}: Untap target land."
-"normal", "2.0", "['Green']", "['G']", "None", "['Enchantment']", "None", "Uncommon", "None", "None", "{G}{G}: Counter target black spell."
-"normal", "1.0", "['Green']", "['G']", "None", "['Instant']", "None", "Rare", "None", "None", "Target spell or permanent becomes green. (Mana symbols on that permanent remain unchanged.)"
-"normal", "1.0", "['Green']", "['G']", "None", "['Enchantment']", "['Aura']", "Rare", "None", "None", "Enchant artifact
+"Ley Druid", "3.0", "['Green']", "['G']", "Uncommon", "Creature — Human Druid", "None", "['Creature']", "['Human', 'Druid']", "1", "1", "{T}: Untap target land."
+"Lifeforce", "2.0", "['Green']", "['G']", "Uncommon", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "{G}{G}: Counter target black spell."
+"Lifelace", "1.0", "['Green']", "['G']", "Rare", "Instant", "None", "['Instant']", "None", "None", "None", "Target spell or permanent becomes green. (Mana symbols on that permanent remain unchanged.)"
+"Living Artifact", "1.0", "['Green']", "['G']", "Rare", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant artifact
 Whenever you're dealt damage, put that many vitality counters on Living Artifact.
 At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life."
-"normal", "4.0", "['Green']", "['G']", "None", "['Enchantment']", "None", "Rare", "None", "None", "All Forests are 1/1 creatures that are still lands."
-"normal", "1.0", "['Green']", "['G']", "None", "['Creature']", "['Elf', 'Druid']", "Common", "1", "1", "{T}: Add {G}."
-"normal", "3.0", "['Green']", "['G']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant creature
+"Living Lands", "4.0", "['Green']", "['G']", "Rare", "Enchantment", "None", "['Enchantment']", "None", "None", "None", "All Forests are 1/1 creatures that are still lands."
+"Llanowar Elves", "1.0", "['Green']", "['G']", "Common", "Creature — Elf Druid", "None", "['Creature']", "['Elf', 'Druid']", "1", "1", "{T}: Add {G}."
+"Lure", "3.0", "['Green']", "['G']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 All creatures able to block enchanted creature do so."
-"normal", "1.0", "['Green']", "['G']", "None", "['Instant']", "None", "Rare", "None", "None", "Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle."
-"normal", "2.0", "['Green']", "['G']", "None", "['Enchantment']", "['Aura']", "Common", "None", "None", "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+"Natural Selection", "1.0", "['Green']", "['G']", "Rare", "Instant", "None", "['Instant']", "None", "None", "None", "Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle."
+"Regeneration", "2.0", "['Green']", "['G']", "Common", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 {G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
-"normal", "2.0", "['Green']", "['G']", "None", "['Sorcery']", "None", "Uncommon", "None", "None", "Return target card from your graveyard to your hand."
-"normal", "1.0", "['Green']", "['G']", "None", "['Creature']", "['Faerie']", "Common", "1", "1", "Flying"
-"normal", "1.0", "['Green']", "['G']", "None", "['Creature']", "['Nymph', 'Dryad']", "Common", "1", "1", "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)"
-"normal", "1.0", "['Green']", "['G']", "None", "['Sorcery']", "None", "Common", "None", "None", "Target player gains X life."
-"normal", "5.0", "['Green']", "['G']", "None", "['Creature']", "['Basilisk']", "Uncommon", "2", "4", "Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat."
-"normal", "1.0", "['Green']", "['G']", "None", "['Creature']", "['Wolf']", "Rare", "1", "1", "Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
-"normal", "3.0", "['Green']", "['G']", "None", "['Sorcery']", "None", "Common", "None", "None", "Destroy all enchantments."
-"normal", "4.0", "['Green']", "['G']", "None", "['Sorcery']", "None", "Uncommon", "None", "None", "Destroy all Islands."
-"normal", "3.0", "['Green']", "['G']", "None", "['Creature']", "['Human', 'Druid']", "Rare", "0", "2", "Whenever you cast an enchantment spell, you may draw a card."
-"normal", "3.0", "['Green']", "['G']", "None", "['Creature']", "['Plant', 'Wall']", "Uncommon", "2", "3", "Defender (This creature can't attack.)
+"Regrowth", "2.0", "['Green']", "['G']", "Uncommon", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Return target card from your graveyard to your hand."
+"Scryb Sprites", "1.0", "['Green']", "['G']", "Common", "Creature — Faerie", "None", "['Creature']", "['Faerie']", "1", "1", "Flying"
+"Shanodin Dryads", "1.0", "['Green']", "['G']", "Common", "Creature — Nymph Dryad", "None", "['Creature']", "['Nymph', 'Dryad']", "1", "1", "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)"
+"Stream of Life", "1.0", "['Green']", "['G']", "Common", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Target player gains X life."
+"Thicket Basilisk", "5.0", "['Green']", "['G']", "Uncommon", "Creature — Basilisk", "None", "['Creature']", "['Basilisk']", "2", "4", "Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat."
+"Timber Wolves", "1.0", "['Green']", "['G']", "Rare", "Creature — Wolf", "None", "['Creature']", "['Wolf']", "1", "1", "Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
+"Tranquility", "3.0", "['Green']", "['G']", "Common", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Destroy all enchantments."
+"Tsunami", "4.0", "['Green']", "['G']", "Uncommon", "Sorcery", "None", "['Sorcery']", "None", "None", "None", "Destroy all Islands."
+"Verduran Enchantress", "3.0", "['Green']", "['G']", "Rare", "Creature — Human Druid", "None", "['Creature']", "['Human', 'Druid']", "0", "2", "Whenever you cast an enchantment spell, you may draw a card."
+"Wall of Brambles", "3.0", "['Green']", "['G']", "Uncommon", "Creature — Plant Wall", "None", "['Creature']", "['Plant', 'Wall']", "2", "3", "Defender (This creature can't attack.)
 {G}: Regenerate Wall of Brambles."
-"normal", "3.0", "['Green']", "['G']", "None", "['Creature']", "['Wall']", "Uncommon", "0", "7", "Defender (This creature can't attack.)"
-"normal", "1.0", "['Green']", "['G']", "None", "['Creature']", "['Wall']", "Common", "0", "3", "Defender (This creature can't attack.)"
-"normal", "3.0", "['Green']", "['G']", "None", "['Enchantment']", "['Aura']", "Uncommon", "None", "None", "Enchant creature
+"Wall of Ice", "3.0", "['Green']", "['G']", "Uncommon", "Creature — Wall", "None", "['Creature']", "['Wall']", "0", "7", "Defender (This creature can't attack.)"
+"Wall of Wood", "1.0", "['Green']", "['G']", "Common", "Creature — Wall", "None", "['Creature']", "['Wall']", "0", "3", "Defender (This creature can't attack.)"
+"Wanderlust", "3.0", "['Green']", "['G']", "Uncommon", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature
 At the beginning of the upkeep of enchanted creature's controller, Wanderlust deals 1 damage to that player."
-"normal", "4.0", "['Green']", "['G']", "None", "['Creature']", "['Elephant']", "Common", "3", "3", "Trample"
-"normal", "1.0", "['Green']", "['G']", "None", "['Enchantment']", "['Aura']", "Rare", "None", "None", "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+"War Mammoth", "4.0", "['Green']", "['G']", "Common", "Creature — Elephant", "None", "['Creature']", "['Elephant']", "3", "3", "Trample"
+"Web", "1.0", "['Green']", "['G']", "Rare", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 Enchanted creature gets +0/+2 and has reach. (It can block creatures with flying.)"
-"normal", "1.0", "['Green']", "['G']", "None", "['Enchantment']", "['Aura']", "Common", "None", "None", "Enchant land
+"Wild Growth", "1.0", "['Green']", "['G']", "Common", "Enchantment — Aura", "None", "['Enchantment']", "['Aura']", "None", "None", "Enchant land
 Whenever enchanted land is tapped for mana, its controller adds an additional {G}."
-"normal", "2.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller."
-"normal", "3.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "Basalt Monolith doesn't untap during your untap step.
+"Ankh of Mishra", "2.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller."
+"Basalt Monolith", "3.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "Basalt Monolith doesn't untap during your untap step.
 {T}: Add {C}{C}{C}.
 {3}: Untap Basalt Monolith."
-"normal", "0.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "{T}, Sacrifice Black Lotus: Add three mana of any one color."
-"normal", "1.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "As Black Vise enters the battlefield, choose an opponent.
+"Black Lotus", "0.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "{T}, Sacrifice Black Lotus: Add three mana of any one color."
+"Black Vise", "1.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "As Black Vise enters the battlefield, choose an opponent.
 At the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4."
-"normal", "3.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "{2}, {T}: Add one mana of any color."
-"normal", "2.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "{1}, {T}: If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least once during the flip, destroy all nontoken permanents it touches. Then destroy Chaos Orb."
-"normal", "6.0", "None", "None", "None", "['Artifact', 'Creature']", "['Beast']", "Rare", "0", "4", "Clockwork Beast enters the battlefield with seven +1/+0 counters on it.
+"Celestial Prism", "3.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "{2}, {T}: Add one mana of any color."
+"Chaos Orb", "2.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "{1}, {T}: If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least once during the flip, destroy all nontoken permanents it touches. Then destroy Chaos Orb."
+"Clockwork Beast", "6.0", "None", "None", "Rare", "Artifact Creature — Beast", "None", "['Artifact', 'Creature']", "['Beast']", "0", "4", "Clockwork Beast enters the battlefield with seven +1/+0 counters on it.
 At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.
 {X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate only during your upkeep."
-"normal", "4.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "{3}, {T}: Prevent the next 2 damage that would be dealt to you this turn."
-"normal", "2.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "At the beginning of each player's upkeep, Copper Tablet deals 1 damage to that player."
-"normal", "1.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "Whenever a player casts a blue spell, you may pay {1}. If you do, you gain 1 life."
-"normal", "4.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "{2}, {T}: Put a mire counter on target non-Swamp land. That land is a Swamp for as long as it has a mire counter on it. Activate only during your upkeep.
+"Conservator", "4.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "{3}, {T}: Prevent the next 2 damage that would be dealt to you this turn."
+"Copper Tablet", "2.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "At the beginning of each player's upkeep, Copper Tablet deals 1 damage to that player."
+"Crystal Rod", "1.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "Whenever a player casts a blue spell, you may pay {1}. If you do, you gain 1 life."
+"Cyclopean Tomb", "4.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "{2}, {T}: Put a mire counter on target non-Swamp land. That land is a Swamp for as long as it has a mire counter on it. Activate only during your upkeep.
 When Cyclopean Tomb is put into a graveyard from the battlefield, at the beginning of each of your upkeeps for the rest of the game, remove all mire counters from a land that a mire counter was put onto with Cyclopean Tomb but that a mire counter has not been removed from with Cyclopean Tomb."
-"normal", "4.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller."
-"normal", "3.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "{3}, {T}: Target player discards a card. Activate only during your turn."
-"normal", "3.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "{1}: The next time an unblocked creature of your choice would deal combat damage to you this turn, prevent all but 1 of that damage."
-"normal", "4.0", "None", "['R']", "None", "['Artifact']", "None", "Rare", "None", "None", "Red creatures get +1/+1.
+"Dingus Egg", "4.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller."
+"Disrupting Scepter", "3.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "{3}, {T}: Target player discards a card. Activate only during your turn."
+"Forcefield", "3.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "{1}: The next time an unblocked creature of your choice would deal combat damage to you this turn, prevent all but 1 of that damage."
+"Gauntlet of Might", "4.0", "None", "['R']", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "Red creatures get +1/+1.
 Whenever a Mountain is tapped for mana, its controller adds an additional {R}."
-"normal", "1.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "{T}: Look at target player's hand."
-"normal", "1.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "{1}, {T}: Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
-"normal", "2.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card."
-"normal", "4.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "{1}, {T}: Tap target artifact, creature, or land."
-"normal", "2.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "{X}: You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on {X}. If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate only as a sorcery."
-"normal", "1.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "Whenever a player casts a red spell, you may pay {1}. If you do, you gain 1 life."
-"normal", "1.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life."
-"normal", "4.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "{1}: The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead."
-"normal", "4.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "{2}: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate only during combat."
-"normal", "4.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "{4}, {T}: Draw a card."
-"normal", "4.0", "None", "None", "None", "['Artifact', 'Creature']", "['Juggernaut']", "Uncommon", "5", "3", "Juggernaut attacks each combat if able.
+"Glasses of Urza", "1.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "{T}: Look at target player's hand."
+"Helm of Chatzuk", "1.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "{1}, {T}: Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
+"Howling Mine", "2.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card."
+"Icy Manipulator", "4.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "{1}, {T}: Tap target artifact, creature, or land."
+"Illusionary Mask", "2.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "{X}: You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on {X}. If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate only as a sorcery."
+"Iron Star", "1.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "Whenever a player casts a red spell, you may pay {1}. If you do, you gain 1 life."
+"Ivory Cup", "1.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life."
+"Jade Monolith", "4.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "{1}: The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead."
+"Jade Statue", "4.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "{2}: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate only during combat."
+"Jayemdae Tome", "4.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "{4}, {T}: Draw a card."
+"Juggernaut", "4.0", "None", "None", "Uncommon", "Artifact Creature — Juggernaut", "None", "['Artifact', 'Creature']", "['Juggernaut']", "5", "3", "Juggernaut attacks each combat if able.
 Juggernaut can't be blocked by Walls."
-"normal", "4.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "All Swamps are 1/1 black creatures that are still lands."
-"normal", "1.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "You have no maximum hand size.
+"Kormus Bell", "4.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "All Swamps are 1/1 black creatures that are still lands."
+"Library of Leng", "1.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "You have no maximum hand size.
 If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard."
-"normal", "4.0", "None", "None", "None", "['Artifact', 'Creature']", "['Wall']", "Uncommon", "0", "6", "Defender (This creature can't attack.)
+"Living Wall", "4.0", "None", "None", "Uncommon", "Artifact Creature — Wall", "None", "['Artifact', 'Creature']", "['Wall']", "0", "6", "Defender (This creature can't attack.)
 {1}: Regenerate Living Wall."
-"normal", "1.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "Mana Vault doesn't untap during your untap step.
+"Mana Vault", "1.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "Mana Vault doesn't untap during your untap step.
 At the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault.
 At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you.
 {T}: Add {C}{C}{C}."
-"normal", "1.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "Creatures with power 3 or greater don't untap during their controllers' untap steps."
-"normal", "0.0", "None", "['G']", "None", "['Artifact']", "None", "Rare", "None", "None", "{T}: Add {G}."
-"normal", "0.0", "None", "['B']", "None", "['Artifact']", "None", "Rare", "None", "None", "{T}: Add {B}."
-"normal", "0.0", "None", "['W']", "None", "['Artifact']", "None", "Rare", "None", "None", "{T}: Add {W}."
-"normal", "0.0", "None", "['R']", "None", "['Artifact']", "None", "Rare", "None", "None", "{T}: Add {R}."
-"normal", "0.0", "None", "['U']", "None", "['Artifact']", "None", "Rare", "None", "None", "{T}: Add {U}."
-"normal", "4.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "Nevinyrral's Disk enters the battlefield tapped.
+"Meekstone", "1.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "Creatures with power 3 or greater don't untap during their controllers' untap steps."
+"Mox Emerald", "0.0", "None", "['G']", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "{T}: Add {G}."
+"Mox Jet", "0.0", "None", "['B']", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "{T}: Add {B}."
+"Mox Pearl", "0.0", "None", "['W']", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "{T}: Add {W}."
+"Mox Ruby", "0.0", "None", "['R']", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "{T}: Add {R}."
+"Mox Sapphire", "0.0", "None", "['U']", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "{T}: Add {U}."
+"Nevinyrral's Disk", "4.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "Nevinyrral's Disk enters the battlefield tapped.
 {1}, {T}: Destroy all artifacts, creatures, and enchantments."
-"normal", "6.0", "None", "None", "None", "['Artifact', 'Creature']", "['Golem']", "Uncommon", "4", "6", "None"
-"normal", "4.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "{3}, {T}: Rod of Ruin deals 1 damage to any target."
-"normal", "1.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "{T}: Add {C}{C}."
-"normal", "1.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "Whenever a creature dies, you may pay {1}. If you do, you gain 1 life."
-"normal", "3.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "You may spend white mana as though it were red mana."
-"normal", "5.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "{5}, {T}: Create a 1/1 colorless Insect artifact creature token with flying named Wasp. (It can't be blocked except by creatures with flying or reach.)"
-"normal", "1.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "Whenever a player casts a black spell, you may pay {1}. If you do, you gain 1 life."
-"normal", "2.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "Time Vault enters the battlefield tapped.
+"Obsianus Golem", "6.0", "None", "None", "Uncommon", "Artifact Creature — Golem", "None", "['Artifact', 'Creature']", "['Golem']", "4", "6", "None"
+"Rod of Ruin", "4.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "{3}, {T}: Rod of Ruin deals 1 damage to any target."
+"Sol Ring", "1.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "{T}: Add {C}{C}."
+"Soul Net", "1.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "Whenever a creature dies, you may pay {1}. If you do, you gain 1 life."
+"Sunglasses of Urza", "3.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "You may spend white mana as though it were red mana."
+"The Hive", "5.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "{5}, {T}: Create a 1/1 colorless Insect artifact creature token with flying named Wasp. (It can't be blocked except by creatures with flying or reach.)"
+"Throne of Bone", "1.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "Whenever a player casts a black spell, you may pay {1}. If you do, you gain 1 life."
+"Time Vault", "2.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "Time Vault enters the battlefield tapped.
 Time Vault doesn't untap during your untap step.
 If you would begin your turn while Time Vault is tapped, you may skip that turn instead. If you do, untap Time Vault.
 {T}: Take an extra turn after this one."
-"normal", "2.0", "None", "None", "None", "['Artifact']", "None", "Rare", "None", "None", "As long as Winter Orb is untapped, players can't untap more than one land during their untap steps."
-"normal", "1.0", "None", "None", "None", "['Artifact']", "None", "Uncommon", "None", "None", "Whenever a player casts a green spell, you may pay {1}. If you do, you gain 1 life."
-"normal", "0.0", "None", "['B', 'R']", "None", "['Land']", "['Swamp', 'Mountain']", "Rare", "None", "None", "({T}: Add {B} or {R}.)"
-"normal", "0.0", "None", "['B', 'G']", "None", "['Land']", "['Swamp', 'Forest']", "Rare", "None", "None", "({T}: Add {B} or {G}.)"
-"normal", "0.0", "None", "['R', 'W']", "None", "['Land']", "['Mountain', 'Plains']", "Rare", "None", "None", "({T}: Add {R} or {W}.)"
-"normal", "0.0", "None", "['G', 'W']", "None", "['Land']", "['Forest', 'Plains']", "Rare", "None", "None", "({T}: Add {G} or {W}.)"
-"normal", "0.0", "None", "['B', 'W']", "None", "['Land']", "['Plains', 'Swamp']", "Rare", "None", "None", "({T}: Add {W} or {B}.)"
-"normal", "0.0", "None", "['G', 'R']", "None", "['Land']", "['Mountain', 'Forest']", "Rare", "None", "None", "({T}: Add {R} or {G}.)"
-"normal", "0.0", "None", "['G', 'U']", "None", "['Land']", "['Forest', 'Island']", "Rare", "None", "None", "({T}: Add {G} or {U}.)"
-"normal", "0.0", "None", "['U', 'W']", "None", "['Land']", "['Plains', 'Island']", "Rare", "None", "None", "({T}: Add {W} or {U}.)"
-"normal", "0.0", "None", "['B', 'U']", "None", "['Land']", "['Island', 'Swamp']", "Rare", "None", "None", "({T}: Add {U} or {B}.)"
-"normal", "0.0", "None", "['W']", "['Basic']", "['Land']", "['Plains']", "Common", "None", "None", "({T}: Add {W}.)"
-"normal", "0.0", "None", "['W']", "['Basic']", "['Land']", "['Plains']", "Common", "None", "None", "({T}: Add {W}.)"
-"normal", "0.0", "None", "['U']", "['Basic']", "['Land']", "['Island']", "Common", "None", "None", "({T}: Add {U}.)"
-"normal", "0.0", "None", "['U']", "['Basic']", "['Land']", "['Island']", "Common", "None", "None", "({T}: Add {U}.)"
-"normal", "0.0", "None", "['B']", "['Basic']", "['Land']", "['Swamp']", "Common", "None", "None", "({T}: Add {B}.)"
-"normal", "0.0", "None", "['B']", "['Basic']", "['Land']", "['Swamp']", "Common", "None", "None", "({T}: Add {B}.)"
-"normal", "0.0", "None", "['R']", "['Basic']", "['Land']", "['Mountain']", "Common", "None", "None", "({T}: Add {R}.)"
-"normal", "0.0", "None", "['R']", "['Basic']", "['Land']", "['Mountain']", "Common", "None", "None", "({T}: Add {R}.)"
-"normal", "0.0", "None", "['G']", "['Basic']", "['Land']", "['Forest']", "Common", "None", "None", "({T}: Add {G}.)"
-"normal", "0.0", "None", "['G']", "['Basic']", "['Land']", "['Forest']", "Common", "None", "None", "({T}: Add {G}.)"
+"Winter Orb", "2.0", "None", "None", "Rare", "Artifact", "None", "['Artifact']", "None", "None", "None", "As long as Winter Orb is untapped, players can't untap more than one land during their untap steps."
+"Wooden Sphere", "1.0", "None", "None", "Uncommon", "Artifact", "None", "['Artifact']", "None", "None", "None", "Whenever a player casts a green spell, you may pay {1}. If you do, you gain 1 life."
+"Badlands", "0.0", "None", "['B', 'R']", "Rare", "Land — Swamp Mountain", "None", "['Land']", "['Swamp', 'Mountain']", "None", "None", "({T}: Add {B} or {R}.)"
+"Bayou", "0.0", "None", "['B', 'G']", "Rare", "Land — Swamp Forest", "None", "['Land']", "['Swamp', 'Forest']", "None", "None", "({T}: Add {B} or {G}.)"
+"Plateau", "0.0", "None", "['R', 'W']", "Rare", "Land — Mountain Plains", "None", "['Land']", "['Mountain', 'Plains']", "None", "None", "({T}: Add {R} or {W}.)"
+"Savannah", "0.0", "None", "['G', 'W']", "Rare", "Land — Forest Plains", "None", "['Land']", "['Forest', 'Plains']", "None", "None", "({T}: Add {G} or {W}.)"
+"Scrubland", "0.0", "None", "['B', 'W']", "Rare", "Land — Plains Swamp", "None", "['Land']", "['Plains', 'Swamp']", "None", "None", "({T}: Add {W} or {B}.)"
+"Taiga", "0.0", "None", "['G', 'R']", "Rare", "Land — Mountain Forest", "None", "['Land']", "['Mountain', 'Forest']", "None", "None", "({T}: Add {R} or {G}.)"
+"Tropical Island", "0.0", "None", "['G', 'U']", "Rare", "Land — Forest Island", "None", "['Land']", "['Forest', 'Island']", "None", "None", "({T}: Add {G} or {U}.)"
+"Tundra", "0.0", "None", "['U', 'W']", "Rare", "Land — Plains Island", "None", "['Land']", "['Plains', 'Island']", "None", "None", "({T}: Add {W} or {U}.)"
+"Underground Sea", "0.0", "None", "['B', 'U']", "Rare", "Land — Island Swamp", "None", "['Land']", "['Island', 'Swamp']", "None", "None", "({T}: Add {U} or {B}.)"
+"Plains", "0.0", "None", "['W']", "Common", "Basic Land — Plains", "['Basic']", "['Land']", "['Plains']", "None", "None", "({T}: Add {W}.)"
+"Plains", "0.0", "None", "['W']", "Common", "Basic Land — Plains", "['Basic']", "['Land']", "['Plains']", "None", "None", "({T}: Add {W}.)"
+"Island", "0.0", "None", "['U']", "Common", "Basic Land — Island", "['Basic']", "['Land']", "['Island']", "None", "None", "({T}: Add {U}.)"
+"Island", "0.0", "None", "['U']", "Common", "Basic Land — Island", "['Basic']", "['Land']", "['Island']", "None", "None", "({T}: Add {U}.)"
+"Swamp", "0.0", "None", "['B']", "Common", "Basic Land — Swamp", "['Basic']", "['Land']", "['Swamp']", "None", "None", "({T}: Add {B}.)"
+"Swamp", "0.0", "None", "['B']", "Common", "Basic Land — Swamp", "['Basic']", "['Land']", "['Swamp']", "None", "None", "({T}: Add {B}.)"
+"Mountain", "0.0", "None", "['R']", "Common", "Basic Land — Mountain", "['Basic']", "['Land']", "['Mountain']", "None", "None", "({T}: Add {R}.)"
+"Mountain", "0.0", "None", "['R']", "Common", "Basic Land — Mountain", "['Basic']", "['Land']", "['Mountain']", "None", "None", "({T}: Add {R}.)"
+"Forest", "0.0", "None", "['G']", "Common", "Basic Land — Forest", "['Basic']", "['Land']", "['Forest']", "None", "None", "({T}: Add {G}.)"
+"Forest", "0.0", "None", "['G']", "Common", "Basic Land — Forest", "['Basic']", "['Land']", "['Forest']", "None", "None", "({T}: Add {G}.)"

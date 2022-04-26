@@ -1,0 +1,2 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Garruk the Slayer,0.0,"['Black', 'Green']","['B', 'G']",['Legendary'],['Planeswalker'],['Garruk'],Common,PPC1,None,None,20,[0]: Put a 2/2 green Wolf creature token onto the battlefield.\n[+4]: Target Wolf creature gets +1/+0 and gains deathtouch until end of turn.\n[−10]: Destroy target creature. Put loyalty counters on Garruk the Slayer equal to that creature's toughness.\n[−25]: Destroy all creatures Garruk the Slayer doesn't control.

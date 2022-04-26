@@ -1,0 +1,10 @@
+CMC: {4.0}
+Colors: {'Black'}
+ColorIdentity: {'B'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Phyrexian', 'Zombie', 'Mercenary', 'Assassin'}
+Rarity: {'Rare'}
+Power: {'2'}
+Toughness: {'2'}
+Loyalty: set()

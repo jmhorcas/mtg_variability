@@ -1,0 +1,89 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Myr Sire,2.0,None,None,None,"['Artifact', 'Creature']","['Phyrexian', 'Myr']",Common,TD2,1,1,None,"When Myr Sire dies, create a 1/1 colorless Phyrexian Myr artifact creature token."
+Fume Spitter,1.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Horror']",Common,TD2,1,1,None,Sacrifice Fume Spitter: Put a -1/-1 counter on target creature.
+Phyrexian Plaguelord,5.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Carrier']",Mythic,TD2,4,4,None,"{T}, Sacrifice Phyrexian Plaguelord: Target creature gets -4/-4 until end of turn.\nSacrifice a creature: Target creature gets -1/-1 until end of turn."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,TD2,None,None,None,({T}: Add {U}.)
+Vedalken Certarch,1.0,['Blue'],['U'],None,['Creature'],"['Vedalken', 'Wizard']",Common,TD2,1,1,None,"Metalcraft — {T}: Tap target artifact, creature, or land. Activate only if you control three or more artifacts."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,TD2,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,TD2,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,TD2,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,TD2,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,TD2,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,TD2,None,None,None,({T}: Add {B}.)
+Tainted Wood,0.0,None,"['B', 'G']",None,['Land'],None,Uncommon,TD2,None,None,None,{T}: Add {C}.\n{T}: Add {B} or {G}. Activate only if you control a Swamp.
+Black Sun's Zenith,2.0,['Black'],['B'],None,['Sorcery'],None,Rare,TD2,None,None,None,Put X -1/-1 counters on each creature. Shuffle Black Sun's Zenith into its owner's library.
+Memnite,0.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Uncommon,TD2,1,1,None,None
+One Dozen Eyes,6.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,TD2,None,None,None,Choose one —\n• Create a 5/5 green Beast creature token.\n• Create five 1/1 green Insect creature tokens.\nEntwine {G}{G}{G} (Choose both if you pay the entwine cost.)
+Ardent Recruit,1.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,TD2,1,1,None,Metalcraft — Ardent Recruit gets +2/+2 as long as you control three or more artifacts.
+Spread the Sickness,5.0,['Black'],['B'],None,['Sorcery'],None,Common,TD2,None,None,None,"Destroy target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+Triumph of the Hordes,4.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,TD2,None,None,None,"Until end of turn, creatures you control get +1/+1 and gain trample and infect. (Creatures with infect deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)"
+Reprocess,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,TD2,None,None,None,"Sacrifice any number of artifacts, creatures, and/or lands. Draw a card for each permanent sacrificed this way."
+Gold Myr,2.0,None,['W'],None,"['Artifact', 'Creature']",['Myr'],Common,TD2,1,1,None,{T}: Add {W}.
+Barter in Blood,4.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,TD2,None,None,None,Each player sacrifices two creatures.
+Trinket Mage,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Uncommon,TD2,2,2,None,"When Trinket Mage enters the battlefield, you may search your library for an artifact card with mana value 1 or less, reveal that card, put it into your hand, then shuffle."
+Diabolic Servitude,4.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,TD2,None,None,None,"When Diabolic Servitude enters the battlefield, return target creature card from your graveyard to the battlefield.\nWhen the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner's hand.\nWhen Diabolic Servitude leaves the battlefield, exile the creature put onto the battlefield with Diabolic Servitude."
+Grafted Exoskeleton,4.0,None,None,None,['Artifact'],['Equipment'],Uncommon,TD2,None,None,None,"Equipped creature gets +2/+2 and has infect. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhenever Grafted Exoskeleton becomes unattached from a permanent, sacrifice that permanent.\nEquip {2}"
+Putrefy,3.0,"['Black', 'Green']","['B', 'G']",None,['Instant'],None,Uncommon,TD2,None,None,None,Destroy target artifact or creature. It can't be regenerated.
+Silver Myr,2.0,None,['U'],None,"['Artifact', 'Creature']",['Myr'],Common,TD2,1,1,None,{T}: Add {U}.
+Morbid Plunder,3.0,['Black'],['B'],None,['Sorcery'],None,Common,TD2,None,None,None,Return up to two target creature cards from your graveyard to your hand.
+Myr Retriever,2.0,None,None,None,"['Artifact', 'Creature']",['Myr'],Uncommon,TD2,1,1,None,"When Myr Retriever dies, return another target artifact card from your graveyard to your hand."
+Phyrexian Altar,3.0,None,None,None,['Artifact'],None,Rare,TD2,None,None,None,Sacrifice a creature: Add one mana of any color.
+Platinum Angel,7.0,None,None,None,"['Artifact', 'Creature']",['Angel'],Mythic,TD2,4,4,None,Flying\nYou can't lose the game and your opponents can't win the game.
+Exhume,2.0,['Black'],['B'],None,['Sorcery'],None,Common,TD2,None,None,None,Each player puts a creature card from their graveyard onto the battlefield.
+Spawning Pit,2.0,None,None,None,['Artifact'],None,Uncommon,TD2,None,None,None,"Sacrifice a creature: Put a charge counter on Spawning Pit.\n{1}, Remove two charge counters from Spawning Pit: Create a 2/2 colorless Spawn artifact creature token."
+Mortarpod,2.0,None,None,None,['Artifact'],['Equipment'],Uncommon,TD2,None,None,None,"Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)\nEquipped creature gets +0/+1 and has ""Sacrifice this creature: This creature deals 1 damage to any target.""\nEquip {2}"
+Contagion Clasp,2.0,None,None,None,['Artifact'],None,Uncommon,TD2,None,None,None,"When Contagion Clasp enters the battlefield, put a -1/-1 counter on target creature.\n{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+Silent Arbiter,4.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Rare,TD2,1,5,None,No more than one creature can attack each combat.\nNo more than one creature can block each combat.
+Innocent Blood,1.0,['Black'],['B'],None,['Sorcery'],None,Common,TD2,None,None,None,Each player sacrifices a creature.
+Grand Architect,3.0,['Blue'],['U'],None,['Creature'],"['Vedalken', 'Artificer']",Rare,TD2,1,3,None,Other blue creatures you control get +1/+1.\n{U}: Target artifact creature becomes blue until end of turn.\nTap an untapped blue creature you control: Add {C}{C}. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+Protean Hulk,7.0,['Green'],['G'],None,['Creature'],['Beast'],Rare,TD2,6,6,None,"When Protean Hulk dies, search your library for any number of creature cards with total mana value 6 or less, put them onto the battlefield, then shuffle."
+Drooling Groodion,6.0,"['Black', 'Green']","['B', 'G']",None,['Creature'],['Beast'],Uncommon,TD2,4,3,None,"{2}{B}{G}, Sacrifice a creature: Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn."
+Glimmerpoint Stag,4.0,['White'],['W'],None,['Creature'],['Elk'],Uncommon,TD2,3,3,None,"Vigilance\nWhen Glimmerpoint Stag enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step."
+Phyrexian Juggernaut,6.0,None,None,None,"['Artifact', 'Creature']","['Phyrexian', 'Juggernaut']",Uncommon,TD2,5,5,None,Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nPhyrexian Juggernaut attacks each combat if able.
+Steel Wall,1.0,None,None,None,"['Artifact', 'Creature']",['Wall'],Common,TD2,0,4,None,Defender (This creature can't attack.)
+Plaguemaw Beast,5.0,['Green'],['G'],None,['Creature'],"['Phyrexian', 'Beast']",Uncommon,TD2,4,3,None,"{T}, Sacrifice a creature: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+Mitotic Slime,5.0,['Green'],['G'],None,['Creature'],['Ooze'],Rare,TD2,4,4,None,"When Mitotic Slime dies, create two 2/2 green Ooze creature tokens. They have ""When this creature dies, create two 1/1 green Ooze creature tokens."""
+Soul Snuffers,4.0,['Black'],['B'],None,['Creature'],"['Elemental', 'Shaman']",Uncommon,TD2,3,3,None,"When Soul Snuffers enters the battlefield, put a -1/-1 counter on each creature."
+Symbiotic Elf,4.0,['Green'],['G'],None,['Creature'],['Elf'],Common,TD2,2,2,None,"When Symbiotic Elf dies, create two 1/1 green Insect creature tokens."
+Argent Sphinx,4.0,['Blue'],['U'],None,['Creature'],['Sphinx'],Rare,TD2,4,3,None,Flying\nMetalcraft — {U}: Exile Argent Sphinx. Return it to the battlefield under your control at the beginning of the next end step. Activate only if you control three or more artifacts.
+Flesh-Eater Imp,4.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Imp']",Uncommon,TD2,2,2,None,Flying\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nSacrifice a creature: Flesh-Eater Imp gets +1/+1 until end of turn.
+Desecration Elemental,4.0,['Black'],['B'],None,['Creature'],['Elemental'],Rare,TD2,8,8,None,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever a player casts a spell, sacrifice a creature."
+Viridian Corrupter,3.0,['Green'],['G'],None,['Creature'],"['Phyrexian', 'Elf', 'Shaman']",Uncommon,TD2,2,2,None,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhen Viridian Corrupter enters the battlefield, destroy target artifact."
+Necroskitter,3.0,['Black'],['B'],None,['Creature'],['Elemental'],Rare,TD2,1,4,None,"Wither (This deals damage to creatures in the form of -1/-1 counters.)\nWhenever a creature an opponent controls with a -1/-1 counter on it dies, you may return that card to the battlefield under your control."
+Rot Wolf,3.0,['Green'],['G'],None,['Creature'],"['Phyrexian', 'Wolf']",Common,TD2,2,2,None,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhenever a creature dealt damage by Rot Wolf this turn dies, you may draw a card."
+Phyrexian Ghoul,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie']",Common,TD2,2,2,None,Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn.
+Viridian Emissary,2.0,['Green'],['G'],None,['Creature'],"['Phyrexian', 'Elf', 'Scout']",Common,TD2,2,1,None,"When Viridian Emissary dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+Plague Myr,2.0,None,None,None,"['Artifact', 'Creature']","['Phyrexian', 'Myr']",Uncommon,TD2,1,1,None,Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{T}: Add {C}.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,TD2,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,TD2,None,None,None,({T}: Add {U}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,TD2,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,TD2,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,TD2,None,None,None,({T}: Add {W}.)
+Terramorphic Expanse,0.0,None,None,None,['Land'],None,Common,TD2,None,None,None,"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+Seat of the Synod,0.0,None,['U'],None,"['Artifact', 'Land']",None,Common,TD2,None,None,None,(Seat of the Synod isn't a spell.)\n{T}: Add {U}.
+Forbidding Watchtower,0.0,None,['W'],None,['Land'],None,Uncommon,TD2,None,None,None,Forbidding Watchtower enters the battlefield tapped.\n{T}: Add {W}.\n{1}{W}: Forbidding Watchtower becomes a 1/5 white Soldier creature until end of turn. It's still a land.
+Coastal Tower,0.0,None,"['U', 'W']",None,['Land'],None,Uncommon,TD2,None,None,None,Coastal Tower enters the battlefield tapped.\n{T}: Add {W} or {U}.
+Blinkmoth Nexus,0.0,None,None,None,['Land'],None,Rare,TD2,None,None,None,"{T}: Add {C}.\n{1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land.\n{1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn."
+Ancient Den,0.0,None,['W'],None,"['Artifact', 'Land']",None,Common,TD2,None,None,None,{T}: Add {W}.
+White Sun's Zenith,3.0,['White'],['W'],None,['Instant'],None,Rare,TD2,None,None,None,Create X 2/2 white Cat creature tokens. Shuffle White Sun's Zenith into its owner's library.
+Stoic Rebuttal,3.0,['Blue'],['U'],None,['Instant'],None,Common,TD2,None,None,None,Metalcraft — This spell costs {1} less to cast if you control three or more artifacts.\nCounter target spell.
+Thirst for Knowledge,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,TD2,None,None,None,Draw three cards. Then discard two cards unless you discard an artifact card.
+Arrest,3.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,TD2,None,None,None,"Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated."
+Lumengrid Gargoyle,6.0,None,None,None,"['Artifact', 'Creature']",['Gargoyle'],Uncommon,TD2,4,4,None,Flying
+Purge,2.0,['White'],['W'],None,['Instant'],None,Uncommon,TD2,None,None,None,Destroy target artifact creature or black creature. It can't be regenerated.
+Turn the Tide,2.0,['Blue'],['U'],None,['Instant'],None,Common,TD2,None,None,None,Creatures your opponents control get -2/-0 until end of turn.
+Thunderstaff,3.0,None,None,None,['Artifact'],None,Uncommon,TD2,None,None,None,"As long as Thunderstaff is untapped, if a creature would deal combat damage to you, prevent 1 of that damage.\n{2}, {T}: Attacking creatures get +1/+0 until end of turn."
+Test of Faith,2.0,['White'],['W'],None,['Instant'],None,Uncommon,TD2,None,None,None,"Prevent the next 3 damage that would be dealt to target creature this turn. For each 1 damage prevented this way, put a +1/+1 counter on that creature."
+Viridian Claw,2.0,None,None,None,['Artifact'],['Equipment'],Uncommon,TD2,None,None,None,Equipped creature gets +1/+0 and has first strike.\nEquip {1}
+Talisman of Progress,2.0,None,"['U', 'W']",None,['Artifact'],None,Uncommon,TD2,None,None,None,{T}: Add {C}.\n{T}: Add {W} or {U}. Talisman of Progress deals 1 damage to you.
+Neurok Stealthsuit,2.0,None,['U'],None,['Artifact'],['Equipment'],Common,TD2,None,None,None,Equipped creature has shroud. (It can't be the target of spells or abilities.)\n{U}{U}: Attach Neurok Stealthsuit to target creature you control.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+Condemn,1.0,['White'],['W'],None,['Instant'],None,Uncommon,TD2,None,None,None,Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.
+Steelshaper's Gift,1.0,['White'],['W'],None,['Sorcery'],None,Uncommon,TD2,None,None,None,"Search your library for an Equipment card, reveal that card, put it into your hand, then shuffle."
+Dispatch,1.0,['White'],['W'],None,['Instant'],None,Uncommon,TD2,None,None,None,"Tap target creature.\nMetalcraft — If you control three or more artifacts, exile that creature."
+Darksteel Gargoyle,7.0,None,None,None,"['Artifact', 'Creature']",['Gargoyle'],Uncommon,TD2,3,3,None,"Flying\nIndestructible (Damage and effects that say ""destroy"" don't destroy this creature.)"
+Kuldotha Forgemaster,5.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Rare,TD2,3,5,None,"{T}, Sacrifice three artifacts: Search your library for an artifact card, put it onto the battlefield, then shuffle."
+Slagwurm Armor,1.0,None,None,None,['Artifact'],['Equipment'],Common,TD2,None,None,None,Equipped creature gets +0/+6.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Bonesplitter,1.0,None,None,None,['Artifact'],['Equipment'],Common,TD2,None,None,None,Equipped creature gets +2/+0.\nEquip {1}
+Spire Serpent,5.0,['Blue'],['U'],None,['Creature'],['Serpent'],Common,TD2,3,5,None,"Defender\nMetalcraft — As long as you control three or more artifacts, Spire Serpent gets +2/+2 and can attack as though it didn't have defender."
+Darksteel Sentinel,6.0,None,None,None,"['Artifact', 'Creature']",['Golem'],Uncommon,TD2,3,3,None,"Flash (You may cast this spell any time you could cast an instant.)\nVigilance\nIndestructible (Damage and effects that say ""destroy"" don't destroy this creature. If its toughness is 0 or less, it's still put into its owner's graveyard.)"
+Duplicant,6.0,None,None,None,"['Artifact', 'Creature']",['Shapeshifter'],Rare,TD2,2,4,None,"Imprint — When Duplicant enters the battlefield, you may exile target nontoken creature.\nAs long as a card exiled with Duplicant is a creature card, Duplicant has the power, toughness, and creature types of the last creature card exiled with Duplicant. It's still a Shapeshifter."

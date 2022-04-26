@@ -1,0 +1,12 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Enlightened Tutor,1.0,['White'],['W'],None,['Instant'],None,Rare,PAL00,None,None,None,"Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Rare,PAL00,None,None,None,({T}: Add {W}.)
+Uktabi Orangutan,3.0,['Green'],['G'],None,['Creature'],['Ape'],Rare,PAL00,2,2,None,"When Uktabi Orangutan enters the battlefield, destroy target artifact."
+Chill,2.0,['Blue'],['U'],None,['Enchantment'],None,Rare,PAL00,None,None,None,Red spells cost {2} more to cast.
+Pillage,3.0,['Red'],['R'],None,['Sorcery'],None,Rare,PAL00,None,None,None,Destroy target artifact or land. It can't be regenerated.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Rare,PAL00,None,None,None,({T}: Add {R}.)
+Duress,1.0,['Black'],['B'],None,['Sorcery'],None,Rare,PAL00,None,None,None,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Rare,PAL00,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Rare,PAL00,None,None,None,({T}: Add {B}.)
+Stupor,3.0,['Black'],['B'],None,['Sorcery'],None,Rare,PAL00,None,None,None,"Target opponent discards a card at random, then discards a card."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Rare,PAL00,None,None,None,({T}: Add {U}.)

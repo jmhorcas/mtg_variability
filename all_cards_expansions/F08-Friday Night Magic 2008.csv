@@ -1,0 +1,13 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Thirst for Knowledge,3.0,['Blue'],['U'],None,['Instant'],None,Rare,F08,None,None,None,Draw three cards. Then discard two cards unless you discard an artifact card.
+Desert,0.0,None,None,None,['Land'],['Desert'],Rare,F08,None,None,None,{T}: Add {C}.\n{T}: Desert deals 1 damage to target attacking creature. Activate only during the end of combat step.
+Eternal Witness,3.0,['Green'],['G'],None,['Creature'],"['Human', 'Shaman']",Rare,F08,2,1,None,"When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand."
+Remand,2.0,['Blue'],['U'],None,['Instant'],None,Rare,F08,None,None,None,"Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard.\nDraw a card."
+Resurrection,4.0,['White'],['W'],None,['Sorcery'],None,Rare,F08,None,None,None,Return target creature card from your graveyard to the battlefield.
+Pendelhaven,0.0,None,['G'],['Legendary'],['Land'],None,Rare,F08,None,None,None,{T}: Add {G}.\n{T}: Target 1/1 creature gets +1/+2 until end of turn.
+Tendrils of Agony,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,F08,None,None,None,"Target player loses 2 life and you gain 2 life.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
+Shrapnel Blast,2.0,['Red'],['R'],None,['Instant'],None,Rare,F08,None,None,None,"As an additional cost to cast this spell, sacrifice an artifact.\nShrapnel Blast deals 5 damage to any target."
+Isochron Scepter,2.0,None,None,None,['Artifact'],None,Rare,F08,None,None,None,"Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with mana value 2 or less from your hand.\n{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost."
+Wall of Roots,2.0,['Green'],['G'],None,['Creature'],"['Plant', 'Wall']",Rare,F08,0,5,None,Defender\nPut a -0/-1 counter on Wall of Roots: Add {G}. Activate only once each turn.
+Tormod's Crypt,0.0,None,None,None,['Artifact'],None,Rare,F08,None,None,None,"{T}, Sacrifice Tormod's Crypt: Exile target player's graveyard."
+Serrated Arrows,4.0,None,None,None,['Artifact'],None,Rare,F08,None,None,None,"Serrated Arrows enters the battlefield with three arrowhead counters on it.\nAt the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.\n{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature."

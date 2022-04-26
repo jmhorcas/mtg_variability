@@ -1,0 +1,10 @@
+CMC: set()
+Colors: {'Black', 'Green'}
+ColorIdentity: {'G', 'B'}
+Supertypes: {'Legendary'}
+Types: {'Planeswalker'}
+Subtypes: {'Garruk'}
+Rarity: {'Common'}
+Power: set()
+Toughness: set()
+Loyalty: {'20'}

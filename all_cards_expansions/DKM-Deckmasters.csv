@@ -1,0 +1,51 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Goblin Mutant,4.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Mutant']",Uncommon,DKM,5,3,None,Trample\nGoblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.\nGoblin Mutant can't block creatures with power 3 or greater.
+Death Spark,1.0,['Red'],['R'],None,['Instant'],None,Uncommon,DKM,None,None,None,"Death Spark deals 1 damage to any target.\nAt the beginning of your upkeep, if Death Spark is in your graveyard with a creature card directly above it, you may pay {1}. If you do, return Death Spark to your hand."
+Contagion,5.0,['Black'],['B'],None,['Instant'],None,Uncommon,DKM,None,None,None,You may pay 1 life and exile a black card from your hand rather than pay this spell's mana cost.\nDistribute two -2/-1 counters among one or two target creatures.
+Abyssal Specter,4.0,['Black'],['B'],None,['Creature'],['Specter'],Uncommon,DKM,2,3,None,"Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card."
+Foul Familiar,3.0,['Black'],['B'],None,['Creature'],['Spirit'],Common,DKM,3,1,None,"Foul Familiar can't block.\n{B}, Pay 1 life: Return Foul Familiar to its owner's hand."
+Dark Ritual,1.0,['Black'],['B'],None,['Instant'],None,Common,DKM,None,None,None,Add {B}{B}{B}.
+Balduvian Horde,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Barbarian']",Rare,DKM,5,5,None,"When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random."
+Dark Banishing,3.0,['Black'],['B'],None,['Instant'],None,Common,DKM,None,None,None,Destroy target nonblack creature. It can't be regenerated.
+Phantasmal Fiend,4.0,['Black'],"['B', 'U']",None,['Creature'],['Illusion'],Common,DKM,1,5,None,{B}: Phantasmal Fiend gets +1/-1 until end of turn.\n{1}{U}: Switch Phantasmal Fiend's power and toughness until end of turn.
+Lim-Dûl's High Guard,3.0,['Black'],['B'],None,['Creature'],['Skeleton'],Common,DKM,2,1,None,First strike\n{1}{B}: Regenerate Lim-Dûl's High Guard.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,DKM,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,DKM,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,DKM,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DKM,None,None,None,({T}: Add {R}.)
+Guerrilla Tactics,2.0,['Red'],['R'],None,['Instant'],None,Common,DKM,None,None,None,"Guerrilla Tactics deals 2 damage to any target.\nWhen a spell or ability an opponent controls causes you to discard Guerrilla Tactics, Guerrilla Tactics deals 4 damage to any target."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DKM,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DKM,None,None,None,({T}: Add {R}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,DKM,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,DKM,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,DKM,None,None,None,({T}: Add {B}.)
+Underground River,0.0,None,"['B', 'U']",None,['Land'],None,Rare,DKM,None,None,None,{T}: Add {C}.\n{T}: Add {U} or {B}. Underground River deals 1 damage to you.
+Giant Growth,1.0,['Green'],['G'],None,['Instant'],None,Common,DKM,None,None,None,Target creature gets +3/+3 until end of turn.
+Incinerate,2.0,['Red'],['R'],None,['Instant'],None,Common,DKM,None,None,None,Incinerate deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.
+Fyndhorn Elves,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,DKM,1,1,None,{T}: Add {G}.
+Sulfurous Springs,0.0,None,"['B', 'R']",None,['Land'],None,Rare,DKM,None,None,None,{T}: Add {C}.\n{T}: Add {B} or {R}. Sulfurous Springs deals 1 damage to you.
+Karplusan Forest,0.0,None,"['G', 'R']",None,['Land'],None,Rare,DKM,None,None,None,{T}: Add {C}.\n{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.
+Folk of the Pines,5.0,['Green'],['G'],None,['Creature'],['Dryad'],Common,DKM,2,5,None,{1}{G}: Folk of the Pines gets +1/+0 until end of turn.
+Walking Wall,4.0,None,None,None,"['Artifact', 'Creature']",['Wall'],Uncommon,DKM,0,6,None,Defender\n{3}: Walking Wall gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate only once each turn.
+Elvish Bard,5.0,['Green'],['G'],None,['Creature'],"['Elf', 'Shaman', 'Bard']",Uncommon,DKM,2,4,None,All creatures able to block Elvish Bard do so.
+Phyrexian War Beast,3.0,None,None,None,"['Artifact', 'Creature']","['Phyrexian', 'Beast']",Common,DKM,3,4,None,"When Phyrexian War Beast leaves the battlefield, sacrifice a land and Phyrexian War Beast deals 1 damage to you."
+Bounty of the Hunt,5.0,['Green'],['G'],None,['Instant'],None,Uncommon,DKM,None,None,None,"You may exile a green card from your hand rather than pay this spell's mana cost.\nDistribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step."
+Balduvian Bears,2.0,['Green'],['G'],None,['Creature'],['Bear'],Common,DKM,2,2,None,None
+Icy Manipulator,4.0,None,None,None,['Artifact'],None,Uncommon,DKM,None,None,None,"{1}, {T}: Tap target artifact, creature, or land."
+Elkin Bottle,3.0,None,None,None,['Artifact'],None,Rare,DKM,None,None,None,"{3}, {T}: Exile the top card of your library. Until the beginning of your next upkeep, you may play that card."
+Storm Shaman,3.0,['Red'],['R'],None,['Creature'],"['Human', 'Cleric', 'Shaman']",Common,DKM,0,4,None,{R}: Storm Shaman gets +1/+0 until end of turn.
+Barbed Sextant,1.0,None,None,None,['Artifact'],None,Common,DKM,None,None,None,"{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color. Draw a card at the beginning of the next turn's upkeep."
+Shatter,2.0,['Red'],['R'],None,['Instant'],None,Common,DKM,None,None,None,Destroy target artifact.
+Giant Trap Door Spider,3.0,"['Green', 'Red']","['G', 'R']",None,['Creature'],['Spider'],Uncommon,DKM,2,3,None,"{1}{R}{G}, {T}: Exile Giant Trap Door Spider and target creature without flying that's attacking you."
+Pyroclasm,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,DKM,None,None,None,Pyroclasm deals 2 damage to each creature.
+Pillage,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,DKM,None,None,None,Destroy target artifact or land. It can't be regenerated.
+Necropotence,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,DKM,None,None,None,"Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.\nPay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step."
+Yavimaya Ants,4.0,['Green'],['G'],None,['Creature'],['Insect'],Uncommon,DKM,5,1,None,"Trample, haste\nCumulative upkeep {G}{G} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+Soul Burn,3.0,['Black'],['B'],None,['Sorcery'],None,Common,DKM,None,None,None,"Spend only black and/or red mana on X.\nSoul Burn deals X damage to any target. You gain life equal to the damage dealt, but not more than the amount of {B} spent on X, the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness."
+Lava Burst,1.0,['Red'],['R'],None,['Sorcery'],None,Common,DKM,None,None,None,"Lava Burst deals X damage to any target. If Lava Burst would deal damage to a creature, that damage can't be prevented or dealt instead to another permanent or player."
+Yavimaya Ancients,5.0,['Green'],['G'],None,['Creature'],['Treefolk'],Common,DKM,2,7,None,{G}: Yavimaya Ancients gets +1/-2 until end of turn.
+Orcish Cannoneers,3.0,['Red'],['R'],None,['Creature'],"['Orc', 'Warrior']",Uncommon,DKM,1,3,None,{T}: Orcish Cannoneers deals 2 damage to any target and 3 damage to you.
+Woolly Spider,3.0,['Green'],['G'],None,['Creature'],['Spider'],Common,DKM,2,3,None,"Reach (This creature can block creatures with flying.)\nWhenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn."
+Jokulhaups,6.0,['Red'],['R'],None,['Sorcery'],None,Rare,DKM,None,None,None,"Destroy all artifacts, creatures, and lands. They can't be regenerated."
+Lhurgoyf,4.0,['Green'],['G'],None,['Creature'],['Lhurgoyf'],Rare,DKM,*,1+*,None,Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.
+Hurricane,1.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,DKM,None,None,None,Hurricane deals X damage to each creature with flying and each player.

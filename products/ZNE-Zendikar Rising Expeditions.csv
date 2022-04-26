@@ -1,0 +1,31 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Scalding Tarn,0.0,None,None,None,['Land'],None,Mythic,ZNE,None,None,None,"{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle."
+Celestial Colonnade,0.0,None,"['U', 'W']",None,['Land'],None,Mythic,ZNE,None,None,None,"Celestial Colonnade enters the battlefield tapped.\n{T}: Add {W} or {U}.\n{3}{W}{U}: Until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It's still a land."
+Misty Rainforest,0.0,None,None,None,['Land'],None,Mythic,ZNE,None,None,None,"{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle."
+Cavern of Souls,0.0,None,None,None,['Land'],None,Mythic,ZNE,None,None,None,"As Cavern of Souls enters the battlefield, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered."
+Arid Mesa,0.0,None,None,None,['Land'],None,Mythic,ZNE,None,None,None,"{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
+Ancient Tomb,0.0,None,None,None,['Land'],None,Mythic,ZNE,None,None,None,{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.
+Verdant Catacombs,0.0,None,None,None,['Land'],None,Mythic,ZNE,None,None,None,"{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
+Luxury Suite,0.0,None,"['B', 'R']",None,['Land'],None,Mythic,ZNE,None,None,None,Luxury Suite enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {B} or {R}.
+Bloodstained Mire,0.0,None,None,None,['Land'],None,Mythic,ZNE,None,None,None,"{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle."
+Bountiful Promenade,0.0,None,"['G', 'W']",None,['Land'],None,Mythic,ZNE,None,None,None,Bountiful Promenade enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {G} or {W}.
+Flooded Strand,0.0,None,None,None,['Land'],None,Mythic,ZNE,None,None,None,"{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle."
+Spire Garden,0.0,None,"['G', 'R']",None,['Land'],None,Mythic,ZNE,None,None,None,Spire Garden enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {R} or {G}.
+Marsh Flats,0.0,None,None,None,['Land'],None,Mythic,ZNE,None,None,None,"{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle."
+Windswept Heath,0.0,None,None,None,['Land'],None,Mythic,ZNE,None,None,None,"{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."
+Wooded Foothills,0.0,None,None,None,['Land'],None,Mythic,ZNE,None,None,None,"{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle."
+Polluted Delta,0.0,None,None,None,['Land'],None,Mythic,ZNE,None,None,None,"{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle."
+Copperline Gorge,0.0,None,"['G', 'R']",None,['Land'],None,Mythic,ZNE,None,None,None,Copperline Gorge enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {R} or {G}.
+Sea of Clouds,0.0,None,"['U', 'W']",None,['Land'],None,Mythic,ZNE,None,None,None,Sea of Clouds enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {W} or {U}.
+Morphic Pool,0.0,None,"['B', 'U']",None,['Land'],None,Mythic,ZNE,None,None,None,Morphic Pool enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {U} or {B}.
+Wasteland,0.0,None,None,None,['Land'],None,Mythic,ZNE,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land."
+"Valakut, the Molten Pinnacle",0.0,None,['R'],None,['Land'],None,Mythic,ZNE,None,None,None,"Valakut, the Molten Pinnacle enters the battlefield tapped.\nWhenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to any target.\n{T}: Add {R}."
+Razorverge Thicket,0.0,None,"['G', 'W']",None,['Land'],None,Mythic,ZNE,None,None,None,Razorverge Thicket enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {G} or {W}.
+Strip Mine,0.0,None,None,None,['Land'],None,Mythic,ZNE,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice Strip Mine: Destroy target land."
+Blackcleave Cliffs,0.0,None,"['B', 'R']",None,['Land'],None,Mythic,ZNE,None,None,None,Blackcleave Cliffs enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {B} or {R}.
+Prismatic Vista,0.0,None,None,None,['Land'],None,Mythic,ZNE,None,None,None,"{T}, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle."
+Darkslick Shores,0.0,None,"['B', 'U']",None,['Land'],None,Mythic,ZNE,None,None,None,Darkslick Shores enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {U} or {B}.
+Horizon Canopy,0.0,None,"['G', 'W']",None,['Land'],None,Mythic,ZNE,None,None,None,"{T}, Pay 1 life: Add {G} or {W}.\n{1}, {T}, Sacrifice Horizon Canopy: Draw a card."
+Seachrome Coast,0.0,None,"['U', 'W']",None,['Land'],None,Mythic,ZNE,None,None,None,Seachrome Coast enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {W} or {U}.
+Grove of the Burnwillows,0.0,None,"['G', 'R']",None,['Land'],None,Mythic,ZNE,None,None,None,{T}: Add {C}.\n{T}: Add {R} or {G}. Each opponent gains 1 life.
+Creeping Tar Pit,0.0,None,"['B', 'U']",None,['Land'],None,Mythic,ZNE,None,None,None,Creeping Tar Pit enters the battlefield tapped.\n{T}: Add {U} or {B}.\n{1}{U}{B}: Creeping Tar Pit becomes a 3/2 blue and black Elemental creature until end of turn and can't be blocked this turn. It's still a land.

@@ -1,0 +1,11 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Curse of Wizardry,4.0,['Black'],['B'],None,['Enchantment'],None,Rare,PW10,None,None,None,"As Curse of Wizardry enters the battlefield, choose a color.\nWhenever a player casts a spell of the chosen color, that player loses 1 life."
+Leatherback Baloth,3.0,['Green'],['G'],None,['Creature'],['Beast'],Rare,PW10,4,5,None,None
+Pathrazer of Ulamog,11.0,None,None,None,['Creature'],['Eldrazi'],Rare,PW10,9,9,None,"Annihilator 3 (Whenever this creature attacks, defending player sacrifices three permanents.)\nPathrazer of Ulamog can't be blocked except by three or more creatures."
+Sylvan Ranger,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Scout', 'Ranger']",Rare,PW10,1,1,None,"When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle."
+Skinrender,4.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie']",Rare,PW10,3,3,None,"When Skinrender enters the battlefield, put three -1/-1 counters on target creature."
+Golem's Heart,2.0,None,None,None,['Artifact'],None,Rare,PW10,None,None,None,"Whenever a player casts an artifact spell, you may gain 1 life."
+Plague Stinger,2.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Insect', 'Horror']",Rare,PW10,1,1,None,Flying\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Syphon Mind,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,PW10,None,None,None,Each other player discards a card. You draw a card for each card discarded this way.
+Kor Firewalker,2.0,['White'],['W'],None,['Creature'],"['Kor', 'Soldier']",Rare,PW10,2,2,None,"Protection from red\nWhenever a player casts a red spell, you may gain 1 life."
+Fling,2.0,['Red'],['R'],None,['Instant'],None,Rare,PW10,None,None,None,"As an additional cost to cast this spell, sacrifice a creature.\nFling deals damage equal to the sacrificed creature's power to any target."

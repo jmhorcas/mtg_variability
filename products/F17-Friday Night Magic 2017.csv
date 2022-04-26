@@ -1,0 +1,10 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Fatal Push,1.0,['Black'],['B'],None,['Instant'],None,Rare,F17,None,None,None,Destroy target creature if it has mana value 2 or less.\nRevolt — Destroy that creature if it has mana value 4 or less instead if a permanent you controlled left the battlefield this turn.
+Renegade Rallier,3.0,"['Green', 'White']","['G', 'W']",None,['Creature'],"['Human', 'Warrior']",Rare,F17,3,2,None,"Revolt — When Renegade Rallier enters the battlefield, if a permanent you controlled left the battlefield this turn, return target permanent card with mana value 2 or less from your graveyard to the battlefield."
+Incendiary Flow,2.0,['Red'],['R'],None,['Sorcery'],None,Rare,F17,None,None,None,"Incendiary Flow deals 3 damage to any target. If a creature dealt damage this way would die this turn, exile it instead."
+Noose Constrictor,2.0,['Green'],['G'],None,['Creature'],['Snake'],Rare,F17,2,2,None,Reach\nDiscard a card: Noose Constrictor gets +1/+1 until end of turn.
+Aether Hub,0.0,None,None,None,['Land'],None,Rare,F17,None,None,None,"When Aether Hub enters the battlefield, you get {E} (an energy counter).\n{T}: Add {C}.\n{T}, Pay {E}: Add one mana of any color."
+Unlicensed Disintegration,3.0,"['Black', 'Red']","['B', 'R']",None,['Instant'],None,Rare,F17,None,None,None,"Destroy target creature. If you control an artifact, Unlicensed Disintegration deals 3 damage to that creature's controller."
+Reverse Engineer,5.0,['Blue'],['U'],None,['Sorcery'],None,Rare,F17,None,None,None,Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nDraw three cards.
+Servo Exhibition,2.0,['White'],['W'],None,['Sorcery'],None,Rare,F17,None,None,None,Create two 1/1 colorless Servo artifact creature tokens.
+Fortune's Favor,4.0,['Blue'],['U'],None,['Instant'],None,Rare,F17,None,None,None,Target opponent looks at the top four cards of your library and separates them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard.

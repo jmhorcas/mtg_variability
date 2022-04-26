@@ -1,0 +1,63 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Elvish Eulogist,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Shaman']",Common,DD1,1,1,None,Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.
+Wirewood Symbiote,1.0,['Green'],['G'],None,['Creature'],['Insect'],Uncommon,DD1,1,1,None,Return an Elf you control to its owner's hand: Untap target creature. Activate only once each turn.
+Heedless One,4.0,['Green'],['G'],None,['Creature'],"['Elf', 'Avatar']",Uncommon,DD1,*,*,None,Trample\nHeedless One's power and toughness are each equal to the number of Elves on the battlefield.
+Elvish Promenade,4.0,['Green'],['G'],None,"['Tribal', 'Sorcery']",['Elf'],Uncommon,DD1,None,None,None,Create a 1/1 green Elf Warrior creature token for each Elf you control.
+Wellwisher,2.0,['Green'],['G'],None,['Creature'],['Elf'],Common,DD1,1,1,None,{T}: You gain 1 life for each Elf on the battlefield.
+Flamewave Invoker,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Mutant']",Uncommon,DD1,2,2,None,{7}{R}: Flamewave Invoker deals 5 damage to target player or planeswalker.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,DD1,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DD1,None,None,None,({T}: Add {R}.)
+Mudbutton Torchrunner,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Common,DD1,1,1,None,"When Mudbutton Torchrunner dies, it deals 3 damage to any target."
+Reckless One,4.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Avatar']",Uncommon,DD1,*,*,None,Haste\nReckless One's power and toughness are each equal to the number of Goblins on the battlefield.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DD1,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DD1,None,None,None,({T}: Add {R}.)
+Mogg War Marshal,2.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Common,DD1,1,1,None,"Echo {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Mogg War Marshal enters the battlefield or dies, create a 1/1 red Goblin creature token."
+Timberwatch Elf,3.0,['Green'],['G'],None,['Creature'],['Elf'],Common,DD1,1,2,None,"{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield."
+Wildsize,3.0,['Green'],['G'],None,['Instant'],None,Common,DD1,None,None,None,Target creature gets +2/+2 and gains trample until end of turn.\nDraw a card.
+Gempalm Strider,2.0,['Green'],['G'],None,['Creature'],['Elf'],Uncommon,DD1,2,2,None,"Cycling {2}{G}{G} ({2}{G}{G}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Strider, Elf creatures get +2/+2 until end of turn."
+Goblin Matron,3.0,['Red'],['R'],None,['Creature'],['Goblin'],Uncommon,DD1,1,1,None,"When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle."
+Wren's Run Vanquisher,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Uncommon,DD1,3,3,None,"As an additional cost to cast this spell, reveal an Elf card from your hand or pay {3}.\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
+Mogg Fanatic,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Uncommon,DD1,1,1,None,Sacrifice Mogg Fanatic: It deals 1 damage to any target.
+Raging Goblin,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Berserker']",Common,DD1,1,1,None,Haste (This creature can attack and {T} as soon as it comes under your control.)
+Boggart Shenanigans,3.0,['Red'],['R'],None,"['Tribal', 'Enchantment']",['Goblin'],Uncommon,DD1,None,None,None,"Whenever another Goblin you control is put into a graveyard from the battlefield, you may have Boggart Shenanigans deal 1 damage to target player or planeswalker."
+Tar Pitcher,4.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Shaman']",Uncommon,DD1,2,2,None,"{T}, Sacrifice a Goblin: Tar Pitcher deals 2 damage to any target."
+Giant Growth,1.0,['Green'],['G'],None,['Instant'],None,Common,DD1,None,None,None,Target creature gets +3/+3 until end of turn.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,DD1,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DD1,None,None,None,({T}: Add {R}.)
+Sylvan Messenger,4.0,['Green'],['G'],None,['Creature'],['Elf'],Uncommon,DD1,2,2,None,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nWhen Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order."
+Allosaurus Rider,7.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Rare,DD1,1+*,1+*,None,You may exile two green cards from your hand rather than pay this spell's mana cost.\nAllosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.
+Goblin Burrows,0.0,None,['R'],None,['Land'],None,Uncommon,DD1,None,None,None,"{T}: Add {C}.\n{1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn."
+Ambush Commander,5.0,['Green'],['G'],None,['Creature'],['Elf'],Rare,DD1,2,2,None,"Forests you control are 1/1 green Elf creatures that are still lands.\n{1}{G}, Sacrifice an Elf: Target creature gets +3/+3 until end of turn."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,DD1,None,None,None,({T}: Add {G}.)
+Akki Coalflinger,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Shaman']",Uncommon,DD1,2,2,None,"First strike\n{R}, {T}: Attacking creatures gain first strike until end of turn."
+"Ib Halfheart, Goblin Tactician",4.0,['Red'],['R'],['Legendary'],['Creature'],"['Goblin', 'Advisor']",Rare,DD1,3,2,None,"Whenever another Goblin you control becomes blocked, sacrifice it. If you do, it deals 4 damage to each creature blocking it.\nSacrifice two Mountains: Create two 1/1 red Goblin creature tokens."
+Imperious Perfect,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Uncommon,DD1,2,2,None,"Other Elves you control get +1/+1.\n{G}, {T}: Create a 1/1 green Elf Warrior creature token."
+Wood Elves,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Scout']",Common,DD1,1,1,None,"When Wood Elves enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,DD1,None,None,None,({T}: Add {G}.)
+Forgotten Cave,0.0,None,['R'],None,['Land'],None,Common,DD1,None,None,None,"Forgotten Cave enters the battlefield tapped.\n{T}: Add {R}.\nCycling {R} ({R}, Discard this card: Draw a card.)"
+Elvish Warrior,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Common,DD1,2,3,None,None
+Tarfire,1.0,['Red'],['R'],None,"['Tribal', 'Instant']",['Goblin'],Common,DD1,None,None,None,Tarfire deals 2 damage to any target.
+Tranquil Thicket,0.0,None,['G'],None,['Land'],None,Common,DD1,None,None,None,"Tranquil Thicket enters the battlefield tapped.\n{T}: Add {G}.\nCycling {G} ({G}, Discard this card: Draw a card.)"
+Skirk Shaman,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Shaman']",Common,DD1,2,2,None,Skirk Shaman can't be blocked except by artifact creatures and/or red creatures.
+Stonewood Invoker,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Mutant']",Common,DD1,2,2,None,{7}{G}: Stonewood Invoker gets +5/+5 until end of turn.
+Llanowar Elves,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,DD1,1,1,None,{T}: Add {G}.
+Harmonize,4.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,DD1,None,None,None,Draw three cards.
+Skirk Prospector,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,DD1,1,1,None,Sacrifice a Goblin: Add {R}.
+Spitting Earth,2.0,['Red'],['R'],None,['Sorcery'],None,Common,DD1,None,None,None,Spitting Earth deals damage to target creature equal to the number of Mountains you control.
+Voice of the Woods,5.0,['Green'],['G'],None,['Creature'],['Elf'],Rare,DD1,2,2,None,Tap five untapped Elves you control: Create a 7/7 green Elemental creature token with trample.
+Wirewood Lodge,0.0,None,['G'],None,['Land'],None,Uncommon,DD1,None,None,None,"{T}: Add {C}.\n{G}, {T}: Untap target Elf."
+Lys Alana Huntmaster,4.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Common,DD1,3,3,None,"Whenever you cast an Elf spell, you may create a 1/1 green Elf Warrior creature token."
+Slate of Ancestry,4.0,None,None,None,['Artifact'],None,Rare,DD1,None,None,None,"{4}, {T}, Discard your hand: Draw a card for each creature you control."
+Emberwilde Augur,2.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Shaman']",Common,DD1,2,1,None,Sacrifice Emberwilde Augur: It deals 3 damage to target player or planeswalker. Activate only during your upkeep.
+Goblin Ringleader,4.0,['Red'],['R'],None,['Creature'],['Goblin'],Uncommon,DD1,2,2,None,"Haste (This creature can attack and {T} as soon as it comes under your control.)\nWhen Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order."
+Wirewood Herald,2.0,['Green'],['G'],None,['Creature'],['Elf'],Common,DD1,1,1,None,"When Wirewood Herald dies, you may search your library for an Elf card, reveal that card, put it into your hand, then shuffle."
+Moonglove Extract,3.0,None,None,None,['Artifact'],None,Common,DD1,None,None,None,Sacrifice Moonglove Extract: It deals 2 damage to any target.
+Siege-Gang Commander,5.0,['Red'],['R'],None,['Creature'],['Goblin'],Rare,DD1,2,2,None,"When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens.\n{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target."
+Clickslither,4.0,['Red'],['R'],None,['Creature'],['Insect'],Rare,DD1,3,3,None,Haste\nSacrifice a Goblin: Clickslither gets +2/+2 and gains trample until end of turn.
+Goblin Warchief,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Uncommon,DD1,2,2,None,Goblin spells you cast cost {1} less to cast.\nGoblins you control have haste.
+Skirk Drill Sergeant,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Uncommon,DD1,2,1,None,"Whenever Skirk Drill Sergeant or another Goblin dies, you may pay {2}{R}. If you do, reveal the top card of your library. If it's a Goblin permanent card, put it onto the battlefield. Otherwise, put it into your graveyard."
+Skirk Fire Marshal,5.0,['Red'],['R'],None,['Creature'],['Goblin'],Rare,DD1,2,2,None,Protection from red\nTap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.
+Goblin Cohort,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Common,DD1,2,2,None,Goblin Cohort can't attack unless you've cast a creature spell this turn.
+Elvish Harbinger,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Uncommon,DD1,1,2,None,"When Elvish Harbinger enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle and put that card on top.\n{T}: Add one mana of any color."
+Gempalm Incinerator,3.0,['Red'],['R'],None,['Creature'],['Goblin'],Uncommon,DD1,2,1,None,"Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield."
+Goblin Sledder,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,DD1,1,1,None,Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.

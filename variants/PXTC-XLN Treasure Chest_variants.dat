@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Legendary'}
+Types: {'Enchantment', 'Artifact'}
+Subtypes: {'Equipment', 'Vehicle'}
+Rarity: {'Rare'}
+Power: {'2'}
+Toughness: {'10'}
+Loyalty: set()

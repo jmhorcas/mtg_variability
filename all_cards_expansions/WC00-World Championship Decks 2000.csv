@@ -1,0 +1,90 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Miscalculation,2.0,['Blue'],['U'],None,['Instant'],None,Common,WC00,None,None,None,"Counter target spell unless its controller pays {2}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Uktabi Orangutan,3.0,['Green'],['G'],None,['Creature'],['Ape'],Uncommon,WC00,2,2,None,"When Uktabi Orangutan enters the battlefield, destroy target artifact."
+Replenish,4.0,['White'],['W'],None,['Sorcery'],None,Rare,WC00,None,None,None,Return all enchantment cards from your graveyard to the battlefield. (Auras with nothing to enchant remain in your graveyard.)
+Whetstone,3.0,None,None,None,['Artifact'],None,Rare,WC00,None,None,None,{3}: Each player mills two cards.
+Saprazzan Skerry,0.0,None,['U'],None,['Land'],None,Common,WC00,None,None,None,"Saprazzan Skerry enters the battlefield tapped with two depletion counters on it.\n{T}, Remove a depletion counter from Saprazzan Skerry: Add {U}{U}. If there are no depletion counters on Saprazzan Skerry, sacrifice it."
+Priest of Titania,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,WC00,1,1,None,{T}: Add {G} for each Elf on the battlefield.
+Confiscate,6.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,WC00,None,None,None,Enchant permanent\nYou control enchanted permanent.
+Brainstorm,1.0,['Blue'],['U'],None,['Instant'],None,Common,WC00,None,None,None,"Draw three cards, then put two cards from your hand on top of your library in any order."
+Energy Flux,3.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,WC00,None,None,None,"All artifacts have ""At the beginning of your upkeep, sacrifice this artifact unless you pay {2}."""
+Opalescence,4.0,['White'],['W'],None,['Enchantment'],None,Rare,WC00,None,None,None,Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its mana value.
+Crystal Vein,0.0,None,None,None,['Land'],None,Uncommon,WC00,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice Crystal Vein: Add {C}{C}."
+Yawgmoth's Bargain,6.0,['Black'],['B'],None,['Enchantment'],None,Rare,WC00,None,None,None,Skip your draw step.\nPay 1 life: Draw a card.
+Worship,4.0,['White'],['W'],None,['Enchantment'],None,Rare,WC00,None,None,None,"If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead."
+Voltaic Key,1.0,None,None,None,['Artifact'],None,Uncommon,WC00,None,None,None,"{1}, {T}: Untap target artifact."
+Armageddon,4.0,['White'],['W'],None,['Sorcery'],None,Rare,WC00,None,None,None,Destroy all lands.
+Serra Avatar,7.0,['White'],['W'],None,['Creature'],['Avatar'],Rare,WC00,*,*,None,"Serra Avatar's power and toughness are each equal to your life total.\nWhen Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library."
+Phyrexian Tower,0.0,None,['B'],['Legendary'],['Land'],None,Rare,WC00,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice a creature: Add {B}{B}."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC00,None,None,None,({T}: Add {G}.)
+Phyrexian Processor,4.0,None,None,None,['Artifact'],None,Rare,WC00,None,None,None,"As Phyrexian Processor enters the battlefield, pay any amount of life.\n{4}, {T}: Create an X/X black Phyrexian Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield."
+Thran Quarry,0.0,None,None,None,['Land'],None,Rare,WC00,None,None,None,"At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry.\n{T}: Add one mana of any color."
+Brushland,0.0,None,"['G', 'W']",None,['Land'],None,Rare,WC00,None,None,None,{T}: Add {C}.\n{T}: Add {G} or {W}. Brushland deals 1 damage to you.
+Chill,2.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,WC00,None,None,None,Red spells cost {2} more to cast.
+City of Brass,0.0,None,None,None,['Land'],None,Rare,WC00,None,None,None,"Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
+Snake Basket,4.0,None,None,None,['Artifact'],None,Rare,WC00,None,None,None,"{X}, Sacrifice Snake Basket: Create X 1/1 green Snake creature tokens. Activate only as a sorcery."
+Annul,1.0,['Blue'],['U'],None,['Instant'],None,Common,WC00,None,None,None,Counter target artifact or enchantment spell.
+High Market,0.0,None,None,None,['Land'],None,Rare,WC00,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice a creature: You gain 1 life."
+Aura Fracture,3.0,['White'],['W'],None,['Enchantment'],None,Common,WC00,None,None,None,Sacrifice a land: Destroy target enchantment.
+Absolute Law,2.0,['White'],['W'],None,['Enchantment'],None,Uncommon,WC00,None,None,None,All creatures have protection from red.
+Mishra's Helix,5.0,None,None,None,['Artifact'],None,Rare,WC00,None,None,None,"{X}, {T}: Tap X target lands."
+Phyrexian Colossus,7.0,None,None,None,"['Artifact', 'Creature']","['Phyrexian', 'Golem']",Rare,WC00,8,8,None,Phyrexian Colossus doesn't untap during your untap step.\nPay 8 life: Untap Phyrexian Colossus.\nPhyrexian Colossus can't be blocked except by three or more creatures.
+Light of Day,4.0,['White'],['W'],None,['Enchantment'],None,Uncommon,WC00,None,None,None,Black creatures can't attack or block.
+Tinker,3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,WC00,None,None,None,"As an additional cost to cast this spell, sacrifice an artifact.\nSearch your library for an artifact card, put that card onto the battlefield, then shuffle."
+Llanowar Elves,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,WC00,1,1,None,{T}: Add {G}.
+Meekstone,1.0,None,None,None,['Artifact'],None,Rare,WC00,None,None,None,Creatures with power 3 or greater don't untap during their controllers' untap steps.
+Birds of Paradise,1.0,['Green'],['G'],None,['Creature'],['Bird'],Rare,WC00,0,1,None,Flying\n{T}: Add one mana of any color.
+Stone Rain,3.0,['Red'],['R'],None,['Sorcery'],None,Common,WC00,None,None,None,Destroy target land.
+Heart of Ramos,3.0,None,['R'],None,['Artifact'],None,Rare,WC00,None,None,None,{T}: Add {R}.\nSacrifice Heart of Ramos: Add {R}.
+Creeping Mold,4.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,WC00,None,None,None,"Destroy target artifact, enchantment, or land."
+Ashnod's Altar,3.0,None,None,None,['Artifact'],None,Uncommon,WC00,None,None,None,Sacrifice a creature: Add {C}{C}.
+Arc Lightning,3.0,['Red'],['R'],None,['Sorcery'],None,Common,WC00,None,None,None,"Arc Lightning deals 3 damage divided as you choose among one, two, or three targets."
+Fecundity,3.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,WC00,None,None,None,"Whenever a creature dies, that creature's controller may draw a card."
+Rising Waters,4.0,['Blue'],['U'],None,['Enchantment'],None,Rare,WC00,None,None,None,"Lands don't untap during their controllers' untap steps.\nAt the beginning of each player's upkeep, that player untaps a land they control."
+Plow Under,5.0,['Green'],['G'],None,['Sorcery'],None,Rare,WC00,None,None,None,Put two target lands on top of their owners' libraries.
+Boil,4.0,['Red'],['R'],None,['Instant'],None,Uncommon,WC00,None,None,None,Destroy all Islands.
+Saproling Burst,5.0,['Green'],['G'],None,['Enchantment'],None,Rare,WC00,None,None,None,"Fading 7 (This enchantment enters the battlefield with seven fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)\nRemove a fade counter from Saproling Burst: Create a green Saproling creature token. It has ""This creature's power and toughness are each equal to the number of fade counters on Saproling Burst.""\nWhen Saproling Burst leaves the battlefield, destroy all tokens created with Saproling Burst. They can't be regenerated."
+Crumbling Sanctuary,5.0,None,None,None,['Artifact'],None,Rare,WC00,None,None,None,"If damage would be dealt to a player, that player exiles that many cards from the top of their library instead."
+Splinter,4.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,WC00,None,None,None,"Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles."
+Rishadan Port,0.0,None,None,None,['Land'],None,Rare,WC00,None,None,None,"{T}: Add {C}.\n{1}, {T}: Tap target land."
+Blastoderm,4.0,['Green'],['G'],None,['Creature'],['Beast'],Common,WC00,5,5,None,"Shroud (This creature can't be the target of spells or abilities.)\nFading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)"
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC00,None,None,None,({T}: Add {U}.)
+Grim Monolith,2.0,None,None,None,['Artifact'],None,Rare,WC00,None,None,None,Grim Monolith doesn't untap during your untap step.\n{T}: Add {C}{C}{C}.\n{4}: Untap Grim Monolith.
+Yawgmoth's Will,3.0,['Black'],['B'],None,['Sorcery'],None,Rare,WC00,None,None,None,"Until end of turn, you may play lands and cast spells from your graveyard.\nIf a card would be put into your graveyard from anywhere this turn, exile that card instead."
+Masticore,4.0,None,None,None,"['Artifact', 'Creature']",['Masticore'],Rare,WC00,4,4,None,"At the beginning of your upkeep, sacrifice Masticore unless you discard a card.\n{2}: Masticore deals 1 damage to target creature.\n{2}: Regenerate Masticore."
+Saproling Cluster,2.0,['Green'],['G'],None,['Enchantment'],None,Rare,WC00,None,None,None,"{1}, Discard a card: Create a 1/1 green Saproling creature token. Any player may activate this ability."
+Academy Rector,4.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Rare,WC00,1,2,None,"When Academy Rector dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle."
+Thran Dynamo,4.0,None,None,None,['Artifact'],None,Uncommon,WC00,None,None,None,{T}: Add {C}{C}{C}.
+Flameshot,4.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,WC00,None,None,None,"You may discard a Mountain card rather than pay this spell's mana cost.\nFlameshot deals 3 damage divided as you choose among one, two, or three target creatures."
+Rack and Ruin,3.0,['Red'],['R'],None,['Instant'],None,Uncommon,WC00,None,None,None,Destroy two target artifacts.
+Attunement,3.0,['Blue'],['U'],None,['Enchantment'],None,Rare,WC00,None,None,None,"Return Attunement to its owner's hand: Draw three cards, then discard four cards."
+Lilting Refrain,2.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,WC00,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Lilting Refrain.\nSacrifice Lilting Refrain: Counter target spell unless its controller pays {X}, where X is the number of verse counters on Lilting Refrain."
+Mystical Tutor,1.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC00,None,None,None,"Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top."
+Erase,1.0,['White'],['W'],None,['Instant'],None,Common,WC00,None,None,None,Exile target enchantment.
+Wrath of God,4.0,['White'],['W'],None,['Sorcery'],None,Rare,WC00,None,None,None,Destroy all creatures. They can't be regenerated.
+Submerge,5.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC00,None,None,None,"If an opponent controls a Forest and you control an Island, you may cast this spell without paying its mana cost.\nPut target creature on top of its owner's library."
+Seal of Removal,1.0,['Blue'],['U'],None,['Enchantment'],None,Common,WC00,None,None,None,Sacrifice Seal of Removal: Return target creature to its owner's hand.
+Parallax Tide,4.0,['Blue'],['U'],None,['Enchantment'],None,Rare,WC00,None,None,None,"Fading 5 (This enchantment enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)\nRemove a fade counter from Parallax Tide: Exile target land.\nWhen Parallax Tide leaves the battlefield, each player returns to the battlefield all cards they own exiled with Parallax Tide."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC00,None,None,None,({T}: Add {U}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC00,None,None,None,({T}: Add {W}.)
+Frantic Search,3.0,['Blue'],['U'],None,['Instant'],None,Common,WC00,None,None,None,"Draw two cards, then discard two cards. Untap up to three lands."
+Blaze,1.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,WC00,None,None,None,Blaze deals X damage to any target.
+Karplusan Forest,0.0,None,"['G', 'R']",None,['Land'],None,Rare,WC00,None,None,None,{T}: Add {C}.\n{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.
+Tangle Wire,3.0,None,None,None,['Artifact'],None,Rare,WC00,None,None,None,"Fading 4 (This artifact enters the battlefield with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)\nAt the beginning of each player's upkeep, that player taps an untapped artifact, creature, or land they control for each fade counter on Tangle Wire."
+Metalworker,3.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Rare,WC00,1,2,None,{T}: Reveal any number of artifact cards in your hand. Add {C}{C} for each card revealed this way.
+Pattern of Rebirth,4.0,['Green'],['G'],None,['Enchantment'],['Aura'],Rare,WC00,None,None,None,"Enchant creature\nWhen enchanted creature dies, that creature's controller may search their library for a creature card, put that card onto the battlefield, then shuffle."
+Counterspell,2.0,['Blue'],['U'],None,['Instant'],None,Common,WC00,None,None,None,Counter target spell.
+Enlightened Tutor,1.0,['White'],['W'],None,['Instant'],None,Uncommon,WC00,None,None,None,"Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top."
+Avalanche Riders,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Nomad']",Uncommon,WC00,2,2,None,"Haste\nEcho {3}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Avalanche Riders enters the battlefield, destroy target land."
+Seal of Cleansing,2.0,['White'],['W'],None,['Enchantment'],None,Common,WC00,None,None,None,Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.
+Parallax Wave,4.0,['White'],['W'],None,['Enchantment'],None,Rare,WC00,None,None,None,"Fading 5 (This enchantment enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)\nRemove a fade counter from Parallax Wave: Exile target creature.\nWhen Parallax Wave leaves the battlefield, each player returns to the battlefield all cards they own exiled with Parallax Wave."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC00,None,None,None,({T}: Add {G}.)
+Circle of Protection: Black,2.0,['White'],['W'],None,['Enchantment'],None,Common,WC00,None,None,None,"{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage."
+Defense Grid,2.0,None,None,None,['Artifact'],None,Rare,WC00,None,None,None,Each spell costs {3} more to cast except during its controller's turn.
+Energy Field,2.0,['Blue'],['U'],None,['Enchantment'],None,Rare,WC00,None,None,None,"Prevent all damage that would be dealt to you by sources you don't control.\nWhen a card is put into your graveyard from anywhere, sacrifice Energy Field."
+Dust Bowl,0.0,None,None,None,['Land'],None,Rare,WC00,None,None,None,"{T}: Add {C}.\n{3}, {T}, Sacrifice a land: Destroy target nonbasic land."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC00,None,None,None,({T}: Add {R}.)
+Adarkar Wastes,0.0,None,"['U', 'W']",None,['Land'],None,Rare,WC00,None,None,None,{T}: Add {C}.\n{T}: Add {W} or {U}. Adarkar Wastes deals 1 damage to you.
+Sky Diamond,2.0,None,['U'],None,['Artifact'],None,Uncommon,WC00,None,None,None,Sky Diamond enters the battlefield tapped.\n{T}: Add {U}.
+Daze,2.0,['Blue'],['U'],None,['Instant'],None,Common,WC00,None,None,None,You may return an Island you control to its owner's hand rather than pay this spell's mana cost.\nCounter target spell unless its controller pays {1}.
+Cursed Totem,2.0,None,None,None,['Artifact'],None,Rare,WC00,None,None,None,Activated abilities of creatures can't be activated.

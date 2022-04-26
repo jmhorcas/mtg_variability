@@ -1,0 +1,10 @@
+CMC: {3.0, 4.0, 6.0}
+Colors: {'Black', 'White'}
+ColorIdentity: {'W', 'B'}
+Supertypes: set()
+Types: {'Enchantment', 'Sorcery', 'Creature', 'Artifact'}
+Subtypes: {'Construct', 'Dragon', 'Wurm', 'Phyrexian'}
+Rarity: {'Rare', 'Mythic', 'Uncommon'}
+Power: {'6', '5', '1'}
+Toughness: {'6', '5', '1'}
+Loyalty: set()

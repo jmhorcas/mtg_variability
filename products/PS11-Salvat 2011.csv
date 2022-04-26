@@ -1,0 +1,225 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Ascendant Evincar,6.0,['Black'],['B'],['Legendary'],['Creature'],"['Phyrexian', 'Vampire', 'Noble']",Rare,PS11,3,3,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\nOther black creatures get +1/+1.\nNonblack creatures get -1/-1.
+Acolyte of Xathrid,1.0,['Black'],['B'],None,['Creature'],"['Human', 'Cleric']",Common,PS11,0,1,None,"{1}{B}, {T}: Target player loses 1 life."
+Lys Alana Huntmaster,4.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Common,PS11,3,3,None,"Whenever you cast an Elf spell, you may create a 1/1 green Elf Warrior creature token."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PS11,None,None,None,({T}: Add {G}.)
+Abyssal Specter,4.0,['Black'],['B'],None,['Creature'],['Specter'],Uncommon,PS11,2,3,None,"Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PS11,None,None,None,({T}: Add {G}.)
+Unsummon,1.0,['Blue'],['U'],None,['Instant'],None,Common,PS11,None,None,None,Return target creature to its owner's hand.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PS11,None,None,None,({T}: Add {G}.)
+Traumatize,5.0,['Blue'],['U'],None,['Sorcery'],None,Rare,PS11,None,None,None,"Target player mills half their library, rounded down."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PS11,None,None,None,({T}: Add {G}.)
+Tome Scour,1.0,['Blue'],['U'],None,['Sorcery'],None,Common,PS11,None,None,None,Target player mills five cards.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PS11,None,None,None,({T}: Add {R}.)
+Thieving Magpie,4.0,['Blue'],['U'],None,['Creature'],['Bird'],Uncommon,PS11,1,3,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever Thieving Magpie deals damage to an opponent, draw a card."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PS11,None,None,None,({T}: Add {R}.)
+Sphinx of Jwar Isle,6.0,['Blue'],['U'],None,['Creature'],['Sphinx'],Rare,PS11,5,5,None,Flying\nShroud (This creature can't be the target of spells or abilities.)\nYou may look at the top card of your library any time.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PS11,None,None,None,({T}: Add {R}.)
+Snapping Drake,4.0,['Blue'],['U'],None,['Creature'],['Drake'],Common,PS11,3,2,None,Flying (This creature can't be blocked except by creatures with flying or reach.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PS11,None,None,None,({T}: Add {R}.)
+Sky Ruin Drake,5.0,['Blue'],['U'],None,['Creature'],['Drake'],Common,PS11,2,5,None,Flying
+Wanderer's Twig,1.0,None,None,None,['Artifact'],None,Common,PS11,None,None,None,"{1}, Sacrifice Wanderer's Twig: Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
+Sift,4.0,['Blue'],['U'],None,['Sorcery'],None,Common,PS11,None,None,None,"Draw three cards, then discard a card."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PS11,None,None,None,({T}: Add {B}.)
+Sharding Sphinx,6.0,['Blue'],['U'],None,"['Artifact', 'Creature']",['Sphinx'],Rare,PS11,4,4,None,"Flying\nWhenever an artifact creature you control deals combat damage to a player, you may create a 1/1 blue Thopter artifact creature token with flying."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PS11,None,None,None,({T}: Add {B}.)
+Reckless Scholar,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,PS11,2,1,None,"{T}: Target player draws a card, then discards a card."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PS11,None,None,None,({T}: Add {B}.)
+Phantom Warrior,3.0,['Blue'],['U'],None,['Creature'],"['Illusion', 'Warrior']",Uncommon,PS11,2,2,None,Phantom Warrior can't be blocked.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PS11,None,None,None,({T}: Add {B}.)
+Parasitic Strix,3.0,['Blue'],['U'],None,"['Artifact', 'Creature']",['Bird'],Common,PS11,2,2,None,"Flying\nWhen Parasitic Strix enters the battlefield, if you control a black permanent, target player loses 2 life and you gain 2 life."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PS11,None,None,None,({T}: Add {U}.)
+Negate,2.0,['Blue'],['U'],None,['Instant'],None,Common,PS11,None,None,None,Counter target noncreature spell.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PS11,None,None,None,({T}: Add {U}.)
+Mind Spring,2.0,['Blue'],['U'],None,['Sorcery'],None,Rare,PS11,None,None,None,Draw X cards.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PS11,None,None,None,({T}: Add {U}.)
+Mind Control,5.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,PS11,None,None,None,Enchant creature\nYou control enchanted creature.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PS11,None,None,None,({T}: Add {W}.)
+Memory Erosion,3.0,['Blue'],['U'],None,['Enchantment'],None,Rare,PS11,None,None,None,"Whenever an opponent casts a spell, that player mills two cards."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PS11,None,None,None,({T}: Add {U}.)
+Master of Etherium,3.0,['Blue'],['U'],None,"['Artifact', 'Creature']","['Vedalken', 'Wizard']",Rare,PS11,*,*,None,Master of Etherium's power and toughness are each equal to the number of artifacts you control.\nOther artifact creatures you control get +1/+1.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PS11,None,None,None,({T}: Add {W}.)
+Mana Leak,2.0,['Blue'],['U'],None,['Instant'],None,Common,PS11,None,None,None,Counter target spell unless its controller pays {3}.
+Wurm's Tooth,2.0,None,None,None,['Artifact'],None,Uncommon,PS11,None,None,None,"Whenever a player casts a green spell, you may gain 1 life."
+Mahamoti Djinn,6.0,['Blue'],['U'],None,['Creature'],['Djinn'],Rare,PS11,5,6,None,Flying (This creature can't be blocked except by creatures with flying or reach.)
+Wall of Spears,3.0,None,None,None,"['Artifact', 'Creature']",['Wall'],Common,PS11,2,3,None,Defender (This creature can't attack.)\nFirst strike
+Isleback Spawn,7.0,['Blue'],['U'],None,['Creature'],['Kraken'],Rare,PS11,4,8,None,Shroud (This creature can't be the target of spells or abilities.)\nIsleback Spawn gets +4/+8 as long as a library has twenty or fewer cards in it.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PS11,None,None,None,({T}: Add {W}.)
+Into the Roil,2.0,['Blue'],['U'],None,['Instant'],None,Common,PS11,None,None,None,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)\nReturn target nonland permanent to its owner's hand. If this spell was kicked, draw a card."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PS11,None,None,None,({T}: Add {W}.)
+Faerie Mechanist,4.0,['Blue'],['U'],None,"['Artifact', 'Creature']","['Faerie', 'Artificer']",Common,PS11,2,2,None,"Flying\nWhen Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+Evacuation,5.0,['Blue'],['U'],None,['Instant'],None,Rare,PS11,None,None,None,Return all creatures to their owners' hands.
+Terramorphic Expanse,0.0,None,None,None,['Land'],None,Common,PS11,None,None,None,"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+Etherium Sculptor,2.0,['Blue'],['U'],None,"['Artifact', 'Creature']","['Vedalken', 'Artificer']",Common,PS11,1,2,None,Artifact spells you cast cost {1} less to cast.
+Trusty Machete,1.0,None,None,None,['Artifact'],['Equipment'],Uncommon,PS11,None,None,None,Equipped creature gets +2/+1.\nEquip {2}
+Essence Scatter,2.0,['Blue'],['U'],None,['Instant'],None,Common,PS11,None,None,None,Counter target creature spell.
+The Rack,1.0,None,None,None,['Artifact'],None,Uncommon,PS11,None,None,None,"As The Rack enters the battlefield, choose an opponent.\nAt the beginning of the chosen player's upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in their hand."
+Dream Fracture,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,PS11,None,None,None,Counter target spell. Its controller draws a card.\nDraw a card.
+Razormane Masticore,5.0,None,None,None,"['Artifact', 'Creature']",['Masticore'],Rare,PS11,5,5,None,"First strike (This creature deals combat damage before creatures without first strike.)\nAt the beginning of your upkeep, sacrifice Razormane Masticore unless you discard a card.\nAt the beginning of your draw step, you may have Razormane Masticore deal 3 damage to target creature."
+Divination,3.0,['Blue'],['U'],None,['Sorcery'],None,Common,PS11,None,None,None,Draw two cards.
+Ornithopter,0.0,None,None,None,"['Artifact', 'Creature']",['Thopter'],Uncommon,PS11,0,2,None,Flying
+Denizen of the Deep,8.0,['Blue'],['U'],None,['Creature'],['Serpent'],Rare,PS11,11,11,None,"When Denizen of the Deep enters the battlefield, return each other creature you control to its owner's hand."
+Obsidian Battle-Axe,3.0,None,None,None,"['Tribal', 'Artifact']","['Warrior', 'Equipment']",Uncommon,PS11,None,None,None,"Equipped creature gets +2/+1 and has haste.\nWhenever a Warrior creature enters the battlefield, you may attach Obsidian Battle-Axe to it.\nEquip {3}"
+Deluge,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,PS11,None,None,None,Tap all creatures without flying.
+Obelisk of Grixis,3.0,None,"['B', 'R', 'U']",None,['Artifact'],None,Common,PS11,None,None,None,"{T}: Add {U}, {B}, or {R}."
+Counterbore,5.0,['Blue'],['U'],None,['Instant'],None,Rare,PS11,None,None,None,"Counter target spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles."
+Cloud Sprite,1.0,['Blue'],['U'],None,['Creature'],['Faerie'],Common,PS11,1,1,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\nCloud Sprite can block only creatures with flying.
+Loxodon Warhammer,3.0,None,None,None,['Artifact'],['Equipment'],Rare,PS11,None,None,None,Equipped creature gets +3/+0 and has trample and lifelink.\nEquip {3}
+Cancel,3.0,['Blue'],['U'],None,['Instant'],None,Common,PS11,None,None,None,Counter target spell.
+Leonin Scimitar,1.0,None,None,None,['Artifact'],['Equipment'],Uncommon,PS11,None,None,None,Equipped creature gets +1/+1.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+Boomerang,2.0,['Blue'],['U'],None,['Instant'],None,Common,PS11,None,None,None,Return target permanent to its owner's hand.
+Kraken's Eye,2.0,None,None,None,['Artifact'],None,Uncommon,PS11,None,None,None,"Whenever a player casts a blue spell, you may gain 1 life."
+Air Elemental,5.0,['Blue'],['U'],None,['Creature'],['Elemental'],Uncommon,PS11,4,4,None,Flying
+Jayemdae Tome,4.0,None,None,None,['Artifact'],None,Rare,PS11,None,None,None,"{4}, {T}: Draw a card."
+Mass Calcify,7.0,['White'],['W'],None,['Sorcery'],None,Rare,PS11,None,None,None,Destroy all nonwhite creatures.
+Howling Mine,2.0,None,None,None,['Artifact'],None,Rare,PS11,None,None,None,"At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card."
+Luminarch Ascension,2.0,['White'],['W'],None,['Enchantment'],None,Rare,PS11,None,None,None,"At the beginning of each opponent's end step, if you didn't lose life this turn, you may put a quest counter on Luminarch Ascension. (Damage causes loss of life.)\n{1}{W}: Create a 4/4 white Angel creature token with flying. Activate only if Luminarch Ascension has four or more quest counters on it."
+Jagged-Scar Archers,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Archer']",Uncommon,PS11,*,*,None,Jagged-Scar Archers's power and toughness are each equal to the number of Elves you control.\n{T}: Jagged-Scar Archers deals damage equal to its power to target creature with flying.
+Venerable Monk,3.0,['White'],['W'],None,['Creature'],"['Human', 'Monk', 'Cleric']",Common,PS11,2,2,None,"When Venerable Monk enters the battlefield, you gain 2 life."
+Font of Mythos,4.0,None,None,None,['Artifact'],None,Rare,PS11,None,None,None,"At the beginning of each player's draw step, that player draws two additional cards."
+Voice of All,4.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,PS11,2,2,None,"Flying\nAs Voice of All enters the battlefield, choose a color.\nVoice of All has protection from the chosen color."
+Dragon's Claw,2.0,None,None,None,['Artifact'],None,Uncommon,PS11,None,None,None,"Whenever a player casts a red spell, you may gain 1 life."
+Tundra Wolves,1.0,['White'],['W'],None,['Creature'],['Wolf'],Common,PS11,1,1,None,First strike (This creature deals combat damage before creatures without first strike.)
+Demon's Horn,2.0,None,None,None,['Artifact'],None,Uncommon,PS11,None,None,None,"Whenever a player casts a black spell, you may gain 1 life."
+Youthful Knight,2.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Common,PS11,2,1,None,First strike
+Coat of Arms,5.0,None,None,None,['Artifact'],None,Rare,PS11,None,None,None,"Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)"
+Angel of Mercy,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,PS11,3,3,None,"Flying\nWhen Angel of Mercy enters the battlefield, you gain 3 life."
+Bottle Gnomes,3.0,None,None,None,"['Artifact', 'Creature']",['Gnome'],Uncommon,PS11,1,3,None,Sacrifice Bottle Gnomes: You gain 3 life.
+Knight of the Skyward Eye,2.0,['White'],"['G', 'W']",None,['Creature'],"['Human', 'Knight']",Common,PS11,2,2,None,{3}{G}: Knight of the Skyward Eye gets +3/+3 until end of turn. Activate only once each turn.
+Angel's Feather,2.0,None,None,None,['Artifact'],None,Uncommon,PS11,None,None,None,"Whenever a player casts a white spell, you may gain 1 life."
+Spirit of the Hearth,6.0,['White'],['W'],None,['Creature'],"['Cat', 'Spirit']",Rare,PS11,4,5,None,Flying\nYou have hexproof. (You can't be the target of spells or abilities your opponents control.)
+Kalonian Behemoth,7.0,['Green'],['G'],None,['Creature'],['Beast'],Rare,PS11,9,9,None,Shroud (This creature can't be the target of spells or abilities.)
+Suntail Hawk,1.0,['White'],['W'],None,['Creature'],['Bird'],Common,PS11,1,1,None,Flying
+Alpha Myr,2.0,None,None,None,"['Artifact', 'Creature']",['Myr'],Common,PS11,2,1,None,None
+Skyhunter Skirmisher,3.0,['White'],['W'],None,['Creature'],"['Cat', 'Knight']",Uncommon,PS11,1,1,None,"Flying, double strike"
+Woolly Thoctar,3.0,"['Green', 'Red', 'White']","['G', 'R', 'W']",None,['Creature'],['Beast'],Uncommon,PS11,5,4,None,None
+Violent Ultimatum,7.0,"['Black', 'Green', 'Red']","['B', 'G', 'R']",None,['Sorcery'],None,Rare,PS11,None,None,None,Destroy three target permanents.
+Pacifism,2.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,PS11,None,None,None,Enchant creature\nEnchanted creature can't attack or block.
+Vampiric Dragon,8.0,"['Black', 'Red']","['B', 'R']",None,['Creature'],"['Vampire', 'Dragon']",Rare,PS11,5,5,None,"Flying\nWhenever a creature dealt damage by Vampiric Dragon this turn dies, put a +1/+1 counter on Vampiric Dragon.\n{1}{R}: Vampiric Dragon deals 1 damage to target creature."
+Tidehollow Strix,2.0,"['Black', 'Blue']","['B', 'U']",None,"['Artifact', 'Creature']",['Bird'],Common,PS11,2,1,None,Flying\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Serra Angel,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,PS11,4,4,None,"Flying, vigilance"
+Terminate,2.0,"['Black', 'Red']","['B', 'R']",None,['Instant'],None,Common,PS11,None,None,None,Destroy target creature. It can't be regenerated.
+"Stonebrow, Krosan Hero",5.0,"['Green', 'Red']","['G', 'R']",['Legendary'],['Creature'],"['Centaur', 'Warrior']",Rare,PS11,4,4,None,"Trample\nWhenever a creature you control with trample attacks, it gets +2/+2 until end of turn."
+Angelic Blessing,3.0,['White'],['W'],None,['Sorcery'],None,Common,PS11,None,None,None,Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+Glorious Anthem,3.0,['White'],['W'],None,['Enchantment'],None,Rare,PS11,None,None,None,Creatures you control get +1/+1.
+Sprouting Thrinax,3.0,"['Black', 'Green', 'Red']","['B', 'G', 'R']",None,['Creature'],['Lizard'],Uncommon,PS11,3,3,None,"When Sprouting Thrinax dies, create three 1/1 green Saproling creature tokens."
+Sangrite Surge,6.0,"['Green', 'Red']","['G', 'R']",None,['Sorcery'],None,Uncommon,PS11,None,None,None,Target creature gets +3/+3 and gains double strike until end of turn.
+Rip-Clan Crasher,2.0,"['Green', 'Red']","['G', 'R']",None,['Creature'],"['Human', 'Warrior']",Common,PS11,2,2,None,Haste
+Pariah,3.0,['White'],['W'],None,['Enchantment'],['Aura'],Rare,PS11,None,None,None,Enchant creature\nAll damage that would be dealt to you is dealt to enchanted creature instead.
+Meglonoth,6.0,"['Green', 'Red', 'White']","['G', 'R', 'W']",None,['Creature'],['Beast'],Rare,PS11,6,6,None,"Vigilance, trample\nWhenever Meglonoth blocks a creature, Meglonoth deals damage to that creature's controller equal to Meglonoth's power."
+Condemn,1.0,['White'],['W'],None,['Instant'],None,Uncommon,PS11,None,None,None,Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.
+Kiss of the Amesha,6.0,"['Blue', 'White']","['U', 'W']",None,['Sorcery'],None,Uncommon,PS11,None,None,None,Target player gains 7 life and draws two cards.
+Griffin Sentinel,3.0,['White'],['W'],None,['Creature'],['Griffin'],Common,PS11,1,3,None,Flying\nVigilance (Attacking doesn't cause this creature to tap.)
+"Garza Zol, Plague Queen",7.0,"['Black', 'Red', 'Blue']","['B', 'R', 'U']",['Legendary'],['Creature'],"['Vampire', 'Noble']",Rare,PS11,5,5,None,"Flying, haste\nWhenever a creature dealt damage by Garza Zol, Plague Queen this turn dies, put a +1/+1 counter on Garza Zol.\nWhenever Garza Zol deals combat damage to a player, you may draw a card."
+Serra's Embrace,4.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,PS11,None,None,None,Enchant creature\nEnchanted creature gets +2/+2 and has flying and vigilance.
+Deft Duelist,2.0,"['Blue', 'White']","['U', 'W']",None,['Creature'],"['Human', 'Rogue']",Common,PS11,2,1,None,First strike\nShroud (This creature can't be the target of spells or abilities.)
+Deathbringer Thoctar,6.0,"['Black', 'Red']","['B', 'R']",None,['Creature'],"['Zombie', 'Beast']",Rare,PS11,3,3,None,"Whenever another creature dies, you may put a +1/+1 counter on Deathbringer Thoctar.\nRemove a +1/+1 counter from Deathbringer Thoctar: It deals 1 damage to any target."
+Honor of the Pure,2.0,['White'],['W'],None,['Enchantment'],None,Rare,PS11,None,None,None,White creatures you control get +1/+1.
+Bull Cerodon,6.0,"['Red', 'White']","['R', 'W']",None,['Creature'],['Beast'],Uncommon,PS11,5,5,None,"Vigilance, haste"
+"Cho-Manno, Revolutionary",4.0,['White'],['W'],['Legendary'],['Creature'],"['Human', 'Rebel']",Rare,PS11,2,2,None,"Prevent all damage that would be dealt to Cho-Manno, Revolutionary."
+Brion Stoutarm,4.0,"['Red', 'White']","['R', 'W']",['Legendary'],['Creature'],"['Giant', 'Warrior']",Rare,PS11,4,4,None,"Lifelink\n{R}, {T}, Sacrifice another creature: Brion Stoutarm deals damage equal to the sacrificed creature's power to target player or planeswalker."
+Blightning,3.0,"['Black', 'Red']","['B', 'R']",None,['Sorcery'],None,Common,PS11,None,None,None,Blightning deals 3 damage to target player or planeswalker. That player or that planeswalker's controller discards two cards.
+Wall of Wood,1.0,['Green'],['G'],None,['Creature'],['Wall'],Common,PS11,0,3,None,Defender (This creature can't attack.)
+Vigor,6.0,['Green'],['G'],None,['Creature'],"['Elemental', 'Incarnation']",Rare,PS11,6,6,None,"Trample\nIf damage would be dealt to another creature you control, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way.\nWhen Vigor is put into a graveyard from anywhere, shuffle it into its owner's library."
+Verdant Force,8.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,PS11,7,7,None,"At the beginning of each upkeep, create a 1/1 green Saproling creature token."
+Troll Ascetic,3.0,['Green'],['G'],None,['Creature'],"['Troll', 'Shaman']",Rare,PS11,3,2,None,Hexproof (This creature can't be the target of spells or abilities your opponents control.)\n{1}{G}: Regenerate Troll Ascetic.
+Trained Armodon,3.0,['Green'],['G'],None,['Creature'],['Elephant'],Common,PS11,3,3,None,None
+Holy Strength,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,PS11,None,None,None,Enchant creature\nEnchanted creature gets +1/+2.
+Talara's Battalion,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Rare,PS11,4,3,None,Cast this spell only if you've cast another green spell this turn.\nTrample
+Spined Wurm,5.0,['Green'],['G'],None,['Creature'],['Wurm'],Common,PS11,5,4,None,None
+Runeclaw Bear,2.0,['Green'],['G'],None,['Creature'],['Bear'],Common,PS11,2,2,None,None
+Goldenglow Moth,1.0,['White'],['W'],None,['Creature'],['Insect'],Common,PS11,0,1,None,"Flying\nWhenever Goldenglow Moth blocks, you may gain 4 life."
+Roughshod Mentor,6.0,['Green'],['G'],None,['Creature'],"['Giant', 'Warrior']",Uncommon,PS11,5,4,None,Green creatures you control have trample.
+Holy Day,1.0,['White'],['W'],None,['Instant'],None,Common,PS11,None,None,None,Prevent all combat damage that would be dealt this turn.
+River Boa,2.0,['Green'],['G'],None,['Creature'],['Snake'],Uncommon,PS11,2,1,None,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\n{G}: Regenerate River Boa.
+Rampant Growth,2.0,['Green'],['G'],None,['Sorcery'],None,Common,PS11,None,None,None,"Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+Overrun,5.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,PS11,None,None,None,Creatures you control get +3/+3 and gain trample until end of turn.
+Dispeller's Capsule,1.0,['White'],['W'],None,['Artifact'],None,Common,PS11,None,None,None,"{2}{W}, {T}, Sacrifice Dispeller's Capsule: Destroy target artifact or enchantment."
+Oakgnarl Warrior,7.0,['Green'],['G'],None,['Creature'],"['Treefolk', 'Warrior']",Common,PS11,5,7,None,"Vigilance, trample"
+Nature's Spiral,2.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,PS11,None,None,None,Return target permanent card from your graveyard to your hand.
+Naturalize,2.0,['Green'],['G'],None,['Instant'],None,Common,PS11,None,None,None,Destroy target artifact or enchantment.
+Natural Spring,5.0,['Green'],['G'],None,['Sorcery'],None,Common,PS11,None,None,None,Target player gains 8 life.
+"Molimo, Maro-Sorcerer",7.0,['Green'],['G'],['Legendary'],['Creature'],['Elemental'],Rare,PS11,*,*,None,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nMolimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control."
+"Mirri, Cat Warrior",3.0,['Green'],['G'],['Legendary'],['Creature'],"['Cat', 'Warrior']",Rare,PS11,2,3,None,"First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it can't be blocked as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)"
+Greenweaver Druid,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Uncommon,PS11,1,1,None,{T}: Add {G}{G}.
+Giant Spider,4.0,['Green'],['G'],None,['Creature'],['Spider'],Common,PS11,2,4,None,Reach (This creature can block creatures with flying.)
+Giant Growth,1.0,['Green'],['G'],None,['Instant'],None,Common,PS11,None,None,None,Target creature gets +3/+3 until end of turn.
+Gaea's Herald,2.0,['Green'],['G'],None,['Creature'],['Elf'],Rare,PS11,1,1,None,Creature spells can't be countered.
+Farhaven Elf,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,PS11,1,1,None,"When Farhaven Elf enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+Elvish Warrior,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Common,PS11,2,3,None,None
+Elvish Visionary,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Shaman']",Common,PS11,1,1,None,"When Elvish Visionary enters the battlefield, draw a card."
+Elvish Promenade,4.0,['Green'],['G'],None,"['Tribal', 'Sorcery']",['Elf'],Uncommon,PS11,None,None,None,Create a 1/1 green Elf Warrior creature token for each Elf you control.
+Elvish Eulogist,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Shaman']",Common,PS11,1,1,None,Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.
+Elvish Champion,3.0,['Green'],['G'],None,['Creature'],['Elf'],Rare,PS11,2,2,None,Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.)
+Elven Riders,5.0,['Green'],['G'],None,['Creature'],['Elf'],Uncommon,PS11,3,3,None,Elven Riders can't be blocked except by Walls and/or creatures with flying.
+Duskdale Wurm,7.0,['Green'],['G'],None,['Creature'],['Wurm'],Uncommon,PS11,7,7,None,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Grixis Battlemage,3.0,['Black'],"['B', 'R', 'U']",None,['Creature'],"['Human', 'Wizard']",Uncommon,PS11,2,2,None,"{U}, {T}: Draw a card, then discard a card.\n{R}, {T}: Target creature can't block this turn."
+Drove of Elves,4.0,['Green'],['G'],None,['Creature'],['Elf'],Uncommon,PS11,*,*,None,Hexproof\nDrove of Elves's power and toughness are each equal to the number of green permanents you control.
+Cloudcrown Oak,4.0,['Green'],['G'],None,['Creature'],"['Treefolk', 'Warrior']",Common,PS11,3,4,None,Reach (This creature can block creatures with flying.)
+Civic Wayfinder,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid', 'Warrior']",Common,PS11,2,2,None,"When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle."
+Bramblewood Paragon,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Uncommon,PS11,2,2,None,Each other Warrior creature you control enters the battlefield with an additional +1/+1 counter on it.\nEach creature you control with a +1/+1 counter on it has trample.
+Blanchwood Armor,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,PS11,None,None,None,Enchant creature\nEnchanted creature gets +1/+1 for each Forest you control.
+Gravedigger,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,PS11,2,2,None,"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand."
+Wild Swing,4.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,PS11,None,None,None,Choose three target nonenchantment permanents. Destroy one of them at random.
+Vengeful Firebrand,4.0,['Red'],['R'],None,['Creature'],"['Elemental', 'Warrior']",Rare,PS11,5,2,None,Vengeful Firebrand has haste as long as a Warrior card is in your graveyard.\n{R}: Vengeful Firebrand gets +1/+0 until end of turn.
+Shock,1.0,['Red'],['R'],None,['Instant'],None,Common,PS11,None,None,None,Shock deals 2 damage to any target.
+Imperious Perfect,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Uncommon,PS11,2,2,None,"Other Elves you control get +1/+1.\n{G}, {T}: Create a 1/1 green Elf Warrior creature token."
+Shivan Dragon,6.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,PS11,5,5,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.
+Glaze Fiend,2.0,['Black'],['B'],None,"['Artifact', 'Creature']",['Illusion'],Common,PS11,0,1,None,"Flying\nWhenever another artifact enters the battlefield under your control, Glaze Fiend gets +2/+2 until end of turn."
+Rage Reflection,6.0,['Red'],['R'],None,['Enchantment'],None,Rare,PS11,None,None,None,Creatures you control have double strike.
+Prodigal Pyromancer,3.0,['Red'],['R'],None,['Creature'],"['Human', 'Wizard']",Uncommon,PS11,1,1,None,{T}: Prodigal Pyromancer deals 1 damage to any target.
+Mudbutton Torchrunner,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Common,PS11,1,1,None,"When Mudbutton Torchrunner dies, it deals 3 damage to any target."
+Flameblast Dragon,6.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,PS11,5,5,None,"Flying\nWhenever Flameblast Dragon attacks, you may pay {X}{R}. If you do, Flameblast Dragon deals X damage to any target."
+Essence Drain,5.0,['Black'],['B'],None,['Sorcery'],None,Common,PS11,None,None,None,Essence Drain deals 3 damage to any target and you gain 3 life.
+Jagged Lightning,5.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,PS11,None,None,None,Jagged Lightning deals 3 damage to each of two target creatures.
+Lava Axe,5.0,['Red'],['R'],None,['Sorcery'],None,Common,PS11,None,None,None,Lava Axe deals 5 damage to target player or planeswalker.
+Lightning Elemental,4.0,['Red'],['R'],None,['Creature'],['Elemental'],Common,PS11,4,1,None,Haste (This creature can attack and {T} as soon as it comes under your control.)
+"Kamahl, Pit Fighter",6.0,['Red'],['R'],['Legendary'],['Creature'],"['Human', 'Barbarian']",Rare,PS11,6,1,None,"Haste (This creature can attack and {T} as soon as it comes under your control.)\n{T}: Kamahl, Pit Fighter deals 3 damage to any target."
+Incinerate,2.0,['Red'],['R'],None,['Instant'],None,Common,PS11,None,None,None,Incinerate deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.
+Drudge Skeletons,2.0,['Black'],['B'],None,['Creature'],['Skeleton'],Common,PS11,1,1,None,"{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
+Impelled Giant,6.0,['Red'],['R'],None,['Creature'],"['Giant', 'Warrior']",Uncommon,PS11,3,3,None,"Trample\nTap an untapped red creature you control other than Impelled Giant: Impelled Giant gets +X/+0 until end of turn, where X is the power of the creature tapped this way."
+Hill Giant,4.0,['Red'],['R'],None,['Creature'],['Giant'],Common,PS11,3,3,None,None
+Immaculate Magistrate,4.0,['Green'],['G'],None,['Creature'],"['Elf', 'Shaman']",Rare,PS11,2,2,None,{T}: Put a +1/+1 counter on target creature for each Elf you control.
+Hidden Horror,3.0,['Black'],['B'],None,['Creature'],['Horror'],Uncommon,PS11,4,4,None,"When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card."
+Goblin Sky Raider,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Common,PS11,1,2,None,Flying (This creature can't be blocked except by creatures with flying or reach.)
+Hellkite Charger,6.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,PS11,5,5,None,"Flying, haste\nWhenever Hellkite Charger attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase."
+Hamletback Goliath,7.0,['Red'],['R'],None,['Creature'],"['Giant', 'Warrior']",Rare,PS11,6,6,None,"Whenever another creature enters the battlefield, you may put X +1/+1 counters on Hamletback Goliath, where X is that creature's power."
+Flamekin Brawler,1.0,['Red'],['R'],None,['Creature'],"['Elemental', 'Warrior']",Common,PS11,0,2,None,{R}: Flamekin Brawler gets +1/+0 until end of turn.
+Enrage,1.0,['Red'],['R'],None,['Instant'],None,Uncommon,PS11,None,None,None,Target creature gets +X/+0 until end of turn.
+Goblin Piker,2.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Common,PS11,2,1,None,None
+Furnace Whelp,4.0,['Red'],['R'],None,['Creature'],['Dragon'],Uncommon,PS11,2,2,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Furnace Whelp gets +1/+0 until end of turn.
+Furnace of Rath,4.0,['Red'],['R'],None,['Enchantment'],None,Rare,PS11,None,None,None,"If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
+Earth Elemental,5.0,['Red'],['R'],None,['Creature'],['Elemental'],Uncommon,PS11,4,5,None,None
+Dragon Roost,6.0,['Red'],['R'],None,['Enchantment'],None,Rare,PS11,None,None,None,{5}{R}{R}: Create a 5/5 red Dragon creature token with flying. (It can't be blocked except by creatures with flying or reach.)
+Dragon Fodder,2.0,['Red'],['R'],None,['Sorcery'],None,Common,PS11,None,None,None,Create two 1/1 red Goblin creature tokens.
+Crucible of Fire,4.0,['Red'],['R'],None,['Enchantment'],None,Rare,PS11,None,None,None,Dragon creatures you control get +3/+3.
+Cinder Pyromancer,3.0,['Red'],['R'],None,['Creature'],"['Elemental', 'Shaman']",Common,PS11,0,1,None,"{T}: Cinder Pyromancer deals 1 damage to target player or planeswalker.\nWhenever you cast a red spell, you may untap Cinder Pyromancer."
+Hurricane,1.0,['Green'],['G'],None,['Sorcery'],None,Rare,PS11,None,None,None,Hurricane deals X damage to each creature with flying and each player.
+Borderland Behemoth,7.0,['Red'],['R'],None,['Creature'],"['Giant', 'Warrior']",Rare,PS11,4,4,None,Trample\nBorderland Behemoth gets +4/+4 for each other Giant you control.
+Bloodmark Mentor,2.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Uncommon,PS11,1,1,None,Red creatures you control have first strike.
+Blaze,1.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,PS11,None,None,None,Blaze deals X damage to any target.
+Howl of the Night Pack,7.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,PS11,None,None,None,Create a 2/2 green Wolf creature token for each Forest you control.
+Banefire,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,PS11,None,None,None,"Banefire deals X damage to any target.\nIf X is 5 or more, this spell can't be countered and the damage can't be prevented."
+Axegrinder Giant,6.0,['Red'],['R'],None,['Creature'],"['Giant', 'Warrior']",Common,PS11,6,4,None,None
+Act of Treason,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,PS11,None,None,None,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)
+Zombify,4.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,PS11,None,None,None,Return target creature card from your graveyard to the battlefield.
+Zombie Goliath,5.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Giant']",Common,PS11,4,3,None,None
+Unholy Strength,1.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,PS11,None,None,None,Enchant creature\nEnchanted creature gets +2/+1.
+Underworld Dreams,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,PS11,None,None,None,"Whenever an opponent draws a card, Underworld Dreams deals 1 damage to that player."
+Terror,2.0,['Black'],['B'],None,['Instant'],None,Common,PS11,None,None,None,"Destroy target nonartifact, nonblack creature. It can't be regenerated."
+Severed Legion,3.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,PS11,2,2,None,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Eyeblight's Ending,3.0,['Black'],['B'],None,"['Tribal', 'Instant']",['Elf'],Common,PS11,None,None,None,Destroy target non-Elf creature.
+Sengir Vampire,5.0,['Black'],['B'],None,['Creature'],['Vampire'],Rare,PS11,4,4,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire."
+Salvage Slasher,2.0,['Black'],['B'],None,"['Artifact', 'Creature']","['Human', 'Rogue']",Common,PS11,1,1,None,Salvage Slasher gets +1/+0 for each artifact card in your graveyard.
+Ravenous Rats,2.0,['Black'],['B'],None,['Creature'],['Rat'],Common,PS11,1,1,None,"When Ravenous Rats enters the battlefield, target opponent discards a card."
+Plague Beetle,1.0,['Black'],['B'],None,['Creature'],['Insect'],Common,PS11,1,1,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+Onyx Goblet,3.0,['Black'],['B'],None,['Artifact'],None,Common,PS11,None,None,None,{T}: Target player loses 1 life.
+Mortivore,4.0,['Black'],['B'],None,['Creature'],['Lhurgoyf'],Rare,PS11,*,*,None,Mortivore's power and toughness are each equal to the number of creature cards in all graveyards.\n{B}: Regenerate Mortivore.
+Moonglove Winnower,4.0,['Black'],['B'],None,['Creature'],"['Elf', 'Rogue']",Common,PS11,2,3,None,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Mind Shatter,2.0,['Black'],['B'],None,['Sorcery'],None,Rare,PS11,None,None,None,Target player discards X cards at random.
+Dusk Imp,3.0,['Black'],['B'],None,['Creature'],['Imp'],Common,PS11,2,1,None,Flying
+Mind Rot,3.0,['Black'],['B'],None,['Sorcery'],None,Common,PS11,None,None,None,Target player discards two cards.
+Crowd of Cinders,4.0,['Black'],['B'],None,['Creature'],['Elemental'],Uncommon,PS11,*,*,None,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nCrowd of Cinders's power and toughness are each equal to the number of black permanents you control.
+Consume Spirit,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,PS11,None,None,None,Spend only black mana on X.\nConsume Spirit deals X damage to any target and you gain X life.
+Megrim,3.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,PS11,None,None,None,"Whenever an opponent discards a card, Megrim deals 2 damage to that player."
+Banewasp Affliction,2.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,PS11,None,None,None,"Enchant creature\nWhen enchanted creature dies, that creature's controller loses life equal to its toughness."

@@ -1,0 +1,10 @@
+CMC: {1.0, 5.0, 6.0}
+Colors: {'Green', 'Blue'}
+ColorIdentity: {'U', 'G'}
+Supertypes: set()
+Types: {'Enchantment', 'Instant', 'Land', 'Creature'}
+Subtypes: {'Hydra', 'Sphinx', 'Wizard', 'Human'}
+Rarity: {'Common', 'Rare'}
+Power: {'3', '7', '2'}
+Toughness: {'3', '7', '5'}
+Loyalty: set()

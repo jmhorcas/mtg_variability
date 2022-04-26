@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 9.0, 12.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Druid', 'Snake', 'Rowan', 'Garruk', 'Faerie', 'Adventure', 'Dragon', 'Equipment', 'Archer', 'Gargoyle', 'Wolf', 'Will', 'Archon', 'Knight', 'Human', 'Merfolk', 'Beast', 'Noble', 'Giant', 'Treefolk', 'Serpent', 'Elf', 'Oko', 'Wizard', 'Rogue', 'Warlock', 'Bird', 'Troll', 'Dwarf'}
+Rarity: {'Rare', 'Mythic'}
+Power: {'4', '7', '5', '1', '8', '2', '0', '3'}
+Toughness: {'4', '7', '5', '8', '1', '2', '0', '3', '6'}
+Loyalty: {'4', '5'}

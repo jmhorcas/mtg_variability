@@ -1,0 +1,8 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Harmonize,4.0,['Green'],['G'],None,['Sorcery'],None,Rare,P08,None,None,None,Draw three cards.
+Mana Tithe,1.0,['White'],['W'],None,['Instant'],None,Rare,P08,None,None,None,Counter target spell unless its controller pays {1}.
+Incinerate,2.0,['Red'],['R'],None,['Instant'],None,Rare,P08,None,None,None,Incinerate deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.
+Corrupt,6.0,['Black'],['B'],None,['Sorcery'],None,Rare,P08,None,None,None,Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.
+Ponder,1.0,['Blue'],['U'],None,['Sorcery'],None,Rare,P08,None,None,None,"Look at the top three cards of your library, then put them back in any order. You may shuffle.\nDraw a card."
+Tidings,5.0,['Blue'],['U'],None,['Sorcery'],None,Rare,P08,None,None,None,Draw four cards.
+Damnation,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,P08,None,None,None,Destroy all creatures. They can't be regenerated.

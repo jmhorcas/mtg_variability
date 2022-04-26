@@ -1,0 +1,10 @@
+CMC: {4.0}
+Colors: {'Red', 'White'}
+ColorIdentity: {'W', 'R'}
+Supertypes: {'Legendary'}
+Types: {'Planeswalker'}
+Subtypes: {'Ajani'}
+Rarity: {'Mythic'}
+Power: set()
+Toughness: set()
+Loyalty: {'3'}

@@ -1,0 +1,10 @@
+CMC: {6.0, 7.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Vampire', 'Phoenix', 'Angel', 'Turtle', 'Dinosaur'}
+Rarity: {'Rare'}
+Power: {'4', '7', '5'}
+Toughness: {'3', '4', '7', '5'}
+Loyalty: set()

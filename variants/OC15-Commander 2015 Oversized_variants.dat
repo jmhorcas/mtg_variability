@@ -1,0 +1,10 @@
+CMC: {3.0, 4.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Legendary'}
+Types: {'Creature'}
+Subtypes: {'Warrior', 'Giant', 'Soldier', 'Elf', 'Wizard', 'Goblin', 'Human', 'Phyrexian', 'Zombie', 'Shaman'}
+Rarity: {'Mythic'}
+Power: {'3', '2'}
+Toughness: {'3', '4', '2'}
+Loyalty: set()

@@ -1,0 +1,109 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Moment's Peace,2.0,['Green'],['G'],None,['Instant'],None,Common,WC03,None,None,None,Prevent all combat damage that would be dealt this turn.\nFlashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Vengeful Dreams,2.0,['White'],['W'],None,['Instant'],None,Rare,WC03,None,None,None,"As an additional cost to cast this spell, discard X cards.\nExile X target attacking creatures."
+Krosan Verge,0.0,None,None,None,['Land'],None,Uncommon,WC03,None,None,None,"Krosan Verge enters the battlefield tapped.\n{T}: Add {C}.\n{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle."
+Mirari's Wake,5.0,"['Green', 'White']","['G', 'W']",None,['Enchantment'],None,Rare,WC03,None,None,None,"Creatures you control get +1/+1.\nWhenever you tap a land for mana, add one mana of any type that land produced."
+Anurid Brushhopper,3.0,"['Green', 'White']","['G', 'W']",None,['Creature'],"['Frog', 'Beast']",Rare,WC03,3,4,None,Discard two cards: Exile Anurid Brushhopper. Return it to the battlefield under its owner's control at the beginning of the next end step.
+Buried Alive,3.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,WC03,None,None,None,"Search your library for up to three creature cards, put them into your graveyard, then shuffle."
+Hunting Pack,7.0,['Green'],['G'],None,['Instant'],None,Uncommon,WC03,None,None,None,"Create a 4/4 green Beast creature token.\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)"
+Decree of Justice,4.0,['White'],['W'],None,['Sorcery'],None,Rare,WC03,None,None,None,"Create X 4/4 white Angel creature tokens with flying.\nCycling {2}{W} ({2}{W}, Discard this card: Draw a card.)\nWhen you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white Soldier creature tokens."
+Mana Leak,2.0,['Blue'],['U'],None,['Instant'],None,Common,WC03,None,None,None,Counter target spell unless its controller pays {3}.
+Careful Study,1.0,['Blue'],['U'],None,['Sorcery'],None,Common,WC03,None,None,None,"Draw two cards, then discard two cards."
+Wrath of God,4.0,['White'],['W'],None,['Sorcery'],None,Rare,WC03,None,None,None,Destroy all creatures. They can't be regenerated.
+Wonder,4.0,['Blue'],['U'],None,['Creature'],['Incarnation'],Uncommon,WC03,2,2,None,"Flying\nAs long as Wonder is in your graveyard and you control an Island, creatures you control have flying."
+Quiet Speculation,2.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,WC03,None,None,None,Search target player's library for up to three cards with flashback and put them into that player's graveyard. Then the player shuffles.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC03,None,None,None,({T}: Add {U}.)
+Renewed Faith,3.0,['White'],['W'],None,['Instant'],None,Common,WC03,None,None,None,"You gain 6 life.\nCycling {1}{W} ({1}{W}, Discard this card: Draw a card.)\nWhen you cycle Renewed Faith, you may gain 2 life."
+Stupefying Touch,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,WC03,None,None,None,"Enchant creature\nWhen Stupefying Touch enters the battlefield, draw a card.\nEnchanted creature's activated abilities can't be activated."
+Envelop,1.0,['Blue'],['U'],None,['Instant'],None,Common,WC03,None,None,None,Counter target sorcery spell.
+Ray of Distortion,4.0,['White'],['W'],None,['Instant'],None,Common,WC03,None,None,None,Destroy target artifact or enchantment.\nFlashback {4}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Cunning Wish,3.0,['Blue'],['U'],None,['Instant'],None,Rare,WC03,None,None,None,You may reveal an instant card you own from outside the game and put it into your hand. Exile Cunning Wish.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC03,None,None,None,({T}: Add {U}.)
+Deep Analysis,4.0,['Blue'],['U'],None,['Sorcery'],None,Common,WC03,None,None,None,"Target player draws two cards.\nFlashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC03,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC03,None,None,None,({T}: Add {G}.)
+Exalted Angel,6.0,['White'],['W'],None,['Creature'],['Angel'],Rare,WC03,4,5,None,"Flying\nWhenever Exalted Angel deals damage, you gain that much life.\nMorph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)"
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC03,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC03,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC03,None,None,None,({T}: Add {G}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC03,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC03,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC03,None,None,None,({T}: Add {U}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC03,None,None,None,({T}: Add {G}.)
+Wild Mongrel,2.0,['Green'],['G'],None,['Creature'],['Dog'],Common,WC03,2,2,None,Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.
+City of Brass,0.0,None,None,None,['Land'],None,Rare,WC03,None,None,None,"Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
+Circular Logic,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC03,None,None,None,"Counter target spell unless its controller pays {1} for each card in your graveyard.\nMadness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+Centaur Garden,0.0,None,['G'],None,['Land'],None,Uncommon,WC03,None,None,None,"{T}: Add {G}. Centaur Garden deals 1 damage to you.\nThreshold — {G}, {T}, Sacrifice Centaur Garden: Target creature gets +3/+3 until end of turn. Activate only if seven or more cards are in your graveyard."
+Roar of the Wurm,7.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,WC03,None,None,None,Create a 6/6 green Wurm creature token.\nFlashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Aquamoeba,2.0,['Blue'],['U'],None,['Creature'],"['Elemental', 'Beast']",Common,WC03,1,3,None,Discard a card: Switch Aquamoeba's power and toughness until end of turn.
+Phantom Centaur,4.0,['Green'],['G'],None,['Creature'],"['Centaur', 'Spirit']",Uncommon,WC03,2,0,None,"Protection from black\nPhantom Centaur enters the battlefield with three +1/+1 counters on it.\nIf damage would be dealt to Phantom Centaur, prevent that damage. Remove a +1/+1 counter from Phantom Centaur."
+Ray of Revelation,2.0,['White'],"['G', 'W']",None,['Instant'],None,Common,WC03,None,None,None,Destroy target enchantment.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Nantuko Vigilante,4.0,['Green'],['G'],None,['Creature'],"['Insect', 'Druid', 'Mutant']",Common,WC03,3,2,None,"Morph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Nantuko Vigilante is turned face up, destroy target artifact or enchantment."
+Arrogant Wurm,5.0,['Green'],['G'],None,['Creature'],['Wurm'],Uncommon,WC03,4,4,None,"Trample\nMadness {2}{G} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+Unsummon,1.0,['Blue'],['U'],None,['Instant'],None,Common,WC03,None,None,None,Return target creature to its owner's hand.
+Krosan Reclamation,2.0,['Green'],['G'],None,['Instant'],None,Uncommon,WC03,None,None,None,Target player shuffles up to two target cards from their graveyard into their library.\nFlashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Basking Rootwalla,1.0,['Green'],['G'],None,['Creature'],['Lizard'],Common,WC03,1,1,None,"{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate only once each turn.\nMadness {0} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+Compulsion,2.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,WC03,None,None,None,"{1}{U}, Discard a card: Draw a card.\n{1}{U}, Sacrifice Compulsion: Draw a card."
+Wing Shards,3.0,['White'],['W'],None,['Instant'],None,Uncommon,WC03,None,None,None,"Target player sacrifices an attacking creature.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
+Goblin Warchief,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Uncommon,WC03,2,2,None,Goblin spells you cast cost {1} less to cast.\nGoblins you control have haste.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC03,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC03,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC03,None,None,None,({T}: Add {B}.)
+Starstorm,2.0,['Red'],['R'],None,['Instant'],None,Rare,WC03,None,None,None,"Starstorm deals X damage to each creature.\nCycling {3} ({3}, Discard this card: Draw a card.)"
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC03,None,None,None,({T}: Add {U}.)
+Sparksmith,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,WC03,1,1,None,"{T}: Sparksmith deals X damage to target creature and X damage to you, where X is the number of Goblins on the battlefield."
+Skirk Prospector,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,WC03,1,1,None,Sacrifice a Goblin: Add {R}.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC03,None,None,None,({T}: Add {R}.)
+Goblin Piledriver,2.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Rare,WC03,1,2,None,"Protection from blue (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue.)\nWhenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin."
+Goblin Sledder,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,WC03,1,1,None,Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.
+Goblin Taskmaster,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,WC03,1,1,None,{1}{R}: Target Goblin creature gets +1/+0 until end of turn.\nMorph {R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Goblin Sharpshooter,3.0,['Red'],['R'],None,['Creature'],['Goblin'],Rare,WC03,1,1,None,"Goblin Sharpshooter doesn't untap during your untap step.\nWhenever a creature dies, untap Goblin Sharpshooter.\n{T}: Goblin Sharpshooter deals 1 damage to any target."
+Doomed Necromancer,3.0,['Black'],['B'],None,['Creature'],"['Human', 'Cleric', 'Mercenary']",Rare,WC03,2,2,None,"{B}, {T}, Sacrifice Doomed Necromancer: Return target creature card from your graveyard to the battlefield."
+Siege-Gang Commander,5.0,['Red'],['R'],None,['Creature'],['Goblin'],Rare,WC03,2,2,None,"When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens.\n{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target."
+Entomb,1.0,['Black'],['B'],None,['Instant'],None,Rare,WC03,None,None,None,"Search your library for a card, put that card into your graveyard, then shuffle."
+Dark Banishing,3.0,['Black'],['B'],None,['Instant'],None,Common,WC03,None,None,None,Destroy target nonblack creature. It can't be regenerated.
+Sulfuric Vortex,3.0,['Red'],['R'],None,['Enchantment'],None,Rare,WC03,None,None,None,"At the beginning of each player's upkeep, Sulfuric Vortex deals 2 damage to that player.\nIf a player would gain life, that player gains no life instead."
+Anger,4.0,['Red'],['R'],None,['Creature'],['Incarnation'],Uncommon,WC03,2,2,None,"Haste\nAs long as Anger is in your graveyard and you control a Mountain, creatures you control have haste."
+Stitch Together,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,WC03,None,None,None,Return target creature card from your graveyard to your hand.\nThreshold — Return that card from your graveyard to the battlefield instead if seven or more cards are in your graveyard.
+Goblin Grappler,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,WC03,1,1,None,"Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)"
+Sickening Dreams,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,WC03,None,None,None,"As an additional cost to cast this spell, discard X cards.\nSickening Dreams deals X damage to each creature and each player."
+Burning Wish,2.0,['Red'],['R'],None,['Sorcery'],None,Rare,WC03,None,None,None,You may reveal a sorcery card you own from outside the game and put it into your hand. Exile Burning Wish.
+Guiltfeeder,5.0,['Black'],['B'],None,['Creature'],['Horror'],Rare,WC03,0,4,None,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever Guiltfeeder attacks and isn't blocked, defending player loses 1 life for each card in their graveyard."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC03,None,None,None,({T}: Add {R}.)
+Haunting Echoes,5.0,['Black'],['B'],None,['Sorcery'],None,Rare,WC03,None,None,None,"Exile all cards from target player's graveyard other than basic land cards. For each card exiled this way, search that player's library for all cards with the same name as that card and exile them. Then that player shuffles."
+Arcanis the Omnipotent,6.0,['Blue'],['U'],['Legendary'],['Creature'],['Wizard'],Rare,WC03,3,4,None,{T}: Draw three cards.\n{2}{U}{U}: Return Arcanis the Omnipotent to its owner's hand.
+Cabal Therapy,1.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,WC03,None,None,None,Choose a nonland card name. Target player reveals their hand and discards all cards with that name.\nFlashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Chainer's Edict,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,WC03,None,None,None,Target player sacrifices a creature.\nFlashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC03,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC03,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC03,None,None,None,({T}: Add {R}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC03,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC03,None,None,None,({T}: Add {W}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC03,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC03,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC03,None,None,None,({T}: Add {B}.)
+Shadowblood Ridge,0.0,None,"['B', 'R']",None,['Land'],None,Rare,WC03,None,None,None,"{1}, {T}: Add {B}{R}."
+Bloodstained Mire,0.0,None,None,None,['Land'],None,Rare,WC03,None,None,None,"{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC03,None,None,None,({T}: Add {W}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC03,None,None,None,({T}: Add {R}.)
+Barren Moor,0.0,None,['B'],None,['Land'],None,Common,WC03,None,None,None,"Barren Moor enters the battlefield tapped.\n{T}: Add {B}.\nCycling {B} ({B}, Discard this card: Draw a card.)"
+Skycloud Expanse,0.0,None,"['U', 'W']",None,['Land'],None,Rare,WC03,None,None,None,"{1}, {T}: Add {W}{U}."
+Symbiotic Wurm,8.0,['Green'],['G'],None,['Creature'],['Wurm'],Rare,WC03,7,7,None,"When Symbiotic Wurm dies, create seven 1/1 green Insect creature tokens."
+Elfhame Palace,0.0,None,"['G', 'W']",None,['Land'],None,Uncommon,WC03,None,None,None,Elfhame Palace enters the battlefield tapped.\n{T}: Add {G} or {W}.
+Recoup,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,WC03,None,None,None,Target sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (Mana cost includes color.)\nFlashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Flooded Strand,0.0,None,None,None,['Land'],None,Rare,WC03,None,None,None,"{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle."
+Gempalm Incinerator,3.0,['Red'],['R'],None,['Creature'],['Goblin'],Uncommon,WC03,2,1,None,"Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield."
+Flaring Pain,2.0,['Red'],['R'],None,['Instant'],None,Common,WC03,None,None,None,Damage can't be prevented this turn.\nFlashback {R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Pyroclasm,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,WC03,None,None,None,Pyroclasm deals 2 damage to each creature.
+Phantom Nishoba,7.0,"['Green', 'White']","['G', 'W']",None,['Creature'],"['Cat', 'Beast', 'Spirit']",Rare,WC03,0,0,None,"Trample\nPhantom Nishoba enters the battlefield with seven +1/+1 counters on it.\nWhenever Phantom Nishoba deals damage, you gain that much life.\nIf damage would be dealt to Phantom Nishoba, prevent that damage. Remove a +1/+1 counter from Phantom Nishoba."
+Mirari,5.0,None,None,['Legendary'],['Artifact'],None,Rare,WC03,None,None,None,"Whenever you cast an instant or sorcery spell, you may pay {3}. If you do, copy that spell. You may choose new targets for the copy."
+Demolish,4.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,WC03,None,None,None,Destroy target artifact or land.
+Visara the Dreadful,6.0,['Black'],['B'],['Legendary'],['Creature'],['Gorgon'],Rare,WC03,5,5,None,Flying\n{T}: Destroy target creature. It can't be regenerated.
+Undead Gladiator,3.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Barbarian']",Rare,WC03,3,1,None,"{1}{B}, Discard a card: Return Undead Gladiator from your graveyard to your hand. Activate only during your upkeep.\nCycling {1}{B} ({1}{B}, Discard this card: Draw a card.)"
+Zombify,4.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,WC03,None,None,None,Return target creature card from your graveyard to the battlefield.
+Smother,2.0,['Black'],['B'],None,['Instant'],None,Uncommon,WC03,None,None,None,Destroy target creature with mana value 3 or less. It can't be regenerated.
+Soul Feast,5.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,WC03,None,None,None,Target player loses 4 life and you gain 4 life.
+Patriarch's Bidding,5.0,['Black'],['B'],None,['Sorcery'],None,Rare,WC03,None,None,None,Each player chooses a creature type. Each player returns all creature cards of a type chosen this way from their graveyard to the battlefield.
+Last Rites,3.0,['Black'],['B'],None,['Sorcery'],None,Common,WC03,None,None,None,"Discard any number of cards. Target player reveals their hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards."
+Innocent Blood,1.0,['Black'],['B'],None,['Sorcery'],None,Common,WC03,None,None,None,Each player sacrifices a creature.
+Decompose,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,WC03,None,None,None,Exile up to three target cards from a single graveyard.

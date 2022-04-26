@@ -1,0 +1,69 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Rhonas's Monument,3.0,None,None,['Legendary'],['Artifact'],None,Uncommon,GNT,None,None,None,"Green creature spells you cast cost {1} less to cast.\nWhenever you cast a creature spell, target creature you control gets +2/+2 and gains trample until end of turn."
+Claustrophobia,3.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,GNT,None,None,None,"Enchant creature\nWhen Claustrophobia enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step."
+Pilgrim's Eye,3.0,None,None,None,"['Artifact', 'Creature']",['Thopter'],Uncommon,GNT,1,1,None,"Flying\nWhen Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle."
+Air Elemental,5.0,['Blue'],['U'],None,['Creature'],['Elemental'],Uncommon,GNT,4,4,None,Flying
+Advanced Stitchwing,5.0,['Blue'],['U'],None,['Creature'],"['Zombie', 'Horror']",Uncommon,GNT,3,4,None,"Flying\n{2}{U}, Discard two cards: Return Advanced Stitchwing from your graveyard to the battlefield tapped."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,GNT,None,None,None,({T}: Add {W}.)
+Inspired Sphinx,7.0,['Blue'],['U'],None,['Creature'],['Sphinx'],Mythic,GNT,5,5,None,"Flying\nWhen Inspired Sphinx enters the battlefield, draw cards equal to the number of opponents you have.\n{3}{U}: Create a 1/1 colorless Thopter artifact creature token with flying."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,GNT,None,None,None,({T}: Add {W}.)
+Inspiring Captain,4.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Common,GNT,3,3,None,"When Inspiring Captain enters the battlefield, creatures you control get +1/+1 until end of turn."
+Serra Angel,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,GNT,4,4,None,"Flying, vigilance"
+Manalith,3.0,None,None,None,['Artifact'],None,Common,GNT,None,None,None,{T}: Add one mana of any color.
+Howling Golem,3.0,None,None,None,"['Artifact', 'Creature']",['Golem'],Uncommon,GNT,2,3,None,"Whenever Howling Golem attacks or blocks, each player draws a card."
+Subjugator Angel,6.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,GNT,4,3,None,"Flying\nWhen Subjugator Angel enters the battlefield, tap all creatures your opponents control."
+Filigree Familiar,3.0,None,None,None,"['Artifact', 'Creature']",['Fox'],Uncommon,GNT,2,2,None,"When Filigree Familiar enters the battlefield, you gain 2 life.\nWhen Filigree Familiar dies, draw a card."
+Mesa Unicorn,2.0,['White'],['W'],None,['Creature'],['Unicorn'],Common,GNT,2,2,None,Lifelink
+Eager Construct,2.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Common,GNT,2,2,None,"When Eager Construct enters the battlefield, each player may scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
+Inspired Charge,4.0,['White'],['W'],None,['Instant'],None,Common,GNT,None,None,None,Creatures you control get +2/+1 until end of turn.
+Thrashing Brontodon,3.0,['Green'],['G'],None,['Creature'],['Dinosaur'],Uncommon,GNT,3,4,None,"{1}, Sacrifice Thrashing Brontodon: Destroy target artifact or enchantment."
+Fan Bearer,1.0,['White'],['W'],None,['Creature'],['Zombie'],Common,GNT,1,2,None,"{2}, {T}: Tap target creature."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,GNT,None,None,None,({T}: Add {R}.)
+Seek the Wilds,2.0,['Green'],['G'],None,['Sorcery'],None,Common,GNT,None,None,None,Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+Everdawn Champion,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,GNT,2,2,None,Prevent all combat damage that would be dealt to Everdawn Champion.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,GNT,None,None,None,({T}: Add {G}.)
+Overcome,5.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,GNT,None,None,None,Creatures you control get +2/+2 and gain trample until end of turn. (They can deal excess combat damage to the player or planeswalker they're attacking.)
+Always Watching,3.0,['White'],['W'],None,['Enchantment'],None,Rare,GNT,None,None,None,Nontoken creatures you control get +1/+1 and have vigilance.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,GNT,None,None,None,({T}: Add {G}.)
+Nissa's Revelation,7.0,['Green'],['G'],None,['Sorcery'],None,Rare,GNT,None,None,None,"Scry 5, then reveal the top card of your library. If it's a creature card, you draw cards equal to its power and you gain life equal to its toughness."
+Call the Cavalry,4.0,['White'],['W'],None,['Sorcery'],None,Common,GNT,None,None,None,Create two 2/2 white Knight creature tokens with vigilance.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,GNT,None,None,None,({T}: Add {B}.)
+Llanowar Elves,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,GNT,1,1,None,{T}: Add {G}.
+Bright Reprisal,5.0,['White'],['W'],None,['Instant'],None,Uncommon,GNT,None,None,None,Destroy target attacking creature.\nDraw a card.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,GNT,None,None,None,({T}: Add {U}.)
+Jungle Delver,1.0,['Green'],['G'],None,['Creature'],"['Merfolk', 'Warrior']",Common,GNT,1,1,None,{3}{G}: Put a +1/+1 counter on Jungle Delver.
+Benalish Marshal,3.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Rare,GNT,3,3,None,Other creatures you control get +1/+1.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,GNT,None,None,None,({T}: Add {R}.)
+"Ghalta, Primal Hunger",12.0,['Green'],['G'],['Legendary'],['Creature'],"['Elder', 'Dinosaur']",Rare,GNT,12,12,None,"This spell costs {X} less to cast, where X is the total power of creatures you control.\nTrample"
+Rot Hulk,7.0,['Black'],['B'],None,['Creature'],['Zombie'],Mythic,GNT,5,5,None,"Menace\nWhen Rot Hulk enters the battlefield, return up to X target Zombie cards from your graveyard to the battlefield, where X is the number of opponents you have."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,GNT,None,None,None,({T}: Add {B}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,GNT,None,None,None,({T}: Add {U}.)
+Militant Angel,5.0,['White'],['W'],None,['Creature'],['Angel'],Mythic,GNT,3,4,None,"Flying, lifelink\nWhen Militant Angel enters the battlefield, create a number of 2/2 white Knight creature tokens with vigilance equal to the number of opponents you attacked this turn."
+Aerial Responder,3.0,['White'],['W'],None,['Creature'],"['Dwarf', 'Soldier']",Uncommon,GNT,2,3,None,"Flying, vigilance, lifelink"
+Tormenting Voice,2.0,['Red'],['R'],None,['Sorcery'],None,Common,GNT,None,None,None,"As an additional cost to cast this spell, discard a card.\nDraw two cards."
+Siege-Gang Commander,5.0,['Red'],['R'],None,['Creature'],['Goblin'],Rare,GNT,2,2,None,"When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens.\n{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target."
+Snare Thopter,4.0,None,None,None,"['Artifact', 'Creature']",['Thopter'],Uncommon,GNT,3,2,None,"Flying, haste"
+Seismic Elemental,5.0,['Red'],['R'],None,['Creature'],['Elemental'],Uncommon,GNT,4,4,None,"When Seismic Elemental enters the battlefield, creatures without flying can't block this turn."
+Avatar of Growth,6.0,['Green'],['G'],None,['Creature'],"['Elemental', 'Avatar']",Mythic,GNT,4,4,None,"This spell costs {1} less to cast for each opponent you have.\nTrample\nWhen Avatar of Growth enters the battlefield, each player searches their library for up to two basic land cards, puts them onto the battlefield, then shuffles."
+Rolling Thunder,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,GNT,None,None,None,Rolling Thunder deals X damage divided as you choose among any number of targets.
+Dragon Fodder,2.0,['Red'],['R'],None,['Sorcery'],None,Common,GNT,None,None,None,Create two 1/1 red Goblin creature tokens.
+Captivating Crew,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Pirate']",Rare,GNT,4,3,None,{3}{R}: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate only as a sorcery.
+Goblin Goliath,6.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Mutant']",Mythic,GNT,5,4,None,"When Goblin Goliath enters the battlefield, create a number of 1/1 red Goblin creature tokens equal to the number of opponents you have.\n{3}{R}, {T}: If a source you control would deal damage to an opponent this turn, it deals double that damage to that player instead."
+Bombard,3.0,['Red'],['R'],None,['Instant'],None,Common,GNT,None,None,None,Bombard deals 4 damage to target creature.
+Zulaport Cutthroat,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Rogue', 'Ally']",Uncommon,GNT,1,1,None,"Whenever Zulaport Cutthroat or another creature you control dies, each opponent loses 1 life and you gain 1 life."
+Thallid Soothsayer,4.0,['Black'],['B'],None,['Creature'],['Fungus'],Uncommon,GNT,2,3,None,"{2}, Sacrifice a creature: Draw a card."
+Tattered Mummy,2.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Jackal']",Common,GNT,1,2,None,"When Tattered Mummy dies, each opponent loses 2 life."
+Lord of the Accursed,3.0,['Black'],['B'],None,['Creature'],['Zombie'],Uncommon,GNT,2,3,None,"Other Zombies you control get +1/+1.\n{1}{B}, {T}: All Zombies gain menace until end of turn."
+Liliana's Mastery,5.0,['Black'],['B'],None,['Enchantment'],None,Rare,GNT,None,None,None,"Zombies you control get +1/+1.\nWhen Liliana's Mastery enters the battlefield, create two 2/2 black Zombie creature tokens."
+Welder Automaton,2.0,None,['R'],None,"['Artifact', 'Creature']",['Construct'],Common,GNT,2,1,None,{3}{R}: Welder Automaton deals 1 damage to each opponent.
+Languish,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,GNT,None,None,None,All creatures get -4/-4 until end of turn.
+Gruesome Fate,3.0,['Black'],['B'],None,['Sorcery'],None,Common,GNT,None,None,None,Each opponent loses 1 life for each creature you control.
+Fleshbag Marauder,3.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Warrior']",Uncommon,GNT,3,1,None,"When Fleshbag Marauder enters the battlefield, each player sacrifices a creature."
+Cruel Revival,5.0,['Black'],['B'],None,['Instant'],None,Uncommon,GNT,None,None,None,Destroy target non-Zombie creature. It can't be regenerated. Return up to one target Zombie card from your graveyard to your hand.
+Bone Splinters,1.0,['Black'],['B'],None,['Sorcery'],None,Common,GNT,None,None,None,"As an additional cost to cast this spell, sacrifice a creature.\nDestroy target creature."
+"Zahid, Djinn of the Lamp",6.0,['Blue'],['U'],['Legendary'],['Creature'],['Djinn'],Rare,GNT,5,6,None,You may pay {3}{U} and tap an untapped artifact you control rather than pay this spell's mana cost.\nFlying
+Whirler Rogue,4.0,['Blue'],['U'],None,['Creature'],"['Human', 'Rogue', 'Artificer']",Uncommon,GNT,2,2,None,"When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.\nTap two untapped artifacts you control: Target creature can't be blocked this turn."
+Soulblade Djinn,5.0,['Blue'],['U'],None,['Creature'],['Djinn'],Rare,GNT,4,3,None,"Flying\nWhenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn."
+Reckless Scholar,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Uncommon,GNT,2,1,None,"{T}: Target player draws a card, then discards a card."
+Hydrolash,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,GNT,None,None,None,Attacking creatures get -2/-0 until end of turn.\nDraw a card.
+Favorable Winds,2.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,GNT,None,None,None,Creatures you control with flying get +1/+1.

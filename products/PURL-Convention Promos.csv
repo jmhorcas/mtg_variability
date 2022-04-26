@@ -1,0 +1,10 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Relentless Rats,3.0,['Black'],['B'],None,['Creature'],['Rat'],Rare,PURL,2,2,None,Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.\nA deck can have any number of cards named Relentless Rats.
+Aeronaut Tinkerer,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Artificer']",Common,PURL,2,3,None,Aeronaut Tinkerer has flying as long as you control an artifact. (It can't be blocked except by creatures with flying or reach.)
+Bloodthrone Vampire,2.0,['Black'],['B'],None,['Creature'],['Vampire'],Rare,PURL,1,1,None,Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.
+Steward of Valeron,2.0,"['Green', 'White']","['G', 'W']",None,['Creature'],"['Human', 'Druid', 'Knight']",Rare,PURL,2,2,None,Vigilance\n{T}: Add {G}.
+Chandra's Fury,5.0,['Red'],['R'],None,['Instant'],None,Rare,PURL,None,None,None,Chandra's Fury deals 4 damage to target player or planeswalker and 1 damage to each creature that player or that planeswalker's controller controls.
+Merfolk Mesmerist,2.0,['Blue'],['U'],None,['Creature'],"['Merfolk', 'Wizard']",Rare,PURL,1,2,None,"{U}, {T}: Target player mills two cards."
+Shepherd of the Lost,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,PURL,3,3,None,"Flying, first strike, vigilance"
+Kor Skyfisher,2.0,['White'],['W'],None,['Creature'],"['Kor', 'Soldier']",Rare,PURL,2,3,None,"Flying\nWhen Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand."
+Stealer of Secrets,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Rogue']",Rare,PURL,2,2,None,"Whenever Stealer of Secrets deals combat damage to a player, draw a card."

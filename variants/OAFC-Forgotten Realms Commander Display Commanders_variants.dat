@@ -1,0 +1,10 @@
+CMC: {3.0, 4.0, 5.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Legendary'}
+Types: {'Creature'}
+Subtypes: {'Dragon', 'Tiefling', 'Human', 'Elf', 'Wizard', 'Warlock', 'Knight', 'Barbarian'}
+Rarity: {'Mythic'}
+Power: {'4', '5', '2', '1'}
+Toughness: {'3', '4'}
+Loyalty: set()

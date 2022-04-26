@@ -1,0 +1,8 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Rare,PARL,None,None,None,({T}: Add {W}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Rare,PARL,None,None,None,({T}: Add {R}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Rare,PARL,None,None,None,({T}: Add {B}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Rare,PARL,None,None,None,({T}: Add {U}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Rare,PARL,None,None,None,({T}: Add {G}.)
+Fireball,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,PARL,None,None,None,"This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets."
+Disenchant,2.0,['White'],['W'],None,['Instant'],None,Rare,PARL,None,None,None,Destroy target artifact or enchantment.

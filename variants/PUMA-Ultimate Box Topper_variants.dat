@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 10.0, 11.0, 15.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Snow', 'Legendary'}
+Types: {'Tribal', 'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Druid', 'Elemental', 'Advisor', 'Faerie', 'Zombie', 'Dragon', 'Angel', 'Ouphe', 'Human', 'Arcane', 'Cleric', 'Eldrazi', 'Karn', 'Lhurgoyf', 'Liliana', 'Shaman', 'Elf', 'Wizard', 'Kithkin', 'Golem'}
+Rarity: {'Mythic'}
+Power: {'4', '5', '12', '8', '*', '2', '0', '15', '3', '6', '10'}
+Toughness: {'5', '12', '8', '*', '1', '2', '1+*', '15', '3', '6', '10'}
+Loyalty: {'3', '6'}

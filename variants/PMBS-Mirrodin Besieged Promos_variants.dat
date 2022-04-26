@@ -1,0 +1,10 @@
+CMC: {2.0, 3.0, 4.0, 6.0}
+Colors: {'Black', 'Green', 'White', 'Blue'}
+ColorIdentity: {'W', 'U', 'G', 'B'}
+Supertypes: {'Legendary'}
+Types: {'Creature', 'Sorcery', 'Artifact'}
+Subtypes: {'Thopter', 'Human', 'Elf', 'Wizard', 'Knight', 'Phyrexian', 'Zombie'}
+Rarity: {'Rare', 'Mythic', 'Uncommon'}
+Power: {'3', '5', '2'}
+Toughness: {'3', '4', '5', '2'}
+Loyalty: set()

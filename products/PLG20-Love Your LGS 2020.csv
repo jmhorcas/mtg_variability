@@ -1,0 +1,3 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Hangarback Walker,0.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Rare,PLG20,0,0,None,"Hangarback Walker enters the battlefield with X +1/+1 counters on it.\nWhen Hangarback Walker dies, create a 1/1 colorless Thopter artifact creature token with flying for each +1/+1 counter on Hangarback Walker.\n{1}, {T}: Put a +1/+1 counter on Hangarback Walker."
+Reliquary Tower,0.0,None,None,None,['Land'],None,Rare,PLG20,None,None,None,You have no maximum hand size.\n{T}: Add {C}.

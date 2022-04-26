@@ -1,0 +1,14 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Smother,2.0,['Black'],['B'],None,['Instant'],None,Rare,F03,None,None,None,Destroy target creature with mana value 3 or less. It can't be regenerated.
+Priest of Titania,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Rare,F03,1,1,None,{T}: Add {G} for each Elf on the battlefield.
+Scragnoth,5.0,['Green'],['G'],None,['Creature'],['Beast'],Rare,F03,3,4,None,This spell can't be countered.\nProtection from blue
+Goblin Bombardment,2.0,['Red'],['R'],None,['Enchantment'],None,Rare,F03,None,None,None,Sacrifice a creature: Goblin Bombardment deals 1 damage to any target.
+Withered Wretch,2.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Cleric']",Rare,F03,2,2,None,{1}: Exile target card from a graveyard.
+Bottle Gnomes,3.0,None,None,None,"['Artifact', 'Creature']",['Gnome'],Rare,F03,1,3,None,Sacrifice Bottle Gnomes: You gain 3 life.
+Capsize,3.0,['Blue'],['U'],None,['Instant'],None,Rare,F03,None,None,None,"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)\nReturn target permanent to its owner's hand."
+Whipcorder,2.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier', 'Rebel']",Rare,F03,2,2,None,"{W}, {T}: Tap target creature.\nMorph {W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)"
+Krosan Tusker,7.0,['Green'],['G'],None,['Creature'],"['Boar', 'Beast']",Rare,F03,6,5,None,"Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)\nWhen you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle. (Do this before you draw.)"
+Crystalline Sliver,2.0,"['Blue', 'White']","['U', 'W']",None,['Creature'],['Sliver'],Rare,F03,2,2,None,All Slivers have shroud. (They can't be the targets of spells or abilities.)
+Sparksmith,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Rare,F03,1,1,None,"{T}: Sparksmith deals X damage to target creature and X damage to you, where X is the number of Goblins on the battlefield."
+Muscle Sliver,2.0,['Green'],['G'],None,['Creature'],['Sliver'],Rare,F03,1,1,None,All Sliver creatures get +1/+1.
+Disenchant,2.0,['White'],['W'],None,['Instant'],None,Rare,F03,None,None,None,Destroy target artifact or enchantment.

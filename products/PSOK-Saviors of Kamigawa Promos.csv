@@ -1,0 +1,3 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+"Kiyomaro, First to Stand",5.0,['White'],['W'],['Legendary'],['Creature'],['Spirit'],Rare,PSOK,*,*,None,"Kiyomaro, First to Stand's power and toughness are each equal to the number of cards in your hand.\nAs long as you have four or more cards in hand, Kiyomaro has vigilance.\nWhenever Kiyomaro deals damage, if you have seven or more cards in hand, you gain 7 life."
+Ghost-Lit Raider,3.0,['Red'],['R'],None,['Creature'],['Spirit'],Uncommon,PSOK,2,1,None,"{2}{R}, {T}: Ghost-Lit Raider deals 2 damage to target creature.\nChannel — {3}{R}, Discard Ghost-Lit Raider: It deals 4 damage to target creature."

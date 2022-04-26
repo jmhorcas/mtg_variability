@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 5.0, 6.0}
+Colors: {'Green'}
+ColorIdentity: {'G'}
+Supertypes: {'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Spirit', 'Elemental', 'Freyalise'}
+Rarity: {'Rare', 'Mythic'}
+Power: {'2', '1'}
+Toughness: {'4', '2', '1'}
+Loyalty: {'3'}

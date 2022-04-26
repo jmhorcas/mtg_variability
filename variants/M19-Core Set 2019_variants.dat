@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 10.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Elk', 'Scout', 'Viashino', 'Pirate', 'Equipment', 'Satyr', 'Harpy', 'Nightmare', 'Human', 'Djinn', 'Cleric', 'Noble', 'Giant', 'Rhino', 'Plant', 'Spider', 'Treefolk', 'Spirit', 'Griffin', 'Wall', 'Hydra', 'Warrior', 'Wurm', 'Centaur', 'Skeleton', 'Bird', 'Elemental', 'Scarecrow', 'Assassin', 'Basilisk', 'Hellion', 'Bear', 'Horror', 'Thopter', 'Gargoyle', 'Boar', 'Minotaur', 'Merfolk', 'Shapeshifter', 'Ogre', 'Sarkhan', 'Liliana', 'Serpent', 'Elf', 'Sphinx', 'Rogue', 'Dryad', 'Goblin', 'Golem', 'Dwarf', 'Aura', 'Island', 'Horse', 'Jackal', 'Zombie', 'Specter', 'Dragon', 'Mountain', 'Knight', 'Devil', 'Gorgon', 'Dinosaur', 'Shaman', 'Forest', 'Artificer', 'Elephant', 'Berserker', 'Druid', 'Tezzeret', 'Egg', 'Pegasus', 'Cat', 'Vampire', 'Fish', 'Construct', 'Angel', 'Demon', 'Archer', 'Wolf', 'Ajani', 'Beast', 'Plains', 'Elder', 'Drake', 'Monk', 'Swamp', 'Vivien', 'Soldier', 'Wizard'}
+Rarity: {'Common', 'Rare', 'Uncommon', 'Mythic'}
+Power: {'4', '7', '5', '1', '8', '*', '2', '0', '3', '6', '10'}
+Toughness: {'4', '7', '5', '1', '8', '2', '0', '3', '6', '10'}
+Loyalty: {'3', '4', '5'}

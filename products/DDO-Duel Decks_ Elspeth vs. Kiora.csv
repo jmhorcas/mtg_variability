@@ -1,0 +1,66 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Mother of Runes,1.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Uncommon,DDO,1,1,None,{T}: Target creature you control gains protection from the color of your choice until end of turn.
+Mortal's Ardor,1.0,['White'],['W'],None,['Instant'],None,Common,DDO,None,None,None,Target creature gets +1/+1 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)
+Mighty Leap,2.0,['White'],['W'],None,['Instant'],None,Common,DDO,None,None,None,Target creature gets +2/+2 and gains flying until end of turn.
+Banisher Priest,3.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Uncommon,DDO,2,2,None,"When Banisher Priest enters the battlefield, exile target creature an opponent controls until Banisher Priest leaves the battlefield. (That creature returns under its owner's control.)"
+Icatian Javelineers,1.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,DDO,1,1,None,"Icatian Javelineers enters the battlefield with a javelin counter on it.\n{T}, Remove a javelin counter from Icatian Javelineers: It deals 1 damage to any target."
+Kor Skyfisher,2.0,['White'],['W'],None,['Creature'],"['Kor', 'Soldier']",Common,DDO,2,3,None,"Flying\nWhen Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand."
+Loxodon Partisan,5.0,['White'],['W'],None,['Creature'],"['Elephant', 'Soldier']",Common,DDO,3,4,None,"Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)"
+Kinsbaile Skirmisher,2.0,['White'],['W'],None,['Creature'],"['Kithkin', 'Soldier']",Common,DDO,2,2,None,"When Kinsbaile Skirmisher enters the battlefield, target creature gets +1/+1 until end of turn."
+Gustcloak Skirmisher,4.0,['White'],['W'],None,['Creature'],"['Bird', 'Soldier']",Uncommon,DDO,2,3,None,"Flying\nWhenever Gustcloak Skirmisher becomes blocked, you may untap it and remove it from combat."
+Inkwell Leviathan,9.0,['Blue'],['U'],None,"['Artifact', 'Creature']",['Leviathan'],Rare,DDO,7,11,None,Trample\nIslandwalk (This creature can't be blocked as long as defending player controls an Island.)\nShroud (This creature can't be the target of spells or abilities.)
+Gustcloak Sentinel,4.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,DDO,3,3,None,"Whenever Gustcloak Sentinel becomes blocked, you may untap it and remove it from combat."
+Explosive Vegetation,4.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,DDO,None,None,None,"Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
+Gustcloak Savior,5.0,['White'],['W'],None,['Creature'],"['Bird', 'Soldier']",Rare,DDO,3,4,None,"Flying\nWhenever a creature you control becomes blocked, you may untap that creature and remove it from combat."
+Explore,2.0,['Green'],['G'],None,['Sorcery'],None,Common,DDO,None,None,None,You may play an additional land this turn.\nDraw a card.
+Decree of Justice,4.0,['White'],['W'],None,['Sorcery'],None,Rare,DDO,None,None,None,"Create X 4/4 white Angel creature tokens with flying.\nCycling {2}{W} ({2}{W}, Discard this card: Draw a card.)\nWhen you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white Soldier creature tokens."
+Whelming Wave,4.0,['Blue'],['U'],None,['Sorcery'],None,Rare,DDO,None,None,None,"Return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents."
+Gustcloak Harrier,3.0,['White'],['W'],None,['Creature'],"['Bird', 'Soldier']",Common,DDO,2,2,None,"Flying\nWhenever Gustcloak Harrier becomes blocked, you may untap it and remove it from combat."
+Surrakar Banisher,5.0,['Blue'],['U'],None,['Creature'],['Surrakar'],Common,DDO,3,3,None,"When Surrakar Banisher enters the battlefield, you may return target tapped creature to its owner's hand."
+Gempalm Avenger,6.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,DDO,3,5,None,"Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Avenger, Soldier creatures get +1/+1 and gain first strike until end of turn."
+Sealock Monster,5.0,['Blue'],['U'],None,['Creature'],['Octopus'],Uncommon,DDO,5,5,None,"Sealock Monster can't attack unless defending player controls an Island.\n{5}{U}{U}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen Sealock Monster becomes monstrous, target land becomes an Island in addition to its other types."
+Nimbus Swimmer,2.0,"['Green', 'Blue']","['G', 'U']",None,['Creature'],['Leviathan'],Uncommon,DDO,0,0,None,Flying\nNimbus Swimmer enters the battlefield with X +1/+1 counters on it.
+Dictate of Heliod,5.0,['White'],['W'],None,['Enchantment'],None,Rare,DDO,None,None,None,Flash\nCreatures you control get +2/+2.
+Scourge of Fleets,7.0,['Blue'],['U'],None,['Creature'],['Kraken'],Rare,DDO,6,6,None,"When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner's hand, where X is the number of Islands you control."
+Aetherize,4.0,['Blue'],['U'],None,['Instant'],None,Uncommon,DDO,None,None,None,Return all attacking creatures to their owner's hand.
+Peel from Reality,2.0,['Blue'],['U'],None,['Instant'],None,Common,DDO,None,None,None,Return target creature you control and target creature you don't control to their owners' hands.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,DDO,None,None,None,({T}: Add {G}.)
+Accumulated Knowledge,2.0,['Blue'],['U'],None,['Instant'],None,Common,DDO,None,None,None,"Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards."
+Captain of the Watch,6.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,DDO,3,3,None,"Vigilance (Attacking doesn't cause this creature to tap.)\nOther Soldier creatures you control get +1/+1 and have vigilance.\nWhen Captain of the Watch enters the battlefield, create three 1/1 white Soldier creature tokens."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,DDO,None,None,None,({T}: Add {G}.)
+"Kiora, the Crashing Wave",4.0,"['Green', 'Blue']","['G', 'U']",['Legendary'],['Planeswalker'],['Kiora'],Mythic,DDO,None,None,2,"[+1]: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.\n[−1]: Draw a card. You may play an additional land this turn.\n[−5]: You get an emblem with ""At the beginning of your end step, create a 9/9 blue Kraken creature token."""
+"Elspeth, Sun's Champion",6.0,['White'],['W'],['Legendary'],['Planeswalker'],['Elspeth'],Mythic,DDO,None,None,4,"[+1]: Create three 1/1 white Soldier creature tokens.\n[−3]: Destroy all creatures with power 4 or greater.\n[−7]: You get an emblem with ""Creatures you control get +2/+2 and have flying."""
+Omenspeaker,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,DDO,1,3,None,"When Omenspeaker enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DDO,None,None,None,({T}: Add {W}.)
+Dauntless Onslaught,3.0,['White'],['W'],None,['Instant'],None,Uncommon,DDO,None,None,None,Up to two target creatures each get +2/+2 until end of turn.
+Man-o'-War,3.0,['Blue'],['U'],None,['Creature'],['Jellyfish'],Common,DDO,2,2,None,"When Man-o'-War enters the battlefield, return target creature to its owner's hand."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DDO,None,None,None,({T}: Add {W}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,DDO,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,DDO,None,None,None,({T}: Add {U}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DDO,None,None,None,({T}: Add {W}.)
+Court Street Denizen,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,DDO,2,2,None,"Whenever another white creature enters the battlefield under your control, tap target creature an opponent controls."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,DDO,None,None,None,({T}: Add {U}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DDO,None,None,None,({T}: Add {W}.)
+Temple of the False God,0.0,None,None,None,['Land'],None,Uncommon,DDO,None,None,None,{T}: Add {C}{C}. Activate only if you control five or more lands.
+Secluded Steppe,0.0,None,['W'],None,['Land'],None,Common,DDO,None,None,None,"Secluded Steppe enters the battlefield tapped.\n{T}: Add {W}.\nCycling {W} ({W}, Discard this card: Draw a card.)"
+Celestial Flare,2.0,['White'],['W'],None,['Instant'],None,Common,DDO,None,None,None,Target player sacrifices an attacking or blocking creature.
+Veteran Swordsmith,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,DDO,3,2,None,Other Soldier creatures you control get +1/+0.
+Veteran Armorsmith,2.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,DDO,2,3,None,Other Soldier creatures you control get +0/+1.
+Evolving Wilds,0.0,None,None,None,['Land'],None,Common,DDO,None,None,None,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+Sunlance,1.0,['White'],['W'],None,['Sorcery'],None,Common,DDO,None,None,None,Sunlance deals 3 damage to target nonwhite creature.
+Kiora's Follower,2.0,"['Green', 'Blue']","['G', 'U']",None,['Creature'],['Merfolk'],Uncommon,DDO,2,2,None,{T}: Untap another target permanent.
+Standing Troops,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,DDO,1,4,None,Vigilance
+Coiling Oracle,2.0,"['Green', 'Blue']","['G', 'U']",None,['Creature'],"['Snake', 'Elf', 'Druid']",Common,DDO,1,1,None,"When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand."
+Soul Parry,2.0,['White'],['W'],None,['Instant'],None,Common,DDO,None,None,None,Prevent all damage one or two target creatures would deal this turn.
+Urban Evolution,5.0,"['Green', 'Blue']","['G', 'U']",None,['Sorcery'],None,Uncommon,DDO,None,None,None,Draw three cards. You may play an additional land this turn.
+Simic Sky Swallower,7.0,"['Green', 'Blue']","['G', 'U']",None,['Creature'],['Leviathan'],Rare,DDO,6,6,None,"Flying, trample\nShroud (This creature can't be the target of spells or abilities.)"
+Raise the Alarm,2.0,['White'],['W'],None,['Instant'],None,Common,DDO,None,None,None,Create two 1/1 white Soldier creature tokens.
+Plasm Capture,4.0,"['Green', 'Blue']","['G', 'U']",None,['Instant'],None,Rare,DDO,None,None,None,"Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors, where X is that spell's mana value."
+Precinct Captain,2.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,DDO,2,2,None,"First strike\nWhenever Precinct Captain deals combat damage to a player, create a 1/1 white Soldier creature token."
+Lorescale Coatl,3.0,"['Green', 'Blue']","['G', 'U']",None,['Creature'],['Snake'],Uncommon,DDO,2,2,None,"Whenever you draw a card, put a +1/+1 counter on Lorescale Coatl."
+Noble Templar,6.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric', 'Soldier']",Common,DDO,3,6,None,"Vigilance\nPlainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)"
+Time to Feed,3.0,['Green'],['G'],None,['Sorcery'],None,Common,DDO,None,None,None,"Choose target creature an opponent controls. When that creature dies this turn, you gain 3 life. Target creature you control fights that creature. (Each deals damage equal to its power to the other.)"
+Netcaster Spider,3.0,['Green'],['G'],None,['Creature'],['Spider'],Common,DDO,2,3,None,"Reach (This creature can block creatures with flying.)\nWhenever Netcaster Spider blocks a creature with flying, Netcaster Spider gets +2/+0 until end of turn."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,DDO,None,None,None,({T}: Add {G}.)
+Nessian Asp,5.0,['Green'],['G'],None,['Creature'],['Snake'],Common,DDO,4,5,None,"Reach\n{6}{G}: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)"
+Grazing Gladehart,3.0,['Green'],['G'],None,['Creature'],['Antelope'],Common,DDO,2,2,None,"Landfall — Whenever a land enters the battlefield under your control, you may gain 2 life."

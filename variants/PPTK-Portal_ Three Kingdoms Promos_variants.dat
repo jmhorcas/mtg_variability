@@ -1,0 +1,10 @@
+CMC: {6.0}
+Colors: {'Red'}
+ColorIdentity: {'R'}
+Supertypes: {'Legendary'}
+Types: {'Creature'}
+Subtypes: {'Soldier', 'Warrior', 'Human'}
+Rarity: {'Rare'}
+Power: {'4'}
+Toughness: {'3'}
+Loyalty: set()

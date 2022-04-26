@@ -1,0 +1,181 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Volunteer Militia,1.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,1,2,None,None
+Shu Farmer,2.0,['White'],['W'],None,['Creature'],['Human'],Common,PTK,1,1,None,"{T}: You gain 1 life. Activate only during your turn, before attackers are declared."
+Council of Advisors,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Advisor']",Uncommon,PTK,1,1,None,"When Council of Advisors enters the battlefield, draw a card."
+Capture of Jingzhou,5.0,['Blue'],['U'],None,['Sorcery'],None,Rare,PTK,None,None,None,Take an extra turn after this one.
+Brilliant Plan,5.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,Draw three cards.
+Champion's Victory,1.0,['Blue'],['U'],None,['Instant'],None,Uncommon,PTK,None,None,None,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nReturn target attacking creature to its owner's hand.
+Shu Cavalry,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,2,2,None,Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Ravages of War,4.0,['White'],['W'],None,['Sorcery'],None,Rare,PTK,None,None,None,Destroy all lands.
+Broken Dam,1.0,['Blue'],['U'],None,['Sorcery'],None,Common,PTK,None,None,None,Tap one or two target creatures without horsemanship.
+Misfortune's Gain,4.0,['White'],['W'],None,['Sorcery'],None,Common,PTK,None,None,None,Destroy target creature. Its owner gains 4 life.
+"Borrowing 100,000 Arrows",3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,Draw a card for each tapped creature target opponent controls.
+Peach Garden Oath,1.0,['White'],['W'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,You gain 2 life for each creature you control.
+"Zhang Fei, Fierce Warrior",6.0,['White'],['W'],['Legendary'],['Creature'],"['Human', 'Soldier', 'Warrior']",Rare,PTK,4,4,None,Vigilance; horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Rally the Troops,1.0,['White'],['W'],None,['Instant'],None,Uncommon,PTK,None,None,None,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nUntap all creatures you control.
+"Pang Tong, ""Young Phoenix""",3.0,['White'],['W'],['Legendary'],['Creature'],"['Human', 'Advisor']",Rare,PTK,1,2,None,"{T}: Target creature gets +0/+2 until end of turn. Activate only during your turn, before attackers are declared."
+Balance of Power,5.0,['Blue'],['U'],None,['Sorcery'],None,Rare,PTK,None,None,None,"If target opponent has more cards in hand than you, draw cards equal to the difference."
+"Liu Bei, Lord of Shu",5.0,['White'],['W'],['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,PTK,2,4,None,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nLiu Bei, Lord of Shu gets +2/+2 as long as you control a permanent named Guan Yu, Sainted Warrior or a permanent named Zhang Fei, Fierce Warrior."
+"Zhao Zilong, Tiger General",5.0,['White'],['W'],['Legendary'],['Creature'],"['Human', 'Soldier', 'Warrior']",Rare,PTK,3,3,None,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhenever Zhao Zilong, Tiger General blocks, it gets +1/+1 until end of turn."
+Kongming's Contraptions,4.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,PTK,2,4,None,{T}: Kongming's Contraptions deals 2 damage to target attacking creature. Activate only during the declare attackers step and only if you've been attacked this step.
+Virtuous Charge,3.0,['White'],['W'],None,['Sorcery'],None,Common,PTK,None,None,None,Creatures you control get +1/+1 until end of turn.
+"Guan Yu's 1,000-Li March",6.0,['White'],['W'],None,['Sorcery'],None,Rare,PTK,None,None,None,Destroy all tapped creatures.
+"Huang Zhong, Shu General",4.0,['White'],['W'],['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,PTK,2,3,None,"Huang Zhong, Shu General can't be blocked by more than one creature."
+Alert Shu Infantry,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,PTK,2,2,None,Vigilance
+"Guan Yu, Sainted Warrior",5.0,['White'],['W'],['Legendary'],['Creature'],"['Human', 'Soldier', 'Warrior']",Rare,PTK,3,5,None,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhen Guan Yu, Sainted Warrior is put into your graveyard from the battlefield, you may shuffle Guan Yu into your library."
+Flanking Troops,4.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,PTK,2,2,None,"Whenever Flanking Troops attacks, you may tap target creature."
+False Defeat,4.0,['White'],['W'],None,['Sorcery'],None,Common,PTK,None,None,None,Return target creature card from your graveyard to the battlefield.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTK,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTK,None,None,None,({T}: Add {W}.)
+Warrior's Stand,2.0,['White'],['W'],None,['Instant'],None,Uncommon,PTK,None,None,None,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nCreatures you control get +2/+2 until end of turn.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PTK,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PTK,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PTK,None,None,None,({T}: Add {R}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTK,None,None,None,({T}: Add {W}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PTK,None,None,None,({T}: Add {R}.)
+"Zuo Ci, the Mocking Sage",3.0,['Green'],['G'],['Legendary'],['Creature'],"['Human', 'Advisor']",Rare,PTK,1,2,None,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nZuo Ci, the Mocking Sage can't be blocked by creatures with horsemanship."
+"Lu Su, Wu Advisor",5.0,['Blue'],['U'],['Legendary'],['Creature'],"['Human', 'Advisor']",Rare,PTK,1,2,None,"{T}: Draw a card. Activate only during your turn, before attackers are declared."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PTK,None,None,None,({T}: Add {R}.)
+Spring of Eternal Peace,5.0,['Green'],['G'],None,['Sorcery'],None,Common,PTK,None,None,None,You gain 8 life.
+Shu Foot Soldiers,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,2,3,None,None
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PTK,None,None,None,({T}: Add {G}.)
+Exhaustion,3.0,['Blue'],['U'],None,['Sorcery'],None,Rare,PTK,None,None,None,Creatures and lands target opponent controls don't untap during their next untap step.
+Spoils of Victory,3.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,"Search your library for a Plains, Island, Swamp, Mountain, or Forest card and put that card onto the battlefield. Then shuffle."
+Shu Elite Infantry,4.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,3,3,None,None
+Zodiac Tiger,4.0,['Green'],['G'],None,['Creature'],['Cat'],Uncommon,PTK,3,4,None,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+Counterintelligence,4.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,Return one or two target creatures to their owners' hands.
+Southern Elephant,4.0,['Green'],['G'],None,['Creature'],['Elephant'],Common,PTK,3,4,None,None
+Shu Elite Companions,5.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,PTK,3,3,None,Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Zodiac Rooster,2.0,['Green'],['G'],None,['Creature'],['Bird'],Common,PTK,2,1,None,Plainswalk (This creature can't be blocked as long as defending player controls a Plains.)
+"Lu Xun, Scholar General",4.0,['Blue'],['U'],['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,PTK,1,3,None,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhenever Lu Xun, Scholar General deals damage to an opponent, you may draw a card."
+Slashing Tiger,4.0,['Green'],['G'],None,['Creature'],['Cat'],Rare,PTK,3,3,None,"Whenever Slashing Tiger becomes blocked, it gets +2/+2 until end of turn."
+Shu Defender,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,2,2,None,"Whenever Shu Defender blocks, it gets +0/+2 until end of turn."
+Zodiac Rabbit,1.0,['Green'],['G'],None,['Creature'],['Rabbit'],Common,PTK,1,1,None,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+Riding the Dilu Horse,3.0,['Green'],['G'],None,['Sorcery'],None,Rare,PTK,None,None,None,Target creature gets +2/+2 and gains horsemanship. (It can't be blocked except by creatures with horsemanship. This effect lasts indefinitely.)
+Riding Red Hare,3.0,['White'],['W'],None,['Sorcery'],None,Common,PTK,None,None,None,Target creature gets +3/+3 and gains horsemanship until end of turn. (It can't be blocked except by creatures with horsemanship.)
+Zodiac Ox,4.0,['Green'],['G'],None,['Creature'],['Ox'],Uncommon,PTK,3,3,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PTK,None,None,None,({T}: Add {B}.)
+Eightfold Maze,3.0,['White'],['W'],None,['Instant'],None,Rare,PTK,None,None,None,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nDestroy target attacking creature.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PTK,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PTK,None,None,None,({T}: Add {B}.)
+Zodiac Monkey,2.0,['Green'],['G'],None,['Creature'],['Monkey'],Common,PTK,2,1,None,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PTK,None,None,None,({T}: Add {U}.)
+Forced Retreat,3.0,['Blue'],['U'],None,['Sorcery'],None,Common,PTK,None,None,None,Put target creature on top of its owner's library.
+Zodiac Horse,4.0,['Green'],['G'],None,['Creature'],['Horse'],Uncommon,PTK,3,3,None,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Shu General,4.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,PTK,2,2,None,Vigilance; horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Wolf Pack,8.0,['Green'],['G'],None,['Creature'],['Wolf'],Rare,PTK,7,6,None,You may have Wolf Pack assign its combat damage as though it weren't blocked.
+Loyal Retainers,3.0,['White'],['W'],None,['Creature'],"['Human', 'Advisor']",Uncommon,PTK,1,1,None,"Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate only during your turn, before attackers are declared."
+Zodiac Dragon,9.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,PTK,8,8,None,"When Zodiac Dragon is put into your graveyard from the battlefield, you may return it to your hand."
+Lone Wolf,3.0,['Green'],['G'],None,['Creature'],['Wolf'],Uncommon,PTK,2,2,None,You may have Lone Wolf assign its combat damage as though it weren't blocked.
+"Meng Huo, Barbarian King",5.0,['Green'],['G'],['Legendary'],['Creature'],"['Human', 'Barbarian', 'Soldier']",Rare,PTK,4,4,None,Other green creatures you control get +1/+1.
+Meng Huo's Horde,5.0,['Green'],['G'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,4,5,None,None
+Lady Sun,3.0,['Blue'],['U'],['Legendary'],['Creature'],"['Human', 'Advisor']",Rare,PTK,1,1,None,"{T}: Return Lady Sun and another target creature to their owners' hands. Activate only during your turn, before attackers are declared."
+Marshaling the Troops,2.0,['Green'],['G'],None,['Sorcery'],None,Rare,PTK,None,None,None,Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.
+"Lady Zhurong, Warrior Queen",5.0,['Green'],['G'],['Legendary'],['Creature'],"['Human', 'Soldier', 'Warrior']",Rare,PTK,4,3,None,Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+"Kongming, ""Sleeping Dragon""",4.0,['White'],['W'],['Legendary'],['Creature'],"['Human', 'Advisor']",Rare,PTK,2,2,None,Other creatures you control get +1/+1.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PTK,None,None,None,({T}: Add {U}.)
+Empty City Ruse,1.0,['White'],['W'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,Target opponent skips all combat phases of their next turn.
+Hunting Cheetah,3.0,['Green'],['G'],None,['Creature'],['Cat'],Uncommon,PTK,2,3,None,"Whenever Hunting Cheetah deals damage to an opponent, you may search your library for a Forest card, reveal that card, put it into your hand, then shuffle."
+Extinguish,2.0,['Blue'],['U'],None,['Instant'],None,Common,PTK,None,None,None,Counter target sorcery spell.
+"Hua Tuo, Honored Physician",3.0,['Green'],['G'],['Legendary'],['Creature'],['Human'],Rare,PTK,1,2,None,"{T}: Put target creature card from your graveyard on top of your library. Activate only during your turn, before attackers are declared."
+False Mourning,1.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,Put target card from your graveyard on top of your library.
+Heavy Fog,2.0,['Green'],['G'],None,['Instant'],None,Uncommon,PTK,None,None,None,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nPrevent all damage that would be dealt to you this turn by attacking creatures.
+Wielding the Green Dragon,2.0,['Green'],['G'],None,['Sorcery'],None,Common,PTK,None,None,None,Target creature gets +4/+4 until end of turn.
+Shu Soldier-Farmers,5.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,PTK,2,4,None,"When Shu Soldier-Farmers enters the battlefield, you gain 4 life."
+Trip Wire,3.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,Destroy target creature with horsemanship.
+Forest Bear,2.0,['Green'],['G'],None,['Creature'],['Bear'],Common,PTK,2,2,None,None
+Zodiac Goat,1.0,['Red'],['R'],None,['Creature'],['Goat'],Common,PTK,1,1,None,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+Shu Grain Caravan,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,2,2,None,"When Shu Grain Caravan enters the battlefield, you gain 2 life."
+Zodiac Dog,3.0,['Red'],['R'],None,['Creature'],['Dog'],Common,PTK,2,2,None,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+Mystic Denial,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,PTK,None,None,None,Counter target creature or sorcery spell.
+Trained Jackal,1.0,['Green'],['G'],None,['Creature'],['Jackal'],Common,PTK,1,2,None,None
+Vengeance,4.0,['White'],['W'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,Destroy target tapped creature.
+Trained Cheetah,3.0,['Green'],['G'],None,['Creature'],['Cat'],Uncommon,PTK,2,2,None,"Whenever Trained Cheetah becomes blocked, it gets +1/+1 until end of turn."
+"Lu Meng, Wu General",5.0,['Blue'],['U'],['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,PTK,4,4,None,Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Taoist Hermit,3.0,['Green'],['G'],None,['Creature'],"['Human', 'Mystic']",Uncommon,PTK,2,2,None,Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Borrowing the East Wind,2.0,['Green'],['G'],None,['Sorcery'],None,Rare,PTK,None,None,None,Borrowing the East Wind deals X damage to each creature with horsemanship and each player.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PTK,None,None,None,({T}: Add {U}.)
+Three Visits,2.0,['Green'],['G'],None,['Sorcery'],None,Common,PTK,None,None,None,"Search your library for a Forest card, put that card onto the battlefield, then shuffle."
+Taunting Challenge,3.0,['Green'],['G'],None,['Sorcery'],None,Rare,PTK,None,None,None,All creatures able to block target creature this turn do so.
+Taoist Mystic,3.0,['Green'],['G'],None,['Creature'],"['Human', 'Mystic']",Rare,PTK,2,2,None,Taoist Mystic can't be blocked by creatures with horsemanship.
+Stalking Tiger,4.0,['Green'],['G'],None,['Creature'],['Cat'],Common,PTK,3,3,None,Stalking Tiger can't be blocked by more than one creature.
+Wei Elite Companions,5.0,['Black'],['B'],None,['Creature'],"['Human', 'Soldier']",Uncommon,PTK,3,3,None,Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+"Diaochan, Artful Beauty",4.0,['Red'],['R'],['Legendary'],['Creature'],"['Human', 'Advisor']",Rare,PTK,1,1,None,"{T}: Destroy target creature of your choice, then destroy target creature of an opponent's choice. Activate only during your turn, before attackers are declared."
+Wei Ambush Force,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,1,1,None,"Whenever Wei Ambush Force attacks, it gets +2/+0 until end of turn."
+Yellow Scarves Cavalry,2.0,['Red'],['R'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,1,1,None,Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nYellow Scarves Cavalry can't block.
+Burning Fields,5.0,['Red'],['R'],None,['Sorcery'],None,Common,PTK,None,None,None,Burning Fields deals 5 damage to target opponent or planeswalker.
+Renegade Troops,5.0,['Red'],['R'],None,['Creature'],"['Human', 'Soldier']",Uncommon,PTK,4,2,None,Haste
+Yuan Shao's Infantry,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Soldier']",Uncommon,PTK,2,2,None,"Whenever Yuan Shao's Infantry attacks alone, Yuan Shao's Infantry can't be blocked this combat."
+Return to Battle,1.0,['Black'],['B'],None,['Sorcery'],None,Common,PTK,None,None,None,Return target creature card from your graveyard to your hand.
+"Yuan Shao, the Indecisive",5.0,['Red'],['R'],['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,PTK,2,3,None,Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nEach creature you control can't be blocked by more than one creature.
+Warrior's Oath,2.0,['Red'],['R'],None,['Sorcery'],None,Rare,PTK,None,None,None,"Take an extra turn after this one. At the beginning of that turn's end step, you lose the game."
+Overwhelming Forces,8.0,['Black'],['B'],None,['Sorcery'],None,Rare,PTK,None,None,None,Destroy all creatures target opponent controls. Draw a card for each creature destroyed this way.
+Imperial Seal,1.0,['Black'],['B'],None,['Sorcery'],None,Rare,PTK,None,None,None,"Search your library for a card, then shuffle and put that card on top. You lose 2 life."
+Barbarian Horde,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Barbarian', 'Soldier']",Common,PTK,3,3,None,None
+Stone Rain,3.0,['Red'],['R'],None,['Sorcery'],None,Common,PTK,None,None,None,Destroy target land.
+Ghostly Visit,3.0,['Black'],['B'],None,['Sorcery'],None,Common,PTK,None,None,None,Destroy target nonblack creature.
+Deception,3.0,['Black'],['B'],None,['Sorcery'],None,Common,PTK,None,None,None,Target opponent discards two cards.
+Wei Night Raiders,4.0,['Black'],['B'],None,['Creature'],"['Human', 'Soldier']",Uncommon,PTK,2,2,None,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhenever Wei Night Raiders deals damage to an opponent, that player discards a card."
+Cunning Advisor,4.0,['Black'],['B'],None,['Creature'],"['Human', 'Advisor']",Uncommon,PTK,1,1,None,"{T}: Target opponent discards a card. Activate only during your turn, before attackers are declared."
+Corrupt Eunuchs,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Advisor']",Uncommon,PTK,2,2,None,"When Corrupt Eunuchs enters the battlefield, it deals 2 damage to target creature."
+Coercion,3.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,Target opponent reveals their hand. You choose a card from it. That player discards that card.
+Control of the Court,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,"Draw four cards, then discard three cards at random."
+Rolling Earthquake,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,PTK,None,None,None,Rolling Earthquake deals X damage to each creature without horsemanship and each player.
+"Cao Ren, Wei Commander",4.0,['Black'],['B'],['Legendary'],['Creature'],"['Human', 'Soldier', 'Warrior']",Rare,PTK,3,3,None,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhen Cao Ren, Wei Commander enters the battlefield, you lose 3 life."
+Ambition's Cost,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,PTK,None,None,None,You draw three cards and you lose 3 life.
+Rockslide Ambush,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,Rockslide Ambush deals damage to target creature equal to the number of Mountains you control.
+"Zhuge Jin, Wu Strategist",3.0,['Blue'],['U'],['Legendary'],['Creature'],"['Human', 'Advisor']",Rare,PTK,1,1,None,"{T}: Target creature can't be blocked this turn. Activate only during your turn, before attackers are declared."
+Burning of Xinye,6.0,['Red'],['R'],None,['Sorcery'],None,Rare,PTK,None,None,None,"You destroy four lands you control, then target opponent destroys four lands they control. Then Burning of Xinye deals 4 damage to each creature."
+Relentless Assault,4.0,['Red'],['R'],None,['Sorcery'],None,Rare,PTK,None,None,None,"Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase."
+Wu Longbowman,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Soldier', 'Archer']",Uncommon,PTK,1,1,None,"{T}: Wu Longbowman deals 1 damage to any target. Activate only during your turn, before attackers are declared."
+Wu Infantry,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,2,1,None,None
+Wu Admiral,5.0,['Blue'],['U'],None,['Creature'],"['Human', 'Soldier']",Uncommon,PTK,3,3,None,Wu Admiral gets +1/+1 as long as an opponent controls an Island.
+Barbarian General,5.0,['Red'],['R'],None,['Creature'],"['Human', 'Barbarian', 'Soldier']",Uncommon,PTK,3,2,None,Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+"Sun Quan, Lord of Wu",6.0,['Blue'],['U'],['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,PTK,4,4,None,Creatures you control have horsemanship. (They can't be blocked except by creatures with horsemanship.)
+"Sun Ce, Young Conquerer",5.0,['Blue'],['U'],['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,PTK,3,3,None,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhen Sun Ce, Young Conquerer enters the battlefield, you may return target creature to its owner's hand."
+Fire Bowman,1.0,['Red'],['R'],None,['Creature'],"['Human', 'Soldier', 'Archer']",Uncommon,PTK,1,1,None,"Sacrifice Fire Bowman: It deals 1 damage to any target. Activate only during your turn, before attackers are declared."
+Sage's Knowledge,3.0,['Blue'],['U'],None,['Sorcery'],None,Common,PTK,None,None,None,Return target sorcery card from your graveyard to your hand.
+Zodiac Snake,3.0,['Black'],['B'],None,['Creature'],['Snake'],Common,PTK,2,2,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+Red Cliffs Armada,5.0,['Blue'],['U'],None,['Creature'],"['Human', 'Soldier']",Uncommon,PTK,5,4,None,Red Cliffs Armada can't attack unless defending player controls an Island.
+"Ma Chao, Western Warrior",5.0,['Red'],['R'],['Legendary'],['Creature'],"['Human', 'Soldier', 'Warrior']",Rare,PTK,3,3,None,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhenever Ma Chao, Western Warrior attacks alone, it can't be blocked this combat."
+Wei Infantry,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,2,1,None,None
+Yellow Scarves Troops,2.0,['Red'],['R'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,2,2,None,Yellow Scarves Troops can't block.
+Wei Assassins,5.0,['Black'],['B'],None,['Creature'],"['Human', 'Soldier', 'Assassin']",Uncommon,PTK,3,2,None,"When Wei Assassins enters the battlefield, target opponent chooses a creature they control. Destroy that creature."
+Stone Catapult,5.0,['Black'],['B'],None,['Creature'],"['Human', 'Soldier']",Rare,PTK,1,2,None,"{T}: Destroy target tapped nonblack creature. Activate only during your turn, before attackers are declared."
+Zodiac Rat,1.0,['Black'],['B'],None,['Creature'],['Rat'],Common,PTK,1,1,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+Stolen Grain,6.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,Stolen Grain deals 5 damage to target opponent or planeswalker. You gain 5 life.
+Independent Troops,2.0,['Red'],['R'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,2,1,None,None
+Zodiac Pig,4.0,['Black'],['B'],None,['Creature'],['Boar'],Uncommon,PTK,3,3,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+"Sima Yi, Wei Field Marshal",6.0,['Black'],['B'],['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,PTK,*,4,None,"Sima Yi, Wei Field Marshal's power is equal to the number of Swamps you control."
+Ravaging Horde,5.0,['Red'],['R'],None,['Creature'],"['Human', 'Soldier']",Uncommon,PTK,3,3,None,"When Ravaging Horde enters the battlefield, destroy target land."
+"Zhang Liao, Hero of Hefei",6.0,['Black'],['B'],['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,PTK,3,3,None,"Whenever Zhang Liao, Hero of Hefei deals damage to an opponent, that opponent discards a card."
+Poison Arrow,6.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,Destroy target nonblack creature. You gain 3 life.
+"Zhang He, Wei General",5.0,['Black'],['B'],['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,PTK,4,2,None,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhenever Zhang He, Wei General attacks, each other creature you control gets +1/+0 until end of turn."
+Imperial Edict,2.0,['Black'],['B'],None,['Sorcery'],None,Common,PTK,None,None,None,Target opponent chooses a creature they control. Destroy that creature.
+Young Wei Recruits,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,2,2,None,Young Wei Recruits can't block.
+Famine,5.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,Famine deals 3 damage to each creature and each player.
+Desperate Charge,3.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,Creatures you control get +2/+0 until end of turn.
+Fire Ambush,2.0,['Red'],['R'],None,['Sorcery'],None,Common,PTK,None,None,None,Fire Ambush deals 3 damage to any target.
+Mountain Bandit,1.0,['Red'],['R'],None,['Creature'],"['Human', 'Soldier', 'Rogue']",Common,PTK,1,1,None,Haste
+Corrupt Court Official,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Advisor']",Uncommon,PTK,1,1,None,"When Corrupt Court Official enters the battlefield, target opponent discards a card."
+Blaze,1.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,Blaze deals X damage to any target.
+"Xun Yu, Wei Advisor",3.0,['Black'],['B'],['Legendary'],['Creature'],"['Human', 'Advisor']",Rare,PTK,1,1,None,"{T}: Target creature you control gets +2/+0 until end of turn. Activate only during your turn, before attackers are declared."
+"Cao Cao, Lord of Wei",5.0,['Black'],['B'],['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,PTK,3,3,None,"{T}: Target opponent discards two cards. Activate only during your turn, before attackers are declared."
+Eunuchs' Intrigues,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,Target opponent chooses a creature they control. Other creatures they control can't block this turn.
+Imperial Recruiter,3.0,['Red'],['R'],None,['Creature'],"['Human', 'Advisor']",Uncommon,PTK,1,1,None,"When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle."
+Yellow Scarves General,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Soldier']",Rare,PTK,2,2,None,Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nYellow Scarves General can't block.
+"Zhou Yu, Chief Commander",7.0,['Blue'],['U'],['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,PTK,8,8,None,"Zhou Yu, Chief Commander can't attack unless defending player controls an Island."
+Wu Warship,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,3,3,None,Wu Warship can't attack unless defending player controls an Island.
+Wu Spy,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Soldier', 'Rogue']",Uncommon,PTK,1,1,None,"When Wu Spy enters the battlefield, look at the top two cards of target player's library. Put one of them into their graveyard."
+Wu Scout,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Soldier', 'Scout']",Common,PTK,1,1,None,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhen Wu Scout enters the battlefield, look at target opponent's hand."
+"Xiahou Dun, the One-Eyed",4.0,['Black'],['B'],['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,PTK,3,2,None,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nSacrifice Xiahou Dun, the One-Eyed: Return target black card from your graveyard to your hand. Activate only during your turn, before attackers are declared."
+Wu Light Cavalry,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,1,2,None,Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Wu Elite Cavalry,4.0,['Blue'],['U'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,2,3,None,Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Wei Strike Force,3.0,['Black'],['B'],None,['Creature'],"['Human', 'Soldier']",Common,PTK,2,1,None,Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+"Lu Bu, Master-at-Arms",6.0,['Red'],['R'],['Legendary'],['Creature'],"['Human', 'Soldier', 'Warrior']",Rare,PTK,4,3,None,Haste; horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Desert Sandstorm,3.0,['Red'],['R'],None,['Sorcery'],None,Common,PTK,None,None,None,Desert Sandstorm deals 1 damage to each creature.
+Straw Soldiers,2.0,['Blue'],['U'],None,['Creature'],"['Scarecrow', 'Soldier']",Common,PTK,1,3,None,None
+Strategic Planning,2.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,PTK,None,None,None,Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+Wei Scout,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Soldier', 'Scout']",Common,PTK,1,1,None,Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+"Dong Zhou, the Tyrant",5.0,['Red'],['R'],['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,PTK,3,3,None,"When Dong Zhou, the Tyrant enters the battlefield, target creature an opponent controls deals damage equal to its power to that player."
+Preemptive Strike,2.0,['Blue'],['U'],None,['Instant'],None,Common,PTK,None,None,None,Counter target creature spell.

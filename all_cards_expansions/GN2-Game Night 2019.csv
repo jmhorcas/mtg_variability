@@ -1,0 +1,65 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+"Ghalta, Primal Hunger",12.0,['Green'],['G'],['Legendary'],['Creature'],"['Elder', 'Dinosaur']",Rare,GN2,12,12,None,"This spell costs {X} less to cast, where X is the total power of creatures you control.\nTrample"
+Take Vengeance,2.0,['White'],['W'],None,['Sorcery'],None,Common,GN2,None,None,None,Destroy target tapped creature.
+Crested Herdcaller,5.0,['Green'],['G'],None,['Creature'],['Dinosaur'],Uncommon,GN2,3,3,None,"Trample\nWhen Crested Herdcaller enters the battlefield, create a 3/3 green Dinosaur creature token with trample."
+"Zetalpa, Primal Dawn",8.0,['White'],['W'],['Legendary'],['Creature'],"['Elder', 'Dinosaur']",Rare,GN2,4,8,None,"Flying, double strike, vigilance, trample, indestructible"
+Zealot of the God-Pharaoh,4.0,['Red'],['R'],None,['Creature'],"['Minotaur', 'Archer']",Common,GN2,4,3,None,{4}{R}: Zealot of the God-Pharaoh deals 2 damage to target opponent or planeswalker.
+Aven Wind Mage,3.0,['Blue'],['U'],None,['Creature'],"['Bird', 'Wizard']",Common,GN2,2,2,None,"Flying\nWhenever you cast an instant or sorcery spell, Aven Wind Mage gets +1/+1 until end of turn."
+Voldaren Duelist,4.0,['Red'],['R'],None,['Creature'],"['Vampire', 'Warrior']",Common,GN2,3,2,None,"Haste\nWhen Voldaren Duelist enters the battlefield, target creature can't block this turn."
+Topan Freeblade,2.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,GN2,2,2,None,"Vigilance (Attacking doesn't cause this creature to tap.)\nRenown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)"
+Sparktongue Dragon,5.0,['Red'],['R'],None,['Creature'],['Dragon'],Common,GN2,3,3,None,"Flying\nWhen Sparktongue Dragon enters the battlefield, you may pay {2}{R}. When you do, it deals 3 damage to any target."
+Steppe Glider,5.0,['White'],['W'],None,['Creature'],['Elemental'],Uncommon,GN2,2,4,None,"Flying, vigilance\n{1}{W}: Target creature with a +1/+1 counter on it gains flying and vigilance until end of turn."
+Lightning Strike,2.0,['Red'],['R'],None,['Instant'],None,Common,GN2,None,None,None,Lightning Strike deals 3 damage to any target.
+"Lathliss, Dragon Queen",6.0,['Red'],['R'],['Legendary'],['Creature'],['Dragon'],Rare,GN2,6,6,None,"Flying\nWhenever another nontoken Dragon enters the battlefield under your control, create a 5/5 red Dragon creature token with flying.\n{1}{R}: Dragons you control get +1/+0 until end of turn."
+Relief Captain,4.0,['White'],['W'],None,['Creature'],"['Kor', 'Knight', 'Ally']",Uncommon,GN2,3,2,None,"When Relief Captain enters the battlefield, support 3. (Put a +1/+1 counter on each of up to three other target creatures.)"
+Kargan Dragonrider,2.0,['Red'],['R'],None,['Creature'],"['Human', 'Warrior']",Common,GN2,2,2,None,"As long as you control a Dragon, Kargan Dragonrider has flying. (It can't be blocked except by creatures with flying or reach.)"
+Dragon Egg,3.0,['Red'],['R'],None,['Creature'],"['Dragon', 'Egg']",Uncommon,GN2,0,2,None,"Defender\nWhen Dragon Egg dies, create a 2/2 red Dragon creature token with flying and ""{R}: This creature gets +1/+0 until end of turn."""
+Destructive Tampering,3.0,['Red'],['R'],None,['Sorcery'],None,Common,GN2,None,None,None,Choose one —\n• Destroy target artifact.\n• Creatures without flying can't block this turn.
+Brute Strength,2.0,['Red'],['R'],None,['Instant'],None,Common,GN2,None,None,None,Target creature gets +3/+1 and gains trample until end of turn.
+Akoum Hellkite,6.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,GN2,4,4,None,"Flying\nLandfall — Whenever a land enters the battlefield under your control, Akoum Hellkite deals 1 damage to any target. If that land is a Mountain, Akoum Hellkite deals 2 damage instead."
+"Torgaar, Famine Incarnate",8.0,['Black'],['B'],['Legendary'],['Creature'],['Avatar'],Rare,GN2,7,6,None,"As an additional cost to cast this spell, you may sacrifice any number of creatures. This spell costs {2} less to cast for each creature sacrificed this way.\nWhen Torgaar, Famine Incarnate enters the battlefield, up to one target player's life total becomes half their starting life total, rounded down."
+Tattered Mummy,2.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Jackal']",Common,GN2,1,2,None,"When Tattered Mummy dies, each opponent loses 2 life."
+Rise from the Grave,5.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,GN2,None,None,None,Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
+Lord of the Accursed,3.0,['Black'],['B'],None,['Creature'],['Zombie'],Uncommon,GN2,2,3,None,"Other Zombies you control get +1/+1.\n{1}{B}, {T}: All Zombies gain menace until end of turn."
+Liliana's Mastery,5.0,['Black'],['B'],None,['Enchantment'],None,Rare,GN2,None,None,None,"Zombies you control get +1/+1.\nWhen Liliana's Mastery enters the battlefield, create two 2/2 black Zombie creature tokens."
+Grasp of Darkness,2.0,['Black'],['B'],None,['Instant'],None,Uncommon,GN2,None,None,None,Target creature gets -4/-4 until end of turn.
+Gavony Unhallowed,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,GN2,2,4,None,"Whenever another creature you control dies, put a +1/+1 counter on Gavony Unhallowed."
+Patron of the Valiant,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,GN2,4,4,None,"Flying\nWhen Patron of the Valiant enters the battlefield, put a +1/+1 counter on each creature you control with a +1/+1 counter on it."
+Consul's Lieutenant,2.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,GN2,2,1,None,"First strike\nRenown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nWhenever Consul's Lieutenant attacks, if it's renowned, other attacking creatures you control get +1/+1 until end of turn."
+Crow of Dark Tidings,3.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Bird']",Common,GN2,2,1,None,"Flying\nWhen Crow of Dark Tidings enters the battlefield or dies, mill two cards. (Put the top two cards of your library into your graveyard.)"
+Carrion Screecher,4.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Bird']",Common,GN2,3,1,None,Flying
+Accursed Horde,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Uncommon,GN2,3,3,None,"{1}{B}: Target attacking Zombie gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)"
+Mighty Leap,2.0,['White'],['W'],None,['Instant'],None,Common,GN2,None,None,None,Target creature gets +2/+2 and gains flying until end of turn.
+Salvager of Secrets,5.0,['Blue'],['U'],None,['Creature'],"['Merfolk', 'Wizard']",Common,GN2,2,2,None,"When Salvager of Secrets enters the battlefield, return target instant or sorcery card from your graveyard to your hand."
+River's Rebuke,6.0,['Blue'],['U'],None,['Sorcery'],None,Rare,GN2,None,None,None,Return all nonland permanents target player controls to their owner's hand.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,GN2,None,None,None,({T}: Add {G}.)
+Kytheon's Irregulars,4.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,GN2,4,3,None,"Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\n{W}{W}: Tap target creature."
+Rise from the Tides,6.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,GN2,None,None,None,Create a tapped 2/2 black Zombie creature token for each instant and sorcery card in your graveyard.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,GN2,None,None,None,({T}: Add {G}.)
+Fiend Binder,4.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,GN2,3,2,None,"Whenever Fiend Binder attacks, tap target creature defending player controls."
+Galestrike,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,GN2,None,None,None,Return target tapped creature to its owner's hand.\nDraw a card.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,GN2,None,None,None,({T}: Add {R}.)
+Sphinx of Enlightenment,6.0,['Blue'],['U'],None,['Creature'],['Sphinx'],Mythic,GN2,5,5,None,"Flying\nWhen Sphinx of Enlightenment enters the battlefield, target opponent draws a card and you draw three cards."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,GN2,None,None,None,({T}: Add {R}.)
+Highcliff Felidar,7.0,['White'],['W'],None,['Creature'],"['Cat', 'Beast']",Mythic,GN2,5,5,None,"Vigilance\nWhen Highcliff Felidar enters the battlefield, for each opponent, choose a creature with the greatest power among creatures that player controls. Destroy those creatures."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,GN2,None,None,None,({T}: Add {B}.)
+Earthshaker Giant,6.0,['Green'],['G'],None,['Creature'],"['Giant', 'Druid']",Mythic,GN2,6,6,None,"Trample\nWhen Earthshaker Giant enters the battlefield, other creatures you control get +3/+3 and gain trample until end of turn."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,GN2,None,None,None,({T}: Add {B}.)
+Fiendish Duo,6.0,['Red'],['R'],None,['Creature'],['Devil'],Mythic,GN2,5,5,None,"First strike\nIf a source would deal damage to an opponent, it deals double that damage to that player instead."
+Engulf the Shore,4.0,['Blue'],['U'],None,['Instant'],None,Rare,GN2,None,None,None,Return to their owners' hands all creatures with toughness less than or equal to the number of Islands you control.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,GN2,None,None,None,({T}: Add {U}.)
+Calculating Lich,6.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Wizard']",Mythic,GN2,5,5,None,"Menace\nWhenever a creature attacks one of your opponents, that player loses 1 life."
+Dramatic Reversal,2.0,['Blue'],['U'],None,['Instant'],None,Common,GN2,None,None,None,Untap all nonland permanents you control.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,GN2,None,None,None,({T}: Add {U}.)
+Decision Paralysis,4.0,['Blue'],['U'],None,['Instant'],None,Common,GN2,None,None,None,Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,GN2,None,None,None,({T}: Add {W}.)
+Cryptic Serpent,7.0,['Blue'],['U'],None,['Creature'],['Serpent'],Uncommon,GN2,6,5,None,This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,GN2,None,None,None,({T}: Add {W}.)
+Howling Golem,3.0,None,None,None,"['Artifact', 'Creature']",['Golem'],Uncommon,GN2,2,3,None,"Whenever Howling Golem attacks or blocks, each player draws a card."
+Claustrophobia,3.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,GN2,None,None,None,"Enchant creature\nWhen Claustrophobia enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step."
+Thundering Spineback,7.0,['Green'],['G'],None,['Creature'],['Dinosaur'],Uncommon,GN2,5,5,None,Other Dinosaurs you control get +1/+1.\n{5}{G}: Create a 3/3 green Dinosaur creature token with trample.
+Thunderherd Migration,2.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,GN2,None,None,None,"As an additional cost to cast this spell, reveal a Dinosaur card from your hand or pay {1}.\nSearch your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+Spidery Grasp,3.0,['Green'],['G'],None,['Instant'],None,Common,GN2,None,None,None,Untap target creature. It gets +2/+4 and gains reach until end of turn. (It can block creatures with flying.)
+Ripjaw Raptor,4.0,['Green'],['G'],None,['Creature'],['Dinosaur'],Rare,GN2,4,5,None,"Enrage — Whenever Ripjaw Raptor is dealt damage, draw a card."
+Ranging Raptors,3.0,['Green'],['G'],None,['Creature'],['Dinosaur'],Uncommon,GN2,2,3,None,"Enrage — Whenever Ranging Raptors is dealt damage, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+Grazing Whiptail,4.0,['Green'],['G'],None,['Creature'],['Dinosaur'],Common,GN2,3,4,None,Reach

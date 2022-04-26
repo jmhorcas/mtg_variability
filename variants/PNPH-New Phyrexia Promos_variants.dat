@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 7.0}
+Colors: {'Red', 'Black', 'Blue'}
+ColorIdentity: {'R', 'U', 'B'}
+Supertypes: {'Legendary'}
+Types: {'Instant', 'Creature', 'Artifact'}
+Subtypes: {'Myr', 'Praetor', 'Shapeshifter', 'Human', 'Cleric', 'Phyrexian'}
+Rarity: {'Uncommon', 'Common', 'Rare', 'Mythic'}
+Power: {'6', '5', '2', '0'}
+Toughness: {'6', '0', '1'}
+Loyalty: set()

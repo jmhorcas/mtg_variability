@@ -1,0 +1,9 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Natural Order,4.0,['Green'],['G'],None,['Sorcery'],None,Rare,G10,None,None,None,"As an additional cost to cast this spell, sacrifice a green creature.\nSearch your library for a green creature card, put it onto the battlefield, then shuffle."
+Thawing Glaciers,0.0,None,None,None,['Land'],None,Rare,G10,None,None,None,"Thawing Glaciers enters the battlefield tapped.\n{1}, {T}: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. Return Thawing Glaciers to its owner's hand at the beginning of the next cleanup step."
+Sinkhole,2.0,['Black'],['B'],None,['Sorcery'],None,Rare,G10,None,None,None,Destroy target land.
+Wasteland,0.0,None,None,None,['Land'],None,Rare,G10,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land."
+Land Tax,1.0,['White'],['W'],None,['Enchantment'],None,Rare,G10,None,None,None,"At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle."
+Morphling,5.0,['Blue'],['U'],None,['Creature'],['Shapeshifter'],Rare,G10,3,3,None,{U}: Untap Morphling.\n{U}: Morphling gains flying until end of turn.\n{U}: Morphling gains shroud until end of turn. (It can't be the target of spells or abilities.)\n{1}: Morphling gets +1/-1 until end of turn.\n{1}: Morphling gets -1/+1 until end of turn.
+Phyrexian Dreadnought,1.0,None,None,None,"['Artifact', 'Creature']","['Phyrexian', 'Dreadnought']",Rare,G10,12,12,None,"Trample\nWhen Phyrexian Dreadnought enters the battlefield, sacrifice it unless you sacrifice any number of creatures with total power 12 or greater."
+Wheel of Fortune,3.0,['Red'],['R'],None,['Sorcery'],None,Rare,G10,None,None,None,"Each player discards their hand, then draws seven cards."

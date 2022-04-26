@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Wurmcoil Engine,6.0,None,None,None,"['Artifact', 'Creature']","['Phyrexian', 'Wurm']",Mythic,PSOM,6,6,None,"Deathtouch, lifelink\nWhen Wurmcoil Engine dies, create a 3/3 colorless Phyrexian Wurm artifact creature token with deathtouch and a 3/3 colorless Phyrexian Wurm artifact creature token with lifelink."
+Steel Hellkite,6.0,None,None,None,"['Artifact', 'Creature']",['Dragon'],Rare,PSOM,5,5,None,Flying\n{2}: Steel Hellkite gets +1/+0 until end of turn.\n{X}: Destroy each nonland permanent with mana value X whose controller was dealt combat damage by Steel Hellkite this turn. Activate only once each turn.
+Memnite,0.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Uncommon,PSOM,1,1,None,None
+Tempered Steel,3.0,['White'],['W'],None,['Enchantment'],None,Rare,PSOM,None,None,None,Artifact creatures you control get +2/+2.
+Memoricide,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,PSOM,None,None,None,"Choose a nonland card name. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles."

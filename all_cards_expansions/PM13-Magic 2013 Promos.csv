@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Xathrid Gorgon,6.0,['Black'],['B'],None,['Creature'],['Gorgon'],Rare,PM13,3,6,None,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\n{2}{B}, {T}: Put a petrification counter on target creature. It gains defender and becomes a colorless artifact in addition to its other types. Its activated abilities can't be activated. (A creature with defender can't attack.)"
+Cathedral of War,0.0,None,None,None,['Land'],None,Rare,PM13,None,None,None,"Cathedral of War enters the battlefield tapped.\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{T}: Add {C}."
+Staff of Nin,6.0,None,None,None,['Artifact'],None,Rare,PM13,None,None,None,"At the beginning of your upkeep, draw a card.\n{T}: Staff of Nin deals 1 damage to any target."
+Mwonvuli Beast Tracker,3.0,['Green'],['G'],None,['Creature'],"['Human', 'Scout']",Uncommon,PM13,2,1,None,"When Mwonvuli Beast Tracker enters the battlefield, search your library for a creature card with deathtouch, hexproof, reach, or trample and reveal it. Shuffle and put that card on top."
+Magmaquake,2.0,['Red'],['R'],None,['Instant'],None,Rare,PM13,None,None,None,Magmaquake deals X damage to each creature without flying and each planeswalker.

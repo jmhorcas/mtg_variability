@@ -1,0 +1,9 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Rip to Pieces,0.0,None,None,None,['Sorcery'],None,Common,TDAG,None,None,None,"At the beginning of combat this turn, each Reveler deals 1 damage to each player and each creature those players control."
+Impulsive Return,0.0,None,None,None,['Sorcery'],None,Common,TDAG,None,None,None,"Return two cards named Ecstatic Piper from Xenagos's graveyard to the battlefield. At the beginning of combat this turn, Impulsive Return deals damage to each player equal to the number of Revelers on the battlefield."
+Dance of Panic,0.0,None,None,None,['Enchantment'],None,Common,TDAG,None,None,None,"As long as five or more Revelers are on the battlefield, all Revelers have haste and attack each turn if able."
+Dance of Flame,0.0,None,None,None,['Enchantment'],None,Common,TDAG,None,None,None,"Whenever a Reveler attacks, Dance of Flame deals 1 damage to each player."
+Impulsive Destruction,0.0,None,None,None,['Sorcery'],None,Common,TDAG,None,None,None,Each player may sacrifice an artifact or enchantment. Impulsive Destruction deals 3 damage to each player who didn't sacrifice a permanent this way.
+Xenagos's Strike,0.0,None,None,None,['Sorcery'],None,Common,TDAG,None,None,None,Xenagos's Strike deals 4 damage to each player.
+Impulsive Charge,0.0,None,None,None,['Sorcery'],None,Common,TDAG,None,None,None,"At the beginning of combat this turn, all Revelers gain haste until end of turn and attack this combat if able."
+Xenagos's Scorn,0.0,None,None,None,['Sorcery'],None,Common,TDAG,None,None,None,Xenagos Ascended gains trample until end of turn and attacks this turn if able.

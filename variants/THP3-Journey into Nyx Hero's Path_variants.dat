@@ -1,0 +1,10 @@
+CMC: set()
+Colors: set()
+ColorIdentity: set()
+Supertypes: set()
+Types: {'Hero', 'Artifact'}
+Subtypes: {'Equipment'}
+Rarity: {'Common'}
+Power: set()
+Toughness: set()
+Loyalty: set()

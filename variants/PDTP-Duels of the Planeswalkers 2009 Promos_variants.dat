@@ -1,0 +1,10 @@
+CMC: {4.0}
+Colors: {'Green'}
+ColorIdentity: {'G'}
+Supertypes: {'Legendary'}
+Types: {'Planeswalker'}
+Subtypes: {'Garruk'}
+Rarity: {'Mythic'}
+Power: set()
+Toughness: set()
+Loyalty: {'3'}

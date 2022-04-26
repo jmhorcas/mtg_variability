@@ -1,0 +1,86 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Serrated Arrows,4.0,None,None,None,['Artifact'],None,Common,ATH,None,None,None,"Serrated Arrows enters the battlefield with three arrowhead counters on it.\nAt the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.\n{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature."
+Nevinyrral's Disk,4.0,None,None,None,['Artifact'],None,Rare,ATH,None,None,None,"Nevinyrral's Disk enters the battlefield tapped.\n{1}, {T}: Destroy all artifacts, creatures, and enchantments."
+Jalum Tome,3.0,None,None,None,['Artifact'],None,Uncommon,ATH,None,None,None,"{2}, {T}: Draw a card, then discard a card."
+Aesthir Glider,3.0,None,None,None,"['Artifact', 'Creature']","['Bird', 'Construct']",Common,ATH,2,1,None,Flying\nAesthir Glider can't block.
+Ranger en-Vec,3.0,"['Green', 'White']","['G', 'W']",None,['Creature'],"['Human', 'Soldier', 'Archer', 'Ranger']",Uncommon,ATH,2,2,None,First strike\n{G}: Regenerate Ranger en-Vec.
+Lady Orca,7.0,"['Black', 'Red']","['B', 'R']",['Legendary'],['Creature'],['Demon'],Uncommon,ATH,7,4,None,None
+Woolly Spider,3.0,['Green'],['G'],None,['Creature'],['Spider'],Common,ATH,2,3,None,"Reach (This creature can block creatures with flying.)\nWhenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn."
+Spectral Bears,2.0,['Green'],['G'],None,['Creature'],"['Bear', 'Spirit']",Uncommon,ATH,3,3,None,"Whenever Spectral Bears attacks, if defending player controls no black nontoken permanents, it doesn't untap during your next untap step."
+Scavenger Folk,1.0,['Green'],['G'],None,['Creature'],['Human'],Common,ATH,1,1,None,"{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact."
+Overrun,5.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,ATH,None,None,None,Creatures you control get +3/+3 and gain trample until end of turn.
+"Mirri, Cat Warrior",3.0,['Green'],['G'],['Legendary'],['Creature'],"['Cat', 'Warrior']",Rare,ATH,2,3,None,"First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it can't be blocked as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)"
+Llanowar Elves,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,ATH,1,1,None,{T}: Add {G}.
+Hurricane,1.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,ATH,None,None,None,Hurricane deals X damage to each creature with flying and each player.
+Gorilla Chieftain,4.0,['Green'],['G'],None,['Creature'],['Ape'],Common,ATH,3,3,None,{1}{G}: Regenerate Gorilla Chieftain.
+Giant Spider,4.0,['Green'],['G'],None,['Creature'],['Spider'],Common,ATH,2,4,None,Reach (This creature can block creatures with flying.)
+Giant Growth,1.0,['Green'],['G'],None,['Instant'],None,Common,ATH,None,None,None,Target creature gets +3/+3 until end of turn.
+Erhnam Djinn,4.0,['Green'],['G'],None,['Creature'],['Djinn'],Uncommon,ATH,4,5,None,"At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep. (It can't be blocked as long as defending player controls a Forest.)"
+Carnivorous Plant,4.0,['Green'],['G'],None,['Creature'],"['Plant', 'Wall']",Common,ATH,4,5,None,Defender
+Canopy Spider,2.0,['Green'],['G'],None,['Creature'],['Spider'],Common,ATH,1,3,None,Reach (This creature can block creatures with flying.)
+Volcanic Dragon,6.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,ATH,4,4,None,"Flying, haste"
+Uthden Troll,3.0,['Red'],['R'],None,['Creature'],['Troll'],Uncommon,ATH,2,2,None,{R}: Regenerate Uthden Troll.
+Raging Goblin,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Berserker']",Uncommon,ATH,1,1,None,Haste (This creature can attack and {T} as soon as it comes under your control.)
+Pyrotechnics,5.0,['Red'],['R'],None,['Sorcery'],None,Common,ATH,None,None,None,Pyrotechnics deals 4 damage divided as you choose among any number of targets.
+Pyrokinesis,6.0,['Red'],['R'],None,['Instant'],None,Uncommon,ATH,None,None,None,You may exile a red card from your hand rather than pay this spell's mana cost.\nPyrokinesis deals 4 damage divided as you choose among any number of target creatures.
+Mogg Raider,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,ATH,1,1,None,Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.
+Mogg Flunkies,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,ATH,3,3,None,Mogg Flunkies can't attack or block alone.
+Mogg Fanatic,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,ATH,1,1,None,Sacrifice Mogg Fanatic: It deals 1 damage to any target.
+Lightning Bolt,1.0,['Red'],['R'],None,['Instant'],None,Common,ATH,None,None,None,Lightning Bolt deals 3 damage to any target.
+Goblin Warrens,3.0,['Red'],['R'],None,['Enchantment'],None,Rare,ATH,None,None,None,"{2}{R}, Sacrifice two Goblins: Create three 1/1 red Goblin creature tokens."
+Goblin Vandal,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Rogue']",Common,ATH,1,1,None,"Whenever Goblin Vandal attacks and isn't blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn."
+Goblin Tinkerer,2.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Artificer']",Common,ATH,1,2,None,"{R}, {T}: Destroy target artifact. That artifact deals damage equal to its mana value to Goblin Tinkerer."
+Goblin Snowman,4.0,['Red'],['R'],None,['Creature'],['Goblin'],Uncommon,ATH,1,1,None,"Whenever Goblin Snowman blocks, prevent all combat damage that would be dealt to and dealt by it this turn.\n{T}: Goblin Snowman deals 1 damage to target creature it's blocking."
+Goblin Recruiter,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Uncommon,ATH,1,1,None,"When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards, reveal them, then shuffle and put those cards on top in any order."
+Goblin Offensive,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,ATH,None,None,None,Create X 1/1 red Goblin creature tokens.
+Goblin Mutant,4.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Mutant']",Uncommon,ATH,5,3,None,Trample\nGoblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.\nGoblin Mutant can't block creatures with power 3 or greater.
+Goblin Matron,3.0,['Red'],['R'],None,['Creature'],['Goblin'],Uncommon,ATH,1,1,None,"When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle."
+Goblin King,3.0,['Red'],['R'],None,['Creature'],['Goblin'],Rare,ATH,2,2,None,Other Goblins get +1/+1 and have mountainwalk.
+Goblin Hero,3.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,ATH,2,2,None,None
+Goblin Grenade,1.0,['Red'],['R'],None,['Sorcery'],None,Common,ATH,None,None,None,"As an additional cost to cast this spell, sacrifice a Goblin.\nGoblin Grenade deals 5 damage to any target."
+Goblin Digging Team,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,ATH,1,1,None,"{T}, Sacrifice Goblin Digging Team: Destroy target Wall."
+Goblin Balloon Brigade,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Common,ATH,1,1,None,{R}: Goblin Balloon Brigade gains flying until end of turn.
+Fireball,1.0,['Red'],['R'],None,['Sorcery'],None,Common,ATH,None,None,None,"This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets."
+Unholy Strength,1.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,ATH,None,None,None,Enchant creature\nEnchanted creature gets +2/+1.
+Terror,2.0,['Black'],['B'],None,['Instant'],None,Common,ATH,None,None,None,"Destroy target nonartifact, nonblack creature. It can't be regenerated."
+Knight of Stromgald,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Knight']",Uncommon,ATH,2,1,None,Protection from white\n{B}: Knight of Stromgald gains first strike until end of turn.\n{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.
+Ihsan's Shade,6.0,['Black'],['B'],['Legendary'],['Creature'],"['Shade', 'Knight']",Uncommon,ATH,5,5,None,Protection from white
+Hypnotic Specter,3.0,['Black'],['B'],None,['Creature'],['Specter'],Uncommon,ATH,2,2,None,"Flying\nWhenever Hypnotic Specter deals damage to an opponent, that player discards a card at random."
+Hymn to Tourach,2.0,['Black'],['B'],None,['Sorcery'],None,Common,ATH,None,None,None,Target player discards two cards at random.
+Feast of the Unicorn,4.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,ATH,None,None,None,Enchant creature\nEnchanted creature gets +4/+0.
+Cuombajj Witches,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Wizard']",Common,ATH,1,3,None,{T}: Cuombajj Witches deals 1 damage to any target and 1 damage to any target of an opponent's choice.
+Black Knight,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Knight']",Uncommon,ATH,2,2,None,"First strike (This creature deals combat damage before creatures without first strike.)\nProtection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)"
+Youthful Knight,2.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Common,ATH,2,1,None,First strike
+White Knight,2.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Uncommon,ATH,2,2,None,"First strike (This creature deals combat damage before creatures without first strike.)\nProtection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)"
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,ATH,None,None,None,({T}: Add {G}.)
+Armored Pegasus,2.0,['White'],['W'],None,['Creature'],['Pegasus'],Common,ATH,1,2,None,Flying
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,ATH,None,None,None,({T}: Add {G}.)
+Freewind Falcon,2.0,['White'],['W'],None,['Creature'],['Bird'],Common,ATH,1,1,None,"Flying, protection from red"
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,ATH,None,None,None,({T}: Add {R}.)
+Serra Angel,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,ATH,4,4,None,"Flying, vigilance"
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,ATH,None,None,None,({T}: Add {R}.)
+Swords to Plowshares,1.0,['White'],['W'],None,['Instant'],None,Uncommon,ATH,None,None,None,Exile target creature. Its controller gains life equal to its power.
+Samite Healer,2.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,ATH,1,1,None,{T}: Prevent the next 1 damage that would be dealt to any target this turn.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,ATH,None,None,None,({T}: Add {B}.)
+Warrior's Honor,3.0,['White'],['W'],None,['Instant'],None,Common,ATH,None,None,None,Creatures you control get +1/+1 until end of turn.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,ATH,None,None,None,({T}: Add {B}.)
+Sacred Mesa,3.0,['White'],['W'],None,['Enchantment'],None,Rare,ATH,None,None,None,"At the beginning of your upkeep, sacrifice Sacred Mesa unless you sacrifice a Pegasus.\n{1}{W}: Create a 1/1 white Pegasus creature token with flying."
+Pegasus Stampede,2.0,['White'],['W'],None,['Sorcery'],None,Uncommon,ATH,None,None,None,"Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)\nCreate a 1/1 white Pegasus creature token with flying."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,ATH,None,None,None,({T}: Add {W}.)
+Pegasus Charger,3.0,['White'],['W'],None,['Creature'],['Pegasus'],Common,ATH,2,1,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\nFirst strike (This creature deals combat damage before creatures without first strike.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,ATH,None,None,None,({T}: Add {W}.)
+Order of the White Shield,2.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Uncommon,ATH,2,1,None,Protection from black\n{W}: Order of the White Shield gains first strike until end of turn.\n{W}{W}: Order of the White Shield gets +1/+0 until end of turn.
+Strip Mine,0.0,None,None,None,['Land'],None,Rare,ATH,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice Strip Mine: Destroy target land."
+Icatian Javelineers,1.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,ATH,1,1,None,"Icatian Javelineers enters the battlefield with a javelin counter on it.\n{T}, Remove a javelin counter from Icatian Javelineers: It deals 1 damage to any target."
+Smoldering Crater,0.0,None,['R'],None,['Land'],None,Common,ATH,None,None,None,"Smoldering Crater enters the battlefield tapped.\n{T}: Add {R}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Pacifism,2.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,ATH,None,None,None,Enchant creature\nEnchanted creature can't attack or block.
+Slippery Karst,0.0,None,['G'],None,['Land'],None,Common,ATH,None,None,None,"Slippery Karst enters the battlefield tapped.\n{T}: Add {G}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Armageddon,4.0,['White'],['W'],None,['Sorcery'],None,Rare,ATH,None,None,None,Destroy all lands.
+Polluted Mire,0.0,None,['B'],None,['Land'],None,Common,ATH,None,None,None,"Polluted Mire enters the battlefield tapped.\n{T}: Add {B}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Disenchant,2.0,['White'],['W'],None,['Instant'],None,Common,ATH,None,None,None,Destroy target artifact or enchantment.
+Pendelhaven,0.0,None,['G'],['Legendary'],['Land'],None,Uncommon,ATH,None,None,None,{T}: Add {G}.\n{T}: Target 1/1 creature gets +1/+2 until end of turn.
+Infantry Veteran,1.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,ATH,1,1,None,{T}: Target attacking creature gets +1/+1 until end of turn.
+Drifting Meadow,0.0,None,['W'],None,['Land'],None,Common,ATH,None,None,None,"Drifting Meadow enters the battlefield tapped.\n{T}: Add {W}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Brushland,0.0,None,"['G', 'W']",None,['Land'],None,Rare,ATH,None,None,None,{T}: Add {C}.\n{T}: Add {G} or {W}. Brushland deals 1 damage to you.
+Benalish Knight,3.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Common,ATH,2,2,None,Flash (You may cast this spell any time you could cast an instant.)\nFirst strike (This creature deals combat damage before creatures without first strike.)
+Combat Medic,3.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric', 'Soldier']",Common,ATH,0,2,None,{1}{W}: Prevent the next 1 damage that would be dealt to any target this turn.

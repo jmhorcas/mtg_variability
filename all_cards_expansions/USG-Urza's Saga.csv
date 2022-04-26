@@ -1,0 +1,351 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Bereavement,2.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Whenever a green creature dies, its controller discards a card."
+Befoul,4.0,['Black'],['B'],None,['Sorcery'],None,Common,USG,None,None,None,Destroy target land or nonblack creature. It can't be regenerated.
+Abyssal Horror,6.0,['Black'],['B'],None,['Creature'],['Horror'],Rare,USG,2,2,None,"Flying\nWhen Abyssal Horror enters the battlefield, target player discards two cards."
+Zephid's Embrace,4.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,Enchant creature\nEnchanted creature gets +2/+2 and has flying and shroud. (It can't be the target of spells or abilities.)
+Zephid,6.0,['Blue'],['U'],None,['Creature'],['Illusion'],Rare,USG,3,4,None,Flying\nShroud (This creature can't be the target of spells or abilities.)
+Spire Owl,2.0,['Blue'],['U'],None,['Creature'],['Bird'],Common,USG,1,1,None,"Flying\nWhen Spire Owl enters the battlefield, look at the top four cards of your library, then put them back in any order."
+Veiled Sentry,1.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"When an opponent casts a spell, if Veiled Sentry is an enchantment, Veiled Sentry becomes an Illusion creature with power and toughness each equal to that spell's mana value."
+Windfall,3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,USG,None,None,None,"Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way."
+Wizard Mentor,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,USG,2,2,None,{T}: Return Wizard Mentor and target creature you control to their owner's hand.
+Veiled Serpent,3.0,['Blue'],['U'],None,['Enchantment'],None,Common,USG,None,None,None,"When an opponent casts a spell, if Veiled Serpent is an enchantment, Veiled Serpent becomes a 4/4 Serpent creature with ""This creature can't attack unless defending player controls an Island.""\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Veiled Crocodile,3.0,['Blue'],['U'],None,['Enchantment'],None,Rare,USG,None,None,None,"When a player has no cards in hand, if Veiled Crocodile is an enchantment, Veiled Crocodile becomes a 4/4 Crocodile creature."
+Veiled Apparition,2.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"When an opponent casts a spell, if Veiled Apparition is an enchantment, Veiled Apparition becomes a 3/3 Illusion creature with flying and ""At the beginning of your upkeep, sacrifice Veiled Apparition unless you pay {1}{U}."""
+Veil of Birds,1.0,['Blue'],['U'],None,['Enchantment'],None,Common,USG,None,None,None,"When an opponent casts a spell, if Veil of Birds is an enchantment, Veil of Birds becomes a 1/1 Bird creature with flying."
+Time Spiral,6.0,['Blue'],['U'],None,['Sorcery'],None,Rare,USG,None,None,None,"Exile Time Spiral. Each player shuffles their hand and graveyard into their library, then draws seven cards. You untap up to six lands."
+Turnabout,4.0,['Blue'],['U'],None,['Instant'],None,Uncommon,USG,None,None,None,"Choose artifact, creature, or land. Tap all untapped permanents of the chosen type target player controls, or untap all tapped permanents of that type that player controls."
+Tolarian Winds,2.0,['Blue'],['U'],None,['Instant'],None,Common,USG,None,None,None,"Discard all the cards in your hand, then draw that many cards."
+Stern Proctor,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Uncommon,USG,1,2,None,"When Stern Proctor enters the battlefield, return target artifact or enchantment to its owner's hand."
+Somnophore,4.0,['Blue'],['U'],None,['Creature'],['Illusion'],Rare,USG,2,2,None,"Flying\nWhenever Somnophore deals damage to a player, tap target creature that player controls. That creature doesn't untap during its controller's untap step for as long as Somnophore remains on the battlefield."
+Telepathy,1.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,USG,None,None,None,Your opponents play with their hands revealed.
+Sunder,5.0,['Blue'],['U'],None,['Instant'],None,Rare,USG,None,None,None,Return all lands to their owners' hands.
+Stroke of Genius,3.0,['Blue'],['U'],None,['Instant'],None,Rare,USG,None,None,None,Target player draws X cards.
+Show and Tell,3.0,['Blue'],['U'],None,['Sorcery'],None,Rare,USG,None,None,None,"Each player may put an artifact, creature, enchantment, or land card from their hand onto the battlefield."
+Power Taint,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant enchantment\nAt the beginning of the upkeep of enchanted enchantment's controller, that player loses 2 life unless they pay {2}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Power Sink,1.0,['Blue'],['U'],None,['Instant'],None,Common,USG,None,None,None,"Counter target spell unless its controller pays {X}. If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana."
+Peregrine Drake,5.0,['Blue'],['U'],None,['Creature'],['Drake'],Uncommon,USG,2,3,None,"Flying\nWhen Peregrine Drake enters the battlefield, untap up to five lands."
+Pendrell Flux,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\nEnchanted creature has ""At the beginning of your upkeep, sacrifice this creature unless you pay its mana cost."""
+Pendrell Drake,4.0,['Blue'],['U'],None,['Creature'],['Drake'],Common,USG,2,3,None,"Flying\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Worship,4.0,['White'],['W'],None,['Enchantment'],None,Rare,USG,None,None,None,"If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead."
+Waylay,3.0,['White'],['W'],None,['Instant'],None,Uncommon,USG,None,None,None,Create three 2/2 white Knight creature tokens. Exile them at the beginning of the next cleanup step.
+Voice of Law,4.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,USG,2,2,None,"Flying, protection from red"
+Voice of Grace,4.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,USG,2,2,None,"Flying, protection from black"
+Soul Sculptor,3.0,['White'],['W'],None,['Creature'],['Human'],Rare,USG,1,1,None,"{1}{W}, {T}: Target creature becomes an enchantment and loses all abilities until a player casts a creature spell."
+Songstitcher,1.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Uncommon,USG,1,1,None,{1}{W}: Prevent all combat damage that would be dealt this turn by target attacking creature with flying.
+Silent Attendant,3.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,USG,0,2,None,{T}: You gain 1 life.
+Presence of the Master,4.0,['White'],['W'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Whenever a player casts an enchantment spell, counter it."
+Planar Birth,2.0,['White'],['W'],None,['Sorcery'],None,Rare,USG,None,None,None,Return all basic land cards from all graveyards to the battlefield tapped under their owners' control.
+Pegasus Charger,3.0,['White'],['W'],None,['Creature'],['Pegasus'],Common,USG,2,1,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\nFirst strike (This creature deals combat damage before creatures without first strike.)
+Path of Peace,4.0,['White'],['W'],None,['Sorcery'],None,Common,USG,None,None,None,Destroy target creature. Its owner gains 4 life.
+Pariah,3.0,['White'],['W'],None,['Enchantment'],['Aura'],Rare,USG,None,None,None,Enchant creature\nAll damage that would be dealt to you is dealt to enchanted creature instead.
+Pacifism,2.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,Enchant creature\nEnchanted creature can't attack or block.
+Opal Titan,4.0,['White'],['W'],None,['Enchantment'],None,Rare,USG,None,None,None,"When an opponent casts a creature spell, if Opal Titan is an enchantment, Opal Titan becomes a 4/4 Giant creature with protection from each of that spell's colors."
+Opal Gargoyle,2.0,['White'],['W'],None,['Enchantment'],None,Common,USG,None,None,None,"When an opponent casts a creature spell, if Opal Gargoyle is an enchantment, Opal Gargoyle becomes a 2/2 Gargoyle creature with flying."
+Opal Caryatid,1.0,['White'],['W'],None,['Enchantment'],None,Common,USG,None,None,None,"When an opponent casts a creature spell, if Opal Caryatid is an enchantment, Opal Caryatid becomes a 2/2 Soldier creature."
+Opal Archangel,5.0,['White'],['W'],None,['Enchantment'],None,Rare,USG,None,None,None,"When an opponent casts a creature spell, if Opal Archangel is an enchantment, Opal Archangel becomes a 5/5 Angel creature with flying and vigilance."
+Opal Acrolith,3.0,['White'],['W'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Whenever an opponent casts a creature spell, if Opal Acrolith is an enchantment, Opal Acrolith becomes a 2/4 Soldier creature.\n{0}: Opal Acrolith becomes an enchantment."
+No Rest for the Wicked,2.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,USG,None,None,None,Sacrifice No Rest for the Wicked: Return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.
+Sandbar Serpent,5.0,['Blue'],['U'],None,['Creature'],['Serpent'],Uncommon,USG,3,4,None,"Cycling {2} ({2}, Discard this card: Draw a card.)"
+Rescind,3.0,['Blue'],['U'],None,['Instant'],None,Common,USG,None,None,None,"Return target permanent to its owner's hand.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Rewind,4.0,['Blue'],['U'],None,['Instant'],None,Common,USG,None,None,None,Counter target spell. Untap up to four lands.
+Recantation,5.0,['Blue'],['U'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Recantation.\n{U}, Sacrifice Recantation: Return up to X target permanents to their owners' hands, where X is the number of verse counters on Recantation."
+Lingering Mirage,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,"Enchant land\nEnchanted land is an Island.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Lilting Refrain,2.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Lilting Refrain.\nSacrifice Lilting Refrain: Counter target spell unless its controller pays {X}, where X is the number of verse counters on Lilting Refrain."
+Cackling Fiend,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,USG,2,1,None,"When Cackling Fiend enters the battlefield, each opponent discards a card."
+Breach,3.0,['Black'],['B'],None,['Instant'],None,Common,USG,None,None,None,Target creature gets +2/+0 and gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)
+Sandbar Merfolk,1.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Common,USG,1,1,None,"Cycling {2} ({2}, Discard this card: Draw a card.)"
+Launch,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\nEnchanted creature has flying.\nWhen Launch is put into a graveyard from the battlefield, return Launch to its owner's hand."
+Morphling,5.0,['Blue'],['U'],None,['Creature'],['Shapeshifter'],Rare,USG,3,3,None,{U}: Untap Morphling.\n{U}: Morphling gains flying until end of turn.\n{U}: Morphling gains shroud until end of turn. (It can't be the target of spells or abilities.)\n{1}: Morphling gets +1/-1 until end of turn.\n{1}: Morphling gets -1/+1 until end of turn.
+Blood Vassal,3.0,['Black'],['B'],None,['Creature'],['Thrull'],Common,USG,2,2,None,Sacrifice Blood Vassal: Add {B}{B}.
+Treefolk Seedlings,3.0,['Green'],['G'],None,['Creature'],['Treefolk'],Uncommon,USG,2,*,None,Treefolk Seedlings's toughness is equal to the number of Forests you control.
+Titania's Chosen,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Archer']",Uncommon,USG,1,1,None,"Whenever a player casts a green spell, put a +1/+1 counter on Titania's Chosen."
+Titania's Boon,4.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Put a +1/+1 counter on each creature you control.
+Symbiosis,2.0,['Green'],['G'],None,['Instant'],None,Common,USG,None,None,None,Two target creatures each get +2/+2 until end of turn.
+Spreading Algae,1.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,"Enchant Swamp\nWhen enchanted land becomes tapped, destroy it.\nWhen Spreading Algae is put into a graveyard from the battlefield, return Spreading Algae to its owner's hand."
+Sporogenesis,4.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a fungus counter on target nontoken creature.\nWhenever a creature with a fungus counter on it dies, create a 1/1 green Saproling creature token for each fungus counter on that creature.\nWhen Sporogenesis leaves the battlefield, remove all fungus counters from all creatures."
+Retaliation,3.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Creatures you control have ""Whenever this creature becomes blocked by a creature, this creature gets +1/+1 until end of turn."""
+Rejuvenate,4.0,['Green'],['G'],None,['Sorcery'],None,Common,USG,None,None,None,"You gain 6 life.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Priest of Titania,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,USG,1,1,None,{T}: Add {G} for each Elf on the battlefield.
+Pouncing Jaguar,1.0,['Green'],['G'],None,['Creature'],['Cat'],Common,USG,2,2,None,"Echo {G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+Midsummer Revel,5.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Midsummer Revel.\n{G}, Sacrifice Midsummer Revel: Create X 3/3 green Beast creature tokens, where X is the number of verse counters on Midsummer Revel."
+Lull,2.0,['Green'],['G'],None,['Instant'],None,Common,USG,None,None,None,"Prevent all combat damage that would be dealt this turn.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Hush,4.0,['Green'],['G'],None,['Sorcery'],None,Common,USG,None,None,None,"Destroy all enchantments.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Hidden Stag,2.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"Whenever an opponent plays a land, if Hidden Stag is an enchantment, Hidden Stag becomes a 3/2 Elk Beast creature.\nWhenever you play a land, if Hidden Stag is a creature, Hidden Stag becomes an enchantment."
+Hidden Spider,1.0,['Green'],['G'],None,['Enchantment'],None,Common,USG,None,None,None,"When an opponent casts a creature spell with flying, if Hidden Spider is an enchantment, Hidden Spider becomes a 3/5 Spider creature with reach. (It can block creatures with flying.)"
+Exploration,1.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,You may play an additional land on each of your turns.
+Hidden Ancients,2.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"When an opponent casts an enchantment spell, if Hidden Ancients is an enchantment, Hidden Ancients becomes a 5/5 Treefolk creature."
+Hidden Herd,1.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"When an opponent plays a nonbasic land, if Hidden Herd is an enchantment, Hidden Herd becomes a 3/3 Beast creature."
+Hidden Predators,1.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"When an opponent controls a creature with power 4 or greater, if Hidden Predators is an enchantment, Hidden Predators becomes a 4/4 Beast creature."
+Hidden Guerrillas,1.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"When an opponent casts an artifact spell, if Hidden Guerrillas is an enchantment, Hidden Guerrillas becomes a 5/3 Soldier creature with trample."
+Hawkeater Moth,4.0,['Green'],['G'],None,['Creature'],['Insect'],Uncommon,USG,1,2,None,Flying\nShroud (This creature can't be the target of spells or abilities.)
+Greener Pastures,3.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of each player's upkeep, if that player controls more lands than each other player, the player creates a 1/1 green Saproling creature token."
+Greater Good,4.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards."
+Gaea's Bounty,3.0,['Green'],['G'],None,['Sorcery'],None,Common,USG,None,None,None,"Search your library for up to two Forest cards, reveal those cards, put them into your hand, then shuffle."
+Gorilla Warrior,3.0,['Green'],['G'],None,['Creature'],"['Ape', 'Warrior']",Common,USG,3,2,None,None
+Gaea's Embrace,4.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,Enchant creature\nEnchanted creature gets +3/+3 and has trample.\n{G}: Regenerate enchanted creature.
+Fecundity,3.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Whenever a creature dies, that creature's controller may draw a card."
+Endless Wurm,5.0,['Green'],['G'],None,['Creature'],['Wurm'],Rare,USG,9,9,None,"Trample\nAt the beginning of your upkeep, sacrifice Endless Wurm unless you sacrifice an enchantment."
+Fortitude,2.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\nSacrifice a Forest: Regenerate enchanted creature.\nWhen Fortitude is put into a graveyard from the battlefield, return Fortitude to its owner's hand."
+Fertile Ground,2.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional one mana of any color."
+Elvish Lyrist,1.0,['Green'],['G'],None,['Creature'],['Elf'],Common,USG,1,1,None,"{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment."
+Crosswinds,2.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,USG,None,None,None,Creatures with flying get -2/-0.
+Cradle Guard,3.0,['Green'],['G'],None,['Creature'],['Treefolk'],Uncommon,USG,4,4,None,"Trample\nEcho {1}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+Citanul Hierophants,4.0,['Green'],['G'],None,['Creature'],"['Human', 'Druid']",Rare,USG,3,2,None,"Creatures you control have ""{T}: Add {G}."""
+Citanul Centaurs,4.0,['Green'],['G'],None,['Creature'],['Centaur'],Rare,USG,6,3,None,"Shroud (This creature can't be the target of spells or abilities.)\nEcho {3}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+Child of Gaea,6.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,USG,7,7,None,"Trample\nAt the beginning of your upkeep, sacrifice Child of Gaea unless you pay {G}{G}.\n{1}{G}: Regenerate Child of Gaea."
+Cave Tiger,3.0,['Green'],['G'],None,['Creature'],['Cat'],Common,USG,2,2,None,"Whenever Cave Tiger becomes blocked by a creature, Cave Tiger gets +1/+1 until end of turn."
+Carpet of Flowers,1.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"At the beginning of each of your main phases, if you haven't added mana with this ability this turn, you may add X mana of any one color, where X is the number of Islands target opponent controls."
+Bull Hippo,4.0,['Green'],['G'],None,['Creature'],['Hippo'],Uncommon,USG,3,3,None,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Blanchwood Treefolk,5.0,['Green'],['G'],None,['Creature'],['Treefolk'],Common,USG,4,5,None,None
+Blanchwood Armor,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,Enchant creature\nEnchanted creature gets +1/+1 for each Forest you control.
+Argothian Wurm,4.0,['Green'],['G'],None,['Creature'],['Wurm'],Rare,USG,6,6,None,"Trample\nWhen Argothian Wurm enters the battlefield, any player may sacrifice a land. If a player does, put Argothian Wurm on top of its owner's library."
+Argothian Swine,4.0,['Green'],['G'],None,['Creature'],['Boar'],Common,USG,3,3,None,Trample
+Argothian Enchantress,2.0,['Green'],['G'],None,['Creature'],"['Human', 'Druid']",Rare,USG,0,1,None,"Shroud (This creature can't be the target of spells or abilities.)\nWhenever you cast an enchantment spell, draw a card."
+Argothian Elder,4.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Uncommon,USG,2,2,None,{T}: Untap two target lands.
+Anaconda,4.0,['Green'],['G'],None,['Creature'],['Snake'],Uncommon,USG,3,3,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+Albino Troll,2.0,['Green'],['G'],None,['Creature'],['Troll'],Uncommon,USG,3,3,None,"Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\n{1}{G}: Regenerate Albino Troll."
+Acridian,2.0,['Green'],['G'],None,['Creature'],['Insect'],Common,USG,2,4,None,"Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+Abundance,4.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"If you would draw a card, you may instead choose land or nonland and reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and put all other cards revealed this way on the bottom of your library in any order."
+Wildfire,6.0,['Red'],['R'],None,['Sorcery'],None,Rare,USG,None,None,None,Each player sacrifices four lands. Wildfire deals 4 damage to each creature.
+Vug Lizard,3.0,['Red'],['R'],None,['Creature'],['Lizard'],Uncommon,USG,3,4,None,"Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)\nEcho {1}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+Viashino Weaponsmith,4.0,['Red'],['R'],None,['Creature'],['Viashino'],Common,USG,2,2,None,"Whenever Viashino Weaponsmith becomes blocked by a creature, Viashino Weaponsmith gets +2/+2 until end of turn."
+Viashino Sandswimmer,4.0,['Red'],['R'],None,['Creature'],['Viashino'],Rare,USG,3,2,None,"{R}: Flip a coin. If you win the flip, return Viashino Sandswimmer to its owner's hand. If you lose the flip, sacrifice Viashino Sandswimmer."
+Viashino Runner,4.0,['Red'],['R'],None,['Creature'],['Viashino'],Common,USG,3,2,None,Menace (This creature can't be blocked except by two or more creatures.)
+Viashino Outrider,3.0,['Red'],['R'],None,['Creature'],['Viashino'],Common,USG,4,3,None,"Echo {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+Torch Song,3.0,['Red'],['R'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Torch Song.\n{2}{R}, Sacrifice Torch Song: It deals X damage to any target, where X is the number of verse counters on Torch Song."
+Thundering Giant,5.0,['Red'],['R'],None,['Creature'],['Giant'],Uncommon,USG,4,3,None,Haste (This creature can attack and {T} as soon as it comes under your control.)
+Sulfuric Vapors,4.0,['Red'],['R'],None,['Enchantment'],None,Rare,USG,None,None,None,"If a red spell would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead."
+Steam Blast,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Steam Blast deals 2 damage to each creature and each player.
+Sneak Attack,4.0,['Red'],['R'],None,['Enchantment'],None,Rare,USG,None,None,None,{R}: You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice the creature at the beginning of the next end step.
+Shower of Sparks,1.0,['Red'],['R'],None,['Instant'],None,Common,USG,None,None,None,Shower of Sparks deals 1 damage to target creature and 1 damage to target player or planeswalker.
+Shiv's Embrace,4.0,['Red'],['R'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,Enchant creature\nEnchanted creature gets +2/+2 and has flying.\n{R}: Enchanted creature gets +1/+0 until end of turn.
+Elvish Herder,1.0,['Green'],['G'],None,['Creature'],['Elf'],Common,USG,1,1,None,{G}: Target creature gains trample until end of turn.
+Shivan Raptor,3.0,['Red'],['R'],None,['Creature'],['Dinosaur'],Uncommon,USG,3,1,None,"First strike, haste\nEcho {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+Shivan Hellkite,7.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,USG,5,5,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{1}{R}: Shivan Hellkite deals 1 damage to any target.
+Scrap,3.0,['Red'],['R'],None,['Instant'],None,Common,USG,None,None,None,"Destroy target artifact.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Scoria Wurm,5.0,['Red'],['R'],None,['Creature'],['Wurm'],Rare,USG,7,7,None,"At the beginning of your upkeep, flip a coin. If you lose the flip, return Scoria Wurm to its owner's hand."
+Scald,2.0,['Red'],['R'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Whenever a player taps an Island for mana, Scald deals 1 damage to that player."
+Lay Waste,4.0,['Red'],['R'],None,['Sorcery'],None,Common,USG,None,None,None,"Destroy target land.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Raze,1.0,['Red'],['R'],None,['Sorcery'],None,Common,USG,None,None,None,"As an additional cost to cast this spell, sacrifice a land.\nDestroy target land."
+Retromancer,4.0,['Red'],['R'],None,['Creature'],"['Viashino', 'Shaman']",Common,USG,3,3,None,"Whenever Retromancer becomes the target of a spell or ability, Retromancer deals 3 damage to that spell or ability's controller."
+Rumbling Crescendo,5.0,['Red'],['R'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Rumbling Crescendo.\n{R}, Sacrifice Rumbling Crescendo: Destroy up to X target lands, where X is the number of verse counters on Rumbling Crescendo."
+Reflexes,1.0,['Red'],['R'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature has first strike. (It deals combat damage before creatures without first strike.)
+Rain of Salt,6.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Destroy two target lands.
+Outmaneuver,1.0,['Red'],['R'],None,['Instant'],None,Uncommon,USG,None,None,None,X target blocked creatures assign their combat damage this turn as though they weren't blocked.
+Okk,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Rare,USG,4,4,None,Okk can't attack unless a creature with greater power also attacks.\nOkk can't block unless a creature with greater power also blocks.
+Lightning Dragon,4.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,USG,4,4,None,"Flying\nEcho {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\n{R}: Lightning Dragon gets +1/+0 until end of turn."
+Meltdown,1.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Destroy each artifact with mana value X or less.
+Brilliant Halo,2.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\nEnchanted creature gets +1/+2.\nWhen Brilliant Halo is put into a graveyard from the battlefield, return Brilliant Halo to its owner's hand."
+Clear,2.0,['White'],['W'],None,['Instant'],None,Uncommon,USG,None,None,None,"Destroy target enchantment.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Serra's Embrace,4.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,Enchant creature\nEnchanted creature gets +2/+2 and has flying and vigilance.
+Catastrophe,6.0,['White'],['W'],None,['Sorcery'],None,Rare,USG,None,None,None,Destroy all lands or all creatures. Creatures destroyed this way can't be regenerated.
+Bog Raiders,3.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,USG,2,2,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+Absolute Grace,2.0,['White'],['W'],None,['Enchantment'],None,Uncommon,USG,None,None,None,All creatures have protection from black.
+Angelic Page,2.0,['White'],['W'],None,['Creature'],"['Angel', 'Spirit']",Common,USG,1,1,None,Flying\n{T}: Target attacking or blocking creature gets +1/+1 until end of turn.
+Angelic Chorus,5.0,['White'],['W'],None,['Enchantment'],None,Rare,USG,None,None,None,"Whenever a creature enters the battlefield under your control, you gain life equal to its toughness."
+Absolute Law,2.0,['White'],['W'],None,['Enchantment'],None,Uncommon,USG,None,None,None,All creatures have protection from red.
+Serra Avatar,7.0,['White'],['W'],None,['Creature'],['Avatar'],Rare,USG,*,*,None,"Serra Avatar's power and toughness are each equal to your life total.\nWhen Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library."
+Seasoned Marshal,4.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,USG,2,2,None,"Whenever Seasoned Marshal attacks, you may tap target creature."
+Sanctum Guardian,3.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Uncommon,USG,1,4,None,"Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to any target this turn, prevent that damage."
+Sanctum Custodian,3.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,USG,1,2,None,{T}: Prevent the next 2 damage that would be dealt to any target this turn.
+Rune of Protection: White,2.0,['White'],['W'],None,['Enchantment'],None,Common,USG,None,None,None,"{W}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,USG,None,None,None,({T}: Add {G}.)
+Rune of Protection: Red,2.0,['White'],['W'],None,['Enchantment'],None,Common,USG,None,None,None,"{W}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,USG,None,None,None,({T}: Add {G}.)
+Rune of Protection: Lands,2.0,['White'],['W'],None,['Enchantment'],None,Rare,USG,None,None,None,"{W}: The next time a land source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,USG,None,None,None,({T}: Add {G}.)
+Rune of Protection: Green,2.0,['White'],['W'],None,['Enchantment'],None,Common,USG,None,None,None,"{W}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,USG,None,None,None,({T}: Add {G}.)
+Rune of Protection: Blue,2.0,['White'],['W'],None,['Enchantment'],None,Common,USG,None,None,None,"{W}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,USG,None,None,None,({T}: Add {R}.)
+Rune of Protection: Black,2.0,['White'],['W'],None,['Enchantment'],None,Common,USG,None,None,None,"{W}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Rune of Protection: Artifacts,2.0,['White'],['W'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"{W}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,USG,None,None,None,({T}: Add {R}.)
+Remembrance,4.0,['White'],['W'],None,['Enchantment'],None,Rare,USG,None,None,None,"Whenever a nontoken creature you control dies, you may search your library for a card with the same name as that creature, reveal it, put it into your hand, then shuffle."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,USG,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,USG,None,None,None,({T}: Add {R}.)
+Redeem,2.0,['White'],['W'],None,['Instant'],None,Uncommon,USG,None,None,None,Prevent all damage that would be dealt this turn to up to two target creatures.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,USG,None,None,None,({T}: Add {B}.)
+Disciple of Grace,2.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,USG,1,2,None,"Protection from black\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,USG,None,None,None,({T}: Add {B}.)
+Monk Realist,2.0,['White'],['W'],None,['Creature'],"['Human', 'Monk', 'Cleric']",Common,USG,1,1,None,"When Monk Realist enters the battlefield, destroy target enchantment."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,USG,None,None,None,({T}: Add {B}.)
+Monk Idealist,3.0,['White'],['W'],None,['Creature'],"['Human', 'Monk', 'Cleric']",Uncommon,USG,2,2,None,"When Monk Idealist enters the battlefield, return target enchantment card from your graveyard to your hand."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,USG,None,None,None,({T}: Add {B}.)
+Intrepid Hero,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,USG,1,1,None,{T}: Destroy target creature with power 4 or greater.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,USG,None,None,None,({T}: Add {U}.)
+Humble,2.0,['White'],['W'],None,['Instant'],None,Uncommon,USG,None,None,None,"Until end of turn, target creature loses all abilities and has base power and toughness 0/1."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,USG,None,None,None,({T}: Add {U}.)
+Herald of Serra,4.0,['White'],['W'],None,['Creature'],['Angel'],Rare,USG,3,4,None,"Flying, vigilance\nEcho {2}{W}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,USG,None,None,None,({T}: Add {U}.)
+Healing Salve,1.0,['White'],['W'],None,['Instant'],None,Common,USG,None,None,None,Choose one —\n• Target player gains 3 life.\n• Prevent the next 3 damage that would be dealt to any target this turn.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,USG,None,None,None,({T}: Add {U}.)
+Glorious Anthem,3.0,['White'],['W'],None,['Enchantment'],None,Rare,USG,None,None,None,Creatures you control get +1/+1.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,USG,None,None,None,({T}: Add {W}.)
+Congregate,4.0,['White'],['W'],None,['Instant'],None,Common,USG,None,None,None,Target player gains 2 life for each creature on the battlefield.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,USG,None,None,None,({T}: Add {W}.)
+Disenchant,2.0,['White'],['W'],None,['Instant'],None,Common,USG,None,None,None,Destroy target artifact or enchantment.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,USG,None,None,None,({T}: Add {W}.)
+Looming Shade,3.0,['Black'],['B'],None,['Creature'],['Shade'],Common,USG,1,1,None,{B}: Looming Shade gets +1/+1 until end of turn.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,USG,None,None,None,({T}: Add {W}.)
+Faith Healer,2.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Rare,USG,1,1,None,Sacrifice an enchantment: You gain life equal to the sacrificed enchantment's mana value.
+Defensive Formation,1.0,['White'],['W'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Rather than the attacking player, you assign the combat damage of each creature attacking you. You can divide that creature's combat damage as you choose among any of the creatures blocking it."
+Tolarian Academy,0.0,None,['U'],['Legendary'],['Land'],None,Rare,USG,None,None,None,{T}: Add {U} for each artifact you control.
+Shimmering Barrier,2.0,['White'],['W'],None,['Creature'],['Wall'],Uncommon,USG,1,3,None,"Defender (This creature can't attack.)\nFirst strike\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Thran Quarry,0.0,None,None,None,['Land'],None,Rare,USG,None,None,None,"At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry.\n{T}: Add one mana of any color."
+Elite Archers,6.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier', 'Archer']",Rare,USG,3,3,None,{T}: Elite Archers deals 3 damage to target attacking or blocking creature.
+Smoldering Crater,0.0,None,['R'],None,['Land'],None,Common,USG,None,None,None,"Smoldering Crater enters the battlefield tapped.\n{T}: Add {R}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Disciple of Law,2.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,USG,1,2,None,"Protection from red\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Serra's Liturgy,4.0,['White'],['W'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Serra's Liturgy.\n{W}, Sacrifice Serra's Liturgy: Destroy up to X target artifacts and/or enchantments, where X is the number of verse counters on Serra's Liturgy."
+Slippery Karst,0.0,None,['G'],None,['Land'],None,Common,USG,None,None,None,"Slippery Karst enters the battlefield tapped.\n{T}: Add {G}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Serra Zealot,1.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,USG,1,1,None,First strike
+Shivan Gorge,0.0,None,['R'],['Legendary'],['Land'],None,Rare,USG,None,None,None,"{T}: Add {C}.\n{2}{R}, {T}: Shivan Gorge deals 1 damage to each opponent."
+Serra's Hymn,1.0,['White'],['W'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Serra's Hymn.\nSacrifice Serra's Hymn: Prevent the next X damage that would be dealt this turn to any number of targets, divided as you choose, where X is the number of verse counters on Serra's Hymn."
+Serra's Sanctum,0.0,None,['W'],['Legendary'],['Land'],None,Rare,USG,None,None,None,{T}: Add {W} for each enchantment you control.
+Remote Isle,0.0,None,['U'],None,['Land'],None,Common,USG,None,None,None,"Remote Isle enters the battlefield tapped.\n{T}: Add {U}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Polluted Mire,0.0,None,['B'],None,['Land'],None,Common,USG,None,None,None,"Polluted Mire enters the battlefield tapped.\n{T}: Add {B}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Imaginary Pet,2.0,['Blue'],['U'],None,['Creature'],['Illusion'],Rare,USG,4,4,None,"At the beginning of your upkeep, if you have a card in hand, return Imaginary Pet to its owner's hand."
+Hermetic Study,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\nEnchanted creature has ""{T}: This creature deals 1 damage to any target."""
+Horseshoe Crab,3.0,['Blue'],['U'],None,['Creature'],['Crab'],Common,USG,1,3,None,{U}: Untap Horseshoe Crab.
+Hibernation,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,USG,None,None,None,Return all green permanents to their owners' hands.
+Fog Bank,2.0,['Blue'],['U'],None,['Creature'],['Wall'],Uncommon,USG,0,2,None,"Defender, flying\nPrevent all combat damage that would be dealt to and dealt by Fog Bank."
+Exhaustion,3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Creatures and lands target opponent controls don't untap during their next untap step.
+Great Whale,7.0,['Blue'],['U'],None,['Creature'],['Whale'],Rare,USG,5,5,None,"When Great Whale enters the battlefield, untap up to seven lands."
+Gilded Drake,2.0,['Blue'],['U'],None,['Creature'],['Drake'],Rare,USG,3,3,None,"Flying\nWhen Gilded Drake enters the battlefield, exchange control of Gilded Drake and up to one target creature an opponent controls. If you don't or can't make an exchange, sacrifice Gilded Drake. This ability still resolves if its target becomes illegal."
+Energy Field,2.0,['Blue'],['U'],None,['Enchantment'],None,Rare,USG,None,None,None,"Prevent all damage that would be dealt to you by sources you don't control.\nWhen a card is put into your graveyard from anywhere, sacrifice Energy Field."
+Academy Researchers,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Uncommon,USG,2,2,None,"When Academy Researchers enters the battlefield, you may put an Aura card from your hand onto the battlefield attached to Academy Researchers."
+Enchantment Alteration,1.0,['Blue'],['U'],None,['Instant'],None,Uncommon,USG,None,None,None,Attach target Aura attached to a creature or land to another permanent of that type.
+Drifting Djinn,6.0,['Blue'],['U'],None,['Creature'],['Djinn'],Rare,USG,5,5,None,"Flying\nAt the beginning of your upkeep, sacrifice Drifting Djinn unless you pay {1}{U}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Douse,3.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,USG,None,None,None,{1}{U}: Counter target red spell.
+Disruptive Student,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,USG,1,1,None,{T}: Counter target spell unless its controller pays {1}.
+Curfew,1.0,['Blue'],['U'],None,['Instant'],None,Common,USG,None,None,None,Each player returns a creature they control to its owner's hand.
+Coral Merfolk,2.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Common,USG,2,1,None,None
+Confiscate,6.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,Enchant permanent\nYou control enchanted permanent.
+Cloak of Mists,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,Enchant creature\nEnchanted creature can't be blocked.
+Catalog,3.0,['Blue'],['U'],None,['Instant'],None,Common,USG,None,None,None,"Draw two cards, then discard a card."
+"Barrin, Master Wizard",3.0,['Blue'],['U'],['Legendary'],['Creature'],"['Human', 'Wizard']",Rare,USG,1,1,None,"{2}, Sacrifice a permanent: Return target creature to its owner's hand."
+Back to Basics,3.0,['Blue'],['U'],None,['Enchantment'],None,Rare,USG,None,None,None,Nonbasic lands don't untap during their controllers' untap steps.
+Arcane Laboratory,3.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,USG,None,None,None,Each player can't cast more than one spell each turn.
+Attunement,3.0,['Blue'],['U'],None,['Enchantment'],None,Rare,USG,None,None,None,"Return Attunement to its owner's hand: Draw three cards, then discard four cards."
+Annul,1.0,['Blue'],['U'],None,['Instant'],None,Common,USG,None,None,None,Counter target artifact or enchantment spell.
+Headlong Rush,2.0,['Red'],['R'],None,['Instant'],None,Common,USG,None,None,None,Attacking creatures gain first strike until end of turn.
+Guma,3.0,['Red'],['R'],None,['Creature'],['Cat'],Uncommon,USG,2,2,None,Protection from blue
+Blasted Landscape,0.0,None,None,None,['Land'],None,Uncommon,USG,None,None,None,"{T}: Add {C}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Goblin Raider,2.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Common,USG,2,2,None,Goblin Raider can't block.
+Goblin Patrol,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,USG,2,1,None,"Echo {R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+Worn Powerstone,3.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,Worn Powerstone enters the battlefield tapped.\n{T}: Add {C}{C}.
+Goblin Offensive,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Create X 1/1 red Goblin creature tokens.
+Wirecat,4.0,None,None,None,"['Artifact', 'Creature']",['Cat'],Uncommon,USG,4,3,None,Wirecat can't attack or block if an enchantment is on the battlefield.
+Goblin Matron,3.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,USG,1,1,None,"When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle."
+Whetstone,3.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,{3}: Each player mills two cards.
+Goblin Lackey,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Uncommon,USG,1,1,None,"Whenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield."
+Wall of Junk,2.0,None,None,None,"['Artifact', 'Creature']",['Wall'],Uncommon,USG,0,7,None,"Defender (This creature can't attack.)\nWhen Wall of Junk blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)"
+Goblin Cadets,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Uncommon,USG,2,1,None,"Whenever Goblin Cadets blocks or becomes blocked, target opponent gains control of it. (This removes Goblin Cadets from combat.)"
+Voltaic Key,1.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,"{1}, {T}: Untap target artifact."
+Gamble,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,USG,None,None,None,"Search your library for a card, put that card into your hand, discard a card at random, then shuffle."
+Phyrexian Tower,0.0,None,['B'],['Legendary'],['Land'],None,Rare,USG,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice a creature: Add {B}{B}."
+Urza's Armor,6.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,"If a source would deal damage to you, prevent 1 of that damage."
+Fire Ants,3.0,['Red'],['R'],None,['Creature'],['Insect'],Uncommon,USG,2,1,None,{T}: Fire Ants deals 1 damage to each other creature without flying.
+Umbilicus,4.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"At the beginning of each player's upkeep, that player returns a permanent they control to its owner's hand unless they pay 2 life."
+Fiery Mantle,2.0,['Red'],['R'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\n{R}: Enchanted creature gets +1/+0 until end of turn.\nWhen Fiery Mantle is put into a graveyard from the battlefield, return Fiery Mantle to its owner's hand."
+Thran Turbine,1.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,"At the beginning of your upkeep, you may add {C}{C}. You can't spend this mana to cast spells."
+Fault Line,2.0,['Red'],['R'],None,['Instant'],None,Rare,USG,None,None,None,Fault Line deals X damage to each creature without flying and each player.
+Grafted Skullcap,4.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"At the beginning of your draw step, draw an additional card.\nAt the beginning of your end step, discard your hand."
+Falter,2.0,['Red'],['R'],None,['Instant'],None,Common,USG,None,None,None,Creatures without flying can't block this turn.
+Pit Trap,2.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,"{2}, {T}, Sacrifice Pit Trap: Destroy target attacking creature without flying. It can't be regenerated."
+Electryte,5.0,['Red'],['R'],None,['Creature'],"['Trilobite', 'Beast']",Rare,USG,3,3,None,"Whenever Electryte deals combat damage to defending player, it deals damage equal to its power to each blocking creature."
+Smokestack,4.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a soot counter on Smokestack.\nAt the beginning of each player's upkeep, that player sacrifices a permanent for each soot counter on Smokestack."
+Dromosaur,3.0,['Red'],['R'],None,['Creature'],['Dinosaur'],Common,USG,2,3,None,"Whenever Dromosaur blocks or becomes blocked, it gets +2/-2 until end of turn."
+Temporal Aperture,2.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"{5}, {T}: Shuffle your library, then reveal the top card. Until end of turn, for as long as that card remains on top of your library, play with the top card of your library revealed and you may play that card without paying its mana cost. (If it has X in its mana cost, X is 0.)"
+Disorder,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Disorder deals 2 damage to each white creature and each player who controls a white creature.
+Purging Scythe,5.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, Purging Scythe deals 2 damage to the creature with the least toughness. If two or more creatures are tied for least toughness, you choose one of them."
+Destructive Urge,3.0,['Red'],['R'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,"Enchant creature\nWhenever enchanted creature deals combat damage to a player, that player sacrifices a land."
+Phyrexian Processor,4.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"As Phyrexian Processor enters the battlefield, pay any amount of life.\n{4}, {T}: Create an X/X black Phyrexian Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield."
+Crater Hellion,6.0,['Red'],['R'],None,['Creature'],"['Hellion', 'Beast']",Rare,USG,6,6,None,"Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Crater Hellion enters the battlefield, it deals 4 damage to each other creature."
+Bulwark,5.0,['Red'],['R'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, Bulwark deals X damage to target opponent, where X is the number of cards in your hand minus the number of cards in that player's hand."
+Gaea's Cradle,0.0,None,['G'],['Legendary'],['Land'],None,Rare,USG,None,None,None,{T}: Add {G} for each creature you control.
+Bravado,2.0,['Red'],['R'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,Enchant creature\nEnchanted creature gets +1/+1 for each other creature you control.
+Phyrexian Colossus,7.0,None,None,None,"['Artifact', 'Creature']","['Phyrexian', 'Golem']",Rare,USG,8,8,None,Phyrexian Colossus doesn't untap during your untap step.\nPay 8 life: Untap Phyrexian Colossus.\nPhyrexian Colossus can't be blocked except by three or more creatures.
+Brand,1.0,['Red'],['R'],None,['Instant'],None,Rare,USG,None,None,None,"Gain control of all permanents you own. (This effect lasts indefinitely.)\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Noetic Scales,4.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"At the beginning of each player's upkeep, return to its owner's hand each creature that player controls with power greater than the number of cards in their hand."
+Unworthy Dead,2.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Skeleton']",Common,USG,1,1,None,{B}: Regenerate Unworthy Dead.
+Metrognome,4.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"When a spell or ability an opponent controls causes you to discard Metrognome, create four 1/1 colorless Gnome artifact creature tokens.\n{4}, {T}: Create a 1/1 colorless Gnome artifact creature token."
+Acidic Soil,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Acidic Soil deals damage to each player equal to the number of lands they control.
+Mobile Fort,4.0,None,None,None,"['Artifact', 'Creature']",['Wall'],Uncommon,USG,0,6,None,Defender (This creature can't attack.)\n{3}: Mobile Fort gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate only once each turn.
+Arc Lightning,3.0,['Red'],['R'],None,['Sorcery'],None,Common,USG,None,None,None,"Arc Lightning deals 3 damage divided as you choose among one, two, or three targets."
+Mishra's Helix,5.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"{X}, {T}: Tap X target lands."
+Bedlam,4.0,['Red'],['R'],None,['Enchantment'],None,Rare,USG,None,None,None,Creatures can't block.
+Hopping Automaton,3.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Uncommon,USG,2,2,None,{0}: Hopping Automaton gets -1/-1 and gains flying until end of turn.
+Antagonism,4.0,['Red'],['R'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of each player's end step, Antagonism deals 2 damage to that player unless one of their opponents was dealt damage this turn."
+Fluctuator,2.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,Cycling abilities you activate cost up to {2} less to activate.
+Yawgmoth's Will,3.0,['Black'],['B'],None,['Sorcery'],None,Rare,USG,None,None,None,"Until end of turn, you may play lands and cast spells from your graveyard.\nIf a card would be put into your graveyard from anywhere this turn, exile that card instead."
+Lotus Blossom,2.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a petal counter on Lotus Blossom.\n{T}, Sacrifice Lotus Blossom: Add X mana of any one color, where X is the number of petal counters on Lotus Blossom."
+Yawgmoth's Edict,2.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Whenever an opponent casts a white spell, that player loses 1 life and you gain 1 life."
+Lifeline,5.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"Whenever a creature dies, if another creature is on the battlefield, return the first card to the battlefield under its owner's control at the beginning of the next end step."
+Witch Engine,6.0,['Black'],['B'],None,['Creature'],['Horror'],Rare,USG,4,4,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\n{T}: Add {B}{B}{B}{B}. Target opponent gains control of Witch Engine. (Activate only as an instant.)
+Victimize,3.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,USG,None,None,None,"Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped."
+Sleeper Agent,1.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Minion']",Rare,USG,3,3,None,"When Sleeper Agent enters the battlefield, target opponent gains control of it.\nAt the beginning of your upkeep, Sleeper Agent deals 2 damage to you."
+"Karn, Silver Golem",5.0,None,None,['Legendary'],"['Artifact', 'Creature']",['Golem'],Rare,USG,4,4,None,"Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.\n{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value until end of turn."
+Skittering Skirge,2.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Imp']",Common,USG,3,2,None,"Flying\nWhen you cast a creature spell, sacrifice Skittering Skirge."
+Endoskeleton,2.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,"You may choose not to untap Endoskeleton during your untap step.\n{2}, {T}: Target creature gets +0/+3 for as long as Endoskeleton remains tapped."
+Skirge Familiar,5.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Imp']",Uncommon,USG,3,2,None,Flying\nDiscard a card: Add {B}.
+Dragon Blood,3.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,"{3}, {T}: Put a +1/+1 counter on target creature."
+Sicken,1.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\nEnchanted creature gets -1/-1.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Crystal Chimes,3.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,"{3}, {T}, Sacrifice Crystal Chimes: Return all enchantment cards from your graveyard to your hand."
+Sanguine Guard,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie', 'Knight']",Uncommon,USG,2,2,None,First strike\n{1}{B}: Regenerate Sanguine Guard.
+Reprocess,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,USG,None,None,None,"Sacrifice any number of artifacts, creatures, and/or lands. Draw a card for each permanent sacrificed this way."
+Reclusive Wight,4.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Minion']",Uncommon,USG,4,4,None,"At the beginning of your upkeep, if you control another nonland permanent, sacrifice Reclusive Wight."
+Ravenous Skirge,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Imp']",Common,USG,1,1,None,"Flying\nWhenever Ravenous Skirge attacks, it gets +2/+0 until end of turn."
+Rain of Filth,1.0,['Black'],['B'],None,['Instant'],None,Uncommon,USG,None,None,None,"Until end of turn, lands you control gain ""Sacrifice this land: Add {B}."""
+Priest of Gix,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Human', 'Cleric', 'Minion']",Uncommon,USG,2,1,None,"When Priest of Gix enters the battlefield, add {B}{B}{B}."
+Planar Void,1.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Whenever another card is put into a graveyard from anywhere, exile that card."
+Phyrexian Ghoul,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie']",Common,USG,2,2,None,Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn.
+Copper Gnomes,2.0,None,None,None,"['Artifact', 'Creature']",['Gnome'],Rare,USG,1,1,None,"{4}, Sacrifice Copper Gnomes: You may put an artifact card from your hand onto the battlefield."
+Pestilence,4.0,['Black'],['B'],None,['Enchantment'],None,Common,USG,None,None,None,"At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.\n{B}: Pestilence deals 1 damage to each creature and each player."
+Claws of Gix,0.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,"{1}, Sacrifice a permanent: You gain 1 life."
+Persecute,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,USG,None,None,None,Choose a color. Target player reveals their hand and discards all cards of that color.
+Parasitic Bond,4.0,['Black'],['B'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,"Enchant creature\nAt the beginning of the upkeep of enchanted creature's controller, Parasitic Bond deals 2 damage to that player."
+Citanul Flute,5.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"{X}, {T}: Search your library for a creature card with mana value X or less, reveal it, put it into your hand, then shuffle."
+Order of Yawgmoth,4.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie', 'Knight']",Uncommon,USG,2,2,None,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever Order of Yawgmoth deals damage to a player, that player discards a card."
+Chimeric Staff,4.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,{X}: Chimeric Staff becomes an X/X Construct artifact creature until end of turn.
+Oppression,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,USG,None,None,None,"Whenever a player casts a spell, that player discards a card."
+Cathodion,3.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Uncommon,USG,3,3,None,"When Cathodion dies, add {C}{C}{C}."
+Jagged Lightning,5.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Jagged Lightning deals 3 damage to each of two target creatures.
+Barrin's Codex,4.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a page counter on Barrin's Codex.\n{4}, {T}, Sacrifice Barrin's Codex: Draw X cards, where X is the number of page counters on Barrin's Codex."
+Western Paladin,4.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie', 'Knight']",Rare,USG,3,3,None,"{B}{B}, {T}: Destroy target white creature."
+Winding Wurm,5.0,['Green'],['G'],None,['Creature'],['Wurm'],Common,USG,6,6,None,"Echo {4}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+Vile Requiem,4.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Vile Requiem.\n{1}{B}, Sacrifice Vile Requiem: Destroy up to X target nonblack creatures, where X is the number of verse counters on Vile Requiem. They can't be regenerated."
+Wild Dogs,1.0,['Green'],['G'],None,['Creature'],['Dog'],Common,USG,2,1,None,"At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Wild Dogs.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Whirlwind,4.0,['Green'],['G'],None,['Sorcery'],None,Rare,USG,None,None,None,Destroy all creatures with flying.
+Unnerve,4.0,['Black'],['B'],None,['Sorcery'],None,Common,USG,None,None,None,Each opponent discards two cards.
+Vebulid,1.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Horror']",Rare,USG,0,0,None,"Vebulid enters the battlefield with a +1/+1 counter on it.\nAt the beginning of your upkeep, you may put a +1/+1 counter on Vebulid.\nWhen Vebulid attacks or blocks, destroy it at end of combat."
+Vampiric Embrace,4.0,['Black'],['B'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,"Enchant creature\nEnchanted creature gets +2/+2 and has flying.\nWhenever a creature dealt damage by enchanted creature this turn dies, put a +1/+1 counter on that creature."
+War Dance,1.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on War Dance.\nSacrifice War Dance: Target creature gets +X/+X until end of turn, where X is the number of verse counters on War Dance."
+Tainted Aether,4.0,['Black'],['B'],None,['Enchantment'],None,Rare,USG,None,None,None,"Whenever a creature enters the battlefield, its controller sacrifices a creature or land."
+Mana Leech,3.0,['Black'],['B'],None,['Creature'],['Leech'],Uncommon,USG,1,1,None,You may choose not to untap Mana Leech during your untap step.\n{T}: Tap target land. It doesn't untap during its controller's untap step for as long as Mana Leech remains tapped.
+Lurking Evil,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,USG,None,None,None,"Pay half your life, rounded up: Lurking Evil becomes a 4/4 Phyrexian Horror creature with flying."
+Vernal Bloom,4.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"Whenever a Forest is tapped for mana, its controller adds an additional {G}."
+Venomous Fangs,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\nWhenever enchanted creature deals damage to a creature, destroy the other creature."
+Ill-Gotten Gains,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,USG,None,None,None,"Exile Ill-Gotten Gains. Each player discards their hand, then returns up to three cards from their graveyard to their hand."
+Hollow Dogs,5.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie', 'Dog']",Common,USG,3,3,None,"Whenever Hollow Dogs attacks, it gets +2/+0 until end of turn."
+Flesh Reaver,2.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Horror']",Uncommon,USG,4,4,None,"Whenever Flesh Reaver deals damage to a creature or opponent, Flesh Reaver deals that much damage to you."
+Drifting Meadow,0.0,None,['W'],None,['Land'],None,Common,USG,None,None,None,"Drifting Meadow enters the battlefield tapped.\n{T}: Add {W}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Expunge,3.0,['Black'],['B'],None,['Instant'],None,Common,USG,None,None,None,"Destroy target nonartifact, nonblack creature. It can't be regenerated.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Exhume,2.0,['Black'],['B'],None,['Sorcery'],None,Common,USG,None,None,None,Each player puts a creature card from their graveyard onto the battlefield.
+Eastern Paladin,4.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie', 'Knight']",Rare,USG,3,3,None,"{B}{B}, {T}: Destroy target green creature."
+Duress,1.0,['Black'],['B'],None,['Sorcery'],None,Common,USG,None,None,None,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+Treetop Rangers,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Ranger']",Common,USG,2,2,None,Treetop Rangers can't be blocked except by creatures with flying.
+Discordant Dirge,5.0,['Black'],['B'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Discordant Dirge.\n{B}, Sacrifice Discordant Dirge: Look at target opponent's hand and choose up to X cards from it, where X is the number of verse counters on Discordant Dirge. That player discards those cards."
+Diabolic Servitude,4.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"When Diabolic Servitude enters the battlefield, return target creature card from your graveyard to the battlefield.\nWhen the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner's hand.\nWhen Diabolic Servitude leaves the battlefield, exile the creature put onto the battlefield with Diabolic Servitude."
+Despondency,2.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\nEnchanted creature gets -2/-0.\nWhen Despondency is put into a graveyard from the battlefield, return Despondency to its owner's hand."
+Darkest Hour,1.0,['Black'],['B'],None,['Enchantment'],None,Rare,USG,None,None,None,All creatures are black.
+Dark Ritual,1.0,['Black'],['B'],None,['Instant'],None,Common,USG,None,None,None,Add {B}{B}{B}.
+Dark Hatchling,6.0,['Black'],['B'],None,['Creature'],['Horror'],Rare,USG,3,3,None,"Flying\nWhen Dark Hatchling enters the battlefield, destroy target nonblack creature. It can't be regenerated."
+Crazed Skirge,4.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Imp']",Uncommon,USG,2,2,None,"Flying, haste"
+Corrupt,6.0,['Black'],['B'],None,['Sorcery'],None,Common,USG,None,None,None,Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.
+Goblin War Buggy,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,USG,2,2,None,"Haste\nEcho {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+Heat Ray,1.0,['Red'],['R'],None,['Instant'],None,Common,USG,None,None,None,Heat Ray deals X damage to target creature.
+Goblin Spelunkers,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Common,USG,2,2,None,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+Contamination,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, sacrifice Contamination unless you sacrifice a creature.\nIf a land is tapped for mana, it produces {B} instead of any other type and amount."
+Carrion Beetles,1.0,['Black'],['B'],None,['Creature'],['Insect'],Common,USG,1,1,None,"{2}{B}, {T}: Exile up to three target cards from a single graveyard."
+Spined Fluke,3.0,['Black'],['B'],None,['Creature'],"['Worm', 'Horror']",Uncommon,USG,5,1,None,"When Spined Fluke enters the battlefield, sacrifice a creature.\n{B}: Regenerate Spined Fluke."

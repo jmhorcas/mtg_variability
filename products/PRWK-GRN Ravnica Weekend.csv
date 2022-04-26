@@ -1,0 +1,11 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PRWK,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PRWK,None,None,None,({T}: Add {U}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PRWK,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PRWK,None,None,None,({T}: Add {B}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PRWK,None,None,None,({T}: Add {R}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PRWK,None,None,None,({T}: Add {W}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PRWK,None,None,None,({T}: Add {R}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PRWK,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PRWK,None,None,None,({T}: Add {B}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PRWK,None,None,None,({T}: Add {W}.)

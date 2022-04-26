@@ -1,0 +1,8 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+The Philosopher,0.0,None,None,None,['Hero'],None,Common,THP1,None,None,None,"{2}, {T}: Tap target creature."
+The Harvester,0.0,None,None,None,['Hero'],None,Common,THP1,None,None,None,"{T}: Draw a card, then discard a card."
+The Warrior,0.0,None,None,None,['Hero'],None,Common,THP1,None,None,None,{T}: Target creature you control gains haste until end of turn.
+The Protector,0.0,None,None,None,['Hero'],None,Common,THP1,None,None,None,{T}: Prevent the next 1 damage that would be dealt to any target this turn.
+The Slayer,0.0,None,None,None,['Hero'],None,Common,THP1,None,None,None,You start the game with an additional 7 life.
+The Avenger,0.0,None,None,None,['Hero'],None,Common,THP1,None,None,None,"{3}, {T}: Target creature you control gains deathtouch until end of turn."
+The Hunter,0.0,None,None,None,['Hero'],None,Common,THP1,None,None,None,{T}: Target creature you control gets +1/+1 until end of turn.

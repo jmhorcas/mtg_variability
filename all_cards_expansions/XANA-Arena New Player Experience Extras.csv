@@ -1,0 +1,31 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Seismic Rupture,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,XANA,None,None,None,Seismic Rupture deals 2 damage to each creature without flying.
+Ogre Painbringer,5.0,['Red'],['R'],None,['Creature'],['Ogre'],Rare,XANA,7,3,None,"When Ogre Painbringer enters the battlefield, it deals 3 damage to each player."
+Goblin Grenade,1.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,XANA,None,None,None,"As an additional cost to cast this spell, sacrifice a Goblin.\nGoblin Grenade deals 5 damage to any target."
+Goblin Gang Leader,4.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Uncommon,XANA,2,2,None,"When Goblin Gang Leader enters the battlefield, create two 1/1 red Goblin creature tokens."
+Goblin Bruiser,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Uncommon,XANA,3,3,None,None
+Doublecast,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,XANA,None,None,None,"When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy."
+Loxodon Line Breaker,3.0,['White'],['W'],None,['Creature'],"['Elephant', 'Soldier']",Common,XANA,3,2,None,None
+Renegade Demon,5.0,['Black'],['B'],None,['Creature'],['Demon'],Common,XANA,5,3,None,None
+Soulhunter Rakshasa,5.0,['Black'],['B'],None,['Creature'],"['Cat', 'Demon']",Rare,XANA,5,5,None,"Soulhunter Rakshasa can't block.\nWhen Soulhunter Rakshasa enters the battlefield, if you cast it from your hand, it deals 1 damage to target opponent for each Swamp you control."
+Chaos Maw,7.0,['Red'],['R'],None,['Creature'],['Hellion'],Rare,XANA,6,6,None,"When Chaos Maw enters the battlefield, it deals 3 damage to each other creature."
+Rise from the Grave,5.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,XANA,None,None,None,Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
+Nimble Pilferer,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Rogue']",Common,XANA,2,1,None,Flash
+Miasmic Mummy,2.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Jackal']",Common,XANA,2,2,None,"When Miasmic Mummy enters the battlefield, each player discards a card."
+Cruel Cut,2.0,['Black'],['B'],None,['Instant'],None,Common,XANA,None,None,None,Destroy target creature with power 2 or less.
+Shorecomber Crab,1.0,['Blue'],['U'],None,['Creature'],['Crab'],Common,XANA,0,4,None,None
+Ambition's Cost,4.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,XANA,None,None,None,You draw three cards and you lose 3 life.
+Altar's Reap,2.0,['Black'],['B'],None,['Instant'],None,Common,XANA,None,None,None,"As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards."
+Waterknot,3.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,XANA,None,None,None,"Enchant creature\nWhen Waterknot enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step."
+Take Vengeance,2.0,['White'],['W'],None,['Sorcery'],None,Common,XANA,None,None,None,Destroy target tapped creature.
+Blinding Radiance,3.0,['White'],['W'],None,['Sorcery'],None,Uncommon,XANA,None,None,None,Tap all creatures your opponents control with toughness 2 or less.
+Titanic Pelagosaur,5.0,['Blue'],['U'],None,['Creature'],['Dinosaur'],Uncommon,XANA,4,6,None,None
+Overflowing Insight,7.0,['Blue'],['U'],None,['Sorcery'],None,Mythic,XANA,None,None,None,Target player draws seven cards.
+Divination,3.0,['Blue'],['U'],None,['Sorcery'],None,Common,XANA,None,None,None,Draw two cards.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,XANA,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,XANA,None,None,None,({T}: Add {R}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,XANA,None,None,None,({T}: Add {B}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,XANA,None,None,None,({T}: Add {U}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,XANA,None,None,None,({T}: Add {W}.)
+Rumbling Baloth,4.0,['Green'],['G'],None,['Creature'],['Beast'],Common,XANA,4,4,None,None
+Volcanic Dragon,6.0,['Red'],['R'],None,['Creature'],['Dragon'],Uncommon,XANA,4,4,None,"Flying, haste"

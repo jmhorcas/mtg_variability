@@ -1,0 +1,68 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Ironclaw Orcs,2.0,['Red'],['R'],None,['Creature'],['Orc'],Common,ITP,2,2,None,Ironclaw Orcs can't block creatures with power 2 or greater.
+Hill Giant,4.0,['Red'],['R'],None,['Creature'],['Giant'],Common,ITP,3,3,None,None
+Fireball,1.0,['Red'],['R'],None,['Sorcery'],None,Common,ITP,None,None,None,"This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets."
+Disintegrate,1.0,['Red'],['R'],None,['Sorcery'],None,Common,ITP,None,None,None,"Disintegrate deals X damage to any target. If it's a creature, it can't be regenerated this turn, and if it would die this turn, exile it instead."
+Detonate,1.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,ITP,None,None,None,Destroy target artifact with mana value X. It can't be regenerated. Detonate deals X damage to that artifact's controller.
+Weakness,1.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,ITP,None,None,None,Enchant creature\nEnchanted creature gets -2/-1.
+Warp Artifact,2.0,['Black'],['B'],None,['Enchantment'],['Aura'],Rare,ITP,None,None,None,"Enchant artifact\nAt the beginning of the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to that player."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,ITP,None,None,None,({T}: Add {G}.)
+Wall of Bone,3.0,['Black'],['B'],None,['Creature'],"['Skeleton', 'Wall']",Uncommon,ITP,1,4,None,"Defender (This creature can't attack.)\n{B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,ITP,None,None,None,({T}: Add {G}.)
+Vampire Bats,1.0,['Black'],['B'],None,['Creature'],['Bat'],Common,ITP,0,1,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{B}: Vampire Bats gets +1/+0 until end of turn. Activate no more than twice each turn.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,ITP,None,None,None,({T}: Add {G}.)
+Terror,2.0,['Black'],['B'],None,['Instant'],None,Common,ITP,None,None,None,"Destroy target nonartifact, nonblack creature. It can't be regenerated."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,ITP,None,None,None,({T}: Add {R}.)
+Sorceress Queen,3.0,['Black'],['B'],None,['Creature'],"['Human', 'Wizard']",Rare,ITP,1,1,None,{T}: Target creature other than Sorceress Queen has base power and toughness 0/2 until end of turn.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,ITP,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,ITP,None,None,None,({T}: Add {R}.)
+Scathe Zombies,3.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,ITP,2,2,None,None
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,ITP,None,None,None,({T}: Add {B}.)
+Raise Dead,1.0,['Black'],['B'],None,['Sorcery'],None,Common,ITP,None,None,None,Return target creature card from your graveyard to your hand.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,ITP,None,None,None,({T}: Add {B}.)
+Murk Dwellers,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,ITP,2,2,None,"Whenever Murk Dwellers attacks and isn't blocked, it gets +2/+0 until end of combat."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,ITP,None,None,None,({T}: Add {B}.)
+Lost Soul,3.0,['Black'],['B'],None,['Creature'],"['Spirit', 'Minion']",Common,ITP,2,1,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,ITP,None,None,None,({T}: Add {U}.)
+Dark Ritual,1.0,['Black'],['B'],None,['Instant'],None,Common,ITP,None,None,None,Add {B}{B}{B}.
+Cursed Land,4.0,['Black'],['B'],None,['Enchantment'],['Aura'],Uncommon,ITP,None,None,None,"Enchant land\nAt the beginning of the upkeep of enchanted land's controller, Cursed Land deals 1 damage to that player."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,ITP,None,None,None,({T}: Add {U}.)
+Circle of Protection: Black,2.0,['White'],['W'],None,['Enchantment'],None,Common,ITP,None,None,None,"{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,ITP,None,None,None,({T}: Add {U}.)
+Unsummon,1.0,['Blue'],['U'],None,['Instant'],None,Common,ITP,None,None,None,Return target creature to its owner's hand.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,ITP,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,ITP,None,None,None,({T}: Add {W}.)
+Bog Imp,2.0,['Black'],['B'],None,['Creature'],['Imp'],Common,ITP,1,1,None,Flying (This creature can't be blocked except by creatures with flying or reach.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,ITP,None,None,None,({T}: Add {W}.)
+Rod of Ruin,4.0,None,None,None,['Artifact'],None,Uncommon,ITP,None,None,None,"{3}, {T}: Rod of Ruin deals 1 damage to any target."
+Bog Wraith,4.0,['Black'],['B'],None,['Creature'],['Wraith'],Uncommon,ITP,3,3,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+Jayemdae Tome,4.0,None,None,None,['Artifact'],None,Rare,ITP,None,None,None,"{4}, {T}: Draw a card."
+Glasses of Urza,1.0,None,None,None,['Artifact'],None,Uncommon,ITP,None,None,None,{T}: Look at target player's hand.
+Zephyr Falcon,2.0,['Blue'],['U'],None,['Creature'],['Bird'],Common,ITP,1,1,None,"Flying, vigilance"
+Clockwork Beast,6.0,None,None,None,"['Artifact', 'Creature']",['Beast'],Rare,ITP,0,4,None,"Clockwork Beast enters the battlefield with seven +1/+0 counters on it.\nAt end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.\n{X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate only during your upkeep."
+Battering Ram,2.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Common,ITP,1,1,None,"At the beginning of combat on your turn, Battering Ram gains banding until end of combat. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's blocking.)\nWhenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat."
+Twiddle,1.0,['Blue'],['U'],None,['Instant'],None,Common,ITP,None,None,None,"You may tap or untap target artifact, creature, or land."
+Winter Blast,1.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,ITP,None,None,None,Tap X target creatures. Winter Blast deals 2 damage to each of those creatures with flying.
+Power Sink,1.0,['Blue'],['U'],None,['Instant'],None,Common,ITP,None,None,None,"Counter target spell unless its controller pays {X}. If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana."
+Whirling Dervish,2.0,['Green'],['G'],None,['Creature'],"['Human', 'Monk']",Uncommon,ITP,1,1,None,"Protection from black\nAt the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it."
+Phantom Monster,4.0,['Blue'],['U'],None,['Creature'],['Illusion'],Uncommon,ITP,3,3,None,Flying
+War Mammoth,4.0,['Green'],['G'],None,['Creature'],['Elephant'],Common,ITP,3,3,None,Trample
+Reverse Damage,3.0,['White'],['W'],None,['Instant'],None,Rare,ITP,None,None,None,"The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way."
+Untamed Wilds,3.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,ITP,None,None,None,"Search your library for a basic land card, put that card onto the battlefield, then shuffle."
+Merfolk of the Pearl Trident,1.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Common,ITP,1,1,None,None
+Scryb Sprites,1.0,['Green'],['G'],None,['Creature'],['Faerie'],Common,ITP,1,1,None,Flying
+Feedback,3.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,ITP,None,None,None,"Enchant enchantment\nAt the beginning of the upkeep of enchanted enchantment's controller, Feedback deals 1 damage to that player."
+Energy Flux,3.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,ITP,None,None,None,"All artifacts have ""At the beginning of your upkeep, sacrifice this artifact unless you pay {2}."""
+Grizzly Bears,2.0,['Green'],['G'],None,['Creature'],['Bear'],Common,ITP,2,2,None,None
+Circle of Protection: Red,2.0,['White'],['W'],None,['Enchantment'],None,Common,ITP,None,None,None,"{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage."
+Elvish Archers,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Archer']",Rare,ITP,2,1,None,First strike
+Elven Riders,5.0,['Green'],['G'],None,['Creature'],['Elf'],Uncommon,ITP,3,3,None,Elven Riders can't be blocked except by Walls and/or creatures with flying.
+Alabaster Potion,2.0,['White'],['W'],None,['Instant'],None,Common,ITP,None,None,None,Choose one —\n• Target player gains X life.\n• Prevent the next X damage that would be dealt to any target this turn.
+Durkwood Boars,5.0,['Green'],['G'],None,['Creature'],['Boar'],Common,ITP,4,4,None,None
+Pearled Unicorn,3.0,['White'],['W'],None,['Creature'],['Unicorn'],Common,ITP,2,2,None,None
+Pyrotechnics,5.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,ITP,None,None,None,Pyrotechnics deals 4 damage divided as you choose among any number of targets.
+Mesa Pegasus,2.0,['White'],['W'],None,['Creature'],['Pegasus'],Common,ITP,1,1,None,"Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
+Orcish Oriflamme,4.0,['Red'],['R'],None,['Enchantment'],None,Uncommon,ITP,None,None,None,Attacking creatures you control get +1/+0.
+Healing Salve,1.0,['White'],['W'],None,['Instant'],None,Common,ITP,None,None,None,Choose one —\n• Target player gains 3 life.\n• Prevent the next 3 damage that would be dealt to any target this turn.
+Orcish Artillery,3.0,['Red'],['R'],None,['Creature'],"['Orc', 'Warrior']",Uncommon,ITP,1,3,None,{T}: Orcish Artillery deals 2 damage to any target and 3 damage to you.
+Mons's Goblin Raiders,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,ITP,1,1,None,None

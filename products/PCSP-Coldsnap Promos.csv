@@ -1,0 +1,2 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Allosaurus Rider,7.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Rare,PCSP,1+*,1+*,None,You may exile two green cards from your hand rather than pay this spell's mana cost.\nAllosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.

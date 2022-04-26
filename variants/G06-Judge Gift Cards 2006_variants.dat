@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 6.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: set()
+Types: {'Enchantment', 'Creature'}
+Subtypes: {'Angel', 'Wizard', 'Human'}
+Rarity: {'Rare'}
+Power: {'4', '2', '1'}
+Toughness: {'2', '5', '1'}
+Loyalty: set()

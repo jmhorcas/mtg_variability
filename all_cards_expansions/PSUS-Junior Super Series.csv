@@ -1,0 +1,19 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Slith Firewalker,2.0,['Red'],['R'],None,['Creature'],['Slith'],Rare,PSUS,1,1,None,"Haste\nWhenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it."
+Shard Phoenix,5.0,['Red'],['R'],None,['Creature'],['Phoenix'],Rare,PSUS,2,2,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\nSacrifice Shard Phoenix: It deals 2 damage to each creature without flying.\n{R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate only during your upkeep.
+Sakura-Tribe Elder,2.0,['Green'],['G'],None,['Creature'],"['Snake', 'Shaman']",Rare,PSUS,1,1,None,"Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+Two-Headed Dragon,6.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,PSUS,4,4,None,Flying\nMenace (This creature can't be blocked except by two or more creatures.)\nTwo-Headed Dragon can block an additional creature each combat.\n{1}{R}: Two-Headed Dragon gets +2/+0 until end of turn.
+Elvish Lyrist,1.0,['Green'],['G'],None,['Creature'],['Elf'],Rare,PSUS,1,1,None,"{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment."
+Serra Avatar,7.0,['White'],['W'],None,['Creature'],['Avatar'],Rare,PSUS,*,*,None,"Serra Avatar's power and toughness are each equal to your life total.\nWhen Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library."
+Giant Growth,1.0,['Green'],['G'],None,['Instant'],None,Rare,PSUS,None,None,None,Target creature gets +3/+3 until end of turn.
+Soltari Priest,2.0,['White'],['W'],None,['Creature'],"['Soltari', 'Cleric']",Rare,PSUS,2,1,None,Protection from red\nShadow (This creature can block or be blocked by only creatures with shadow.)
+Mad Auntie,3.0,['Black'],['B'],None,['Creature'],"['Goblin', 'Shaman']",Rare,PSUS,2,2,None,Other Goblin creatures you control get +1/+1.\n{T}: Regenerate another target Goblin.
+Crusade,2.0,['White'],['W'],None,['Enchantment'],None,Rare,PSUS,None,None,None,White creatures get +1/+1.
+Royal Assassin,3.0,['Black'],['B'],None,['Creature'],"['Human', 'Assassin']",Rare,PSUS,1,1,None,{T}: Destroy target tapped creature.
+Glorious Anthem,3.0,['White'],['W'],None,['Enchantment'],None,Rare,PSUS,None,None,None,Creatures you control get +1/+1.
+Volcanic Hammer,2.0,['Red'],['R'],None,['Sorcery'],None,Rare,PSUS,None,None,None,Volcanic Hammer deals 3 damage to any target.
+Lord of Atlantis,2.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Rare,PSUS,2,2,None,Other Merfolk get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)
+Elvish Champion,3.0,['Green'],['G'],None,['Creature'],['Elf'],Rare,PSUS,2,2,None,Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.)
+Thran Quarry,0.0,None,None,None,['Land'],None,Rare,PSUS,None,None,None,"At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry.\n{T}: Add one mana of any color."
+City of Brass,0.0,None,None,None,['Land'],None,Rare,PSUS,None,None,None,"Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
+Whirling Dervish,2.0,['Green'],['G'],None,['Creature'],"['Human', 'Monk']",Rare,PSUS,1,1,None,"Protection from black\nAt the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it."

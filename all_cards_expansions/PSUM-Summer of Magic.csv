@@ -1,0 +1,3 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Faerie Conclave,0.0,None,['U'],None,['Land'],None,Rare,PSUM,None,None,None,Faerie Conclave enters the battlefield tapped.\n{T}: Add {U}.\n{1}{U}: Faerie Conclave becomes a 2/1 blue Faerie creature with flying until end of turn. It's still a land.
+Treetop Village,0.0,None,['G'],None,['Land'],None,Rare,PSUM,None,None,None,Treetop Village enters the battlefield tapped.\n{T}: Add {G}.\n{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (It can deal excess combat damage to the player or planeswalker it's attacking.)

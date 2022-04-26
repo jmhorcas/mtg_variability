@@ -1,0 +1,10 @@
+CMC: set()
+Colors: set()
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: set()
+Types: {'Phenomenon', 'Plane'}
+Subtypes: {'Kaldheim', 'Ulgrotha', 'Bolas’s Meditation Realm', 'Serra’s Realm', 'Valla', 'Arkhos', 'Iquatana', 'Pyrulea', 'Xerex', 'Shadowmoor', 'Mirrodin', 'Fabacin', 'Segovia', 'Kamigawa', 'New Phyrexia', 'Wildfire', 'Belenon', 'Regatha', 'Phyrexia', 'Luvion', 'Kyneth', 'Innistrad', 'Rath', 'Kephalai', 'Kinshala', 'Zendikar', 'Alara', 'Vryn', 'Muraganda', 'Mongseng', 'Rabiah', 'Azgol', 'Moag', 'Kolbahan', 'Mercadia', 'Ir', 'Dominaria', 'Equilor', 'Karsus', 'Ravnica', 'Lorwyn', 'Shandalar', 'Ergamon'}
+Rarity: {'Common'}
+Power: set()
+Toughness: set()
+Loyalty: set()

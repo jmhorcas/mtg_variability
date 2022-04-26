@@ -1,0 +1,7 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Mana Leak,2.0,['Blue'],['U'],None,['Instant'],None,Rare,P05,None,None,None,Counter target spell unless its controller pays {3}.
+Psychatog,3.0,"['Black', 'Blue']","['B', 'U']",None,['Creature'],['Atog'],Rare,P05,1,2,None,Discard a card: Psychatog gets +1/+1 until end of turn.\nExile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.
+Reciprocate,1.0,['White'],['W'],None,['Instant'],None,Rare,P05,None,None,None,Exile target creature that dealt damage to you this turn.
+Oxidize,1.0,['Green'],['G'],None,['Instant'],None,Rare,P05,None,None,None,Destroy target artifact. It can't be regenerated.
+Fireball,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,P05,None,None,None,"This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets."
+Terror,2.0,['Black'],['B'],None,['Instant'],None,Rare,P05,None,None,None,"Destroy target nonartifact, nonblack creature. It can't be regenerated."

@@ -1,0 +1,2 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Rathi Assassin,4.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie', 'Mercenary', 'Assassin']",Rare,PNEM,2,2,None,"{1}{B}{B}, {T}: Destroy target tapped nonblack creature.\n{3}, {T}: Search your library for a Mercenary permanent card with mana value 3 or less, put it onto the battlefield, then shuffle."

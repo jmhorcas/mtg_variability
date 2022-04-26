@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+High Tide,1.0,['Blue'],['U'],None,['Instant'],None,Rare,PI13,None,None,None,"Until end of turn, whenever a player taps an Island for mana, that player adds an additional {U}."
+Ogre Arsonist,5.0,['Red'],['R'],None,['Creature'],['Ogre'],Rare,PI13,3,3,None,"When Ogre Arsonist enters the battlefield, destroy target land."
+Corrupt,6.0,['Black'],['B'],None,['Sorcery'],None,Rare,PI13,None,None,None,Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.
+Gaze of Granite,3.0,"['Black', 'Green']","['B', 'G']",None,['Sorcery'],None,Rare,PI13,None,None,None,Destroy each nonland permanent with mana value X or less.
+Voidmage Husher,4.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Rare,PI13,2,2,None,"Flash (You may cast this spell any time you could cast an instant.)\nWhen Voidmage Husher enters the battlefield, counter target activated ability. (Mana abilities can't be targeted.)\nWhenever you cast a spell, you may return Voidmage Husher to its owner's hand."

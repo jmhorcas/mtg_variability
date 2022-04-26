@@ -1,0 +1,10 @@
+CMC: {3.0, 6.0}
+Colors: {'Red', 'Green'}
+ColorIdentity: {'U', 'G', 'R'}
+Supertypes: {'Legendary'}
+Types: {'Land', 'Creature', 'Artifact'}
+Subtypes: {'Wizard', 'Vehicle', 'Treefolk', 'Lair'}
+Rarity: {'Mythic'}
+Power: {'6', '5'}
+Toughness: {'3', '6'}
+Loyalty: set()

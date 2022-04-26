@@ -1,0 +1,10 @@
+CMC: {2.0, 4.0, 7.0}
+Colors: {'White', 'Black', 'Green'}
+ColorIdentity: {'W', 'G', 'B'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Vampire', 'Hydra', 'Avatar'}
+Rarity: {'Mythic'}
+Power: {'3', '0', '*'}
+Toughness: {'3', '0', '*'}
+Loyalty: set()

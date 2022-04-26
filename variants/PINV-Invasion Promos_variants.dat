@@ -1,0 +1,10 @@
+CMC: {3.0}
+Colors: {'Red', 'Green'}
+ColorIdentity: {'R', 'G'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Kavu'}
+Rarity: {'Rare'}
+Power: {'3'}
+Toughness: {'1'}
+Loyalty: set()

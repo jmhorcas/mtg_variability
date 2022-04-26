@@ -1,0 +1,13 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Goblin Warchief,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Rare,F06,2,2,None,Goblin spells you cast cost {1} less to cast.\nGoblins you control have haste.
+Lobotomy,4.0,"['Black', 'Blue']","['B', 'U']",None,['Sorcery'],None,Rare,F06,None,None,None,"Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles."
+Life // Death,3.0,['Black'],"['B', 'G']",None,['Sorcery'],None,Rare,F06,None,None,None,Return target creature card from your graveyard to the battlefield. You lose life equal to its mana value.
+Elves of Deep Shadow,1.0,['Green'],"['B', 'G']",None,['Creature'],"['Elf', 'Druid']",Rare,F06,1,1,None,{T}: Add {B}. Elves of Deep Shadow deals 1 damage to you.
+Astral Slide,3.0,['White'],['W'],None,['Enchantment'],None,Rare,F06,None,None,None,"Whenever a player cycles a card, you may exile target creature. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step."
+Armadillo Cloak,3.0,"['Green', 'White']","['G', 'W']",None,['Enchantment'],['Aura'],Rare,F06,None,None,None,"Enchant creature\nEnchanted creature gets +2/+2 and has trample.\nWhenever enchanted creature deals damage, you gain that much life."
+Fire // Ice,4.0,['Blue'],"['R', 'U']",None,['Instant'],None,Rare,F06,None,None,None,Tap target permanent.\nDraw a card.
+Circular Logic,3.0,['Blue'],['U'],None,['Instant'],None,Rare,F06,None,None,None,"Counter target spell unless its controller pays {1} for each card in your graveyard.\nMadness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+Chainer's Edict,2.0,['Black'],['B'],None,['Sorcery'],None,Rare,F06,None,None,None,Target player sacrifices a creature.\nFlashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Terminate,2.0,"['Black', 'Red']","['B', 'R']",None,['Instant'],None,Rare,F06,None,None,None,Destroy target creature. It can't be regenerated.
+Arrogant Wurm,5.0,['Green'],['G'],None,['Creature'],['Wurm'],Rare,F06,4,4,None,"Trample\nMadness {2}{G} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+Wild Mongrel,2.0,['Green'],['G'],None,['Creature'],['Dog'],Rare,F06,2,2,None,Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.

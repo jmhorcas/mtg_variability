@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 8.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Druid', 'Ooze', 'Scout', 'Wrenn', 'Zombie', 'Vampire', 'Horror', 'Dragon', 'Equipment', 'Construct', 'Angel', 'Demon', 'Curse', 'Wolf', 'Arlinn', 'Knight', 'Human', 'Leech', 'Noble', 'Treefolk', 'Spirit', 'Warrior', 'Soldier', 'Phoenix', 'Wizard', 'Warlock', 'Werewolf', 'Teferi', 'Aura'}
+Rarity: {'Rare', 'Mythic'}
+Power: {'4', '7', '5', '*', '1', '2', '3', '6'}
+Toughness: {'4', '7', '5', '1', '*', '2', '*+1', '3', '6'}
+Loyalty: {'4', '5'}

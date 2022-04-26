@@ -1,0 +1,4 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Duress,1.0,['Black'],['B'],None,['Sorcery'],None,Rare,PI14,None,None,None,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+Acquire,5.0,['Blue'],['U'],None,['Sorcery'],None,Rare,PI14,None,None,None,Search target opponent's library for an artifact card and put that card onto the battlefield under your control. Then that player shuffles.
+Wash Out,4.0,['Blue'],['U'],None,['Sorcery'],None,Rare,PI14,None,None,None,Return all permanents of the color of your choice to their owners' hands.

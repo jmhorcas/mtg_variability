@@ -1,0 +1,351 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Dwarven Strike Force,5.0,['Red'],['R'],None,['Creature'],"['Dwarf', 'Berserker']",Uncommon,ODY,4,3,None,Discard a card at random: Dwarven Strike Force gains first strike and haste until end of turn.
+Dwarven Shrine,3.0,['Red'],['R'],None,['Enchantment'],None,Rare,ODY,None,None,None,"Whenever a player casts a spell, Dwarven Shrine deals X damage to that player, where X is twice the number of cards in all graveyards with the same name as that spell."
+Dwarven Recruiter,3.0,['Red'],['R'],None,['Creature'],['Dwarf'],Uncommon,ODY,2,2,None,"When Dwarven Recruiter enters the battlefield, search your library for any number of Dwarf cards, reveal them, then shuffle and put those cards on top in any order."
+Dwarven Grunt,1.0,['Red'],['R'],None,['Creature'],['Dwarf'],Common,ODY,1,1,None,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+Demoralize,3.0,['Red'],['R'],None,['Instant'],None,Common,ODY,None,None,None,"All creatures gain menace until end of turn. (They can't be blocked except by two or more creatures.)\nThreshold — If seven or more cards are in your graveyard, creatures can't block this turn."
+Demolish,4.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,Destroy target artifact or land.
+Chance Encounter,4.0,['Red'],['R'],None,['Enchantment'],None,Rare,ODY,None,None,None,"Whenever you win a coin flip, put a luck counter on Chance Encounter.\nAt the beginning of your upkeep, if Chance Encounter has ten or more luck counters on it, you win the game."
+Chainflinger,4.0,['Red'],['R'],None,['Creature'],['Beast'],Common,ODY,2,2,None,"{1}{R}, {T}: Chainflinger deals 1 damage to any target.\nThreshold — {2}{R}, {T}: Chainflinger deals 2 damage to any target. Activate only if seven or more cards are in your graveyard."
+Burning Sands,5.0,['Red'],['R'],None,['Enchantment'],None,Rare,ODY,None,None,None,"Whenever a creature dies, that creature's controller sacrifices a land."
+Bomb Squad,4.0,['Red'],['R'],None,['Creature'],['Dwarf'],Rare,ODY,1,1,None,"{T}: Put a fuse counter on target creature.\nAt the beginning of your upkeep, put a fuse counter on each creature with a fuse counter on it.\nWhenever a creature has four or more fuse counters on it, remove all fuse counters from it and destroy it. That creature deals 4 damage to its controller."
+Blazing Salvo,1.0,['Red'],['R'],None,['Instant'],None,Common,ODY,None,None,None,Blazing Salvo deals 3 damage to target creature unless that creature's controller has Blazing Salvo deal 5 damage to them.
+Battle Strain,2.0,['Red'],['R'],None,['Enchantment'],None,Uncommon,ODY,None,None,None,"Whenever a creature blocks, Battle Strain deals 1 damage to that creature's controller."
+Bash to Bits,4.0,['Red'],['R'],None,['Instant'],None,Uncommon,ODY,None,None,None,Destroy target artifact.\nFlashback {4}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Barbarian Lunatic,3.0,['Red'],['R'],None,['Creature'],"['Human', 'Barbarian']",Common,ODY,2,1,None,"{2}{R}, Sacrifice Barbarian Lunatic: It deals 2 damage to target creature."
+Ashen Firebeast,8.0,['Red'],['R'],None,['Creature'],"['Elemental', 'Beast']",Rare,ODY,6,6,None,{1}{R}: Ashen Firebeast deals 1 damage to each creature without flying.
+Anarchist,5.0,['Red'],['R'],None,['Creature'],"['Human', 'Wizard']",Common,ODY,2,2,None,"When Anarchist enters the battlefield, you may return target sorcery card from your graveyard to your hand."
+Acceptable Losses,4.0,['Red'],['R'],None,['Sorcery'],None,Common,ODY,None,None,None,"As an additional cost to cast this spell, discard a card at random.\nAcceptable Losses deals 5 damage to target creature."
+Zombify,4.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,Return target creature card from your graveyard to the battlefield.
+Zombie Infestation,2.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,ODY,None,None,None,Discard two cards: Create a 2/2 black Zombie creature token.
+Zombie Cannibal,1.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,ODY,1,1,None,"Whenever Zombie Cannibal deals combat damage to a player, you may exile target card from that player's graveyard."
+Zombie Assassin,5.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Assassin']",Common,ODY,3,2,None,"{T}, Exile two cards from your graveyard and Zombie Assassin: Destroy target nonblack creature. It can't be regenerated."
+Whispering Shade,4.0,['Black'],['B'],None,['Creature'],['Shade'],Common,ODY,1,1,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\n{B}: Whispering Shade gets +1/+1 until end of turn.
+Traveling Plague,5.0,['Black'],['B'],None,['Enchantment'],['Aura'],Rare,ODY,None,None,None,"Enchant creature\nAt the beginning of each upkeep, put a plague counter on Traveling Plague.\nEnchanted creature gets -1/-1 for each plague counter on Traveling Plague.\nWhen enchanted creature leaves the battlefield, that creature's controller returns Traveling Plague from its owner's graveyard to the battlefield."
+Tombfire,1.0,['Black'],['B'],None,['Sorcery'],None,Rare,ODY,None,None,None,Target player exiles all cards with flashback from their graveyard.
+Tainted Pact,2.0,['Black'],['B'],None,['Instant'],None,Rare,ODY,None,None,None,"Exile the top card of your library. You may put that card into your hand unless it has the same name as another card exiled this way. Repeat this process until you put a card into your hand or you exile two cards with the same name, whichever comes first."
+Stalking Bloodsucker,6.0,['Black'],['B'],None,['Creature'],['Vampire'],Rare,ODY,4,4,None,"Flying\n{1}{B}, Discard a card: Stalking Bloodsucker gets +2/+2 until end of turn."
+Skull Fracture,1.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,Target player discards a card.\nFlashback {3}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Skeletal Scrying,1.0,['Black'],['B'],None,['Instant'],None,Uncommon,ODY,None,None,None,"As an additional cost to cast this spell, exile X cards from your graveyard.\nYou draw X cards and you lose X life."
+Screams of the Damned,5.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,ODY,None,None,None,"{1}{B}, Exile a card from your graveyard: Screams of the Damned deals 1 damage to each creature and each player."
+Sadistic Hypnotist,5.0,['Black'],['B'],None,['Creature'],"['Human', 'Minion']",Uncommon,ODY,2,2,None,Sacrifice a creature: Target player discards two cards. Activate only as a sorcery.
+Rotting Giant,2.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Giant']",Uncommon,ODY,3,3,None,"Whenever Rotting Giant attacks or blocks, sacrifice it unless you exile a card from your graveyard."
+Repentant Vampire,5.0,['Black'],['B'],None,['Creature'],['Vampire'],Rare,ODY,3,3,None,"Flying\nWhenever a creature dealt damage by Repentant Vampire this turn dies, put a +1/+1 counter on Repentant Vampire.\nThreshold — As long as seven or more cards are in your graveyard, Repentant Vampire is white and has ""{T}: Destroy target black creature."""
+Patriarch's Desire,4.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,ODY,None,None,None,Enchant creature\nEnchanted creature gets +2/-2.\nThreshold — Enchanted creature gets an additional +2/-2 as long as seven or more cards are in your graveyard.
+Painbringer,4.0,['Black'],['B'],None,['Creature'],"['Human', 'Minion']",Uncommon,ODY,1,1,None,"{T}, Exile any number of cards from your graveyard: Target creature gets -X/-X until end of turn, where X is the number of cards exiled this way."
+Overeager Apprentice,3.0,['Black'],['B'],None,['Creature'],"['Human', 'Minion']",Common,ODY,1,2,None,"Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B}."
+Nefarious Lich,4.0,['Black'],['B'],None,['Enchantment'],None,Rare,ODY,None,None,None,"If damage would be dealt to you, exile that many cards from your graveyard instead. If you can't, you lose the game.\nIf you would gain life, draw that many cards instead.\nWhen Nefarious Lich leaves the battlefield, you lose the game."
+Mortivore,4.0,['Black'],['B'],None,['Creature'],['Lhurgoyf'],Rare,ODY,*,*,None,Mortivore's power and toughness are each equal to the number of creature cards in all graveyards.\n{B}: Regenerate Mortivore.
+Morgue Theft,2.0,['Black'],['B'],None,['Sorcery'],None,Common,ODY,None,None,None,Return target creature card from your graveyard to your hand.\nFlashback {4}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Morbid Hunger,6.0,['Black'],['B'],None,['Sorcery'],None,Common,ODY,None,None,None,Morbid Hunger deals 3 damage to any target. You gain 3 life.\nFlashback {7}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Mindslicer,4.0,['Black'],['B'],None,['Creature'],['Horror'],Rare,ODY,4,3,None,"When Mindslicer dies, each player discards their hand."
+Mind Burst,2.0,['Black'],['B'],None,['Sorcery'],None,Common,ODY,None,None,None,"Target player discards X cards, where X is one plus the number of cards named Mind Burst in all graveyards."
+Earth Rift,4.0,['Red'],['R'],None,['Sorcery'],None,Common,ODY,None,None,None,Destroy target land.\nFlashback {5}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Malevolent Awakening,3.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,ODY,None,None,None,"{1}{B}{B}, Sacrifice a creature: Return target creature card from your graveyard to your hand."
+Last Rites,3.0,['Black'],['B'],None,['Sorcery'],None,Common,ODY,None,None,None,"Discard any number of cards. Target player reveals their hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards."
+Decompose,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,Exile up to three target cards from a single graveyard.
+Hint of Insanity,3.0,['Black'],['B'],None,['Sorcery'],None,Rare,ODY,None,None,None,Target player reveals their hand. That player discards all nonland cards with the same name as another card in their hand.
+Innocent Blood,1.0,['Black'],['B'],None,['Sorcery'],None,Common,ODY,None,None,None,Each player sacrifices a creature.
+Infected Vermin,3.0,['Black'],['B'],None,['Creature'],['Rat'],Uncommon,ODY,1,1,None,{2}{B}: Infected Vermin deals 1 damage to each creature and each player.\nThreshold — {3}{B}: Infected Vermin deals 3 damage to each creature and each player. Activate only if seven or more cards are in your graveyard.
+Haunting Echoes,5.0,['Black'],['B'],None,['Sorcery'],None,Rare,ODY,None,None,None,"Exile all cards from target player's graveyard other than basic land cards. For each card exiled this way, search that player's library for all cards with the same name as that card and exile them. Then that player shuffles."
+Halberdier,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Barbarian']",Common,ODY,3,1,None,First strike
+Frenetic Ogre,5.0,['Red'],['R'],None,['Creature'],['Ogre'],Uncommon,ODY,2,3,None,"{R}, Discard a card at random: Frenetic Ogre gets +3/+0 until end of turn."
+Flame Burst,2.0,['Red'],['R'],None,['Instant'],None,Common,ODY,None,None,None,"Flame Burst deals X damage to any target, where X is 2 plus the number of cards named Flame Burst in all graveyards."
+Firebolt,1.0,['Red'],['R'],None,['Sorcery'],None,Common,ODY,None,None,None,Firebolt deals 2 damage to any target.\nFlashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Epicenter,5.0,['Red'],['R'],None,['Sorcery'],None,Rare,ODY,None,None,None,Target player sacrifices a land.\nThreshold — Each player sacrifices all lands they control instead if seven or more cards are in your graveyard.
+Gravestorm,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,ODY,None,None,None,"At the beginning of your upkeep, target opponent may exile a card from their graveyard. If that player doesn't, you may draw a card."
+Gravedigger,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,ODY,2,2,None,"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand."
+Engulfing Flames,1.0,['Red'],['R'],None,['Instant'],None,Uncommon,ODY,None,None,None,Engulfing Flames deals 1 damage to target creature. It can't be regenerated this turn.\nFlashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Ember Beast,3.0,['Red'],['R'],None,['Creature'],['Beast'],Common,ODY,3,4,None,Ember Beast can't attack or block alone.
+Frightcrawler,2.0,['Black'],['B'],None,['Creature'],['Horror'],Common,ODY,1,1,None,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nThreshold — As long as seven or more cards are in your graveyard, Frightcrawler gets +2/+2 and can't block."
+Ghastly Demise,1.0,['Black'],['B'],None,['Instant'],None,Common,ODY,None,None,None,Destroy target nonblack creature if its toughness is less than or equal to the number of cards in your graveyard.
+Fledgling Imp,3.0,['Black'],['B'],None,['Creature'],['Imp'],Common,ODY,2,2,None,"{B}, Discard a card: Fledgling Imp gains flying until end of turn."
+Filthy Cur,2.0,['Black'],['B'],None,['Creature'],['Dog'],Common,ODY,2,2,None,"Whenever Filthy Cur is dealt damage, you lose that much life."
+Famished Ghoul,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Uncommon,ODY,3,2,None,"{1}{B}, Sacrifice Famished Ghoul: Exile up to two target cards from a single graveyard."
+Face of Fear,6.0,['Black'],['B'],None,['Creature'],['Horror'],Uncommon,ODY,3,4,None,"{2}{B}, Discard a card: Face of Fear gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)"
+Execute,3.0,['Black'],['B'],None,['Instant'],None,Uncommon,ODY,None,None,None,Destroy target white creature. It can't be regenerated.\nDraw a card.
+Entomb,1.0,['Black'],['B'],None,['Instant'],None,Rare,ODY,None,None,None,"Search your library for a card, put that card into your graveyard, then shuffle."
+Cabal Patriarch,6.0,['Black'],['B'],['Legendary'],['Creature'],"['Human', 'Wizard']",Rare,ODY,5,5,None,"{2}{B}, Sacrifice a creature: Target creature gets -2/-2 until end of turn.\n{2}{B}, Exile a creature card from your graveyard: Target creature gets -2/-2 until end of turn."
+Dusk Imp,3.0,['Black'],['B'],None,['Creature'],['Imp'],Common,ODY,2,1,None,Flying
+Dirty Wererat,4.0,['Black'],['B'],None,['Creature'],"['Human', 'Rat', 'Minion']",Common,ODY,2,3,None,"{B}, Discard a card: Regenerate Dirty Wererat.\nThreshold — As long as seven or more cards are in your graveyard, Dirty Wererat gets +2/+2 and can't block."
+Diabolic Tutor,4.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,"Search your library for a card, put that card into your hand, then shuffle."
+Decaying Soil,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,ODY,None,None,None,"At the beginning of your upkeep, exile a card from your graveyard.\nThreshold — As long as seven or more cards are in your graveyard, Decaying Soil has ""Whenever a nontoken creature is put into your graveyard from the battlefield, you may pay {1}. If you do, return that card to your hand."""
+Cursed Monstrosity,5.0,['Black'],['B'],None,['Creature'],['Horror'],Rare,ODY,4,3,None,"Flying\nWhenever Cursed Monstrosity becomes the target of a spell or ability, sacrifice it unless you discard a land card."
+Crypt Creeper,2.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,ODY,2,1,None,Sacrifice Crypt Creeper: Exile target card from a graveyard.
+Cabal Inquisitor,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Minion']",Common,ODY,1,1,None,"Threshold — {1}{B}, {T}, Exile two cards from your graveyard: Target player discards a card. Activate only as a sorcery and only if seven or more cards are in your graveyard."
+Coffin Purge,1.0,['Black'],['B'],None,['Instant'],None,Common,ODY,None,None,None,Exile target card from a graveyard.\nFlashback {B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Childhood Horror,4.0,['Black'],['B'],None,['Creature'],['Horror'],Uncommon,ODY,2,2,None,"Flying\nThreshold — As long as seven or more cards are in your graveyard, Childhood Horror gets +2/+2 and can't block."
+Caustic Tar,6.0,['Black'],['B'],None,['Enchantment'],['Aura'],Uncommon,ODY,None,None,None,"Enchant land\nEnchanted land has ""{T}: Target player loses 3 life."""
+Cabal Shrine,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,ODY,None,None,None,"Whenever a player casts a spell, that player discards X cards, where X is the number of cards in all graveyards with the same name as that spell."
+Impulsive Maneuvers,4.0,['Red'],['R'],None,['Enchantment'],None,Rare,ODY,None,None,None,"Whenever a creature attacks, flip a coin. If you win the flip, the next time that creature would deal combat damage this turn, it deals double that damage instead. If you lose the flip, the next time that creature would deal combat damage this turn, prevent that damage."
+Buried Alive,3.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,"Search your library for up to three creature cards, put them into your graveyard, then shuffle."
+"Braids, Cabal Minion",4.0,['Black'],['B'],['Legendary'],['Creature'],"['Human', 'Minion']",Rare,ODY,2,2,None,"At the beginning of each player's upkeep, that player sacrifices an artifact, creature, or land."
+Bloodcurdler,2.0,['Black'],['B'],None,['Creature'],['Horror'],Rare,ODY,1,1,None,"Flying\nAt the beginning of your upkeep, mill a card.\nThreshold — As long as seven or more cards are in your graveyard, Bloodcurdler gets +1/+1 and has ""At the beginning of your end step, exile two cards from your graveyard."""
+Unifying Theory,2.0,['Blue'],['U'],None,['Enchantment'],None,Rare,ODY,None,None,None,"Whenever a player casts a spell, that player may pay {2}. If the player does, they draw a card."
+Words of Wisdom,2.0,['Blue'],['U'],None,['Instant'],None,Common,ODY,None,None,None,"You draw two cards, then each other player draws a card."
+Afflict,3.0,['Black'],['B'],None,['Instant'],None,Common,ODY,None,None,None,Target creature gets -1/-1 until end of turn.\nDraw a card.
+Upheaval,6.0,['Blue'],['U'],None,['Sorcery'],None,Rare,ODY,None,None,None,Return all permanents to their owners' hands.
+Treetop Sentinel,4.0,['Blue'],['U'],None,['Creature'],"['Bird', 'Soldier']",Uncommon,ODY,2,3,None,"Flying, protection from green"
+Sphere of Reason,4.0,['White'],['W'],None,['Enchantment'],None,Uncommon,ODY,None,None,None,"If a blue source would deal damage to you, prevent 2 of that damage."
+Traumatize,5.0,['Blue'],['U'],None,['Sorcery'],None,Rare,ODY,None,None,None,"Target player mills half their library, rounded down."
+Touch of Invisibility,4.0,['Blue'],['U'],None,['Sorcery'],None,Common,ODY,None,None,None,Target creature can't be blocked this turn.\nDraw a card.
+Sphere of Law,4.0,['White'],['W'],None,['Enchantment'],None,Uncommon,ODY,None,None,None,"If a red source would deal damage to you, prevent 2 of that damage."
+Thought Eater,2.0,['Blue'],['U'],None,['Creature'],['Beast'],Uncommon,ODY,2,2,None,Flying\nYour maximum hand size is reduced by three.
+Time Stretch,10.0,['Blue'],['U'],None,['Sorcery'],None,Rare,ODY,None,None,None,Target player takes two extra turns after this one.
+Thought Nibbler,1.0,['Blue'],['U'],None,['Creature'],['Beast'],Common,ODY,1,1,None,Flying\nYour maximum hand size is reduced by two.
+Standstill,2.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,ODY,None,None,None,"When a player casts a spell, sacrifice Standstill. If you do, each of that player's opponents draws three cards."
+Shifty Doppelganger,3.0,['Blue'],['U'],None,['Creature'],['Shapeshifter'],Rare,ODY,1,1,None,"{3}{U}, Exile Shifty Doppelganger: You may put a creature card from your hand onto the battlefield. If you do, that creature gains haste until end of turn. At the beginning of the next end step, sacrifice that creature. If you do, return Shifty Doppelganger to the battlefield."
+Thought Devourer,4.0,['Blue'],['U'],None,['Creature'],['Beast'],Rare,ODY,4,4,None,Flying\nYour maximum hand size is reduced by four.
+Think Tank,3.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,ODY,None,None,None,"At the beginning of your upkeep, look at the top card of your library. You may put that card into your graveyard."
+Syncopate,1.0,['Blue'],['U'],None,['Instant'],None,Common,ODY,None,None,None,"Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
+Scrivener,5.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,ODY,2,2,None,"When Scrivener enters the battlefield, you may return target instant card from your graveyard to your hand."
+Rites of Refusal,2.0,['Blue'],['U'],None,['Instant'],None,Common,ODY,None,None,None,Discard any number of cards. Counter target spell unless its controller pays {3} for each card discarded this way.
+Repel,4.0,['Blue'],['U'],None,['Instant'],None,Common,ODY,None,None,None,Put target creature on top of its owner's library.
+Puppeteer,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Uncommon,ODY,1,2,None,"{U}, {T}: You may tap or untap target creature."
+Pulsating Illusion,5.0,['Blue'],['U'],None,['Creature'],['Illusion'],Uncommon,ODY,0,1,None,Flying\nDiscard a card: Pulsating Illusion gets +4/+4 until end of turn. Activate only once each turn.
+Psionic Gift,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,ODY,None,None,None,"Enchant creature\nEnchanted creature has ""{T}: This creature deals 1 damage to any target."""
+Sphere of Grace,4.0,['White'],['W'],None,['Enchantment'],None,Uncommon,ODY,None,None,None,"If a black source would deal damage to you, prevent 2 of that damage."
+Predict,2.0,['Blue'],['U'],None,['Instant'],None,Uncommon,ODY,None,None,None,"Choose a card name, then target player mills a card. If a card with the chosen name was milled this way, you draw two cards. Otherwise, you draw a card."
+Phantom Whelp,2.0,['Blue'],['U'],None,['Creature'],"['Illusion', 'Dog']",Common,ODY,2,2,None,"When Phantom Whelp attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)"
+Persuasion,5.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Rare,ODY,None,None,None,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nYou control enchanted creature.
+Peek,1.0,['Blue'],['U'],None,['Instant'],None,Common,ODY,None,None,None,Look at target player's hand.\nDraw a card.
+Pedantic Learning,2.0,['Blue'],['U'],None,['Enchantment'],None,Rare,ODY,None,None,None,"Whenever a land card is put into your graveyard from your library, you may pay {1}. If you do, draw a card."
+Patron Wizard,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Rare,ODY,2,2,None,Tap an untapped Wizard you control: Counter target spell unless its controller pays {1}.
+Laquatus's Creativity,5.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,"Target player draws cards equal to the number of cards in their hand, then discards that many cards."
+Immobilizing Ink,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,ODY,None,None,None,"Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.\nEnchanted creature has ""{1}, Discard a card: Untap this creature."""
+Fervent Denial,5.0,['Blue'],['U'],None,['Instant'],None,Uncommon,ODY,None,None,None,Counter target spell.\nFlashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Extract,1.0,['Blue'],['U'],None,['Sorcery'],None,Rare,ODY,None,None,None,Search target player's library for a card and exile it. Then that player shuffles.
+Escape Artist,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,ODY,1,1,None,"Escape Artist can't be blocked.\n{U}, Discard a card: Return Escape Artist to its owner's hand."
+Dreamwinder,4.0,['Blue'],['U'],None,['Creature'],['Serpent'],Common,ODY,4,3,None,"Dreamwinder can't attack unless defending player controls an Island.\n{U}, Sacrifice an Island: Target land becomes an Island until end of turn."
+Divert,1.0,['Blue'],['U'],None,['Instant'],None,Rare,ODY,None,None,None,Change the target of target spell with a single target unless that spell's controller pays {2}.
+Dematerialize,4.0,['Blue'],['U'],None,['Sorcery'],None,Common,ODY,None,None,None,Return target permanent to its owner's hand.\nFlashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Deluge,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,ODY,None,None,None,Tap all creatures without flying.
+Shelter,2.0,['White'],['W'],None,['Instant'],None,Common,ODY,None,None,None,Target creature you control gains protection from the color of your choice until end of turn.\nDraw a card.
+Cultural Exchange,6.0,['Blue'],['U'],None,['Sorcery'],None,Rare,ODY,None,None,None,Choose any number of creatures target player controls. Choose the same number of creatures another target player controls. Those players exchange control of those creatures. (This effect lasts indefinitely.)
+Concentrate,4.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,Draw three cards.
+Cognivore,8.0,['Blue'],['U'],None,['Creature'],['Lhurgoyf'],Rare,ODY,*,*,None,Flying\nCognivore's power and toughness are each equal to the number of instant cards in all graveyards.
+Chamber of Manipulation,4.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,ODY,None,None,None,"Enchant land\nEnchanted land has ""{T}, Discard a card: Gain control of target creature until end of turn."""
+Second Thoughts,5.0,['White'],['W'],None,['Instant'],None,Common,ODY,None,None,None,Exile target attacking creature.\nDraw a card.
+Cephalid Shrine,3.0,['Blue'],['U'],None,['Enchantment'],None,Rare,ODY,None,None,None,"Whenever a player casts a spell, counter that spell unless that player pays {X}, where X is the number of cards in all graveyards with the same name as the spell."
+Cephalid Scout,2.0,['Blue'],['U'],None,['Creature'],"['Cephalid', 'Wizard', 'Scout']",Common,ODY,1,1,None,"Flying\n{2}{U}, Sacrifice a land: Draw a card."
+Cephalid Retainer,4.0,['Blue'],['U'],None,['Creature'],['Cephalid'],Rare,ODY,2,3,None,{U}{U}: Tap target creature without flying.
+Cephalid Looter,3.0,['Blue'],['U'],None,['Creature'],"['Cephalid', 'Rogue']",Common,ODY,2,1,None,"{T}: Target player draws a card, then discards a card."
+Cephalid Broker,4.0,['Blue'],['U'],None,['Creature'],['Cephalid'],Uncommon,ODY,2,2,None,"{T}: Target player draws two cards, then discards two cards."
+Ray of Distortion,4.0,['White'],['W'],None,['Instant'],None,Common,ODY,None,None,None,Destroy target artifact or enchantment.\nFlashback {4}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Careful Study,1.0,['Blue'],['U'],None,['Sorcery'],None,Common,ODY,None,None,None,"Draw two cards, then discard two cards."
+Battle of Wits,5.0,['Blue'],['U'],None,['Enchantment'],None,Rare,ODY,None,None,None,"At the beginning of your upkeep, if you have 200 or more cards in your library, you win the game."
+Bamboozle,3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,Target player reveals the top four cards of their library. You choose two of those cards and put them into that player's graveyard. Put the rest on top of their library in any order.
+Balshan Griffin,5.0,['Blue'],['U'],None,['Creature'],['Griffin'],Uncommon,ODY,3,2,None,"Flying\n{1}{U}, Discard a card: Return Balshan Griffin to its owner's hand."
+Balshan Beguiler,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Uncommon,ODY,1,1,None,"Whenever Balshan Beguiler deals combat damage to a player, that player reveals the top two cards of their library. You choose one of those cards and put it into their graveyard."
+Aven Windreader,5.0,['Blue'],['U'],None,['Creature'],"['Bird', 'Soldier', 'Wizard']",Common,ODY,3,3,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{1}{U}: Target player reveals the top card of their library.
+Aven Smokeweaver,4.0,['Blue'],['U'],None,['Creature'],"['Bird', 'Soldier']",Uncommon,ODY,2,3,None,"Flying, protection from red"
+Aven Fisher,4.0,['Blue'],['U'],None,['Creature'],"['Bird', 'Soldier']",Common,ODY,2,2,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Aven Fisher dies, you may draw a card."
+Aura Graft,2.0,['Blue'],['U'],None,['Instant'],None,Uncommon,ODY,None,None,None,Gain control of target Aura that's attached to a permanent. Attach it to another permanent it can enchant.
+Amugaba,7.0,['Blue'],['U'],None,['Creature'],['Illusion'],Rare,ODY,6,6,None,"Flying\n{2}{U}, Discard a card: Return Amugaba to its owner's hand."
+Pilgrim of Virtue,3.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,ODY,1,3,None,"Protection from black\n{W}, Sacrifice Pilgrim of Virtue: The next time a black source of your choice would deal damage this turn, prevent that damage."
+Aether Burst,2.0,['Blue'],['U'],None,['Instant'],None,Common,ODY,None,None,None,"Return up to X target creatures to their owners' hands, where X is one plus the number of cards named Aether Burst in all graveyards as you cast this spell."
+Aboshan's Desire,1.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,ODY,None,None,None,Enchant creature\nEnchanted creature has flying.\nThreshold — Enchanted creature has shroud as long as seven or more cards are in your graveyard. (It can't be the target of spells or abilities.)
+"Aboshan, Cephalid Emperor",6.0,['Blue'],['U'],['Legendary'],['Creature'],"['Cephalid', 'Noble']",Rare,ODY,3,3,None,Tap an untapped Cephalid you control: Tap target permanent.\n{U}{U}{U}: Tap all creatures without flying.
+Wayward Angel,6.0,['White'],['W'],None,['Creature'],"['Angel', 'Horror']",Rare,ODY,4,4,None,"Flying, vigilance\nThreshold — As long as seven or more cards are in your graveyard, Wayward Angel gets +3/+3, is black, has trample, and has ""At the beginning of your upkeep, sacrifice a creature."""
+Tireless Tribe,1.0,['White'],['W'],None,['Creature'],"['Human', 'Nomad']",Common,ODY,1,1,None,Discard a card: Tireless Tribe gets +0/+4 until end of turn.
+Testament of Faith,1.0,['White'],['W'],None,['Enchantment'],None,Uncommon,ODY,None,None,None,{X}: Testament of Faith becomes an X/X Wall creature with defender in addition to its other types until end of turn.
+Tattoo Ward,3.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,ODY,None,None,None,Enchant creature\nEnchanted creature gets +1/+1 and has protection from enchantments. This effect doesn't remove Tattoo Ward.\nSacrifice Tattoo Ward: Destroy target enchantment.
+Soulcatcher,2.0,['White'],['W'],None,['Creature'],"['Bird', 'Soldier']",Uncommon,ODY,1,1,None,"Flying\nWhenever a creature with flying dies, put a +1/+1 counter on Soulcatcher."
+Sphere of Duty,4.0,['White'],['W'],None,['Enchantment'],None,Uncommon,ODY,None,None,None,"If a green source would deal damage to you, prevent 2 of that damage."
+Sphere of Truth,4.0,['White'],['W'],None,['Enchantment'],None,Uncommon,ODY,None,None,None,"If a white source would deal damage to you, prevent 2 of that damage."
+Sacred Rites,1.0,['White'],['W'],None,['Instant'],None,Common,ODY,None,None,None,Discard any number of cards. Creatures you control get +0/+1 until end of turn for each card discarded this way.
+Resilient Wanderer,4.0,['White'],['W'],None,['Creature'],"['Human', 'Nomad']",Uncommon,ODY,2,3,None,First strike\nDiscard a card: Resilient Wanderer gains protection from the color of your choice until end of turn.
+Pilgrim of Justice,3.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,ODY,1,3,None,"Protection from red\n{W}, Sacrifice Pilgrim of Justice: The next time a red source of your choice would deal damage this turn, prevent that damage."
+Spiritualize,3.0,['White'],['W'],None,['Instant'],None,Uncommon,ODY,None,None,None,"Until end of turn, whenever target creature deals damage, you gain that much life.\nDraw a card."
+Nomad Stadium,0.0,None,['W'],None,['Land'],None,Uncommon,ODY,None,None,None,"{T}: Add {W}. Nomad Stadium deals 1 damage to you.\nThreshold — {W}, {T}, Sacrifice Nomad Stadium: You gain 4 life. Activate only if seven or more cards are in your graveyard."
+Still Life,3.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,ODY,None,None,None,{G}{G}: Still Life becomes a 4/3 Centaur creature in addition to its other types until end of turn.
+Mossfire Valley,0.0,None,"['G', 'R']",None,['Land'],None,Rare,ODY,None,None,None,"{1}, {T}: Add {R}{G}."
+Squirrel Nest,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,ODY,None,None,None,"Enchant land\nEnchanted land has ""{T}: Create a 1/1 green Squirrel creature token."""
+Deserted Temple,0.0,None,None,None,['Land'],None,Rare,ODY,None,None,None,"{T}: Add {C}.\n{1}, {T}: Untap target land."
+Squirrel Mob,3.0,['Green'],['G'],None,['Creature'],['Squirrel'],Rare,ODY,2,2,None,Squirrel Mob gets +1/+1 for each other Squirrel on the battlefield.
+Darkwater Catacombs,0.0,None,"['B', 'U']",None,['Land'],None,Rare,ODY,None,None,None,"{1}, {T}: Add {U}{B}."
+Springing Tiger,4.0,['Green'],['G'],None,['Creature'],['Cat'],Common,ODY,3,3,None,Threshold — Springing Tiger gets +2/+2 as long as seven or more cards are in your graveyard.
+Crystal Quarry,0.0,None,"['B', 'G', 'R', 'U', 'W']",None,['Land'],None,Rare,ODY,None,None,None,"{T}: Add {C}.\n{5}, {T}: Add {W}{U}{B}{R}{G}."
+Spellbane Centaur,3.0,['Green'],['G'],None,['Creature'],['Centaur'],Rare,ODY,3,2,None,Creatures you control can't be the targets of blue spells or abilities from blue sources.
+Cephalid Coliseum,0.0,None,['U'],None,['Land'],None,Uncommon,ODY,None,None,None,"{T}: Add {U}. Cephalid Coliseum deals 1 damage to you.\nThreshold — {U}, {T}, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate only if seven or more cards are in your graveyard."
+Skyshooter,2.0,['Green'],['G'],None,['Creature'],"['Centaur', 'Archer']",Uncommon,ODY,1,2,None,"Reach (This creature can block creatures with flying.)\n{T}, Sacrifice Skyshooter: Destroy target attacking or blocking creature with flying."
+Millikin,2.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Uncommon,ODY,0,1,None,"{T}, Mill a card: Add {C}. (To mill a card, put the top card of your library into your graveyard.)"
+Simplify,1.0,['Green'],['G'],None,['Sorcery'],None,Common,ODY,None,None,None,Each player sacrifices an enchantment.
+Barbarian Ring,0.0,None,['R'],None,['Land'],None,Uncommon,ODY,None,None,None,"{T}: Add {R}. Barbarian Ring deals 1 damage to you.\nThreshold — {R}, {T}, Sacrifice Barbarian Ring: It deals 2 damage to any target. Activate only if seven or more cards are in your graveyard."
+Minotaur Explorer,2.0,['Red'],['R'],None,['Creature'],"['Minotaur', 'Scout']",Uncommon,ODY,3,3,None,"When Minotaur Explorer enters the battlefield, sacrifice it unless you discard a card at random."
+Cabal Pit,0.0,None,['B'],None,['Land'],None,Uncommon,ODY,None,None,None,"{T}: Add {B}. Cabal Pit deals 1 damage to you.\nThreshold — {B}, {T}, Sacrifice Cabal Pit: Target creature gets -2/-2 until end of turn. Activate only if seven or more cards are in your graveyard."
+Seton's Desire,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,ODY,None,None,None,"Enchant creature\nEnchanted creature gets +2/+2.\nThreshold — As long as seven or more cards are in your graveyard, all creatures able to block enchanted creature do so."
+Centaur Garden,0.0,None,['G'],None,['Land'],None,Uncommon,ODY,None,None,None,"{T}: Add {G}. Centaur Garden deals 1 damage to you.\nThreshold — {G}, {T}, Sacrifice Centaur Garden: Target creature gets +3/+3 until end of turn. Activate only if seven or more cards are in your graveyard."
+"Seton, Krosan Protector",3.0,['Green'],['G'],['Legendary'],['Creature'],"['Centaur', 'Druid']",Rare,ODY,2,2,None,Tap an untapped Druid you control: Add {G}.
+Bog Wreckage,0.0,None,['B'],None,['Land'],None,Common,ODY,None,None,None,"Bog Wreckage enters the battlefield tapped.\n{T}: Add {B}.\n{T}, Sacrifice Bog Wreckage: Add one mana of any color."
+Roar of the Wurm,7.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,Create a 6/6 green Wurm creature token.\nFlashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Abandoned Outpost,0.0,None,['W'],None,['Land'],None,Common,ODY,None,None,None,"Abandoned Outpost enters the battlefield tapped.\n{T}: Add {W}.\n{T}, Sacrifice Abandoned Outpost: Add one mana of any color."
+Rites of Spring,2.0,['Green'],['G'],None,['Sorcery'],None,Common,ODY,None,None,None,"Discard any number of cards. Search your library for up to that many basic land cards, reveal them, put them into your hand, then shuffle."
+Sungrass Egg,1.0,None,"['G', 'W']",None,['Artifact'],None,Uncommon,ODY,None,None,None,"{2}, {T}, Sacrifice Sungrass Egg: Add {G}{W}. Draw a card."
+Refresh,3.0,['Green'],['G'],None,['Instant'],None,Common,ODY,None,None,None,Regenerate target creature.\nDraw a card.
+Steamclaw,2.0,None,None,None,['Artifact'],None,Uncommon,ODY,None,None,None,"{3}, {T}: Exile target card from a graveyard.\n{1}, Sacrifice Steamclaw: Exile target card from a graveyard."
+Rabid Elephant,5.0,['Green'],['G'],None,['Creature'],['Elephant'],Common,ODY,3,4,None,"Whenever Rabid Elephant becomes blocked, it gets +2/+2 until end of turn for each creature blocking it."
+Sandstone Deadfall,3.0,None,None,None,['Artifact'],None,Uncommon,ODY,None,None,None,"{T}, Sacrifice two lands and Sandstone Deadfall: Destroy target attacking creature."
+Primal Frenzy,1.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,ODY,None,None,None,Enchant creature\nEnchanted creature has trample.
+Skycloud Egg,1.0,None,"['U', 'W']",None,['Artifact'],None,Uncommon,ODY,None,None,None,"{2}, {T}, Sacrifice Skycloud Egg: Add {W}{U}. Draw a card."
+Piper's Melody,1.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,Shuffle any number of target creature cards from your graveyard into your library.
+Shadowblood Egg,1.0,None,"['B', 'R']",None,['Artifact'],None,Uncommon,ODY,None,None,None,"{2}, {T}, Sacrifice Shadowblood Egg: Add {B}{R}. Draw a card."
+Mine Layer,4.0,['Red'],['R'],None,['Creature'],['Dwarf'],Rare,ODY,1,1,None,"{1}{R}, {T}: Put a mine counter on target land.\nWhenever a land with a mine counter on it becomes tapped, destroy it.\nWhen Mine Layer leaves the battlefield, remove all mine counters from all lands."
+Mirari,5.0,None,None,['Legendary'],['Artifact'],None,Rare,ODY,None,None,None,"Whenever you cast an instant or sorcery spell, you may pay {3}. If you do, copy that spell. You may choose new targets for the copy."
+Overrun,5.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,Creatures you control get +3/+3 and gain trample until end of turn.
+Limestone Golem,6.0,None,None,None,"['Artifact', 'Creature']",['Golem'],Uncommon,ODY,3,4,None,"{2}, Sacrifice Limestone Golem: Target player draws a card."
+Magnivore,4.0,['Red'],['R'],None,['Creature'],['Lhurgoyf'],Rare,ODY,*,*,None,Haste (This creature can attack and {T} as soon as it comes under your control.)\nMagnivore's power and toughness are each equal to the number of sorcery cards in all graveyards.
+Patchwork Gnomes,3.0,None,None,None,"['Artifact', 'Creature']",['Gnome'],Uncommon,ODY,2,1,None,"Discard a card: Regenerate Patchwork Gnomes. (The next time this creature would be destroyed, instead tap it, remove it from combat, and heal all damage on it.)"
+Nut Collector,6.0,['Green'],['G'],None,['Creature'],"['Human', 'Druid']",Rare,ODY,1,1,None,"At the beginning of your upkeep, you may create a 1/1 green Squirrel creature token.\nThreshold — Squirrel creatures get +2/+2 as long as seven or more cards are in your graveyard."
+Otarian Juggernaut,4.0,None,None,None,"['Artifact', 'Creature']",['Juggernaut'],Rare,ODY,2,3,None,"Otarian Juggernaut can't be blocked by Walls.\nThreshold — As long as seven or more cards are in your graveyard, Otarian Juggernaut gets +3/+0 and attacks each combat if able."
+Nimble Mongoose,1.0,['Green'],['G'],None,['Creature'],['Mongoose'],Uncommon,ODY,1,1,None,Shroud (This creature can't be the target of spells or abilities.)\nThreshold — Nimble Mongoose gets +2/+2 as long as seven or more cards are in your graveyard.
+Mossfire Egg,1.0,None,"['G', 'R']",None,['Artifact'],None,Uncommon,ODY,None,None,None,"{2}, {T}, Sacrifice Mossfire Egg: Add {R}{G}. Draw a card."
+New Frontiers,1.0,['Green'],['G'],None,['Sorcery'],None,Rare,ODY,None,None,None,Each player may search their library for up to X basic land cards and put them onto the battlefield tapped. Then each player who searched their library this way shuffles.
+Junk Golem,4.0,None,None,None,"['Artifact', 'Creature']",['Golem'],Rare,ODY,0,0,None,"Junk Golem enters the battlefield with three +1/+1 counters on it.\nAt the beginning of your upkeep, sacrifice Junk Golem unless you remove a +1/+1 counter from it.\n{1}, Discard a card: Put a +1/+1 counter on Junk Golem."
+Nantuko Shrine,3.0,['Green'],['G'],None,['Enchantment'],None,Rare,ODY,None,None,None,"Whenever a player casts a spell, that player creates X 1/1 green Squirrel creature tokens, where X is the number of cards in all graveyards with the same name as that spell."
+Darkwater Egg,1.0,None,"['B', 'U']",None,['Artifact'],None,Uncommon,ODY,None,None,None,"{2}, {T}, Sacrifice Darkwater Egg: Add {U}{B}. Draw a card."
+Nantuko Mentor,3.0,['Green'],['G'],None,['Creature'],"['Insect', 'Druid']",Rare,ODY,1,1,None,"{2}{G}, {T}: Target creature gets +X/+X until end of turn, where X is that creature's power."
+Charmed Pendant,4.0,None,None,None,['Artifact'],None,Rare,ODY,None,None,None,"{T}, Mill a card: For each colored mana symbol in the milled card's mana cost, add one mana of that color. Activate only as an instant. (For example, if the card's mana cost is {3}{U}{U}{B}, you add {U}{U}{B}.)"
+Nantuko Elder,3.0,['Green'],['G'],None,['Creature'],"['Insect', 'Druid']",Uncommon,ODY,1,2,None,{T}: Add {C}{G}.
+Catalyst Stone,2.0,None,None,None,['Artifact'],None,Rare,ODY,None,None,None,Flashback costs you pay cost up to {2} less.\nFlashback costs your opponents pay cost {2} more.
+Nantuko Disciple,4.0,['Green'],['G'],None,['Creature'],"['Insect', 'Druid']",Common,ODY,2,2,None,"{G}, {T}: Target creature gets +2/+2 until end of turn."
+Vampiric Dragon,8.0,"['Black', 'Red']","['B', 'R']",None,['Creature'],"['Vampire', 'Dragon']",Rare,ODY,5,5,None,"Flying\nWhenever a creature dealt damage by Vampiric Dragon this turn dies, put a +1/+1 counter on Vampiric Dragon.\n{1}{R}: Vampiric Dragon deals 1 damage to target creature."
+Muscle Burst,2.0,['Green'],['G'],None,['Instant'],None,Common,ODY,None,None,None,"Target creature gets +X/+X until end of turn, where X is 3 plus the number of cards named Muscle Burst in all graveyards."
+Thaumatog,3.0,"['Green', 'White']","['G', 'W']",None,['Creature'],['Atog'],Uncommon,ODY,1,2,None,Sacrifice a land: Thaumatog gets +1/+1 until end of turn.\nSacrifice an enchantment: Thaumatog gets +1/+1 until end of turn.
+Moment's Peace,2.0,['Green'],['G'],None,['Instant'],None,Common,ODY,None,None,None,Prevent all combat damage that would be dealt this turn.\nFlashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Shadowmage Infiltrator,3.0,"['Black', 'Blue']","['B', 'U']",None,['Creature'],"['Human', 'Wizard']",Rare,ODY,1,3,None,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever Shadowmage Infiltrator deals combat damage to a player, you may draw a card."
+Metamorphic Wurm,5.0,['Green'],['G'],None,['Creature'],"['Elephant', 'Wurm']",Uncommon,ODY,3,3,None,Threshold — Metamorphic Wurm gets +4/+4 as long as seven or more cards are in your graveyard.
+Sarcatog,3.0,"['Black', 'Red']","['B', 'R']",None,['Creature'],['Atog'],Uncommon,ODY,1,2,None,Exile two cards from your graveyard: Sarcatog gets +1/+1 until end of turn.\nSacrifice an artifact: Sarcatog gets +1/+1 until end of turn.
+Leaf Dancer,3.0,['Green'],['G'],None,['Creature'],['Centaur'],Common,ODY,2,2,None,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+Psychatog,3.0,"['Black', 'Blue']","['B', 'U']",None,['Creature'],['Atog'],Uncommon,ODY,1,2,None,Discard a card: Psychatog gets +1/+1 until end of turn.\nExile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.
+Krosan Beast,4.0,['Green'],['G'],None,['Creature'],"['Squirrel', 'Beast']",Rare,ODY,1,1,None,Threshold — Krosan Beast gets +7/+7 as long as seven or more cards are in your graveyard.
+Phantatog,3.0,"['Blue', 'White']","['U', 'W']",None,['Creature'],['Atog'],Uncommon,ODY,1,2,None,Sacrifice an enchantment: Phantatog gets +1/+1 until end of turn.\nDiscard a card: Phantatog gets +1/+1 until end of turn.
+Krosan Avenger,3.0,['Green'],['G'],None,['Creature'],"['Human', 'Druid']",Common,ODY,3,1,None,Trample\nThreshold — {1}{G}: Regenerate Krosan Avenger. Activate only if seven or more cards are in your graveyard.
+Mystic Enforcer,4.0,"['Green', 'White']","['G', 'W']",None,['Creature'],"['Human', 'Nomad', 'Mystic']",Rare,ODY,3,3,None,"Protection from black\nThreshold — As long as seven or more cards are in your graveyard, Mystic Enforcer gets +3/+3 and has flying."
+Krosan Archer,4.0,['Green'],['G'],None,['Creature'],"['Centaur', 'Archer']",Common,ODY,2,3,None,"Reach (This creature can block creatures with flying.)\n{G}, Discard a card: Krosan Archer gets +0/+2 until end of turn."
+Lithatog,3.0,"['Green', 'Red']","['G', 'R']",None,['Creature'],['Atog'],Uncommon,ODY,1,2,None,Sacrifice an artifact: Lithatog gets +1/+1 until end of turn.\nSacrifice a land: Lithatog gets +1/+1 until end of turn.
+Ivy Elemental,1.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,ODY,0,0,None,Ivy Elemental enters the battlefield with X +1/+1 counters on it.
+Iridescent Angel,7.0,"['Blue', 'White']","['U', 'W']",None,['Creature'],['Angel'],Rare,ODY,4,4,None,"Flying, protection from all colors"
+Howling Gale,2.0,['Green'],['G'],None,['Instant'],None,Uncommon,ODY,None,None,None,Howling Gale deals 1 damage to each creature with flying and each player.\nFlashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Decimate,4.0,"['Green', 'Red']","['G', 'R']",None,['Sorcery'],None,Rare,ODY,None,None,None,"Destroy target artifact, target creature, target enchantment, and target land."
+Holistic Wisdom,3.0,['Green'],['G'],None,['Enchantment'],None,Rare,ODY,None,None,None,"{2}, Exile a card from your hand: Return target card from your graveyard to your hand if it shares a card type with the card exiled this way. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)"
+Atogatog,5.0,"['Black', 'Green', 'Red', 'Blue', 'White']","['B', 'G', 'R', 'U', 'W']",['Legendary'],['Creature'],['Atog'],Rare,ODY,5,5,None,"Sacrifice an Atog creature: Atogatog gets +X/+X until end of turn, where X is the sacrificed creature's power."
+Ground Seal,2.0,['Green'],['G'],None,['Enchantment'],None,Rare,ODY,None,None,None,"When Ground Seal enters the battlefield, draw a card.\nCards in graveyards can't be the targets of spells or abilities."
+Zoologist,4.0,['Green'],['G'],None,['Creature'],"['Human', 'Druid']",Rare,ODY,1,2,None,"{3}{G}, {T}: Reveal the top card of your library. If it's a creature card, put it onto the battlefield. Otherwise, put it into your graveyard."
+Gorilla Titan,5.0,['Green'],['G'],None,['Creature'],['Ape'],Uncommon,ODY,4,4,None,Trample\nGorilla Titan gets +4/+4 as long as there are no cards in your graveyard.
+Woodland Druid,1.0,['Green'],['G'],None,['Creature'],"['Human', 'Druid']",Common,ODY,1,2,None,None
+Elephant Ambush,4.0,['Green'],['G'],None,['Instant'],None,Common,ODY,None,None,None,Create a 3/3 green Elephant creature token.\nFlashback {6}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Wild Mongrel,2.0,['Green'],['G'],None,['Creature'],['Dog'],Common,ODY,2,2,None,Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.
+Druid's Call,2.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,ODY,None,None,None,"Enchant creature\nWhenever enchanted creature is dealt damage, its controller creates that many 1/1 green Squirrel creature tokens."
+Werebear,2.0,['Green'],['G'],None,['Creature'],"['Human', 'Bear', 'Druid']",Common,ODY,1,1,None,{T}: Add {G}.\nThreshold — Werebear gets +3/+3 as long as seven or more cards are in your graveyard.
+Druid Lyrist,1.0,['Green'],['G'],None,['Creature'],"['Human', 'Druid']",Common,ODY,1,1,None,"{G}, {T}, Sacrifice Druid Lyrist: Destroy target enchantment."
+Vivify,3.0,['Green'],['G'],None,['Instant'],None,Uncommon,ODY,None,None,None,Target land becomes a 3/3 creature until end of turn. It's still a land.\nDraw a card.
+Diligent Farmhand,1.0,['Green'],['G'],None,['Creature'],"['Human', 'Druid']",Common,ODY,1,1,None,"{1}{G}, Sacrifice Diligent Farmhand: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.\nIf Diligent Farmhand is in a graveyard, effects from spells named Muscle Burst count it as a card named Muscle Burst."
+Verdant Succession,5.0,['Green'],['G'],None,['Enchantment'],None,Rare,ODY,None,None,None,"Whenever a green nontoken creature dies, that creature's controller may search their library for a card with the same name as that creature, put it onto the battlefield, then shuffle."
+Deep Reconnaissance,3.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,"Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.\nFlashback {4}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Twigwalker,3.0,['Green'],['G'],None,['Creature'],['Insect'],Uncommon,ODY,2,2,None,"{1}{G}, Sacrifice Twigwalker: Two target creatures each get +2/+2 until end of turn."
+Crashing Centaur,6.0,['Green'],['G'],None,['Creature'],['Centaur'],Uncommon,ODY,3,4,None,"{G}, Discard a card: Crashing Centaur gains trample until end of turn.\nThreshold — As long as seven or more cards are in your graveyard, Crashing Centaur gets +2/+2 and has shroud. (It can't be the target of spells or abilities.)"
+Chlorophant,3.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,ODY,1,1,None,"At the beginning of your upkeep, you may put a +1/+1 counter on Chlorophant.\nThreshold — As long as seven or more cards are in your graveyard, Chlorophant has ""At the beginning of your upkeep, you may put another +1/+1 counter on Chlorophant."""
+Chatter of the Squirrel,1.0,['Green'],['G'],None,['Sorcery'],None,Common,ODY,None,None,None,Create a 1/1 green Squirrel creature token.\nFlashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Cartographer,3.0,['Green'],['G'],None,['Creature'],['Human'],Common,ODY,2,2,None,"When Cartographer enters the battlefield, you may return target land card from your graveyard to your hand."
+Call of the Herd,3.0,['Green'],['G'],None,['Sorcery'],None,Rare,ODY,None,None,None,Create a 3/3 green Elephant creature token.\nFlashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Seafloor Debris,0.0,None,['U'],None,['Land'],None,Common,ODY,None,None,None,"Seafloor Debris enters the battlefield tapped.\n{T}: Add {U}.\n{T}, Sacrifice Seafloor Debris: Add one mana of any color."
+Beast Attack,5.0,['Green'],['G'],None,['Instant'],None,Uncommon,ODY,None,None,None,Create a 4/4 green Beast creature token.\nFlashback {2}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Ravaged Highlands,0.0,None,['R'],None,['Land'],None,Common,ODY,None,None,None,"Ravaged Highlands enters the battlefield tapped.\n{T}: Add {R}.\n{T}, Sacrifice Ravaged Highlands: Add one mana of any color."
+Bearscape,3.0,['Green'],['G'],None,['Enchantment'],None,Rare,ODY,None,None,None,"{1}{G}, Exile two cards from your graveyard: Create a 2/2 green Bear creature token."
+Petrified Field,0.0,None,None,None,['Land'],None,Rare,ODY,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice Petrified Field: Return target land card from your graveyard to your hand."
+Whipkeeper,4.0,['Red'],['R'],None,['Creature'],['Dwarf'],Uncommon,ODY,1,1,None,{T}: Whipkeeper deals damage to target creature equal to the damage already dealt to it this turn.
+Volley of Boulders,9.0,['Red'],['R'],None,['Sorcery'],None,Rare,ODY,None,None,None,Volley of Boulders deals 6 damage divided as you choose among any number of targets.\nFlashback {R}{R}{R}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Volcanic Spray,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,Volcanic Spray deals 1 damage to each creature without flying and each player.\nFlashback {1}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Tremble,2.0,['Red'],['R'],None,['Sorcery'],None,Common,ODY,None,None,None,Each player sacrifices a land.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,ODY,None,None,None,({T}: Add {G}.)
+Thermal Blast,5.0,['Red'],['R'],None,['Instant'],None,Common,ODY,None,None,None,Thermal Blast deals 3 damage to target creature.\nThreshold — Thermal Blast deals 5 damage instead if seven or more cards are in your graveyard.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,ODY,None,None,None,({T}: Add {G}.)
+Steam Vines,3.0,['Red'],['R'],None,['Enchantment'],['Aura'],Uncommon,ODY,None,None,None,"Enchant land\nWhen enchanted land becomes tapped, destroy it and Steam Vines deals 1 damage to that land's controller. That player attaches Steam Vines to a land of their choice."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,ODY,None,None,None,({T}: Add {G}.)
+Spark Mage,1.0,['Red'],['R'],None,['Creature'],"['Dwarf', 'Wizard']",Uncommon,ODY,1,1,None,"Whenever Spark Mage deals combat damage to a player, you may have Spark Mage deal 1 damage to target creature that player controls."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,ODY,None,None,None,({T}: Add {G}.)
+Shower of Coals,5.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,Shower of Coals deals 2 damage to each of up to three targets.\nThreshold — Shower of Coals deals 4 damage to each of those permanents and/or players instead if seven or more cards are in your graveyard.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,ODY,None,None,None,({T}: Add {R}.)
+Seize the Day,4.0,['Red'],['R'],None,['Sorcery'],None,Rare,ODY,None,None,None,"Untap target creature. After this main phase, there is an additional combat phase followed by an additional main phase.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Terravore,3.0,['Green'],['G'],None,['Creature'],['Lhurgoyf'],Rare,ODY,*,*,None,Trample\nTerravore's power and toughness are each equal to the number of land cards in all graveyards.
+Scorching Missile,4.0,['Red'],['R'],None,['Sorcery'],None,Common,ODY,None,None,None,Scorching Missile deals 4 damage to target player or planeswalker.\nFlashback {9}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,ODY,None,None,None,({T}: Add {R}.)
+Savage Firecat,5.0,['Red'],['R'],None,['Creature'],"['Elemental', 'Cat']",Rare,ODY,0,0,None,"Trample\nSavage Firecat enters the battlefield with seven +1/+1 counters on it.\nWhenever you tap a land for mana, remove a +1/+1 counter from Savage Firecat."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,ODY,None,None,None,({T}: Add {R}.)
+Lava Blister,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,Destroy target nonbasic land unless its controller has Lava Blister deal 6 damage to them.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,ODY,None,None,None,({T}: Add {R}.)
+Rites of Initiation,1.0,['Red'],['R'],None,['Instant'],None,Common,ODY,None,None,None,Discard any number of cards at random. Creatures you control get +1/+0 until end of turn for each card discarded this way.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,ODY,None,None,None,({T}: Add {B}.)
+Mad Dog,2.0,['Red'],['R'],None,['Creature'],['Dog'],Common,ODY,2,2,None,"At the beginning of your end step, if Mad Dog didn't attack or come under your control this turn, sacrifice it."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,ODY,None,None,None,({T}: Add {B}.)
+Pardic Swordsmith,3.0,['Red'],['R'],None,['Creature'],['Dwarf'],Common,ODY,1,1,None,"{R}, Discard a card at random: Pardic Swordsmith gets +2/+0 until end of turn."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,ODY,None,None,None,({T}: Add {B}.)
+Reckless Charge,1.0,['Red'],['R'],None,['Sorcery'],None,Common,ODY,None,None,None,Target creature gets +3/+0 and gains haste until end of turn.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,ODY,None,None,None,({T}: Add {B}.)
+Recoup,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,Target sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (Mana cost includes color.)\nFlashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,ODY,None,None,None,({T}: Add {U}.)
+Price of Glory,3.0,['Red'],['R'],None,['Enchantment'],None,Uncommon,ODY,None,None,None,"Whenever a player taps a land for mana, if it's not that player's turn, destroy that land."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,ODY,None,None,None,({T}: Add {U}.)
+Pardic Miner,2.0,['Red'],['R'],None,['Creature'],['Dwarf'],Rare,ODY,1,1,None,Sacrifice Pardic Miner: Target player can't play lands this turn.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,ODY,None,None,None,({T}: Add {U}.)
+Pardic Firecat,4.0,['Red'],['R'],None,['Creature'],"['Elemental', 'Cat']",Common,ODY,2,3,None,"Haste\nIf Pardic Firecat is in a graveyard, effects from spells named Flame Burst count it as a card named Flame Burst."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,ODY,None,None,None,({T}: Add {U}.)
+Obstinate Familiar,1.0,['Red'],['R'],None,['Creature'],['Lizard'],Rare,ODY,1,1,None,"If you would draw a card, you may skip that draw instead."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,ODY,None,None,None,({T}: Add {W}.)
+Molten Influence,2.0,['Red'],['R'],None,['Instant'],None,Rare,ODY,None,None,None,Counter target instant or sorcery spell unless its controller has Molten Influence deal 4 damage to them.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,ODY,None,None,None,({T}: Add {W}.)
+Need for Speed,1.0,['Red'],['R'],None,['Enchantment'],None,Rare,ODY,None,None,None,Sacrifice a land: Target creature gains haste until end of turn.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,ODY,None,None,None,({T}: Add {W}.)
+Mudhole,3.0,['Red'],['R'],None,['Instant'],None,Rare,ODY,None,None,None,Target player exiles all land cards from their graveyard.
+Sylvan Might,2.0,['Green'],['G'],None,['Instant'],None,Uncommon,ODY,None,None,None,Target creature gets +2/+2 and gains trample until end of turn.\nFlashback {2}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Kamahl's Desire,2.0,['Red'],['R'],None,['Enchantment'],['Aura'],Common,ODY,None,None,None,Enchant creature\nEnchanted creature has first strike.\nThreshold — Enchanted creature gets +3/+0 as long as seven or more cards are in your graveyard.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,ODY,None,None,None,({T}: Add {W}.)
+"Kamahl, Pit Fighter",6.0,['Red'],['R'],['Legendary'],['Creature'],"['Human', 'Barbarian']",Rare,ODY,6,1,None,"Haste (This creature can attack and {T} as soon as it comes under your control.)\n{T}: Kamahl, Pit Fighter deals 3 damage to any target."
+Timberland Ruins,0.0,None,['G'],None,['Land'],None,Common,ODY,None,None,None,"Timberland Ruins enters the battlefield tapped.\n{T}: Add {G}.\n{T}, Sacrifice Timberland Ruins: Add one mana of any color."
+Magma Vein,3.0,['Red'],['R'],None,['Enchantment'],None,Uncommon,ODY,None,None,None,"{R}, Sacrifice a land: Magma Vein deals 1 damage to each creature without flying."
+Tarnished Citadel,0.0,None,None,None,['Land'],None,Rare,ODY,None,None,None,{T}: Add {C}.\n{T}: Add one mana of any color. Tarnished Citadel deals 3 damage to you.
+Liquid Fire,6.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,ODY,None,None,None,"As an additional cost to cast this spell, choose a number between 0 and 5.\nLiquid Fire deals X damage to target creature and 5 minus X damage to that creature's controller, where X is the chosen number."
+Sungrass Prairie,0.0,None,"['G', 'W']",None,['Land'],None,Rare,ODY,None,None,None,"{1}, {T}: Add {G}{W}."
+Skycloud Expanse,0.0,None,"['U', 'W']",None,['Land'],None,Rare,ODY,None,None,None,"{1}, {T}: Add {W}{U}."
+Stone-Tongue Basilisk,7.0,['Green'],['G'],None,['Creature'],['Basilisk'],Rare,ODY,4,5,None,"Whenever Stone-Tongue Basilisk deals combat damage to a creature, destroy that creature at end of combat.\nThreshold — As long as seven or more cards are in your graveyard, all creatures able to block Stone-Tongue Basilisk do so."
+Shadowblood Ridge,0.0,None,"['B', 'R']",None,['Land'],None,Rare,ODY,None,None,None,"{1}, {T}: Add {B}{R}."
+Luminous Guardian,4.0,['White'],['W'],None,['Creature'],"['Human', 'Nomad']",Uncommon,ODY,1,4,None,{W}: Luminous Guardian gets +0/+1 until end of turn.\n{2}: Luminous Guardian can block an additional creature this turn.
+Life Burst,2.0,['White'],['W'],None,['Instant'],None,Common,ODY,None,None,None,"Target player gains 4 life, then gains 4 life for each card named Life Burst in each graveyard."
+Lieutenant Kirtar,3.0,['White'],['W'],['Legendary'],['Creature'],"['Bird', 'Soldier']",Rare,ODY,2,2,None,"Flying\n{1}{W}, Sacrifice Lieutenant Kirtar: Exile target attacking creature."
+Kirtar's Desire,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,ODY,None,None,None,Enchant creature\nEnchanted creature can't attack.\nThreshold — Enchanted creature can't block as long as seven or more cards are in your graveyard.
+Cease-Fire,3.0,['White'],['W'],None,['Instant'],None,Common,ODY,None,None,None,Target player can't cast creature spells this turn.\nDraw a card.
+Graceful Antelope,4.0,['White'],['W'],None,['Creature'],['Antelope'],Rare,ODY,1,4,None,"Plainswalk (This creature can't be blocked as long as defending player controls a Plains.)\nWhenever Graceful Antelope deals combat damage to a player, you may have target land become a Plains until Graceful Antelope leaves the battlefield."
+Hallowed Healer,3.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,ODY,1,1,None,{T}: Prevent the next 2 damage that would be dealt to any target this turn.\nThreshold — {T}: Prevent the next 4 damage that would be dealt to any target this turn. Activate only if seven or more cards are in your graveyard.
+Gallantry,2.0,['White'],['W'],None,['Instant'],None,Uncommon,ODY,None,None,None,Target blocking creature gets +4/+4 until end of turn.\nDraw a card.
+Earnest Fellowship,2.0,['White'],['W'],None,['Enchantment'],None,Rare,ODY,None,None,None,Each creature has protection from its colors.
+Dogged Hunter,3.0,['White'],['W'],None,['Creature'],"['Human', 'Nomad']",Rare,ODY,1,1,None,{T}: Destroy target creature token.
+Ancestral Tribute,7.0,['White'],['W'],None,['Sorcery'],None,Rare,ODY,None,None,None,You gain 2 life for each card in your graveyard.\nFlashback {9}{W}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Devoted Caretaker,1.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Rare,ODY,1,2,None,"{W}, {T}: Target permanent you control gains protection from instant spells and from sorcery spells until end of turn."
+Delaying Shield,4.0,['White'],['W'],None,['Enchantment'],None,Rare,ODY,None,None,None,"If damage would be dealt to you, put that many delay counters on Delaying Shield instead.\nAt the beginning of your upkeep, remove all delay counters from Delaying Shield. For each delay counter removed this way, you lose 1 life unless you pay {1}{W}."
+Nomad Decoy,3.0,['White'],['W'],None,['Creature'],"['Human', 'Nomad']",Uncommon,ODY,1,2,None,"{W}, {T}: Tap target creature.\nThreshold — {W}{W}, {T}: Tap two target creatures. Activate only if seven or more cards are in your graveyard."
+Angelic Wall,2.0,['White'],['W'],None,['Creature'],['Wall'],Common,ODY,0,4,None,Defender (This creature can't attack.)\nFlying
+Cantivore,3.0,['White'],['W'],None,['Creature'],['Lhurgoyf'],Rare,ODY,*,*,None,Vigilance\nCantivore's power and toughness are each equal to the number of enchantment cards in all graveyards.
+Aven Archer,5.0,['White'],['W'],None,['Creature'],"['Bird', 'Soldier', 'Archer']",Uncommon,ODY,2,2,None,"Flying\n{2}{W}, {T}: Aven Archer deals 2 damage to target attacking or blocking creature."
+Aven Flock,5.0,['White'],['W'],None,['Creature'],"['Bird', 'Soldier']",Common,ODY,2,3,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{W}: Aven Flock gets +0/+1 until end of turn.
+Balancing Act,4.0,['White'],['W'],None,['Sorcery'],None,Rare,ODY,None,None,None,"Each player chooses a number of permanents they control equal to the number of permanents controlled by the player who controls the fewest, then sacrifices the rest. Each player discards cards the same way."
+Auramancer,3.0,['White'],['W'],None,['Creature'],"['Human', 'Wizard']",Common,ODY,2,2,None,"When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand."
+Animal Boneyard,3.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,ODY,None,None,None,"Enchant land\nEnchanted land has ""{T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness."""
+Aven Shrine,3.0,['White'],['W'],None,['Enchantment'],None,Rare,ODY,None,None,None,"Whenever a player casts a spell, that player gains X life, where X is the number of cards in all graveyards with the same name as that spell."
+Mystic Crusader,3.0,['White'],['W'],None,['Creature'],"['Human', 'Nomad', 'Mystic']",Rare,ODY,2,1,None,"Protection from black and from red\nThreshold — As long as seven or more cards are in your graveyard, Mystic Crusader gets +1/+1 and has flying."
+Mystic Zealot,4.0,['White'],['W'],None,['Creature'],"['Human', 'Nomad', 'Mystic']",Common,ODY,2,4,None,"Threshold — As long as seven or more cards are in your graveyard, Mystic Zealot gets +1/+1 and has flying."
+"Pianna, Nomad Captain",3.0,['White'],['W'],['Legendary'],['Creature'],"['Human', 'Nomad']",Rare,ODY,2,2,None,"Whenever Pianna, Nomad Captain attacks, attacking creatures get +1/+1 until end of turn."
+Kirtar's Wrath,6.0,['White'],['W'],None,['Sorcery'],None,Rare,ODY,None,None,None,"Destroy all creatures. They can't be regenerated.\nThreshold — If seven or more cards are in your graveyard, instead destroy all creatures, then create two 1/1 white Spirit creature tokens with flying. Creatures destroyed this way can't be regenerated."
+Karmic Justice,3.0,['White'],['W'],None,['Enchantment'],None,Rare,ODY,None,None,None,"Whenever a spell or ability an opponent controls destroys a noncreature permanent you control, you may destroy target permanent that opponent controls."
+Embolden,3.0,['White'],['W'],None,['Instant'],None,Common,ODY,None,None,None,"Prevent the next 4 damage that would be dealt this turn to any number of targets, divided as you choose.\nFlashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Patrol Hound,2.0,['White'],['W'],None,['Creature'],['Dog'],Common,ODY,2,2,None,Discard a card: Patrol Hound gains first strike until end of turn.
+Mystic Penitent,1.0,['White'],['W'],None,['Creature'],"['Human', 'Nomad', 'Mystic']",Uncommon,ODY,1,1,None,"Vigilance\nThreshold — As long as seven or more cards are in your graveyard, Mystic Penitent gets +1/+1 and has flying."
+Divine Sacrament,3.0,['White'],['W'],None,['Enchantment'],None,Rare,ODY,None,None,None,White creatures get +1/+1.\nThreshold — White creatures get an additional +1/+1 as long as seven or more cards are in your graveyard.
+Master Apothecary,3.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Rare,ODY,2,2,None,Tap an untapped Cleric you control: Prevent the next 2 damage that would be dealt to any target this turn.
+Dedicated Martyr,1.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,ODY,1,1,None,"{W}, Sacrifice Dedicated Martyr: You gain 3 life."
+Blessed Orator,4.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Uncommon,ODY,1,4,None,Other creatures you control get +0/+1.
+Confessor,1.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,ODY,1,1,None,"Whenever a player discards a card, you may gain 1 life."
+Beloved Chaplain,2.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Uncommon,ODY,1,1,None,Protection from creatures
+Aven Cloudchaser,4.0,['White'],['W'],None,['Creature'],"['Bird', 'Soldier']",Common,ODY,2,2,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Aven Cloudchaser enters the battlefield, destroy target enchantment."
+Aegis of Honor,1.0,['White'],['W'],None,['Enchantment'],None,Rare,ODY,None,None,None,"{1}: The next time an instant or sorcery spell would deal damage to you this turn, that spell deals that damage to its controller instead."
+Mystic Visionary,2.0,['White'],['W'],None,['Creature'],"['Human', 'Nomad', 'Mystic']",Common,ODY,2,1,None,Threshold — Mystic Visionary has flying as long as seven or more cards are in your graveyard.

@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 10.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
+Subtypes: {'Tibalt', 'Druid', 'Elemental', 'Island', 'Scout', 'Shade', 'Ranger', 'Assassin', 'Zombie', 'Bear', 'Vampire', 'Equipment', 'Horror', 'Mountain', 'Dragon', 'Bat', 'Construct', 'Angel', 'Demon', 'Archer', 'Wolf', 'Boar', 'Knight', 'Human', 'Cleric', 'Devil', 'Dog', 'Beast', 'Plains', 'Spider', 'Drake', 'Treefolk', 'Spirit', 'Griffin', 'Wall', 'Shaman', 'Warrior', 'Swamp', 'Wurm', 'Forest', 'Soldier', 'Skeleton', 'Wizard', 'Rogue', 'Berserker', 'Bird', 'Tamiyo', 'Aura'}
+Rarity: {'Common', 'Rare', 'Uncommon', 'Mythic'}
+Power: {'4', '7', '5', '1', '8', '*', '2', '0', '3', '6'}
+Toughness: {'4', '7', '5', '1', '8', '*', '2', '3', '6'}
+Loyalty: {'4', '2'}

@@ -1,0 +1,170 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Withered Wretch,2.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Cleric']",Uncommon,HOP,2,2,None,{1}: Exile target card from a graveyard.
+Undead Warchief,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Uncommon,HOP,1,1,None,Zombie spells you cast cost {1} less to cast.\nZombie creatures you control get +2/+1.
+Syphon Soul,3.0,['Black'],['B'],None,['Sorcery'],None,Common,HOP,None,None,None,Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.
+Gravedigger,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,HOP,2,2,None,"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand."
+Rotting Rats,2.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Rat']",Common,HOP,1,1,None,"When Rotting Rats enters the battlefield, each player discards a card.\nUnearth {1}{B} ({1}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+Soulless One,4.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Avatar']",Uncommon,HOP,*,*,None,Soulless One's power and toughness are each equal to the number of Zombies on the battlefield plus the number of Zombie cards in all graveyards.
+Syphon Mind,4.0,['Black'],['B'],None,['Sorcery'],None,Common,HOP,None,None,None,Each other player discards a card. You draw a card for each card discarded this way.
+Shepherd of Rot,2.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Cleric']",Common,HOP,1,1,None,{T}: Each player loses 1 life for each Zombie on the battlefield.
+Profane Command,2.0,['Black'],['B'],None,['Sorcery'],None,Rare,HOP,None,None,None,Choose two —\n• Target player loses X life.\n• Return target creature card with mana value X or less from your graveyard to the battlefield.\n• Target creature gets -X/-X until end of turn.\n• Up to X target creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)
+Phyrexian Ghoul,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie']",Common,HOP,2,2,None,Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn.
+Phyrexian Arena,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,HOP,None,None,None,"At the beginning of your upkeep, you draw a card and you lose 1 life."
+Innocent Blood,1.0,['Black'],['B'],None,['Sorcery'],None,Common,HOP,None,None,None,Each player sacrifices a creature.
+Noxious Ghoul,5.0,['Black'],['B'],None,['Creature'],['Zombie'],Uncommon,HOP,3,3,None,"Whenever Noxious Ghoul or another Zombie enters the battlefield, all non-Zombie creatures get -1/-1 until end of turn."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,HOP,None,None,None,({T}: Add {W}.)
+Nefashu,6.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Mutant']",Rare,HOP,5,3,None,"Whenever Nefashu attacks, up to five target creatures each get -1/-1 until end of turn."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,HOP,None,None,None,({T}: Add {W}.)
+Helldozer,6.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Giant']",Rare,HOP,6,5,None,"{B}{B}{B}, {T}: Destroy target land. If that land was nonbasic, untap Helldozer."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,HOP,None,None,None,({T}: Add {W}.)
+Grave Pact,4.0,['Black'],['B'],None,['Enchantment'],None,Rare,HOP,None,None,None,"Whenever a creature you control dies, each other player sacrifices a creature."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,HOP,None,None,None,({T}: Add {W}.)
+Incremental Blight,5.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,HOP,None,None,None,"Put a -1/-1 counter on target creature, two -1/-1 counters on another target creature, and three -1/-1 counters on a third target creature."
+Vault of Whispers,0.0,None,['B'],None,"['Artifact', 'Land']",None,Common,HOP,None,None,None,(Vault of Whispers isn't a spell.)\n{T}: Add {B}.
+Hideous End,3.0,['Black'],['B'],None,['Instant'],None,Common,HOP,None,None,None,Destroy target nonblack creature. Its controller loses 2 life.
+Tree of Tales,0.0,None,['G'],None,"['Artifact', 'Land']",None,Common,HOP,None,None,None,(Tree of Tales isn't a spell.)\n{T}: Add {G}.
+Festering Goblin,1.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Goblin']",Common,HOP,1,1,None,"When Festering Goblin dies, target creature gets -1/-1 until end of turn."
+Terramorphic Expanse,0.0,None,None,None,['Land'],None,Common,HOP,None,None,None,"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+Whiplash Trap,5.0,['Blue'],['U'],None,['Instant'],['Trap'],Common,HOP,None,None,None,"If an opponent had two or more creatures enter the battlefield under their control this turn, you may pay {U} rather than pay this spell's mana cost.\nReturn two target creatures to their owners' hands."
+Seat of the Synod,0.0,None,['U'],None,"['Artifact', 'Land']",None,Common,HOP,None,None,None,(Seat of the Synod isn't a spell.)\n{T}: Add {U}.
+"Sunhome, Fortress of the Legion",0.0,None,"['R', 'W']",None,['Land'],None,Uncommon,HOP,None,None,None,"{T}: Add {C}.\n{2}{R}{W}, {T}: Target creature gains double strike until end of turn."
+Shivan Oasis,0.0,None,"['G', 'R']",None,['Land'],None,Uncommon,HOP,None,None,None,Shivan Oasis enters the battlefield tapped.\n{T}: Add {R} or {G}.
+Dregscape Zombie,2.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,HOP,2,1,None,Unearth {B} ({B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Leechridden Swamp,0.0,None,['B'],None,['Land'],['Swamp'],Uncommon,HOP,None,None,None,"({T}: Add {B}.)\nLeechridden Swamp enters the battlefield tapped.\n{B}, {T}: Each opponent loses 1 life. Activate only if you control two or more black permanents."
+Gruul Turf,0.0,None,"['G', 'R']",None,['Land'],None,Common,HOP,None,None,None,"Gruul Turf enters the battlefield tapped.\nWhen Gruul Turf enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {R}{G}."
+Great Furnace,0.0,None,['R'],None,"['Artifact', 'Land']",None,Common,HOP,None,None,None,{T}: Add {R}.
+Cabal Coffers,0.0,None,['B'],None,['Land'],None,Uncommon,HOP,None,None,None,"{2}, {T}: Add {B} for each Swamp you control."
+Boros Garrison,0.0,None,"['R', 'W']",None,['Land'],None,Common,HOP,None,None,None,"Boros Garrison enters the battlefield tapped.\nWhen Boros Garrison enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {R}{W}."
+Ancient Den,0.0,None,['W'],None,"['Artifact', 'Land']",None,Common,HOP,None,None,None,{T}: Add {W}.
+Wizard Replica,3.0,None,['U'],None,"['Artifact', 'Creature']",['Wizard'],Common,HOP,1,3,None,"Flying\n{U}, Sacrifice Wizard Replica: Counter target spell unless its controller pays {2}."
+Suntouched Myr,3.0,None,None,None,"['Artifact', 'Creature']",['Myr'],Common,HOP,0,0,None,Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)
+Skeleton Shard,3.0,None,['B'],None,['Artifact'],None,Uncommon,HOP,None,None,None,"{3}, {T} or {B}, {T}: Return target artifact creature card from your graveyard to your hand."
+Silver Myr,2.0,None,['U'],None,"['Artifact', 'Creature']",['Myr'],Common,HOP,1,1,None,{T}: Add {U}.
+Death Baron,3.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Wizard']",Rare,HOP,2,2,None,Skeletons you control and other Zombies you control get +1/+1 and have deathtouch.
+Serum Tank,3.0,None,None,None,['Artifact'],None,Uncommon,HOP,None,None,None,"Whenever Serum Tank or another artifact enters the battlefield, put a charge counter on Serum Tank.\n{3}, {T}, Remove a charge counter from Serum Tank: Draw a card."
+Relic of Progenitus,1.0,None,None,None,['Artifact'],None,Common,HOP,None,None,None,"{T}: Target player exiles a card from their graveyard.\n{1}, Exile Relic of Progenitus: Exile all graveyards. Draw a card."
+Dark Ritual,1.0,['Black'],['B'],None,['Instant'],None,Common,HOP,None,None,None,Add {B}{B}{B}.
+Pentavus,7.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Rare,HOP,0,0,None,"Pentavus enters the battlefield with five +1/+1 counters on it.\n{1}, Remove a +1/+1 counter from Pentavus: Create a 1/1 colorless Pentavite artifact creature token with flying.\n{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus."
+Pentad Prism,2.0,None,None,None,['Artifact'],None,Common,HOP,None,None,None,Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)\nRemove a charge counter from Pentad Prism: Add one mana of any color.
+Cruel Revival,5.0,['Black'],['B'],None,['Instant'],None,Common,HOP,None,None,None,Destroy target non-Zombie creature. It can't be regenerated. Return up to one target Zombie card from your graveyard to your hand.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,HOP,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,HOP,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,HOP,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,HOP,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,HOP,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,HOP,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,HOP,None,None,None,({T}: Add {R}.)
+Corpse Harvester,5.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Wizard']",Uncommon,HOP,3,3,None,"{1}{B}, {T}, Sacrifice a creature: Search your library for a Zombie card and a Swamp card, reveal them, put them into your hand, then shuffle."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,HOP,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,HOP,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,HOP,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,HOP,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,HOP,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,HOP,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,HOP,None,None,None,({T}: Add {R}.)
+Consume Spirit,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,HOP,None,None,None,Spend only black mana on X.\nConsume Spirit deals X damage to any target and you gain X life.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,HOP,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,HOP,None,None,None,({T}: Add {B}.)
+Cadaverous Knight,3.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Knight']",Common,HOP,2,2,None,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{1}{B}{B}: Regenerate Cadaverous Knight."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,HOP,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,HOP,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,HOP,None,None,None,({T}: Add {B}.)
+Beseech the Queen,6.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,HOP,None,None,None,"({2/B} can be paid with any two mana or with {B}. This card's mana value is 6.)\nSearch your library for a card with mana value less than or equal to the number of lands you control, reveal it, put it into your hand, then shuffle."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,HOP,None,None,None,({T}: Add {U}.)
+Beacon of Unrest,5.0,['Black'],['B'],None,['Sorcery'],None,Rare,HOP,None,None,None,Put target artifact or creature card from a graveyard onto the battlefield under your control. Shuffle Beacon of Unrest into its owner's library.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,HOP,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,HOP,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,HOP,None,None,None,({T}: Add {U}.)
+Ascendant Evincar,6.0,['Black'],['B'],['Legendary'],['Creature'],"['Phyrexian', 'Vampire', 'Noble']",Rare,HOP,3,3,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\nOther black creatures get +1/+1.\nNonblack creatures get -1/-1.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,HOP,None,None,None,({T}: Add {W}.)
+Vedalken Engineer,2.0,['Blue'],['U'],None,['Creature'],"['Vedalken', 'Artificer']",Common,HOP,1,1,None,{T}: Add two mana of any one color. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+Lodestone Myr,4.0,None,None,None,"['Artifact', 'Creature']",['Myr'],Rare,HOP,2,2,None,Trample\nTap an untapped artifact you control: Lodestone Myr gets +1/+1 until end of turn.
+Leaden Myr,2.0,None,['B'],None,"['Artifact', 'Creature']",['Myr'],Common,HOP,1,1,None,{T}: Add {B}.
+Iron Myr,2.0,None,['R'],None,"['Artifact', 'Creature']",['Myr'],Common,HOP,1,1,None,{T}: Add {R}.
+Hearthfire Hobgoblin,3.0,"['Red', 'White']","['R', 'W']",None,['Creature'],"['Goblin', 'Soldier']",Uncommon,HOP,2,2,None,Double strike
+Master of Etherium,3.0,['Blue'],['U'],None,"['Artifact', 'Creature']","['Vedalken', 'Wizard']",Rare,HOP,*,*,None,Master of Etherium's power and toughness are each equal to the number of artifacts you control.\nOther artifact creatures you control get +1/+1.
+Darksteel Forge,9.0,None,None,None,['Artifact'],None,Rare,HOP,None,None,None,"Artifacts you control have indestructible. (Effects that say ""destroy"" don't destroy them. Artifact creatures with indestructible can't be destroyed by damage.)"
+Congregate,4.0,['White'],['W'],None,['Instant'],None,Common,HOP,None,None,None,Target player gains 2 life for each creature on the battlefield.
+Etched Oracle,4.0,None,None,None,"['Artifact', 'Creature']",['Wizard'],Uncommon,HOP,0,0,None,"Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)\n{1}, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards."
+Orim's Thunder,3.0,['White'],"['R', 'W']",None,['Instant'],None,Common,HOP,None,None,None,"Kicker {R} (You may pay an additional {R} as you cast this spell.)\nDestroy target artifact or enchantment. If this spell was kicked, it deals damage equal to that permanent's mana value to target creature."
+Gold Myr,2.0,None,['W'],None,"['Artifact', 'Creature']",['Myr'],Common,HOP,1,1,None,{T}: Add {W}.
+Door to Nothingness,5.0,None,"['B', 'G', 'R', 'U', 'W']",None,['Artifact'],None,Rare,HOP,None,None,None,"Door to Nothingness enters the battlefield tapped.\n{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice Door to Nothingness: Target player loses the game."
+Broodstar,10.0,['Blue'],['U'],None,['Creature'],['Beast'],Rare,HOP,*,*,None,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying\nBroodstar's power and toughness are each equal to the number of artifacts you control.
+Cranial Plating,2.0,None,['B'],None,['Artifact'],['Equipment'],Common,HOP,None,None,None,Equipped creature gets +1/+0 for each artifact you control.\n{B}{B}: Attach Cranial Plating to target creature you control.\nEquip {1}
+Sarcomite Myr,3.0,['Blue'],['U'],None,"['Artifact', 'Creature']","['Phyrexian', 'Myr']",Common,HOP,2,1,None,"{2}: Sarcomite Myr gains flying until end of turn.\n{2}, Sacrifice Sarcomite Myr: Draw a card."
+Copper Myr,2.0,None,['G'],None,"['Artifact', 'Creature']",['Myr'],Common,HOP,1,1,None,{T}: Add {G}.
+Prison Term,3.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,HOP,None,None,None,"Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated.\nWhenever a creature enters the battlefield under an opponent's control, you may attach Prison Term to that creature."
+"Bosh, Iron Golem",8.0,None,['R'],['Legendary'],"['Artifact', 'Creature']",['Golem'],Rare,HOP,6,7,None,"Trample\n{3}{R}, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's mana value to any target."
+Arcbound Crusher,4.0,None,None,None,"['Artifact', 'Creature']",['Juggernaut'],Uncommon,HOP,0,0,None,"Trample\nWhenever another artifact enters the battlefield, put a +1/+1 counter on Arcbound Crusher.\nModular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)"
+Boros Signet,2.0,None,"['R', 'W']",None,['Artifact'],None,Common,HOP,None,None,None,"{1}, {T}: Add {R}{W}."
+Oblivion Ring,3.0,['White'],['W'],None,['Enchantment'],None,Common,HOP,None,None,None,"When Oblivion Ring enters the battlefield, exile another target nonland permanent.\nWhen Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control."
+Arcbound Slith,2.0,None,None,None,"['Artifact', 'Creature']",['Slith'],Uncommon,HOP,0,0,None,"Whenever Arcbound Slith deals combat damage to a player, put a +1/+1 counter on it.\nModular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)"
+Thirst for Knowledge,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,HOP,None,None,None,Draw three cards. Then discard two cards unless you discard an artifact card.
+Assault // Battery,5.0,['Red'],"['G', 'R']",None,['Sorcery'],None,Uncommon,HOP,None,None,None,Assault deals 2 damage to any target.
+Soul Warden,1.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,HOP,1,1,None,"Whenever another creature enters the battlefield, you gain 1 life."
+Duergar Hedge-Mage,3.0,"['Red', 'White']","['R', 'W']",None,['Creature'],"['Dwarf', 'Shaman']",Uncommon,HOP,2,2,None,"When Duergar Hedge-Mage enters the battlefield, if you control two or more Mountains, you may destroy target artifact.\nWhen Duergar Hedge-Mage enters the battlefield, if you control two or more Plains, you may destroy target enchantment."
+Order // Chaos,7.0,['White'],"['R', 'W']",None,['Instant'],None,Uncommon,HOP,None,None,None,Exile target attacking creature.
+Akroma's Vengeance,6.0,['White'],['W'],None,['Sorcery'],None,Rare,HOP,None,None,None,"Destroy all artifacts, creatures, and enchantments.\nCycling {3} ({3}, Discard this card: Draw a card.)"
+Double Cleave,2.0,"['Red', 'White']","['R', 'W']",None,['Instant'],None,Common,HOP,None,None,None,Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)
+Boros Guildmage,2.0,"['Red', 'White']","['R', 'W']",None,['Creature'],"['Human', 'Wizard']",Uncommon,HOP,2,2,None,{1}{R}: Target creature gains haste until end of turn.\n{1}{W}: Target creature gains first strike until end of turn.
+Battlegate Mimic,2.0,"['Red', 'White']","['R', 'W']",None,['Creature'],['Shapeshifter'],Common,HOP,2,1,None,"Whenever you cast a spell that's both red and white, Battlegate Mimic has base power and toughness 4/2 until end of turn and gains first strike until end of turn."
+Balefire Liege,5.0,"['Red', 'White']","['R', 'W']",None,['Creature'],"['Spirit', 'Horror']",Rare,HOP,2,4,None,"Other red creatures you control get +1/+1.\nOther white creatures you control get +1/+1.\nWhenever you cast a red spell, Balefire Liege deals 3 damage to target player or planeswalker.\nWhenever you cast a white spell, you gain 3 life."
+Arsenal Thresher,4.0,"['Black', 'Blue', 'White']","['B', 'U', 'W']",None,"['Artifact', 'Creature']",['Construct'],Common,HOP,2,2,None,"As Arsenal Thresher enters the battlefield, you may reveal any number of other artifact cards from your hand. Arsenal Thresher enters the battlefield with a +1/+1 counter on it for each card revealed this way."
+Sludge Strider,4.0,"['Black', 'Blue', 'White']","['B', 'U', 'W']",None,"['Artifact', 'Creature']",['Insect'],Uncommon,HOP,3,3,None,"Whenever another artifact enters the battlefield under your control or another artifact you control leaves the battlefield, you may pay {1}. If you do, target player loses 1 life and you gain 1 life."
+Savage Twister,2.0,"['Green', 'Red']","['G', 'R']",None,['Sorcery'],None,Uncommon,HOP,None,None,None,Savage Twister deals X damage to each creature.
+Rumbling Slum,4.0,"['Green', 'Red']","['G', 'R']",None,['Creature'],['Elemental'],Rare,HOP,5,5,None,"At the beginning of your upkeep, Rumbling Slum deals 1 damage to each player."
+"Razia, Boros Archangel",8.0,"['Red', 'White']","['R', 'W']",['Legendary'],['Creature'],['Angel'],Rare,HOP,6,3,None,"Flying, vigilance, haste\n{T}: The next 3 damage that would be dealt to target creature you control this turn is dealt to another target creature instead."
+Mage Slayer,3.0,"['Green', 'Red']","['G', 'R']",None,['Artifact'],['Equipment'],Uncommon,HOP,None,None,None,"Whenever equipped creature attacks, it deals damage equal to its power to the player or planeswalker it's attacking.\nEquip {3}"
+Lightning Helix,2.0,"['Red', 'White']","['R', 'W']",None,['Instant'],None,Uncommon,HOP,None,None,None,Lightning Helix deals 3 damage to any target and you gain 3 life.
+Hull Breach,2.0,"['Green', 'Red']","['G', 'R']",None,['Sorcery'],None,Common,HOP,None,None,None,Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Destroy target artifact and target enchantment.
+Glory of Warfare,4.0,"['Red', 'White']","['R', 'W']",None,['Enchantment'],None,Rare,HOP,None,None,None,"As long as it's your turn, creatures you control get +2/+0.\nAs long as it's not your turn, creatures you control get +0/+2."
+Fires of Yavimaya,3.0,"['Green', 'Red']","['G', 'R']",None,['Enchantment'],None,Uncommon,HOP,None,None,None,Creatures you control have haste.\nSacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+Cerodon Yearling,2.0,"['Red', 'White']","['R', 'W']",None,['Creature'],['Beast'],Common,HOP,2,2,None,"Vigilance, haste"
+Captain's Maneuver,2.0,"['Red', 'White']","['R', 'W']",None,['Instant'],None,Uncommon,HOP,None,None,None,"The next X damage that would be dealt to target creature, planeswalker, or player this turn is dealt to another target creature, planeswalker, or player instead."
+Bull Cerodon,6.0,"['Red', 'White']","['R', 'W']",None,['Creature'],['Beast'],Uncommon,HOP,5,5,None,"Vigilance, haste"
+Branching Bolt,3.0,"['Green', 'Red']","['G', 'R']",None,['Instant'],None,Common,HOP,None,None,None,Choose one or both —\n• Branching Bolt deals 3 damage to target creature with flying.\n• Branching Bolt deals 3 damage to target creature without flying.
+Boros Swiftblade,2.0,"['Red', 'White']","['R', 'W']",None,['Creature'],"['Human', 'Soldier']",Uncommon,HOP,1,2,None,Double strike
+Verdant Force,8.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,HOP,7,7,None,"At the beginning of each upkeep, create a 1/1 green Saproling creature token."
+Qumulox,8.0,['Blue'],['U'],None,['Creature'],['Beast'],Uncommon,HOP,5,4,None,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying
+Tribal Unity,3.0,['Green'],['G'],None,['Instant'],None,Uncommon,HOP,None,None,None,Creatures of the creature type of your choice get +X/+X until end of turn.
+Tornado Elemental,7.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,HOP,6,6,None,"When Tornado Elemental enters the battlefield, it deals 6 damage to each creature with flying.\nYou may have Tornado Elemental assign its combat damage as though it weren't blocked."
+Silverglade Elemental,5.0,['Green'],['G'],None,['Creature'],['Elemental'],Common,HOP,4,4,None,"When Silverglade Elemental enters the battlefield, you may search your library for a Forest card, put that card onto the battlefield, then shuffle."
+Search for Tomorrow,3.0,['Green'],['G'],None,['Sorcery'],None,Common,HOP,None,None,None,"Search your library for a basic land card, put it onto the battlefield, then shuffle.\nSuspend 2—{G} (Rather than cast this card from your hand, you may pay {G} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
+Rampant Growth,2.0,['Green'],['G'],None,['Sorcery'],None,Common,HOP,None,None,None,"Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+Living Hive,8.0,['Green'],['G'],None,['Creature'],"['Elemental', 'Insect']",Rare,HOP,6,6,None,"Trample\nWhenever Living Hive deals combat damage to a player, create that many 1/1 green Insect creature tokens."
+Kor Sanctifiers,3.0,['White'],['W'],None,['Creature'],"['Kor', 'Cleric']",Common,HOP,2,3,None,"Kicker {W} (You may pay an additional {W} as you cast this spell.)\nWhen Kor Sanctifiers enters the battlefield, if it was kicked, destroy target artifact or enchantment."
+Ivy Elemental,1.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,HOP,0,0,None,Ivy Elemental enters the battlefield with X +1/+1 counters on it.
+Forgotten Ancient,4.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,HOP,0,3,None,"Whenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.\nAt the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures."
+Flametongue Kavu,4.0,['Red'],['R'],None,['Creature'],['Kavu'],Uncommon,HOP,4,2,None,"When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature."
+Flamekin Harbinger,1.0,['Red'],['R'],None,['Creature'],"['Elemental', 'Shaman']",Uncommon,HOP,1,1,None,"When Flamekin Harbinger enters the battlefield, you may search your library for an Elemental card, reveal it, then shuffle and put that card on top."
+Cone of Flame,5.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,HOP,None,None,None,"Cone of Flame deals 1 damage to any target, 2 damage to another target, and 3 damage to a third target."
+Cinder Elemental,4.0,['Red'],['R'],None,['Creature'],['Elemental'],Uncommon,HOP,2,2,None,"{X}{R}, {T}, Sacrifice Cinder Elemental: It deals X damage to any target."
+Fertilid,3.0,['Green'],['G'],None,['Creature'],['Elemental'],Common,HOP,0,0,None,"Fertilid enters the battlefield with two +1/+1 counters on it.\n{1}{G}, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles."
+Fertile Ground,2.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,HOP,None,None,None,"Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional one mana of any color."
+Explosive Vegetation,4.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,HOP,None,None,None,"Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
+Keep Watch,3.0,['Blue'],['U'],None,['Instant'],None,Common,HOP,None,None,None,Draw a card for each attacking creature.
+Briarhorn,4.0,['Green'],['G'],None,['Creature'],['Elemental'],Uncommon,HOP,3,3,None,"Flash\nWhen Briarhorn enters the battlefield, target creature gets +3/+3 until end of turn.\nEvoke {1}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+Beast Hunt,4.0,['Green'],['G'],None,['Sorcery'],None,Common,HOP,None,None,None,Reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest into your graveyard.
+Taurean Mauler,3.0,['Red'],['R'],None,['Creature'],['Shapeshifter'],Rare,HOP,2,2,None,"Changeling (This card is every creature type.)\nWhenever an opponent casts a spell, you may put a +1/+1 counter on Taurean Mauler."
+Smokebraider,2.0,['Red'],['R'],None,['Creature'],"['Elemental', 'Shaman']",Common,HOP,1,1,None,{T}: Add two mana in any combination of colors. Spend this mana only to cast Elemental spells or activate abilities of Elementals.
+Rorix Bladewing,6.0,['Red'],['R'],['Legendary'],['Creature'],['Dragon'],Rare,HOP,6,5,None,"Flying, haste"
+Browbeat,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,HOP,None,None,None,"Any player may have Browbeat deal 5 damage to them. If no one does, target player draws three cards."
+Bogardan Rager,6.0,['Red'],['R'],None,['Creature'],['Elemental'],Common,HOP,3,4,None,"Flash (You may cast this spell any time you could cast an instant.)\nWhen Bogardan Rager enters the battlefield, target creature gets +4/+0 until end of turn."
+Rolling Thunder,2.0,['Red'],['R'],None,['Sorcery'],None,Common,HOP,None,None,None,Rolling Thunder deals X damage divided as you choose among any number of targets.
+Fabricate,3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,HOP,None,None,None,"Search your library for an artifact card, reveal it, put it into your hand, then shuffle."
+Rockslide Elemental,3.0,['Red'],['R'],None,['Creature'],['Elemental'],Uncommon,HOP,1,1,None,"First strike\nWhenever another creature dies, you may put a +1/+1 counter on Rockslide Elemental."
+Bogardan Firefiend,3.0,['Red'],['R'],None,['Creature'],"['Elemental', 'Spirit']",Common,HOP,2,1,None,"When Bogardan Firefiend dies, it deals 2 damage to target creature."
+Relentless Assault,4.0,['Red'],['R'],None,['Sorcery'],None,Rare,HOP,None,None,None,"Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase."
+Blaze,1.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,HOP,None,None,None,Blaze deals X damage to any target.
+Arc Lightning,3.0,['Red'],['R'],None,['Sorcery'],None,Common,HOP,None,None,None,"Arc Lightning deals 3 damage divided as you choose among one, two, or three targets."
+Nuisance Engine,3.0,None,None,None,['Artifact'],None,Uncommon,HOP,None,None,None,"{2}, {T}: Create a 0/1 colorless Pest artifact creature token."
+Myr Enforcer,7.0,None,None,None,"['Artifact', 'Creature']",['Myr'],Common,HOP,4,4,None,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Loxodon Warhammer,3.0,None,None,None,['Artifact'],['Equipment'],Rare,HOP,None,None,None,Equipped creature gets +3/+0 and has trample and lifelink.\nEquip {3}
+Mask of Memory,2.0,None,None,None,['Artifact'],['Equipment'],Uncommon,HOP,None,None,None,"Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+Reckless Charge,1.0,['Red'],['R'],None,['Sorcery'],None,Common,HOP,None,None,None,Target creature gets +3/+0 and gains haste until end of turn.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Keldon Champion,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Barbarian']",Uncommon,HOP,3,2,None,"Haste\nEcho {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Keldon Champion enters the battlefield, it deals 3 damage to target player or planeswalker."
+Insurrection,8.0,['Red'],['R'],None,['Sorcery'],None,Rare,HOP,None,None,None,Untap all creatures and gain control of them until end of turn. They gain haste until end of turn.
+Goblin Offensive,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,HOP,None,None,None,Create X 1/1 red Goblin creature tokens.
+Pyrotechnics,5.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,HOP,None,None,None,Pyrotechnics deals 4 damage divided as you choose among any number of targets.
+Menacing Ogre,5.0,['Red'],['R'],None,['Creature'],['Ogre'],Rare,HOP,3,3,None,"Trample, haste\nWhen Menacing Ogre enters the battlefield, each player secretly chooses a number. Then those numbers are revealed. Each player with the highest number loses that much life. If you are one of those players, put two +1/+1 counters on Menacing Ogre."
+Furnace of Rath,4.0,['Red'],['R'],None,['Enchantment'],None,Rare,HOP,None,None,None,"If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."

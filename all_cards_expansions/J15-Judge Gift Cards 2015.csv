@@ -1,0 +1,9 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Dualcaster Mage,3.0,['Red'],['R'],None,['Creature'],"['Human', 'Wizard']",Rare,J15,2,2,None,"Flash\nWhen Dualcaster Mage enters the battlefield, copy target instant or sorcery spell. You may choose new targets for the copy."
+Damnation,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,J15,None,None,None,Destroy all creatures. They can't be regenerated.
+Feldon of the Third Path,3.0,['Red'],['R'],['Legendary'],['Creature'],"['Human', 'Artificer']",Mythic,J15,2,3,None,"{2}{R}, {T}: Create a token that's a copy of target creature card in your graveyard, except it's an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step."
+Ravages of War,4.0,['White'],['W'],None,['Sorcery'],None,Rare,J15,None,None,None,Destroy all lands.
+Wasteland,0.0,None,None,None,['Land'],None,Rare,J15,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land."
+Shardless Agent,3.0,"['Green', 'Blue']","['G', 'U']",None,"['Artifact', 'Creature']","['Human', 'Rogue']",Rare,J15,2,2,None,"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
+Rishadan Port,0.0,None,None,None,['Land'],None,Rare,J15,None,None,None,"{T}: Add {C}.\n{1}, {T}: Tap target land."
+Temporal Manipulation,5.0,['Blue'],['U'],None,['Sorcery'],None,Rare,J15,None,None,None,Take an extra turn after this one.

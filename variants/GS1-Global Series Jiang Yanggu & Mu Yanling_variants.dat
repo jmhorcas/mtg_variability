@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0}
+Colors: {'Red', 'Green', 'White', 'Blue'}
+ColorIdentity: {'W', 'U', 'G', 'R'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant'}
+Subtypes: {'Snake', 'Island', 'Elk', 'Lizard', 'Cat', 'Dragon', 'Mountain', 'Yanling', 'Fish', 'Pangolin', 'Dog', 'Beast', 'Plains', 'Spider', 'Turtle', 'Spirit', 'Kirin', 'Ox', 'Forest', 'Phoenix', 'Yanggu', 'Bird', 'Fox', 'Crab', 'Aura'}
+Rarity: {'Uncommon', 'Common', 'Mythic', 'Rare'}
+Power: {'4', '5', '1', '2', '0', '3'}
+Toughness: {'4', '5', '1', '2', '3', '6'}
+Loyalty: {'4', '5'}

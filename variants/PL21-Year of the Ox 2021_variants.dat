@@ -1,0 +1,10 @@
+CMC: {4.0, 5.0, 6.0}
+Colors: {'Red', 'Black', 'Green'}
+ColorIdentity: {'R', 'G', 'B'}
+Supertypes: {'Legendary'}
+Types: {'Planeswalker', 'Creature'}
+Subtypes: {'Ox', 'Warrior', 'Minotaur', 'Angrath'}
+Rarity: {'Rare', 'Mythic'}
+Power: {'4', '6', '5'}
+Toughness: {'4', '6', '5', '2'}
+Loyalty: {'4'}

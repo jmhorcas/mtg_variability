@@ -1,0 +1,98 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Disenchant,2.0,['White'],['W'],None,['Instant'],None,Common,WC97,None,None,None,Destroy target artifact or enchantment.
+Incinerate,2.0,['Red'],['R'],None,['Instant'],None,Common,WC97,None,None,None,Incinerate deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.
+Abeyance,2.0,['White'],['W'],None,['Instant'],None,Rare,WC97,None,None,None,"Until end of turn, target player can't cast instant or sorcery spells, and that player can't activate abilities that aren't mana abilities.\nDraw a card."
+Earthquake,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,WC97,None,None,None,Earthquake deals X damage to each creature without flying and each player.
+Circle of Protection: Black,2.0,['White'],['W'],None,['Enchantment'],None,Common,WC97,None,None,None,"{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage."
+Disintegrate,1.0,['Red'],['R'],None,['Sorcery'],None,Common,WC97,None,None,None,"Disintegrate deals X damage to any target. If it's a creature, it can't be regenerated this turn, and if it would die this turn, exile it instead."
+Undiscovered Paradise,0.0,None,None,None,['Land'],None,Rare,WC97,None,None,None,"{T}: Add one mana of any color. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner's hand."
+Spectral Bears,2.0,['Green'],['G'],None,['Creature'],"['Bear', 'Spirit']",Uncommon,WC97,3,3,None,"Whenever Spectral Bears attacks, if defending player controls no black nontoken permanents, it doesn't untap during your next untap step."
+Thawing Glaciers,0.0,None,None,None,['Land'],None,Rare,WC97,None,None,None,"Thawing Glaciers enters the battlefield tapped.\n{1}, {T}: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. Return Thawing Glaciers to its owner's hand at the beginning of the next cleanup step."
+Bounty of the Hunt,5.0,['Green'],['G'],None,['Instant'],None,Uncommon,WC97,None,None,None,"You may exile a green card from your hand rather than pay this spell's mana cost.\nDistribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC97,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC97,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC97,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC97,None,None,None,({T}: Add {G}.)
+Winter Orb,2.0,None,None,None,['Artifact'],None,Rare,WC97,None,None,None,"As long as Winter Orb is untapped, players can't untap more than one land during their untap steps."
+Whirling Dervish,2.0,['Green'],['G'],None,['Creature'],"['Human', 'Monk']",Uncommon,WC97,1,1,None,"Protection from black\nAt the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it."
+Lhurgoyf,4.0,['Green'],['G'],None,['Creature'],['Lhurgoyf'],Rare,WC97,*,1+*,None,Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.
+Giant Growth,1.0,['Green'],['G'],None,['Instant'],None,Common,WC97,None,None,None,Target creature gets +3/+3 until end of turn.
+Fyndhorn Elves,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,WC97,1,1,None,{T}: Add {G}.
+Ghazbán Ogre,1.0,['Green'],['G'],None,['Creature'],['Ogre'],Common,WC97,2,2,None,"At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre."
+Crumble,1.0,['Green'],['G'],None,['Instant'],None,Uncommon,WC97,None,None,None,Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its mana value.
+Harvest Wurm,2.0,['Green'],['G'],None,['Creature'],['Wurm'],Common,WC97,3,2,None,"When Harvest Wurm enters the battlefield, sacrifice it unless you return a basic land card from your graveyard to your hand."
+Jolrael's Centaur,3.0,['Green'],['G'],None,['Creature'],"['Centaur', 'Archer']",Common,WC97,2,2,None,"Shroud (This creature can't be the target of spells or abilities.)\nFlanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)"
+Hammer of Bogardan,3.0,['Red'],['R'],None,['Sorcery'],None,Rare,WC97,None,None,None,Hammer of Bogardan deals 3 damage to any target.\n{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate only during your upkeep.
+Rogue Elephant,1.0,['Green'],['G'],None,['Creature'],['Elephant'],Common,WC97,3,3,None,"When Rogue Elephant enters the battlefield, sacrifice it unless you sacrifice a Forest."
+Heart of Yavimaya,0.0,None,['G'],None,['Land'],None,Rare,WC97,None,None,None,"If Heart of Yavimaya would enter the battlefield, sacrifice a Forest instead. If you do, put Heart of Yavimaya onto the battlefield. If you don't, put it into its owner's graveyard.\n{T}: Add {G}.\n{T}: Target creature gets +1/+1 until end of turn."
+River Boa,2.0,['Green'],['G'],None,['Creature'],['Snake'],Common,WC97,2,1,None,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\n{G}: Regenerate River Boa.
+Circle of Protection: Red,2.0,['White'],['W'],None,['Enchantment'],None,Common,WC97,None,None,None,"{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage."
+Quirion Ranger,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Ranger']",Common,WC97,1,1,None,Return a Forest you control to its owner's hand: Untap target creature. Activate only once each turn.
+Wildfire Emissary,4.0,['Red'],['R'],None,['Creature'],['Efreet'],Uncommon,WC97,2,4,None,Protection from white\n{1}{R}: Wildfire Emissary gets +1/+0 until end of turn.
+Emerald Charm,1.0,['Green'],['G'],None,['Instant'],None,Common,WC97,None,None,None,Choose one —\n• Untap target permanent.\n• Destroy target non-Aura enchantment.\n• Target creature loses flying until end of turn.
+City of Solitude,3.0,['Green'],['G'],None,['Enchantment'],None,Rare,WC97,None,None,None,Players can cast spells and activate abilities only during their own turns.
+Kjeldoran Outpost,0.0,None,['W'],None,['Land'],None,Rare,WC97,None,None,None,"If Kjeldoran Outpost would enter the battlefield, sacrifice a Plains instead. If you do, put Kjeldoran Outpost onto the battlefield. If you don't, put it into its owner's graveyard.\n{T}: Add {W}.\n{1}{W}, {T}: Create a 1/1 white Soldier creature token."
+Suq'Ata Lancer,3.0,['Red'],['R'],None,['Creature'],"['Human', 'Knight']",Common,WC97,2,2,None,"Haste\nFlanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)"
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC97,None,None,None,({T}: Add {U}.)
+Nevinyrral's Disk,4.0,None,None,None,['Artifact'],None,Rare,WC97,None,None,None,"Nevinyrral's Disk enters the battlefield tapped.\n{1}, {T}: Destroy all artifacts, creatures, and enchantments."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC97,None,None,None,({T}: Add {U}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC97,None,None,None,({T}: Add {R}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC97,None,None,None,({T}: Add {U}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC97,None,None,None,({T}: Add {R}.)
+Pyrokinesis,6.0,['Red'],['R'],None,['Instant'],None,Uncommon,WC97,None,None,None,You may exile a red card from your hand rather than pay this spell's mana cost.\nPyrokinesis deals 4 damage divided as you choose among any number of target creatures.
+Disrupt,1.0,['Blue'],['U'],None,['Instant'],None,Common,WC97,None,None,None,Counter target instant or sorcery spell unless its controller pays {1}.\nDraw a card.
+Knight of the Mists,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Knight']",Common,WC97,2,2,None,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\nWhen Knight of the Mists enters the battlefield, you may pay {U}. If you don't, destroy target Knight and it can't be regenerated."
+Ophidian,3.0,['Blue'],['U'],None,['Creature'],['Snake'],Common,WC97,1,3,None,"Whenever Ophidian attacks and isn't blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn."
+Abduction,4.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,WC97,None,None,None,"Enchant creature\nWhen Abduction enters the battlefield, untap enchanted creature.\nYou control enchanted creature.\nWhen enchanted creature dies, return that card to the battlefield under its owner's control."
+Cloud Elemental,3.0,['Blue'],['U'],None,['Creature'],['Elemental'],Common,WC97,2,3,None,Flying\nCloud Elemental can block only creatures with flying.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC97,None,None,None,({T}: Add {U}.)
+Dissipate,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC97,None,None,None,"Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
+Phyrexian Furnace,1.0,None,None,None,['Artifact'],None,Uncommon,WC97,None,None,None,"{T}: Exile the bottom card of target player's graveyard.\n{1}, Sacrifice Phyrexian Furnace: Exile target card from a graveyard. Draw a card."
+Mind Stone,2.0,None,None,None,['Artifact'],None,Common,WC97,None,None,None,"{T}: Add {C}.\n{1}, {T}, Sacrifice Mind Stone: Draw a card."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC97,None,None,None,({T}: Add {U}.)
+Serrated Arrows,4.0,None,None,None,['Artifact'],None,Common,WC97,None,None,None,"Serrated Arrows enters the battlefield with three arrowhead counters on it.\nAt the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.\n{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature."
+Hydroblast,1.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC97,None,None,None,Choose one —\n• Counter target spell if it's red.\n• Destroy target permanent if it's red.
+Honorable Passage,2.0,['White'],['W'],None,['Instant'],None,Uncommon,WC97,None,None,None,"The next time a source of your choice would deal damage to any target this turn, prevent that damage. If damage from a red source is prevented this way, Honorable Passage deals that much damage to the source's controller."
+Necratog,3.0,['Black'],['B'],None,['Creature'],['Atog'],Uncommon,WC97,1,2,None,Exile the top creature card of your graveyard: Necratog gets +2/+2 until end of turn.
+Nekrataal,4.0,['Black'],['B'],None,['Creature'],"['Human', 'Assassin']",Uncommon,WC97,2,1,None,"First strike\nWhen Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated."
+Fallen Askari,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Knight']",Common,WC97,2,2,None,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\nFallen Askari can't block."
+Dystopia,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,WC97,None,None,None,"Cumulative upkeep—Pay 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nAt the beginning of each player's upkeep, that player sacrifices a green or white permanent."
+Contagion,5.0,['Black'],['B'],None,['Instant'],None,Uncommon,WC97,None,None,None,You may pay 1 life and exile a black card from your hand rather than pay this spell's mana cost.\nDistribute two -2/-1 counters among one or two target creatures.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC97,None,None,None,({T}: Add {R}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC97,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC97,None,None,None,({T}: Add {B}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC97,None,None,None,({T}: Add {R}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC97,None,None,None,({T}: Add {B}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC97,None,None,None,({T}: Add {R}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC97,None,None,None,({T}: Add {B}.)
+Underground River,0.0,None,"['B', 'U']",None,['Land'],None,Rare,WC97,None,None,None,{T}: Add {C}.\n{T}: Add {U} or {B}. Underground River deals 1 damage to you.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC97,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC97,None,None,None,({T}: Add {W}.)
+Sulfurous Springs,0.0,None,"['B', 'R']",None,['Land'],None,Rare,WC97,None,None,None,{T}: Add {C}.\n{T}: Add {B} or {R}. Sulfurous Springs deals 1 damage to you.
+Force of Will,5.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC97,None,None,None,You may pay 1 life and exile a blue card from your hand rather than pay this spell's mana cost.\nCounter target spell.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC97,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC97,None,None,None,({T}: Add {U}.)
+Exile,3.0,['White'],['W'],None,['Instant'],None,Rare,WC97,None,None,None,Exile target nonwhite attacking creature. You gain life equal to its toughness.
+Frenetic Efreet,3.0,"['Red', 'Blue']","['R', 'U']",None,['Creature'],['Efreet'],Rare,WC97,2,1,None,"Flying\n{0}: Flip a coin. If you win the flip, Frenetic Efreet phases out. If you lose the flip, sacrifice Frenetic Efreet. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)"
+Man-o'-War,3.0,['Blue'],['U'],None,['Creature'],['Jellyfish'],Common,WC97,2,2,None,"When Man-o'-War enters the battlefield, return target creature to its owner's hand."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC97,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC97,None,None,None,({T}: Add {W}.)
+City of Brass,0.0,None,None,None,['Land'],None,Rare,WC97,None,None,None,"Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC97,None,None,None,({T}: Add {R}.)
+Knight of Stromgald,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Knight']",Uncommon,WC97,2,1,None,Protection from white\n{B}: Knight of Stromgald gains first strike until end of turn.\n{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.
+Impulse,2.0,['Blue'],['U'],None,['Instant'],None,Common,WC97,None,None,None,Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+Gemstone Mine,0.0,None,None,None,['Land'],None,Uncommon,WC97,None,None,None,"Gemstone Mine enters the battlefield with three mining counters on it.\n{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color. If there are no mining counters on Gemstone Mine, sacrifice it."
+Black Knight,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Knight']",Uncommon,WC97,2,2,None,"First strike (This creature deals combat damage before creatures without first strike.)\nProtection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)"
+Shadow Guildmage,1.0,['Black'],"['B', 'R', 'U']",None,['Creature'],"['Human', 'Wizard']",Common,WC97,1,1,None,"{U}, {T}: Put target creature you control on top of its owner's library.\n{R}, {T}: Shadow Guildmage deals 1 damage to any target and 1 damage to you."
+Pyroblast,1.0,['Red'],['R'],None,['Instant'],None,Uncommon,WC97,None,None,None,Choose one —\n• Counter target spell if it's blue.\n• Destroy target permanent if it's blue.
+Forsaken Wastes,3.0,['Black'],['B'],['World'],['Enchantment'],None,Rare,WC97,None,None,None,"Players can't gain life.\nAt the beginning of each player's upkeep, that player loses 1 life.\nWhenever Forsaken Wastes becomes the target of a spell, that spell's controller loses 5 life."
+Uktabi Orangutan,3.0,['Green'],['G'],None,['Creature'],['Ape'],Uncommon,WC97,2,2,None,"When Uktabi Orangutan enters the battlefield, destroy target artifact."
+Ebony Charm,1.0,['Black'],['B'],None,['Instant'],None,Common,WC97,None,None,None,Choose one —\n• Target opponent loses 1 life and you gain 1 life.\n• Exile up to three target cards from a single graveyard.\n• Target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC97,None,None,None,({T}: Add {U}.)
+Choking Sands,3.0,['Black'],['B'],None,['Sorcery'],None,Common,WC97,None,None,None,"Destroy target non-Swamp land. If that land was nonbasic, Choking Sands deals 2 damage to the land's controller."
+Political Trickery,3.0,['Blue'],['U'],None,['Sorcery'],None,Rare,WC97,None,None,None,Exchange control of target land you control and target land an opponent controls. (This effect lasts indefinitely.)
+Counterspell,2.0,['Blue'],['U'],None,['Instant'],None,Common,WC97,None,None,None,Counter target spell.
+Pillage,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,WC97,None,None,None,Destroy target artifact or land. It can't be regenerated.
+Swords to Plowshares,1.0,['White'],['W'],None,['Instant'],None,Uncommon,WC97,None,None,None,Exile target creature. Its controller gains life equal to its power.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC97,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC97,None,None,None,({T}: Add {R}.)

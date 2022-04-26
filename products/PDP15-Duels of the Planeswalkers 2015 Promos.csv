@@ -1,0 +1,3 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Soul of Zendikar,6.0,['Green'],['G'],None,['Creature'],['Avatar'],Mythic,PDP15,6,6,None,"Reach\n{3}{G}{G}: Create a 3/3 green Beast creature token.\n{3}{G}{G}, Exile Soul of Zendikar from your graveyard: Create a 3/3 green Beast creature token."
+Soul of Ravnica,6.0,['Blue'],['U'],None,['Creature'],['Avatar'],Mythic,PDP15,6,6,None,"Flying\n{5}{U}{U}: Draw a card for each color among permanents you control.\n{5}{U}{U}, Exile Soul of Ravnica from your graveyard: Draw a card for each color among permanents you control."

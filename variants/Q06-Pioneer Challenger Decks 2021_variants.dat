@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 7.0}
+Colors: {'Red', 'Black', 'White', 'Blue'}
+ColorIdentity: {'W', 'U', 'R', 'B'}
+Supertypes: {'Legendary'}
+Types: {'Enchantment', 'Planeswalker', 'Sorcery', 'Creature', 'Instant'}
+Subtypes: {'Nightmare', 'Spirit', 'Chandra', 'Cat', 'Aura'}
+Rarity: {'Rare', 'Common', 'Uncommon', 'Mythic'}
+Power: {'3', '2'}
+Toughness: {'3', '2'}
+Loyalty: {'4'}

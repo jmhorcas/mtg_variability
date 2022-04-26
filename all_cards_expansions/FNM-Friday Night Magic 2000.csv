@@ -1,0 +1,12 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+River Boa,2.0,['Green'],['G'],None,['Creature'],['Snake'],Rare,FNM,2,1,None,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\n{G}: Regenerate River Boa.
+Staunch Defenders,5.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,FNM,3,4,None,"When Staunch Defenders enters the battlefield, you gain 4 life."
+Mind Warp,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,FNM,None,None,None,Look at target player's hand and choose X cards from it. That player discards those cards.
+Prodigal Sorcerer,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Rare,FNM,1,1,None,{T}: Prodigal Sorcerer deals 1 damage to any target.
+Longbow Archer,2.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier', 'Archer']",Rare,FNM,2,2,None,First strike; reach (This creature can block creatures with flying.)
+Volcanic Geyser,2.0,['Red'],['R'],None,['Instant'],None,Rare,FNM,None,None,None,Volcanic Geyser deals X damage to any target.
+Llanowar Elves,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Rare,FNM,1,1,None,{T}: Add {G}.
+Stone Rain,3.0,['Red'],['R'],None,['Sorcery'],None,Rare,FNM,None,None,None,Destroy target land.
+Terror,2.0,['Black'],['B'],None,['Instant'],None,Rare,FNM,None,None,None,"Destroy target nonartifact, nonblack creature. It can't be regenerated."
+Shock,1.0,['Red'],['R'],None,['Instant'],None,Rare,FNM,None,None,None,Shock deals 2 damage to any target.
+Giant Growth,1.0,['Green'],['G'],None,['Instant'],None,Rare,FNM,None,None,None,Target creature gets +3/+3 until end of turn.

@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Mana Crypt,0.0,None,None,None,['Artifact'],None,Rare,PHPR,None,None,None,"At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.\n{T}: Add {C}{C}."
+Windseeker Centaur,3.0,['Red'],['R'],None,['Creature'],['Centaur'],Rare,PHPR,2,2,None,Vigilance
+Arena,0.0,None,None,None,['Land'],None,Rare,PHPR,None,None,None,"{3}, {T}: Tap target creature you control and target creature of an opponent's choice they control. Those creatures fight each other. (Each deals damage equal to its power to the other.)"
+Sewers of Estark,4.0,['Black'],['B'],None,['Instant'],None,Rare,PHPR,None,None,None,"Choose target creature. If it's attacking, it can't be blocked this turn. If it's blocking, prevent all combat damage that would be dealt this combat by it and each creature it's blocking."
+Giant Badger,3.0,['Green'],['G'],None,['Creature'],['Badger'],Rare,PHPR,2,2,None,"Whenever Giant Badger blocks, it gets +2/+2 until end of turn."

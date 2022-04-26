@@ -1,0 +1,2 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Questing Phelddagrif,4.0,"['Green', 'Blue', 'White']","['G', 'U', 'W']",None,['Creature'],['Phelddagrif'],Rare,PPLS,4,4,None,{G}: Questing Phelddagrif gets +1/+1 until end of turn. Target opponent creates a 1/1 green Hippo creature token.\n{W}: Questing Phelddagrif gains protection from black and from red until end of turn. Target opponent gains 2 life.\n{U}: Questing Phelddagrif gains flying until end of turn. Target opponent may draw a card.

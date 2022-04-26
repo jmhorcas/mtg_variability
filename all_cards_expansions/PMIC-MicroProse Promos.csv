@@ -1,0 +1,2 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Aswan Jaguar,3.0,['Green'],['G'],None,"['Summon', 'Jaguar']",None,Common,PMIC,2,2,None,"When Aswan Jaguar comes into play, choose a random creature type from those in target opponent's deck.\n{G}{G}, {T}: Bury target creature of the chosen type."

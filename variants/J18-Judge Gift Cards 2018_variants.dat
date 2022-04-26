@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Legendary'}
+Types: {'Enchantment', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
+Subtypes: {'Merfolk', 'Wizard', 'Vedalken'}
+Rarity: {'Rare'}
+Power: {'2', '1'}
+Toughness: {'2', '1'}
+Loyalty: set()

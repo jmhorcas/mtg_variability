@@ -1,0 +1,154 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Ruins of Trokair,0.0,None,['W'],None,['Land'],None,Uncommon,PTC,None,None,None,"Ruins of Trokair enters the battlefield tapped.\n{T}: Add {W}.\n{T}, Sacrifice Ruins of Trokair: Add {W}{W}."
+Orgg,5.0,['Red'],['R'],None,['Creature'],['Orgg'],Rare,PTC,6,6,None,Trample\nOrgg can't attack if defending player controls an untapped creature with power 3 or greater.\nOrgg can't block creatures with power 3 or greater.
+Havenwood Battleground,0.0,None,['G'],None,['Land'],None,Uncommon,PTC,None,None,None,"Havenwood Battleground enters the battlefield tapped.\n{T}: Add {G}.\n{T}, Sacrifice Havenwood Battleground: Add {G}{G}."
+Hymn to Tourach,2.0,['Black'],['B'],None,['Sorcery'],None,Common,PTC,None,None,None,Target player discards two cards at random.
+Black Vise,1.0,None,None,None,['Artifact'],None,Uncommon,PTC,None,None,None,"As Black Vise enters the battlefield, choose an opponent.\nAt the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4."
+Autumn Willow,6.0,['Green'],['G'],['Legendary'],['Creature'],['Avatar'],Rare,PTC,4,4,None,"Shroud (This creature can't be the target of spells or abilities.)\n{G}: Until end of turn, Autumn Willow can be the target of spells and abilities controlled by target player as though it didn't have shroud."
+Circle of Protection: Green,2.0,['White'],['W'],None,['Enchantment'],None,Common,PTC,None,None,None,"{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PTC,None,None,None,({T}: Add {B}.)
+Earthquake,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,PTC,None,None,None,Earthquake deals X damage to each creature without flying and each player.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Icy Manipulator,4.0,None,None,None,['Artifact'],None,Uncommon,PTC,None,None,None,"{1}, {T}: Tap target artifact, creature, or land."
+Lava Tubes,0.0,None,"['B', 'R']",None,['Land'],None,Rare,PTC,None,None,None,"Lava Tubes doesn't untap during your untap step if it has a depletion counter on it.\nAt the beginning of your upkeep, remove a depletion counter from Lava Tubes.\n{T}: Add {B} or {R}. Put a depletion counter on Lava Tubes."
+Sylvan Library,2.0,['Green'],['G'],None,['Enchantment'],None,Rare,PTC,None,None,None,"At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library."
+Dwarven Catapult,1.0,['Red'],['R'],None,['Instant'],None,Uncommon,PTC,None,None,None,"Dwarven Catapult deals X damage divided evenly, rounded down, among all creatures target opponent controls."
+Fellwar Stone,2.0,None,None,None,['Artifact'],None,Uncommon,PTC,None,None,None,{T}: Add one mana of any color that a land an opponent controls could produce.
+Whirling Dervish,2.0,['Green'],['G'],None,['Creature'],"['Human', 'Monk']",Uncommon,PTC,1,1,None,"Protection from black\nAt the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it."
+Llanowar Elves,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,PTC,1,1,None,{T}: Add {G}.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PTC,None,None,None,({T}: Add {B}.)
+An-Zerrin Ruins,4.0,['Red'],['R'],None,['Enchantment'],None,Rare,PTC,None,None,None,"As An-Zerrin Ruins enters the battlefield, choose a creature type.\nCreatures of the chosen type don't untap during their controllers' untap steps."
+Power Sink,1.0,['Blue'],['U'],None,['Instant'],None,Common,PTC,None,None,None,"Counter target spell unless its controller pays {X}. If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana."
+Erhnam Djinn,4.0,['Green'],['G'],None,['Creature'],['Djinn'],Uncommon,PTC,4,5,None,"At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep. (It can't be blocked as long as defending player controls a Forest.)"
+Reverse Damage,3.0,['White'],['W'],None,['Instant'],None,Rare,PTC,None,None,None,"The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PTC,None,None,None,({T}: Add {R}.)
+Fyndhorn Elves,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,PTC,1,1,None,{T}: Add {G}.
+Sulfurous Springs,0.0,None,"['B', 'R']",None,['Land'],None,Rare,PTC,None,None,None,{T}: Add {C}.\n{T}: Add {B} or {R}. Sulfurous Springs deals 1 damage to you.
+Balance,2.0,['White'],['W'],None,['Sorcery'],None,Rare,PTC,None,None,None,"Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PTC,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PTC,None,None,None,({T}: Add {R}.)
+Arenson's Aura,3.0,['White'],"['U', 'W']",None,['Enchantment'],None,Common,PTC,None,None,None,"{W}, Sacrifice an enchantment: Destroy target enchantment.\n{3}{U}{U}: Counter target enchantment spell."
+Disenchant,2.0,['White'],['W'],None,['Instant'],None,Common,PTC,None,None,None,Destroy target artifact or enchantment.
+Ihsan's Shade,6.0,['Black'],['B'],['Legendary'],['Creature'],"['Shade', 'Knight']",Uncommon,PTC,5,5,None,Protection from white
+Wrath of God,4.0,['White'],['W'],None,['Sorcery'],None,Rare,PTC,None,None,None,Destroy all creatures. They can't be regenerated.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PTC,None,None,None,({T}: Add {U}.)
+Circle of Protection: Red,2.0,['White'],['W'],None,['Enchantment'],None,Common,PTC,None,None,None,"{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage."
+Barbed Sextant,1.0,None,None,None,['Artifact'],None,Common,PTC,None,None,None,"{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color. Draw a card at the beginning of the next turn's upkeep."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PTC,None,None,None,({T}: Add {U}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Abbey Gargoyles,5.0,['White'],['W'],None,['Creature'],['Gargoyle'],Uncommon,PTC,3,4,None,"Flying, protection from red"
+Tranquility,3.0,['Green'],['G'],None,['Sorcery'],None,Common,PTC,None,None,None,Destroy all enchantments.
+Divine Offering,2.0,['White'],['W'],None,['Instant'],None,Common,PTC,None,None,None,Destroy target artifact. You gain life equal to its mana value.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Shatter,2.0,['Red'],['R'],None,['Instant'],None,Common,PTC,None,None,None,Destroy target artifact.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PTC,None,None,None,({T}: Add {U}.)
+Serra Angel,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,PTC,4,4,None,"Flying, vigilance"
+Knight of Stromgald,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Knight']",Uncommon,PTC,2,1,None,Protection from white\n{B}: Knight of Stromgald gains first strike until end of turn.\n{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+City of Brass,0.0,None,None,None,['Land'],None,Rare,PTC,None,None,None,"Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
+Sengir Vampire,5.0,['Black'],['B'],None,['Creature'],['Vampire'],Uncommon,PTC,4,4,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Mishra's Factory,0.0,None,None,None,['Land'],None,Uncommon,PTC,None,None,None,{T}: Add {C}.\n{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.\n{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Swords to Plowshares,1.0,['White'],['W'],None,['Instant'],None,Uncommon,PTC,None,None,None,Exile target creature. Its controller gains life equal to its power.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Red Elemental Blast,1.0,['Red'],['R'],None,['Instant'],None,Common,PTC,None,None,None,Choose one —\n• Counter target blue spell.\n• Destroy target blue permanent.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PTC,None,None,None,({T}: Add {G}.)
+Karplusan Forest,0.0,None,"['G', 'R']",None,['Land'],None,Rare,PTC,None,None,None,{T}: Add {C}.\n{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.
+Spectral Bears,2.0,['Green'],['G'],None,['Creature'],"['Bear', 'Spirit']",Uncommon,PTC,3,3,None,"Whenever Spectral Bears attacks, if defending player controls no black nontoken permanents, it doesn't untap during your next untap step."
+Dark Banishing,3.0,['Black'],['B'],None,['Instant'],None,Common,PTC,None,None,None,Destroy target nonblack creature. It can't be regenerated.
+Strip Mine,0.0,None,None,None,['Land'],None,Uncommon,PTC,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice Strip Mine: Destroy target land."
+Icatian Town,6.0,['White'],['W'],None,['Sorcery'],None,Rare,PTC,None,None,None,Create four 1/1 white Citizen creature tokens.
+Nevinyrral's Disk,4.0,None,None,None,['Artifact'],None,Rare,PTC,None,None,None,"Nevinyrral's Disk enters the battlefield tapped.\n{1}, {T}: Destroy all artifacts, creatures, and enchantments."
+Aeolipile,2.0,None,None,None,['Artifact'],None,Rare,PTC,None,None,None,"{1}, {T}, Sacrifice Aeolipile: It deals 2 damage to any target."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PTC,None,None,None,({T}: Add {G}.)
+Deflection,4.0,['Blue'],['U'],None,['Instant'],None,Rare,PTC,None,None,None,Change the target of target spell with a single target.
+Memory Lapse,2.0,['Blue'],['U'],None,['Instant'],None,Common,PTC,None,None,None,"Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard."
+Armageddon,4.0,['White'],['W'],None,['Sorcery'],None,Rare,PTC,None,None,None,Destroy all lands.
+Jayemdae Tome,4.0,None,None,None,['Artifact'],None,Rare,PTC,None,None,None,"{4}, {T}: Draw a card."
+Hydroblast,1.0,['Blue'],['U'],None,['Instant'],None,Common,PTC,None,None,None,Choose one —\n• Counter target spell if it's red.\n• Destroy target permanent if it's red.
+Serrated Arrows,4.0,None,None,None,['Artifact'],None,Common,PTC,None,None,None,"Serrated Arrows enters the battlefield with three arrowhead counters on it.\nAt the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.\n{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature."
+Counterspell,2.0,['Blue'],['U'],None,['Instant'],None,Uncommon,PTC,None,None,None,Counter target spell.
+Disrupting Scepter,3.0,None,None,None,['Artifact'],None,Rare,PTC,None,None,None,"{3}, {T}: Target player discards a card. Activate only during your turn."
+Stormbind,3.0,"['Green', 'Red']","['G', 'R']",None,['Enchantment'],None,Rare,PTC,None,None,None,"{2}, Discard a card at random: Stormbind deals 2 damage to any target."
+Control Magic,4.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,PTC,None,None,None,Enchant creature\nYou control enchanted creature.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Hypnotic Specter,3.0,['Black'],['B'],None,['Creature'],['Specter'],Uncommon,PTC,2,2,None,"Flying\nWhenever Hypnotic Specter deals damage to an opponent, that player discards a card at random."
+Truce,3.0,['White'],['W'],None,['Instant'],None,Rare,PTC,None,None,None,"Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life."
+Ring of Renewal,5.0,None,None,None,['Artifact'],None,Rare,PTC,None,None,None,"{5}, {T}: Discard a card at random, then draw two cards."
+Blinking Spirit,4.0,['White'],['W'],None,['Creature'],['Spirit'],Rare,PTC,2,2,None,{0}: Return Blinking Spirit to its owner's hand.
+Circle of Protection: Black,2.0,['White'],['W'],None,['Enchantment'],None,Common,PTC,None,None,None,"{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage."
+Zuran Orb,0.0,None,None,None,['Artifact'],None,Uncommon,PTC,None,None,None,Sacrifice a land: You gain 2 life.
+Land Tax,1.0,['White'],['W'],None,['Enchantment'],None,Rare,PTC,None,None,None,"At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle."
+Energy Storm,2.0,['White'],['W'],None,['Enchantment'],None,Rare,PTC,None,None,None,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nPrevent all damage that would be dealt by instant and sorcery spells.\nCreatures with flying don't untap during their controllers' untap steps."
+Sea Sprite,2.0,['Blue'],['U'],None,['Creature'],['Faerie'],Uncommon,PTC,1,1,None,"Flying, protection from red"
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PTC,None,None,None,({T}: Add {U}.)
+Spell Blast,1.0,['Blue'],['U'],None,['Instant'],None,Common,PTC,None,None,None,"Counter target spell with mana value X. (For example, if that spell's mana cost is {3}{U}{U}, X is 5.)"
+Karma,4.0,['White'],['W'],None,['Enchantment'],None,Uncommon,PTC,None,None,None,"At the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps they control."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PTC,None,None,None,({T}: Add {U}.)
+Hallowed Ground,2.0,['White'],['W'],None,['Enchantment'],None,Uncommon,PTC,None,None,None,{W}{W}: Return target nonsnow land you control to its owner's hand.
+Order of Leitbur,2.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric', 'Knight']",Common,PTC,2,1,None,Protection from black\n{W}: Order of Leitbur gains first strike until end of turn.\n{W}{W}: Order of Leitbur gets +1/+0 until end of turn.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Brushland,0.0,None,"['G', 'W']",None,['Land'],None,Rare,PTC,None,None,None,{T}: Add {C}.\n{T}: Add {G} or {W}. Brushland deals 1 damage to you.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PTC,None,None,None,({T}: Add {G}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PTC,None,None,None,({T}: Add {U}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Hurricane,1.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,PTC,None,None,None,Hurricane deals X damage to each creature with flying and each player.
+Zur's Weirding,4.0,['Blue'],['U'],None,['Enchantment'],None,Rare,PTC,None,None,None,"Players play with their hands revealed.\nIf a player would draw a card, they reveal it instead. Then any other player may pay 2 life. If a player does, put that card into its owner's graveyard. Otherwise, that player draws a card."
+Birds of Paradise,1.0,['Green'],['G'],None,['Creature'],['Bird'],Rare,PTC,0,1,None,Flying\n{T}: Add one mana of any color.
+Elvish Archers,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Archer']",Rare,PTC,2,1,None,First strike
+Ivory Tower,1.0,None,None,None,['Artifact'],None,Rare,PTC,None,None,None,"At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Dark Ritual,1.0,['Black'],['B'],None,['Instant'],None,Common,PTC,None,None,None,Add {B}{B}{B}.
+Essence Filter,3.0,['Green'],['G'],None,['Sorcery'],None,Common,PTC,None,None,None,Destroy all enchantments or all nonwhite enchantments.
+Adarkar Wastes,0.0,None,"['U', 'W']",None,['Land'],None,Rare,PTC,None,None,None,{T}: Add {C}.\n{T}: Add {W} or {U}. Adarkar Wastes deals 1 damage to you.
+Lightning Bolt,1.0,['Red'],['R'],None,['Instant'],None,Common,PTC,None,None,None,Lightning Bolt deals 3 damage to any target.
+Millstone,2.0,None,None,None,['Artifact'],None,Rare,PTC,None,None,None,"{2}, {T}: Target player mills two cards."
+Order of the Ebon Hand,2.0,['Black'],['B'],None,['Creature'],"['Cleric', 'Knight']",Common,PTC,2,1,None,Protection from white\n{B}: Order of the Ebon Hand gains first strike until end of turn.\n{B}{B}: Order of the Ebon Hand gets +1/+0 until end of turn.
+Incinerate,2.0,['Red'],['R'],None,['Instant'],None,Common,PTC,None,None,None,Incinerate deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PTC,None,None,None,({T}: Add {B}.)
+Recall,1.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,PTC,None,None,None,"Discard X cards, then return a card from your graveyard to your hand for each card discarded this way. Exile Recall."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PTC,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PTC,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PTC,None,None,None,({T}: Add {G}.)
+Fireball,1.0,['Red'],['R'],None,['Sorcery'],None,Common,PTC,None,None,None,"This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Apocalypse Chime,2.0,None,None,None,['Artifact'],None,Rare,PTC,None,None,None,"{2}, {T}, Sacrifice Apocalypse Chime: Destroy all nontoken permanents with a name originally printed in the Homelands expansion. They can't be regenerated."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PTC,None,None,None,({T}: Add {W}.)
+Winter Orb,2.0,None,None,None,['Artifact'],None,Rare,PTC,None,None,None,"As long as Winter Orb is untapped, players can't untap more than one land during their untap steps."
+Howling Mine,2.0,None,None,None,['Artifact'],None,Rare,PTC,None,None,None,"At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card."
+Jester's Cap,4.0,None,None,None,['Artifact'],None,Rare,PTC,None,None,None,"{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles."
+Wizards' School,0.0,None,"['B', 'U', 'W']",None,['Land'],None,Uncommon,PTC,None,None,None,"{T}: Add {C}.\n{1}, {T}: Add {U}.\n{2}, {T}: Add {W} or {B}."
+Elkin Bottle,3.0,None,None,None,['Artifact'],None,Rare,PTC,None,None,None,"{3}, {T}: Exile the top card of your library. Until the beginning of your next upkeep, you may play that card."
+Steal Artifact,4.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,PTC,None,None,None,Enchant artifact\nYou control enchanted artifact.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PTC,None,None,None,({T}: Add {R}.)
+Pyroblast,1.0,['Red'],['R'],None,['Instant'],None,Common,PTC,None,None,None,Choose one —\n• Counter target spell if it's blue.\n• Destroy target permanent if it's blue.
+Svyelunite Temple,0.0,None,['U'],None,['Land'],None,Uncommon,PTC,None,None,None,"Svyelunite Temple enters the battlefield tapped.\n{T}: Add {U}.\n{T}, Sacrifice Svyelunite Temple: Add {U}{U}."
+Fountain of Youth,0.0,None,None,None,['Artifact'],None,Common,PTC,None,None,None,"{2}, {T}: You gain 1 life."
+The Rack,1.0,None,None,None,['Artifact'],None,Uncommon,PTC,None,None,None,"As The Rack enters the battlefield, choose an opponent.\nAt the beginning of the chosen player's upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in their hand."
+Ashes to Ashes,3.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,PTC,None,None,None,Exile two target nonartifact creatures. Ashes to Ashes deals 5 damage to you.
+Detonate,1.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,PTC,None,None,None,Destroy target artifact with mana value X. It can't be regenerated. Detonate deals X damage to that artifact's controller.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PTC,None,None,None,({T}: Add {R}.)
+Meekstone,1.0,None,None,None,['Artifact'],None,Rare,PTC,None,None,None,Creatures with power 3 or greater don't untap during their controllers' untap steps.
+Ebon Stronghold,0.0,None,['B'],None,['Land'],None,Uncommon,PTC,None,None,None,"Ebon Stronghold enters the battlefield tapped.\n{T}: Add {B}.\n{T}, Sacrifice Ebon Stronghold: Add {B}{B}."
+Torture,1.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,PTC,None,None,None,Enchant creature\n{1}{B}: Put a -1/-1 counter on enchanted creature.
+Stromgald Cabal,3.0,['Black'],['B'],None,['Creature'],"['Human', 'Knight']",Rare,PTC,2,2,None,"{T}, Pay 1 life: Counter target white spell."
+Soul Burn,3.0,['Black'],['B'],None,['Sorcery'],None,Common,PTC,None,None,None,"Spend only black and/or red mana on X.\nSoul Burn deals X damage to any target. You gain life equal to the damage dealt, but not more than the amount of {B} spent on X, the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness."
+Jalum Tome,3.0,None,None,None,['Artifact'],None,Uncommon,PTC,None,None,None,"{2}, {T}: Draw a card, then discard a card."
+Necropotence,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,PTC,None,None,None,"Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.\nPay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step."
+Dwarven Ruins,0.0,None,['R'],None,['Land'],None,Uncommon,PTC,None,None,None,"Dwarven Ruins enters the battlefield tapped.\n{T}: Add {R}.\n{T}, Sacrifice Dwarven Ruins: Add {R}{R}."
+Eron the Relentless,5.0,['Red'],['R'],['Legendary'],['Creature'],"['Human', 'Rogue']",Uncommon,PTC,5,2,None,Haste\n{R}{R}{R}: Regenerate Eron the Relentless.
+Feldon's Cane,1.0,None,None,None,['Artifact'],None,Uncommon,PTC,None,None,None,"{T}, Exile Feldon's Cane: Shuffle your graveyard into your library."
+Drain Life,2.0,['Black'],['B'],None,['Sorcery'],None,Common,PTC,None,None,None,"Spend only black mana on X.\nDrain Life deals X damage to any target. You gain life equal to the damage dealt, but not more life than the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PTC,None,None,None,({T}: Add {R}.)
+Safe Haven,0.0,None,None,None,['Land'],None,Rare,PTC,None,None,None,"{2}, {T}: Exile target creature you control.\nAt the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return each card exiled with Safe Haven to the battlefield under its owner's control."
+Anarchy,4.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,PTC,None,None,None,Destroy all white permanents.
+Dance of the Dead,2.0,['Black'],['B'],None,['Enchantment'],['Aura'],Uncommon,PTC,None,None,None,"Enchant creature card in a graveyard\nWhen Dance of the Dead enters the battlefield, if it's on the battlefield, it loses ""enchant creature card in a graveyard"" and gains ""enchant creature put onto the battlefield with Dance of the Dead."" Put enchanted creature card onto the battlefield tapped under your control and attach Dance of the Dead to it. When Dance of the Dead leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets +1/+1 and doesn't untap during its controller's untap step.\nAt the beginning of the upkeep of enchanted creature's controller, that player may pay {1}{B}. If the player does, untap that creature."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PTC,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PTC,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PTC,None,None,None,({T}: Add {B}.)

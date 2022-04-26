@@ -1,0 +1,15 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Rare,J14,None,None,None,({T}: Add {B}.)
+"Elesh Norn, Grand Cenobite",7.0,['White'],['W'],['Legendary'],['Creature'],"['Phyrexian', 'Praetor']",Rare,J14,4,7,None,Vigilance\nOther creatures you control get +2/+2.\nCreatures your opponents control get -2/-2.
+Riku of Two Reflections,5.0,"['Green', 'Red', 'Blue']","['G', 'R', 'U']",['Legendary'],['Creature'],"['Human', 'Wizard']",Mythic,J14,2,2,None,"Whenever you cast an instant or sorcery spell, you may pay {U}{R}. If you do, copy that spell. You may choose new targets for the copy.\nWhenever another nontoken creature enters the battlefield under your control, you may pay {G}{U}. If you do, create a token that's a copy of that creature."
+"Hanna, Ship's Navigator",3.0,"['Blue', 'White']","['U', 'W']",['Legendary'],['Creature'],"['Human', 'Artificer']",Rare,J14,1,2,None,"{1}{W}{U}, {T}: Return target artifact or enchantment card from your graveyard to your hand."
+Greater Good,4.0,['Green'],['G'],None,['Enchantment'],None,Rare,J14,None,None,None,"Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Rare,J14,None,None,None,({T}: Add {U}.)
+Sword of Feast and Famine,3.0,None,None,None,['Artifact'],['Equipment'],Rare,J14,None,None,None,"Equipped creature gets +2/+2 and has protection from black and from green.\nWhenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.\nEquip {2}"
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Rare,J14,None,None,None,({T}: Add {G}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Rare,J14,None,None,None,({T}: Add {W}.)
+"Oloro, Ageless Ascetic",6.0,"['Black', 'Blue', 'White']","['B', 'U', 'W']",['Legendary'],['Creature'],"['Giant', 'Soldier']",Rare,J14,4,5,None,"At the beginning of your upkeep, you gain 2 life.\nWhenever you gain life, you may pay {1}. If you do, draw a card and each opponent loses 1 life.\nAt the beginning of your upkeep, if Oloro, Ageless Ascetic is in the command zone, you gain 2 life."
+"Nekusar, the Mindrazer",5.0,"['Black', 'Red', 'Blue']","['B', 'R', 'U']",['Legendary'],['Creature'],"['Zombie', 'Wizard']",Rare,J14,2,4,None,"At the beginning of each player's draw step, that player draws an additional card.\nWhenever an opponent draws a card, Nekusar, the Mindrazer deals 1 damage to that player."
+Force of Will,5.0,['Blue'],['U'],None,['Instant'],None,Rare,J14,None,None,None,You may pay 1 life and exile a blue card from your hand rather than pay this spell's mana cost.\nCounter target spell.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Rare,J14,None,None,None,({T}: Add {R}.)
+"Karador, Ghost Chieftain",8.0,"['Black', 'Green', 'White']","['B', 'G', 'W']",['Legendary'],['Creature'],"['Centaur', 'Spirit']",Rare,J14,3,4,None,"This spell costs {1} less to cast for each creature card in your graveyard.\nDuring each of your turns, you may cast a creature spell from your graveyard."

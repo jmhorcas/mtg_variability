@@ -1,0 +1,2 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Powder Keg,2.0,None,None,None,['Artifact'],None,Rare,P04,None,None,None,"At the beginning of your upkeep, you may put a fuse counter on Powder Keg.\n{T}, Sacrifice Powder Keg: Destroy each artifact and creature with mana value equal to the number of fuse counters on Powder Keg."

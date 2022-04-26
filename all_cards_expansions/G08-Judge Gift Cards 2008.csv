@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Orim's Chant,1.0,['White'],['W'],None,['Instant'],None,Rare,G08,None,None,None,"Kicker {W} (You may pay an additional {W} as you cast this spell.)\nTarget player can't cast spells this turn. If this spell was kicked, creatures can't attack this turn."
+Living Wish,2.0,['Green'],['G'],None,['Sorcery'],None,Rare,G08,None,None,None,You may reveal a creature or land card you own from outside the game and put it into your hand. Exile Living Wish.
+Goblin Piledriver,2.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Rare,G08,1,2,None,"Protection from blue (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue.)\nWhenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin."
+Mind's Desire,6.0,['Blue'],['U'],None,['Sorcery'],None,Rare,G08,None,None,None,"Shuffle your library. Then exile the top card of your library. Until end of turn, you may play that card without paying its mana cost.\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)"
+Demonic Tutor,2.0,['Black'],['B'],None,['Sorcery'],None,Rare,G08,None,None,None,"Search your library for a card, put that card into your hand, then shuffle."

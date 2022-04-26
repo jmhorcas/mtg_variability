@@ -1,0 +1,10 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Dauntless Dourbark,4.0,['Green'],['G'],None,['Creature'],"['Treefolk', 'Warrior']",Rare,PG07,*,*,None,Dauntless Dourbark's power and toughness are each equal to the number of Forests you control plus the number of Treefolk you control.\nDauntless Dourbark has trample as long as you control another Treefolk.
+Mind Stone,2.0,None,None,None,['Artifact'],None,Rare,PG07,None,None,None,"{T}: Add {C}.\n{1}, {T}, Sacrifice Mind Stone: Draw a card."
+Reckless Wurm,5.0,['Red'],['R'],None,['Creature'],['Wurm'],Rare,PG07,4,4,None,"Trample\nMadness {2}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+Calciderm,4.0,['White'],['W'],None,['Creature'],['Beast'],Rare,PG07,5,5,None,"Shroud (This creature can't be the target of spells or abilities.)\nVanishing 4 (This creature enters the battlefield with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)"
+Boomerang,2.0,['Blue'],['U'],None,['Instant'],None,Rare,PG07,None,None,None,Return target permanent to its owner's hand.
+Mogg Fanatic,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Rare,PG07,1,1,None,Sacrifice Mogg Fanatic: It deals 1 damage to any target.
+Llanowar Elves,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Rare,PG07,1,1,None,{T}: Add {G}.
+Zoetic Cavern,0.0,None,None,None,['Land'],None,Rare,PG07,None,None,None,{T}: Add {C}.\nMorph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Yixlid Jailer,2.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Wizard']",Rare,PG07,2,1,None,Cards in graveyards lose all abilities.

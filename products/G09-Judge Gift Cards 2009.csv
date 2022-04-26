@@ -1,0 +1,11 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Flooded Strand,0.0,None,None,None,['Land'],None,Rare,G09,None,None,None,"{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle."
+Dark Ritual,1.0,['Black'],['B'],None,['Instant'],None,Rare,G09,None,None,None,Add {B}{B}{B}.
+Polluted Delta,0.0,None,None,None,['Land'],None,Rare,G09,None,None,None,"{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle."
+Windswept Heath,0.0,None,None,None,['Land'],None,Rare,G09,None,None,None,"{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."
+Maze of Ith,0.0,None,None,None,['Land'],None,Rare,G09,None,None,None,{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+Survival of the Fittest,2.0,['Green'],['G'],None,['Enchantment'],None,Rare,G09,None,None,None,"{G}, Discard a creature card: Search your library for a creature card, reveal that card, put it into your hand, then shuffle."
+Wooded Foothills,0.0,None,None,None,['Land'],None,Rare,G09,None,None,None,"{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle."
+Bloodstained Mire,0.0,None,None,None,['Land'],None,Rare,G09,None,None,None,"{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle."
+Stifle,1.0,['Blue'],['U'],None,['Instant'],None,Rare,G09,None,None,None,Counter target activated or triggered ability. (Mana abilities can't be targeted.)
+Burning Wish,2.0,['Red'],['R'],None,['Sorcery'],None,Rare,G09,None,None,None,You may reveal a sorcery card you own from outside the game and put it into your hand. Exile Burning Wish.

@@ -1,0 +1,2 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Fungal Shambler,7.0,"['Black', 'Green', 'Blue']","['B', 'G', 'U']",None,['Creature'],"['Fungus', 'Beast']",Rare,PAPC,6,4,None,"Trample\nWhenever Fungal Shambler deals damage to an opponent, you draw a card and that opponent discards a card."

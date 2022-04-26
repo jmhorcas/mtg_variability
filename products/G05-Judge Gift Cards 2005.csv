@@ -1,0 +1,5 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Sol Ring,1.0,None,None,None,['Artifact'],None,Rare,G05,None,None,None,{T}: Add {C}{C}.
+Gemstone Mine,0.0,None,None,None,['Land'],None,Rare,G05,None,None,None,"Gemstone Mine enters the battlefield with three mining counters on it.\n{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color. If there are no mining counters on Gemstone Mine, sacrifice it."
+Mishra's Factory,0.0,None,None,None,['Land'],None,Rare,G05,None,None,None,{T}: Add {C}.\n{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.\n{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.
+Regrowth,2.0,['Green'],['G'],None,['Sorcery'],None,Rare,G05,None,None,None,Return target card from your graveyard to your hand.

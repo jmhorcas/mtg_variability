@@ -1,0 +1,10 @@
+CMC: set()
+Colors: set()
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: set()
+Types: {'Land'}
+Subtypes: set()
+Rarity: {'Mythic'}
+Power: set()
+Toughness: set()
+Loyalty: set()

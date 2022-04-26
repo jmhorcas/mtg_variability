@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Snow', 'Basic', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Elk', 'Scout', 'Viashino', 'Faerie', 'Kor', 'Naga', 'Rat', 'Equipment', 'Cyclops', 'Ouphe', 'Masticore', 'Human', 'Djinn', 'Cleric', 'Frog', 'Giant', 'Rhino', 'Plant', 'Spider', 'Treefolk', 'Spirit', 'Wall', 'Warrior', 'Wurm', 'Skeleton', 'Bird', 'Carrier', 'Elemental', 'Vedalken', 'Wrenn', 'Scarecrow', 'Ranger', 'Bear', 'Sliver', 'Horror', 'Boar', 'Minotaur', 'Shapeshifter', 'Elf', 'Mongoose', 'Goblin', 'Golem', 'Ninja', 'Aura', 'Snake', 'Island', 'Zombie', 'Specter', 'Dragon', 'Mountain', 'Knight', 'Devil', 'Jellyfish', 'Serra', 'Phyrexian', 'Shaman', 'Azra', 'Forest', 'Insect', 'Berserker', 'Artificer', 'Trilobite', 'Druid', 'Avatar', 'Orc', 'Lizard', 'Incarnation', 'Cat', 'Vampire', 'Construct', 'Angel', 'Demon', 'Slug', 'Beast', 'Squid', 'Plains', 'Drake', 'Unicorn', 'Swamp', 'Soldier', 'Illusion', 'Wizard', 'Crab'}
+Rarity: {'Rare', 'Common', 'Uncommon', 'Mythic'}
+Power: {'4', '7', '5', '*', '1', '8', '2', '0', '3', '6'}
+Toughness: {'4', '7', '5', '*', '1', '8', '2', '0', '3', '6'}
+Loyalty: {'3', '4'}

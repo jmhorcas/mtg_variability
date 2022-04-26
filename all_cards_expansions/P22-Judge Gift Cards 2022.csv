@@ -1,0 +1,4 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Greater Auramancy,2.0,['White'],['W'],None,['Enchantment'],None,Rare,P22,None,None,None,Other enchantments you control have shroud. (A permanent with shroud can't be the target of spells or abilities.)\nEnchanted creatures you control have shroud.
+No Mercy,4.0,['Black'],['B'],None,['Enchantment'],None,Rare,P22,None,None,None,"Whenever a creature deals damage to you, destroy it."
+Omniscience,10.0,['Blue'],['U'],None,['Enchantment'],None,Rare,P22,None,None,None,You may cast spells from your hand without paying their mana costs.

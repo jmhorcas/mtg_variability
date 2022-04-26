@@ -1,0 +1,7 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Snapping Drake,4.0,['Blue'],['U'],None,['Creature'],['Drake'],Rare,PPOD,3,2,None,Flying (This creature can't be blocked except by creatures with flying or reach.)
+Storm Crow,2.0,['Blue'],['U'],None,['Creature'],['Bird'],Rare,PPOD,1,2,None,Flying (This creature can't be blocked except by creatures with flying or reach.)
+Armored Pegasus,2.0,['White'],['W'],None,['Creature'],['Pegasus'],Common,PPOD,1,2,None,Flying
+Cloud Pirates,1.0,['Blue'],['U'],None,['Creature'],"['Human', 'Pirate']",Rare,PPOD,1,1,None,Flying\nCloud Pirates can block only creatures with flying.
+Bull Hippo,4.0,['Green'],['G'],None,['Creature'],['Hippo'],Rare,PPOD,3,3,None,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Feral Shadow,3.0,['Black'],['B'],None,['Creature'],['Nightstalker'],Rare,PPOD,2,1,None,Flying

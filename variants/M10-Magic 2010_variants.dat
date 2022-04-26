@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 11.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Ooze', 'Elk', 'Garruk', 'Scout', 'Viashino', 'Faerie', 'Rat', 'Equipment', 'Efreet', 'Nightmare', 'Human', 'Djinn', 'Cleric', 'Noble', 'Giant', 'Rhino', 'Spider', 'Turtle', 'Spirit', 'Griffin', 'Antelope', 'Wall', 'Hydra', 'Warrior', 'Wurm', 'Centaur', 'Skeleton', 'Bird', 'Troll', 'Jace', 'Elemental', 'Ranger', 'Assassin', 'Siren', 'Bear', 'Thopter', 'Wraith', 'Minotaur', 'Merfolk', 'Shapeshifter', 'Fungus', 'Liliana', 'Chandra', 'Serpent', 'Elf', 'Sphinx', 'Rogue', 'Warlock', 'Goblin', 'Golem', 'Aura', 'Snake', 'Island', 'Horse', 'Jackal', 'Zombie', 'Specter', 'Dragon', 'Mountain', 'Knight', 'Shaman', 'Forest', 'Insect', 'Berserker', 'Elephant', 'Druid', 'Pegasus', 'Shade', 'Cat', 'Vampire', 'Bat', 'Angel', 'Demon', 'Dog', 'Ajani', 'Beast', 'Plains', 'Drake', 'Unicorn', 'Swamp', 'Phoenix', 'Illusion', 'Soldier', 'Wizard'}
+Rarity: {'Uncommon', 'Common', 'Mythic', 'Rare'}
+Power: {'4', '11', '7', '5', '1', '*', '2', '9', '0', '3', '6'}
+Toughness: {'4', '11', '7', '5', '1', '*', '2', '9', '0', '3'}
+Loyalty: {'3', '6', '4', '5'}

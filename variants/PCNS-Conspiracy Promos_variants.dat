@@ -1,0 +1,10 @@
+CMC: {6.0}
+Colors: {'Black', 'White'}
+ColorIdentity: {'W', 'B'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Angel'}
+Rarity: {'Rare'}
+Power: {'4'}
+Toughness: {'4'}
+Loyalty: set()

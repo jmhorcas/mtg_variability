@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Ooze', 'Scout', 'Viashino', 'Faerie', 'Equipment', 'Imp', 'Human', 'Cleric', 'Sheep', 'Frog', 'Giant', 'Rhino', 'Spider', 'Turtle', 'Spirit', 'Griffin', 'Wall', 'Hydra', 'Warrior', 'Wurm', 'Centaur', 'Skeleton', 'Bird', 'Troll', 'Vedalken', 'Elemental', 'Crocodile', 'Mutant', 'Boar', 'Merfolk', 'Ogre', 'Elf', 'Sphinx', 'Rogue', 'Dryad', 'Goblin', 'Golem', 'Aura', 'Snake', 'Island', 'Advisor', 'Zombie', 'Shark', 'Dragon', 'Mountain', 'Salamander', 'Knight', 'Devil', 'Jellyfish', 'Shaman', 'Octopus', 'Forest', 'Insect', 'Berserker', 'Elephant', 'Domri', 'Kaya', 'Druid', 'Pegasus', 'Lizard', 'Shade', 'Cat', 'Vampire', 'Fish', 'Construct', 'Angel', 'Demon', 'Homunculus', 'Dog', 'Beast', 'Thrull', 'Plains', 'Drake', 'Gate', 'Swamp', 'Soldier', 'Wizard', 'Dovin', 'Crab'}
+Rarity: {'Rare', 'Common', 'Mythic', 'Uncommon'}
+Power: {'4', '7', '5', '1', '8', '2', '0', '3', '6'}
+Toughness: {'4', '7', '5', '1', '8', '2', '0', '3', '6'}
+Loyalty: {'3', '4', '5'}

@@ -1,0 +1,10 @@
+CMC: {2.0, 3.0, 4.0, 6.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: set()
+Types: {'Instant', 'Tribal', 'Sorcery'}
+Subtypes: {'Shapeshifter'}
+Rarity: {'Rare'}
+Power: set()
+Toughness: set()
+Loyalty: set()

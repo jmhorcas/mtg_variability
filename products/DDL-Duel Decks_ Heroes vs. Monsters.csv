@@ -1,0 +1,82 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DDL,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DDL,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DDL,None,None,None,({T}: Add {R}.)
+New Benalia,0.0,None,['W'],None,['Land'],None,Uncommon,DDL,None,None,None,"New Benalia enters the battlefield tapped.\nWhen New Benalia enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {W}."
+Boros Guildgate,0.0,None,"['R', 'W']",None,['Land'],['Gate'],Common,DDL,None,None,None,Boros Guildgate enters the battlefield tapped.\n{T}: Add {R} or {W}.
+Pyrokinesis,6.0,['Red'],['R'],None,['Instant'],None,Uncommon,DDL,None,None,None,You may exile a red card from your hand rather than pay this spell's mana cost.\nPyrokinesis deals 4 damage divided as you choose among any number of target creatures.
+Winds of Rath,5.0,['White'],['W'],None,['Sorcery'],None,Rare,DDL,None,None,None,Destroy all creatures that aren't enchanted. They can't be regenerated.
+Miraculous Recovery,5.0,['White'],['W'],None,['Instant'],None,Uncommon,DDL,None,None,None,Return target creature card from your graveyard to the battlefield. Put a +1/+1 counter on it.
+Smite the Monstrous,4.0,['White'],['W'],None,['Instant'],None,Common,DDL,None,None,None,Destroy target creature with power 4 or greater.
+Griffin Guide,3.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,DDL,None,None,None,"Enchant creature\nEnchanted creature gets +2/+2 and has flying.\nWhen enchanted creature dies, create a 2/2 white Griffin creature token with flying."
+Battle Mastery,3.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,DDL,None,None,None,Enchant creature\nEnchanted creature has double strike. (It deals both first-strike and regular combat damage.)
+Undying Rage,3.0,['Red'],['R'],None,['Enchantment'],['Aura'],Uncommon,DDL,None,None,None,"Enchant creature\nEnchanted creature gets +2/+2 and can't block.\nWhen Undying Rage is put into a graveyard from the battlefield, return Undying Rage to its owner's hand."
+Moment of Heroism,2.0,['White'],['W'],None,['Instant'],None,Common,DDL,None,None,None,Target creature gets +2/+2 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)
+Bonds of Faith,2.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,DDL,None,None,None,"Enchant creature\nEnchanted creature gets +2/+2 as long as it's a Human. Otherwise, it can't attack or block."
+Ordeal of Purphoros,2.0,['Red'],['R'],None,['Enchantment'],['Aura'],Uncommon,DDL,None,None,None,"Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Purphoros.\nWhen you sacrifice Ordeal of Purphoros, it deals 3 damage to any target."
+Magma Jet,2.0,['Red'],['R'],None,['Instant'],None,Uncommon,DDL,None,None,None,Magma Jet deals 2 damage to any target. Scry 2.
+Stand Firm,1.0,['White'],['W'],None,['Instant'],None,Common,DDL,None,None,None,"Target creature gets +1/+1 until end of turn. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+Righteousness,1.0,['White'],['W'],None,['Instant'],None,Uncommon,DDL,None,None,None,Target blocking creature gets +7/+7 until end of turn.
+Pay No Heed,1.0,['White'],['W'],None,['Instant'],None,Common,DDL,None,None,None,Prevent all damage a source of your choice would deal this turn.
+Daily Regimen,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,DDL,None,None,None,Enchant creature\n{1}{W}: Put a +1/+1 counter on enchanted creature.
+Somberwald Vigilante,1.0,['Red'],['R'],None,['Creature'],"['Human', 'Warrior']",Common,DDL,1,1,None,"Whenever Somberwald Vigilante becomes blocked by a creature, Somberwald Vigilante deals 1 damage to that creature."
+Dawnstrike Paladin,5.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Common,DDL,2,4,None,Vigilance (Attacking doesn't cause this creature to tap.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)
+"Kamahl, Pit Fighter",6.0,['Red'],['R'],['Legendary'],['Creature'],"['Human', 'Barbarian']",Rare,DDL,6,1,None,"Haste (This creature can attack and {T} as soon as it comes under your control.)\n{T}: Kamahl, Pit Fighter deals 3 damage to any target."
+Condemn,1.0,['White'],['W'],None,['Instant'],None,Uncommon,DDL,None,None,None,Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.
+Nobilis of War,5.0,"['Red', 'White']","['R', 'W']",None,['Creature'],"['Spirit', 'Avatar']",Rare,DDL,3,4,None,Flying\nAttacking creatures you control get +2/+0.
+Gustcloak Sentinel,4.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,DDL,3,3,None,"Whenever Gustcloak Sentinel becomes blocked, you may untap it and remove it from combat."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DDL,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DDL,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DDL,None,None,None,({T}: Add {W}.)
+Armory Guard,4.0,['White'],['W'],None,['Creature'],"['Giant', 'Soldier']",Common,DDL,2,5,None,Armory Guard has vigilance as long as you control a Gate.
+Anax and Cymede,3.0,"['Red', 'White']","['R', 'W']",['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,DDL,3,2,None,"First strike, vigilance\nHeroic — Whenever you cast a spell that targets Anax and Cymede, creatures you control get +1/+1 and gain trample until end of turn."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,DDL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,DDL,None,None,None,({T}: Add {G}.)
+Stun Sniper,2.0,"['Red', 'White']","['R', 'W']",None,['Creature'],"['Human', 'Archer']",Uncommon,DDL,1,1,None,"{1}, {T}: Stun Sniper deals 1 damage to target creature. Tap that creature."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,DDL,None,None,None,({T}: Add {G}.)
+Freewind Equenaut,3.0,['White'],['W'],None,['Creature'],"['Human', 'Archer']",Common,DDL,2,2,None,"Flying\nAs long as Freewind Equenaut is enchanted, it has ""{T}: Freewind Equenaut deals 2 damage to target attacking or blocking creature."""
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,DDL,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DDL,None,None,None,({T}: Add {R}.)
+Auramancer,3.0,['White'],['W'],None,['Creature'],"['Human', 'Wizard']",Common,DDL,2,2,None,"When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DDL,None,None,None,({T}: Add {R}.)
+Truefire Paladin,2.0,"['Red', 'White']","['R', 'W']",None,['Creature'],"['Human', 'Knight']",Uncommon,DDL,2,2,None,Vigilance\n{R}{W}: Truefire Paladin gets +2/+0 until end of turn.\n{R}{W}: Truefire Paladin gains first strike until end of turn.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DDL,None,None,None,({T}: Add {R}.)
+Figure of Destiny,1.0,"['Red', 'White']","['R', 'W']",None,['Creature'],['Kithkin'],Rare,DDL,1,1,None,"{R/W}: Figure of Destiny becomes a Kithkin Spirit with base power and toughness 2/2.\n{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a Kithkin Spirit Warrior with base power and toughness 4/4.\n{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes a Kithkin Spirit Warrior Avatar with base power and toughness 8/8, flying, and first strike."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DDL,None,None,None,({T}: Add {R}.)
+Sun Titan,6.0,['White'],['W'],None,['Creature'],['Giant'],Mythic,DDL,6,6,None,"Vigilance\nWhenever Sun Titan enters the battlefield or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield."
+"Skarrg, the Rage Pits",0.0,None,"['G', 'R']",None,['Land'],None,Uncommon,DDL,None,None,None,"{T}: Add {C}.\n{R}{G}, {T}: Target creature gets +1/+1 and gains trample until end of turn."
+Thraben Valiant,2.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,DDL,2,1,None,Vigilance
+Fencing Ace,2.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,DDL,1,1,None,Double strike
+Llanowar Reborn,0.0,None,['G'],None,['Land'],None,Uncommon,DDL,None,None,None,"Llanowar Reborn enters the battlefield tapped.\n{T}: Add {G}.\nGraft 1 (This land enters the battlefield with a +1/+1 counter on it. Whenever a creature enters the battlefield, you may move a +1/+1 counter from this land onto it.)"
+Kazandu Refuge,0.0,None,"['G', 'R']",None,['Land'],None,Uncommon,DDL,None,None,None,"Kazandu Refuge enters the battlefield tapped.\nWhen Kazandu Refuge enters the battlefield, you gain 1 life.\n{T}: Add {R} or {G}."
+Cavalry Pegasus,2.0,['White'],['W'],None,['Creature'],['Pegasus'],Common,DDL,1,1,None,"Flying\nWhenever Cavalry Pegasus attacks, each attacking Human gains flying until end of turn."
+Fires of Yavimaya,3.0,"['Green', 'Red']","['G', 'R']",None,['Enchantment'],None,Uncommon,DDL,None,None,None,Creatures you control have haste.\nSacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+Beast Within,3.0,['Green'],['G'],None,['Instant'],None,Uncommon,DDL,None,None,None,Destroy target permanent. Its controller creates a 3/3 green Beast creature token.
+Volt Charge,3.0,['Red'],['R'],None,['Instant'],None,Common,DDL,None,None,None,"Volt Charge deals 3 damage to any target. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+Dragon Blood,3.0,None,None,None,['Artifact'],None,Uncommon,DDL,None,None,None,"{3}, {T}: Put a +1/+1 counter on target creature."
+Destructive Revelry,2.0,"['Green', 'Red']","['G', 'R']",None,['Instant'],None,Uncommon,DDL,None,None,None,Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to that permanent's controller.
+Terrifying Presence,2.0,['Green'],['G'],None,['Instant'],None,Common,DDL,None,None,None,Prevent all combat damage that would be dealt by creatures other than target creature this turn.
+Regrowth,2.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,DDL,None,None,None,Return target card from your graveyard to your hand.
+Pyroclasm,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,DDL,None,None,None,Pyroclasm deals 2 damage to each creature.
+Prey Upon,1.0,['Green'],['G'],None,['Sorcery'],None,Common,DDL,None,None,None,Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)
+Shower of Sparks,1.0,['Red'],['R'],None,['Instant'],None,Common,DDL,None,None,None,Shower of Sparks deals 1 damage to target creature and 1 damage to target player or planeswalker.
+Skarrgan Skybreaker,7.0,"['Green', 'Red']","['G', 'R']",None,['Creature'],"['Giant', 'Shaman']",Uncommon,DDL,3,3,None,"Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)\n{1}, Sacrifice Skarrgan Skybreaker: It deals damage equal to its power to any target."
+Krosan Tusker,7.0,['Green'],['G'],None,['Creature'],"['Boar', 'Beast']",Common,DDL,6,5,None,"Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)\nWhen you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle. (Do this before you draw.)"
+Valley Rannet,6.0,"['Green', 'Red']","['G', 'R']",None,['Creature'],['Beast'],Common,DDL,6,3,None,"Mountaincycling {2}, forestcycling {2} ({2}, Discard this card: Search your library for a Mountain or Forest card, reveal it, put it into your hand, then shuffle.)"
+Skarrgan Firebird,6.0,['Red'],['R'],None,['Creature'],['Phoenix'],Rare,DDL,3,3,None,"Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)\nFlying\n{R}{R}{R}: Return Skarrgan Firebird from your graveyard to your hand. Activate only if an opponent was dealt damage this turn."
+Crater Hellion,6.0,['Red'],['R'],None,['Creature'],"['Hellion', 'Beast']",Rare,DDL,6,6,None,"Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Crater Hellion enters the battlefield, it deals 4 damage to each other creature."
+Conquering Manticore,6.0,['Red'],['R'],None,['Creature'],['Manticore'],Rare,DDL,5,5,None,"Flying\nWhen Conquering Manticore enters the battlefield, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn."
+Deus of Calamity,5.0,"['Green', 'Red']","['G', 'R']",None,['Creature'],"['Spirit', 'Avatar']",Rare,DDL,6,6,None,"Trample\nWhenever Deus of Calamity deals 6 or more damage to an opponent, destroy target land that player controls."
+Ghor-Clan Savage,5.0,['Green'],['G'],None,['Creature'],"['Centaur', 'Berserker']",Common,DDL,2,3,None,"Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)"
+Gorehorn Minotaurs,4.0,['Red'],['R'],None,['Creature'],"['Minotaur', 'Warrior']",Common,DDL,3,3,None,"Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)"
+Crowned Ceratok,4.0,['Green'],['G'],None,['Creature'],['Rhino'],Uncommon,DDL,4,3,None,Trample\nEach creature you control with a +1/+1 counter on it has trample.
+Troll Ascetic,3.0,['Green'],['G'],None,['Creature'],"['Troll', 'Shaman']",Rare,DDL,3,2,None,Hexproof (This creature can't be the target of spells or abilities your opponents control.)\n{1}{G}: Regenerate Troll Ascetic.
+Blood Ogre,3.0,['Red'],['R'],None,['Creature'],"['Ogre', 'Warrior']",Common,DDL,2,2,None,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)\nFirst strike (This creature deals combat damage before creatures without first strike.)"
+Zhur-Taa Druid,2.0,"['Green', 'Red']","['G', 'R']",None,['Creature'],"['Human', 'Druid']",Common,DDL,1,1,None,"{T}: Add {G}.\nWhenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent."
+Satyr Hedonist,2.0,['Green'],"['G', 'R']",None,['Creature'],['Satyr'],Common,DDL,2,1,None,"{R}, Sacrifice Satyr Hedonist: Add {R}{R}{R}."
+Kavu Predator,2.0,['Green'],['G'],None,['Creature'],['Kavu'],Uncommon,DDL,2,2,None,"Trample\nWhenever an opponent gains life, put that many +1/+1 counters on Kavu Predator."
+Deadly Recluse,2.0,['Green'],['G'],None,['Creature'],['Spider'],Common,DDL,1,2,None,Reach (This creature can block creatures with flying.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Orcish Lumberjack,1.0,['Red'],"['G', 'R']",None,['Creature'],['Orc'],Common,DDL,1,1,None,"{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G}."
+"Polukranos, World Eater",4.0,['Green'],['G'],['Legendary'],['Creature'],['Hydra'],Mythic,DDL,5,5,None,"{X}{X}{G}: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)\nWhen Polukranos, World Eater becomes monstrous, it deals X damage divided as you choose among any number of target creatures your opponents control. Each of those creatures deals damage equal to its power to Polukranos."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DDL,None,None,None,({T}: Add {W}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DDL,None,None,None,({T}: Add {R}.)

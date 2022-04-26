@@ -1,0 +1,9 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Rise from the Grave,5.0,['Black'],['B'],None,['Sorcery'],None,Rare,PW09,None,None,None,Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
+Hellspark Elemental,2.0,['Red'],['R'],None,['Creature'],['Elemental'],Rare,PW09,3,1,None,"Trample, haste\nAt the beginning of the end step, sacrifice Hellspark Elemental.\nUnearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+Path to Exile,1.0,['White'],['W'],None,['Instant'],None,Rare,PW09,None,None,None,"Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+Kor Duelist,1.0,['White'],['W'],None,['Creature'],"['Kor', 'Soldier']",Rare,PW09,1,1,None,"As long as Kor Duelist is equipped, it has double strike. (It deals both first-strike and regular combat damage.)"
+Vampire Nighthawk,3.0,['Black'],['B'],None,['Creature'],"['Vampire', 'Shaman']",Rare,PW09,2,3,None,"Flying, deathtouch, lifelink"
+Marisi's Twinclaws,4.0,"['Green', 'Red', 'White']","['G', 'R', 'W']",None,['Creature'],"['Cat', 'Warrior']",Rare,PW09,2,4,None,Double strike
+Mind Control,5.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Rare,PW09,None,None,None,Enchant creature\nYou control enchanted creature.
+Slave of Bolas,5.0,"['Black', 'Red', 'Blue']","['B', 'R', 'U']",None,['Sorcery'],None,Rare,PW09,None,None,None,Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.

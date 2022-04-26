@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 4.0}
+Colors: {'Red'}
+ColorIdentity: {'R'}
+Supertypes: {'Legendary'}
+Types: {'Enchantment', 'Planeswalker', 'Creature', 'Sorcery', 'Instant'}
+Subtypes: {'Chandra', 'Shaman', 'Human'}
+Rarity: {'Rare', 'Mythic'}
+Power: {'2'}
+Toughness: {'1'}
+Loyalty: {'4'}

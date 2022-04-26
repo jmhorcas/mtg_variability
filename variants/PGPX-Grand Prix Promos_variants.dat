@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 5.0, 6.0, 7.0, 8.0, 10.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Tribal', 'Land', 'Creature', 'Sorcery', 'Artifact'}
+Subtypes: {'Beast', 'Equipment', 'Swamp', 'Mountain', 'Snake', 'Avatar', 'Eldrazi', 'Forest', 'Giant', 'Island', 'Scout', 'Plains', 'Demon', 'Kor', 'Artificer', 'Goblin', 'Hydra'}
+Rarity: {'Rare', 'Mythic'}
+Power: {'7', '1', '2', '6', '10'}
+Toughness: {'7', '1', '2', '6', '10'}
+Loyalty: set()

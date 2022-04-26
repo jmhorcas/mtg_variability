@@ -1,0 +1,10 @@
+CMC: {6.0}
+Colors: {'Black'}
+ColorIdentity: {'B'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Specter'}
+Rarity: {'Rare'}
+Power: {'4'}
+Toughness: {'4'}
+Loyalty: set()

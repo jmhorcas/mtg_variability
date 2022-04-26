@@ -1,0 +1,10 @@
+CMC: {8.0}
+Colors: {'White'}
+ColorIdentity: {'W'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Avatar'}
+Rarity: {'Rare'}
+Power: {'4'}
+Toughness: {'9'}
+Loyalty: set()

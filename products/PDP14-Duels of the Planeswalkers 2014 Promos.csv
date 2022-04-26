@@ -1,0 +1,4 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Ogre Battledriver,4.0,['Red'],['R'],None,['Creature'],"['Ogre', 'Warrior']",Rare,PDP14,3,3,None,"Whenever another creature enters the battlefield under your control, that creature gets +2/+0 and gains haste until end of turn. (It can attack and {T} this turn.)"
+Scavenging Ooze,2.0,['Green'],['G'],None,['Creature'],['Ooze'],Rare,PDP14,2,2,None,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life."
+Bonescythe Sliver,4.0,['White'],['W'],None,['Creature'],['Sliver'],Rare,PDP14,2,2,None,Sliver creatures you control have double strike. (They deal both first-strike and regular combat damage.)

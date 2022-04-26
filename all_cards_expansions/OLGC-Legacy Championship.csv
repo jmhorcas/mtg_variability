@@ -1,0 +1,19 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Plateau,0.0,None,"['R', 'W']",None,['Land'],"['Mountain', 'Plains']",Mythic,OLGC,None,None,None,({T}: Add {R} or {W}.)
+Badlands,0.0,None,"['B', 'R']",None,['Land'],"['Swamp', 'Mountain']",Mythic,OLGC,None,None,None,({T}: Add {B} or {R}.)
+Scrubland,0.0,None,"['B', 'W']",None,['Land'],"['Plains', 'Swamp']",Mythic,OLGC,None,None,None,({T}: Add {W} or {B}.)
+Maze of Ith,0.0,None,None,None,['Land'],None,Mythic,OLGC,None,None,None,{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+Savannah,0.0,None,"['G', 'W']",None,['Land'],"['Forest', 'Plains']",Mythic,OLGC,None,None,None,({T}: Add {G} or {W}.)
+Brainstorm,1.0,['Blue'],['U'],None,['Instant'],None,Rare,OLGC,None,None,None,"Draw three cards, then put two cards from your hand on top of your library in any order."
+Taiga,0.0,None,"['G', 'R']",None,['Land'],"['Mountain', 'Forest']",Mythic,OLGC,None,None,None,({T}: Add {R} or {G}.)
+Bayou,0.0,None,"['B', 'G']",None,['Land'],"['Swamp', 'Forest']",Mythic,OLGC,None,None,None,({T}: Add {B} or {G}.)
+Wasteland,0.0,None,None,None,['Land'],None,Uncommon,OLGC,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land."
+Karakas,0.0,None,['W'],['Legendary'],['Land'],None,Mythic,OLGC,None,None,None,{T}: Add {W}.\n{T}: Return target legendary creature to its owner's hand.
+Force of Will,5.0,['Blue'],['U'],None,['Instant'],None,Rare,OLGC,None,None,None,You may pay 1 life and exile a blue card from your hand rather than pay this spell's mana cost.\nCounter target spell.
+Rishadan Port,0.0,None,None,None,['Land'],None,Mythic,OLGC,None,None,None,"{T}: Add {C}.\n{1}, {T}: Tap target land."
+Underground Sea,0.0,None,"['B', 'U']",None,['Land'],"['Island', 'Swamp']",Mythic,OLGC,None,None,None,({T}: Add {U} or {B}.)
+City of Traitors,0.0,None,None,None,['Land'],None,Mythic,OLGC,None,None,None,"When you play another land, sacrifice City of Traitors.\n{T}: Add {C}{C}."
+Tundra,0.0,None,"['U', 'W']",None,['Land'],"['Plains', 'Island']",Mythic,OLGC,None,None,None,({T}: Add {W} or {U}.)
+Tropical Island,0.0,None,"['G', 'U']",None,['Land'],"['Forest', 'Island']",Mythic,OLGC,None,None,None,({T}: Add {G} or {U}.)
+Gaea's Cradle,0.0,None,['G'],['Legendary'],['Land'],None,Mythic,OLGC,None,None,None,{T}: Add {G} for each creature you control.
+Volcanic Island,0.0,None,"['R', 'U']",None,['Land'],"['Island', 'Mountain']",Mythic,OLGC,None,None,None,({T}: Add {U} or {R}.)

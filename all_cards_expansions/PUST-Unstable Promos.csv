@@ -1,0 +1,2 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Earl of Squirrel,6.0,['Green'],['G'],None,['Creature'],"['Squirrel', 'Noble', 'Advisor']",Rare,PUST,4,4,None,Squirrellink (Damage dealt by this creature also causes you to create that many 1/1 green Squirrel creature tokens.)\nCreature tokens you control are Squirrels in addition to their other creature types.\nOther Squirrels you control get +1/+1.

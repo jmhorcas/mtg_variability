@@ -1,0 +1,21 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Willow Elf,1.0,['Green'],['G'],None,['Creature'],['Elf'],Common,S00,1,1,None,None
+Rhox,6.0,['Green'],['G'],None,['Creature'],"['Rhino', 'Beast']",Rare,S00,5,5,None,"You may have Rhox assign its combat damage as though it weren't blocked.\n{2}{G}: Regenerate Rhox. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
+Moon Sprite,2.0,['Green'],['G'],None,['Creature'],['Faerie'],Uncommon,S00,1,1,None,Flying
+Breath of Life,4.0,['White'],['W'],None,['Sorcery'],None,Uncommon,S00,None,None,None,Return target creature card from your graveyard to the battlefield.
+Ogre Warrior,4.0,['Red'],['R'],None,['Creature'],"['Ogre', 'Warrior']",Common,S00,3,3,None,None
+Durkwood Boars,5.0,['Green'],['G'],None,['Creature'],['Boar'],Common,S00,4,4,None,None
+Monstrous Growth,2.0,['Green'],['G'],None,['Sorcery'],None,Common,S00,None,None,None,Target creature gets +4/+4 until end of turn.
+Trained Orgg,7.0,['Red'],['R'],None,['Creature'],['Orgg'],Rare,S00,6,6,None,None
+Mons's Goblin Raiders,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,S00,1,1,None,None
+Lava Axe,5.0,['Red'],['R'],None,['Sorcery'],None,Common,S00,None,None,None,Lava Axe deals 5 damage to target player or planeswalker.
+Hand of Death,3.0,['Black'],['B'],None,['Sorcery'],None,Common,S00,None,None,None,Destroy target nonblack creature.
+Giant Octopus,4.0,['Blue'],['U'],None,['Creature'],['Octopus'],Common,S00,3,3,None,None
+Vizzerdrix,7.0,['Blue'],['U'],None,['Creature'],"['Rabbit', 'Beast']",Rare,S00,6,6,None,None
+Time Ebb,3.0,['Blue'],['U'],None,['Sorcery'],None,Common,S00,None,None,None,Put target creature on top of its owner's library.
+Sea Eagle,2.0,['Blue'],['U'],None,['Creature'],['Bird'],Common,S00,1,1,None,Flying
+Eager Cadet,1.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,S00,1,1,None,None
+Angelic Blessing,3.0,['White'],['W'],None,['Sorcery'],None,Common,S00,None,None,None,Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+Wild Griffin,3.0,['White'],['W'],None,['Creature'],['Griffin'],Common,S00,2,2,None,Flying
+Royal Falcon,2.0,['White'],['W'],None,['Creature'],['Bird'],Common,S00,1,1,None,Flying
+Knight Errant,2.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Common,S00,2,2,None,None

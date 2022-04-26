@@ -1,0 +1,17 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Aegis Angel,6.0,['White'],['W'],None,['Creature'],['Angel'],Rare,W16,5,5,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Aegis Angel enters the battlefield, another target permanent gains indestructible for as long as you control Aegis Angel. (Effects that say ""destroy"" don't destroy it. A creature with indestructible can't be destroyed by damage.)"
+Soul of the Harvest,6.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,W16,6,6,None,"Trample\nWhenever another nontoken creature enters the battlefield under your control, you may draw a card."
+Borderland Marauder,2.0,['Red'],['R'],None,['Creature'],"['Human', 'Warrior']",Common,W16,1,2,None,"Whenever Borderland Marauder attacks, it gets +2/+0 until end of turn."
+Oakenform,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,W16,None,None,None,Enchant creature\nEnchanted creature gets +3/+3.
+Nightmare,6.0,['Black'],['B'],None,['Creature'],"['Nightmare', 'Horse']",Rare,W16,*,*,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\nNightmare's power and toughness are each equal to the number of Swamps you control.
+Cone of Flame,5.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,W16,None,None,None,"Cone of Flame deals 1 damage to any target, 2 damage to another target, and 3 damage to a third target."
+Sengir Vampire,5.0,['Black'],['B'],None,['Creature'],['Vampire'],Uncommon,W16,4,4,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire."
+Sphinx of Magosi,6.0,['Blue'],['U'],None,['Creature'],['Sphinx'],Rare,W16,6,6,None,"Flying\n{2}{U}: Draw a card, then put a +1/+1 counter on Sphinx of Magosi."
+Marked by Honor,4.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,W16,None,None,None,Enchant creature\nEnchanted creature gets +2/+2 and has vigilance. (Attacking doesn't cause it to tap.)
+Air Servant,5.0,['Blue'],['U'],None,['Creature'],['Elemental'],Uncommon,W16,4,3,None,Flying\n{2}{U}: Tap target creature with flying.
+Incremental Growth,5.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,W16,None,None,None,"Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature."
+Walking Corpse,2.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,W16,2,2,None,None
+Disperse,2.0,['Blue'],['U'],None,['Instant'],None,Common,W16,None,None,None,Return target nonland permanent to its owner's hand.
+Shivan Dragon,6.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,W16,5,5,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.
+Serra Angel,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,W16,4,4,None,"Flying, vigilance"
+Mind Rot,3.0,['Black'],['B'],None,['Sorcery'],None,Common,W16,None,None,None,Target player discards two cards.

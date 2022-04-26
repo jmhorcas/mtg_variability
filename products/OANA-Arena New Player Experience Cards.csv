@@ -1,0 +1,15 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Tactical Advantage,1.0,['White'],['W'],None,['Instant'],None,Common,OANA,None,None,None,Target blocking or blocked creature you control gets +2/+2 until end of turn.
+Inspiring Commander,6.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,OANA,1,4,None,"Whenever another creature with power 2 or less enters the battlefield under your control, you gain 1 life and draw a card."
+Raging Goblin,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Berserker']",Common,OANA,1,1,None,Haste (This creature can attack and {T} as soon as it comes under your control.)
+Angelic Reward,5.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,OANA,None,None,None,Enchant creature\nEnchanted creature gets +3/+3 and has flying.
+Serra Angel,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,OANA,4,4,None,"Flying, vigilance"
+Treetop Warden,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Common,OANA,2,2,None,None
+Sanctuary Cat,1.0,['White'],['W'],None,['Creature'],['Cat'],Common,OANA,1,2,None,None
+River's Favor,1.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,OANA,None,None,None,Enchant creature\nEnchanted creature gets +1/+1.
+Zephyr Gull,1.0,['Blue'],['U'],None,['Creature'],['Bird'],Common,OANA,1,1,None,Flying
+Spiritual Guardian,5.0,['White'],['W'],None,['Creature'],['Spirit'],Common,OANA,3,4,None,"When Spiritual Guardian enters the battlefield, you gain 4 life."
+Feral Roar,2.0,['Green'],['G'],None,['Sorcery'],None,Common,OANA,None,None,None,Target creature gets +4/+4 until end of turn.
+Knight's Pledge,2.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,OANA,None,None,None,Enchant creature\nEnchanted creature gets +2/+2.
+Shrine Keeper,2.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,OANA,2,2,None,None
+Confront the Assault,5.0,['White'],['W'],None,['Instant'],None,Uncommon,OANA,None,None,None,Cast this spell only if a creature is attacking you.\nCreate three 1/1 white Spirit creature tokens with flying.

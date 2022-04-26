@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0}
+Colors: {'Black', 'Green', 'White', 'Blue'}
+ColorIdentity: {'W', 'U', 'G', 'B'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Hippo', 'Nightstalker', 'Pegasus', 'Drake', 'Bird', 'Pirate', 'Human'}
+Rarity: {'Rare', 'Common'}
+Power: {'3', '2', '1'}
+Toughness: {'3', '2', '1'}
+Loyalty: set()

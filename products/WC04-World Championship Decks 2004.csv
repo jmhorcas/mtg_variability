@@ -1,0 +1,76 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Shrapnel Blast,2.0,['Red'],['R'],None,['Instant'],None,Uncommon,WC04,None,None,None,"As an additional cost to cast this spell, sacrifice an artifact.\nShrapnel Blast deals 5 damage to any target."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC04,None,None,None,({T}: Add {W}.)
+Plow Under,5.0,['Green'],['G'],None,['Sorcery'],None,Rare,WC04,None,None,None,Put two target lands on top of their owners' libraries.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC04,None,None,None,({T}: Add {W}.)
+Wing Shards,3.0,['White'],['W'],None,['Instant'],None,Uncommon,WC04,None,None,None,"Target player sacrifices an attacking creature.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC04,None,None,None,({T}: Add {W}.)
+Talisman of Dominance,2.0,None,"['B', 'U']",None,['Artifact'],None,Uncommon,WC04,None,None,None,{T}: Add {C}.\n{T}: Add {U} or {B}. Talisman of Dominance deals 1 damage to you.
+Fabricate,3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,WC04,None,None,None,"Search your library for an artifact card, reveal it, put it into your hand, then shuffle."
+Flooded Strand,0.0,None,None,None,['Land'],None,Rare,WC04,None,None,None,"{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle."
+Pentad Prism,2.0,None,None,None,['Artifact'],None,Common,WC04,None,None,None,Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)\nRemove a charge counter from Pentad Prism: Add one mana of any color.
+Ancient Den,0.0,None,['W'],None,"['Artifact', 'Land']",None,Common,WC04,None,None,None,{T}: Add {W}.
+Krark-Clan Ironworks,4.0,None,None,None,['Artifact'],None,Rare,WC04,None,None,None,Sacrifice an artifact: Add {C}{C}.
+Circle of Protection: Red,2.0,['White'],['W'],None,['Enchantment'],None,Uncommon,WC04,None,None,None,"{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage."
+Cloudpost,0.0,None,None,None,['Land'],['Locus'],Common,WC04,None,None,None,Cloudpost enters the battlefield tapped.\n{T}: Add {C} for each Locus on the battlefield.
+Viridian Shaman,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Shaman']",Uncommon,WC04,2,2,None,"When Viridian Shaman enters the battlefield, destroy target artifact."
+Exalted Angel,6.0,['White'],['W'],None,['Creature'],['Angel'],Rare,WC04,4,5,None,"Flying\nWhenever Exalted Angel deals damage, you gain that much life.\nMorph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)"
+Rude Awakening,5.0,['Green'],['G'],None,['Sorcery'],None,Rare,WC04,None,None,None,"Choose one —\n• Untap all lands you control.\n• Until end of turn, lands you control become 2/2 creatures that are still lands.\nEntwine {2}{G} (Choose both if you pay the entwine cost.)"
+Tree of Tales,0.0,None,['G'],None,"['Artifact', 'Land']",None,Common,WC04,None,None,None,(Tree of Tales isn't a spell.)\n{T}: Add {G}.
+Eternal Witness,3.0,['Green'],['G'],None,['Creature'],"['Human', 'Shaman']",Uncommon,WC04,2,1,None,"When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand."
+Condescend,1.0,['Blue'],['U'],None,['Instant'],None,Common,WC04,None,None,None,"Counter target spell unless its controller pays {X}. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+Rewind,4.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC04,None,None,None,Counter target spell. Untap up to four lands.
+Mana Leak,2.0,['Blue'],['U'],None,['Instant'],None,Common,WC04,None,None,None,Counter target spell unless its controller pays {3}.
+Scrabbling Claws,1.0,None,None,None,['Artifact'],None,Uncommon,WC04,None,None,None,"{T}: Target player exiles a card from their graveyard.\n{1}, Sacrifice Scrabbling Claws: Exile target card from a graveyard. Draw a card."
+Oxidize,1.0,['Green'],['G'],None,['Instant'],None,Uncommon,WC04,None,None,None,Destroy target artifact. It can't be regenerated.
+Talisman of Progress,2.0,None,"['U', 'W']",None,['Artifact'],None,Uncommon,WC04,None,None,None,{T}: Add {C}.\n{T}: Add {W} or {U}. Talisman of Progress deals 1 damage to you.
+Akroma's Vengeance,6.0,['White'],['W'],None,['Sorcery'],None,Rare,WC04,None,None,None,"Destroy all artifacts, creatures, and enchantments.\nCycling {3} ({3}, Discard this card: Draw a card.)"
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC04,None,None,None,({T}: Add {U}.)
+Myr Incubator,6.0,None,None,None,['Artifact'],None,Rare,WC04,None,None,None,"{6}, {T}, Sacrifice Myr Incubator: Search your library for any number of artifact cards, exile them, then create that many 1/1 colorless Myr artifact creature tokens. Then shuffle."
+Wayfarer's Bauble,1.0,None,None,None,['Artifact'],None,Common,WC04,None,None,None,"{2}, {T}, Sacrifice Wayfarer's Bauble: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+Decree of Justice,4.0,['White'],['W'],None,['Sorcery'],None,Rare,WC04,None,None,None,"Create X 4/4 white Angel creature tokens with flying.\nCycling {2}{W} ({2}{W}, Discard this card: Draw a card.)\nWhen you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white Soldier creature tokens."
+Relic Barrier,2.0,None,None,None,['Artifact'],None,Uncommon,WC04,None,None,None,{T}: Tap target artifact.
+Wrath of God,4.0,['White'],['W'],None,['Sorcery'],None,Rare,WC04,None,None,None,Destroy all creatures. They can't be regenerated.
+Temple of the False God,0.0,None,None,None,['Land'],None,Uncommon,WC04,None,None,None,{T}: Add {C}{C}. Activate only if you control five or more lands.
+Purge,2.0,['White'],['W'],None,['Instant'],None,Uncommon,WC04,None,None,None,Destroy target artifact creature or black creature. It can't be regenerated.
+Renewed Faith,3.0,['White'],['W'],None,['Instant'],None,Common,WC04,None,None,None,"You gain 6 life.\nCycling {1}{W} ({1}{W}, Discard this card: Draw a card.)\nWhen you cycle Renewed Faith, you may gain 2 life."
+Pyroclasm,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,WC04,None,None,None,Pyroclasm deals 2 damage to each creature.
+Eternal Dragon,7.0,['White'],['W'],None,['Creature'],"['Dragon', 'Spirit']",Rare,WC04,5,5,None,"Flying\n{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate only during your upkeep.\nPlainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)"
+Furnace Dragon,9.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,WC04,5,5,None,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying\nWhen Furnace Dragon enters the battlefield, if you cast it from your hand, exile all artifacts."
+Thirst for Knowledge,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC04,None,None,None,Draw three cards. Then discard two cards unless you discard an artifact card.
+Disciple of the Vault,1.0,['Black'],['B'],None,['Creature'],"['Human', 'Cleric']",Common,WC04,1,1,None,"Whenever an artifact is put into a graveyard from the battlefield, you may have target opponent lose 1 life."
+Astral Slide,3.0,['White'],['W'],None,['Enchantment'],None,Uncommon,WC04,None,None,None,"Whenever a player cycles a card, you may exile target creature. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step."
+Darksteel Citadel,0.0,None,None,None,"['Artifact', 'Land']",None,Common,WC04,None,None,None,Indestructible\n{T}: Add {C}.
+Thoughtcast,5.0,['Blue'],['U'],None,['Sorcery'],None,Common,WC04,None,None,None,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nDraw two cards.
+Stifle,1.0,['Blue'],['U'],None,['Instant'],None,Rare,WC04,None,None,None,Counter target activated or triggered ability. (Mana abilities can't be targeted.)
+Arcbound Worker,1.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Common,WC04,0,0,None,"Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)"
+Pacifism,2.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,WC04,None,None,None,Enchant creature\nEnchanted creature can't attack or block.
+Vault of Whispers,0.0,None,['B'],None,"['Artifact', 'Land']",None,Common,WC04,None,None,None,(Vault of Whispers isn't a spell.)\n{T}: Add {B}.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC04,None,None,None,({T}: Add {U}.)
+Serum Visions,1.0,['Blue'],['U'],None,['Sorcery'],None,Common,WC04,None,None,None,Draw a card. Scry 2.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC04,None,None,None,({T}: Add {G}.)
+Fireball,1.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,WC04,None,None,None,"This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets."
+Somber Hoverguard,6.0,['Blue'],['U'],None,['Creature'],['Drone'],Common,WC04,3,2,None,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying
+Annul,1.0,['Blue'],['U'],None,['Instant'],None,Common,WC04,None,None,None,Counter target artifact or enchantment spell.
+Goblin Charbelcher,4.0,None,None,None,['Artifact'],None,Rare,WC04,None,None,None,"{3}, {T}: Reveal cards from the top of your library until you reveal a land card. Goblin Charbelcher deals damage equal to the number of nonland cards revealed this way to any target. If the revealed land card was a Mountain, Goblin Charbelcher deals double that damage instead. Put the revealed cards on the bottom of your library in any order."
+Seat of the Synod,0.0,None,['U'],None,"['Artifact', 'Land']",None,Common,WC04,None,None,None,(Seat of the Synod isn't a spell.)\n{T}: Add {U}.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC04,None,None,None,({T}: Add {U}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC04,None,None,None,({T}: Add {G}.)
+Great Furnace,0.0,None,['R'],None,"['Artifact', 'Land']",None,Common,WC04,None,None,None,{T}: Add {R}.
+Glimmervoid,0.0,None,None,None,['Land'],None,Rare,WC04,None,None,None,"At the beginning of the end step, if you control no artifacts, sacrifice Glimmervoid.\n{T}: Add one mana of any color."
+Blinkmoth Nexus,0.0,None,None,None,['Land'],None,Rare,WC04,None,None,None,"{T}: Add {C}.\n{1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land.\n{1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn."
+Welding Jar,0.0,None,None,None,['Artifact'],None,Common,WC04,None,None,None,Sacrifice Welding Jar: Regenerate target artifact.
+Ornithopter,0.0,None,None,None,"['Artifact', 'Creature']",['Thopter'],Uncommon,WC04,0,2,None,Flying
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC04,None,None,None,({T}: Add {G}.)
+Frogmite,4.0,None,None,None,"['Artifact', 'Creature']",['Frog'],Common,WC04,2,2,None,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Seething Song,3.0,['Red'],['R'],None,['Instant'],None,Common,WC04,None,None,None,Add {R}{R}{R}{R}{R}.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC04,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC04,None,None,None,({T}: Add {W}.)
+Rampant Growth,2.0,['Green'],['G'],None,['Sorcery'],None,Common,WC04,None,None,None,"Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+Arcbound Ravager,2.0,None,None,None,"['Artifact', 'Creature']",['Beast'],Rare,WC04,0,0,None,"Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.\nModular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)"
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC04,None,None,None,({T}: Add {W}.)
+Windswept Heath,0.0,None,None,None,['Land'],None,Rare,WC04,None,None,None,"{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."
+Chrome Mox,0.0,None,None,None,['Artifact'],None,Rare,WC04,None,None,None,"Imprint — When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand.\n{T}: Add one mana of any of the exiled card's colors."
+Tranquil Thicket,0.0,None,['G'],None,['Land'],None,Common,WC04,None,None,None,"Tranquil Thicket enters the battlefield tapped.\n{T}: Add {G}.\nCycling {G} ({G}, Discard this card: Draw a card.)"
+Secluded Steppe,0.0,None,['W'],None,['Land'],None,Common,WC04,None,None,None,"Secluded Steppe enters the battlefield tapped.\n{T}: Add {W}.\nCycling {W} ({W}, Discard this card: Draw a card.)"
+Cranial Plating,2.0,None,['B'],None,['Artifact'],['Equipment'],Common,WC04,None,None,None,Equipped creature gets +1/+0 for each artifact you control.\n{B}{B}: Attach Cranial Plating to target creature you control.\nEquip {1}

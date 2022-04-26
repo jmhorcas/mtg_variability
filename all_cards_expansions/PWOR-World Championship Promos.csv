@@ -1,0 +1,3 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Balduvian Horde,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Barbarian']",Rare,PWOR,5,5,None,"When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random."
+Crucible of Worlds,3.0,None,None,None,['Artifact'],None,Mythic,PWOR,None,None,None,You may play lands from your graveyard.

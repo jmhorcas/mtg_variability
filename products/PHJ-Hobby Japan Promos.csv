@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Krovikan Vampire,5.0,['Black'],['B'],None,['Creature'],['Vampire'],Rare,PHJ,3,3,None,"At the beginning of each end step, if a creature dealt damage by Krovikan Vampire this turn died, put that card onto the battlefield under your control. Sacrifice it when you lose control of Krovikan Vampire."
+Goblin Mutant,4.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Mutant']",Rare,PHJ,5,3,None,Trample\nGoblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.\nGoblin Mutant can't block creatures with power 3 or greater.
+Yavimaya Ants,4.0,['Green'],['G'],None,['Creature'],['Insect'],Rare,PHJ,5,1,None,"Trample, haste\nCumulative upkeep {G}{G} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+Surge of Strength,2.0,"['Green', 'Red']","['G', 'R']",None,['Instant'],None,Rare,PHJ,None,None,None,"As an additional cost to cast this spell, discard a red or green card.\nTarget creature gains trample and gets +X/+0 until end of turn, where X is that creature's mana value."
+Ihsan's Shade,6.0,['Black'],['B'],['Legendary'],['Creature'],"['Shade', 'Knight']",Rare,PHJ,5,5,None,Protection from white

@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 15.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
+Subtypes: {'Druid', 'Avatar', 'Elemental', 'Vedalken', 'Island', 'Ooze', 'Lizard', 'Shade', 'Viashino', 'Faerie', 'Zombie', 'Cat', 'Vampire', 'Crocodile', 'Horror', 'Dragon', 'Mountain', 'Equipment', 'Leviathan', 'Angel', 'Archer', 'Demon', 'Gargoyle', 'Wolf', 'Camel', 'Imp', 'Archon', 'Minion', 'Boar', 'Human', 'Knight', 'Cleric', 'Golem', 'Minotaur', 'Gorgon', 'Dog', 'Beast', 'Shapeshifter', 'Ogre', 'Giant', 'Plant', 'Plains', 'Spider', 'Drake', 'Mercenary', 'Spirit', 'Griffin', 'Hydra', 'Shaman', 'Warrior', 'Swamp', 'Wurm', 'Centaur', 'Soldier', 'Elf', 'Skeleton', 'Wizard', 'Sphinx', 'Insect', 'Forest', 'Rogue', 'Dryad', 'Elephant', 'Lammasu', 'Goblin', 'Berserker', 'Troll', 'Bird', 'Barbarian', 'Aura'}
+Rarity: {'Common', 'Rare', 'Uncommon'}
+Power: {'4', '7', '5', '1', '*', '8', '9', '2', '0', '3', '6'}
+Toughness: {'4', '7', '5', '14', '8', '1', '*', '2', '9', '0', '3', '6'}
+Loyalty: set()

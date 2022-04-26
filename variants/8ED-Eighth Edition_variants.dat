@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Basic'}
+Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Rabbit', 'Scout', 'Viashino', 'Rat', 'Cyclops', 'Imp', 'Nightmare', 'Human', 'Djinn', 'Cleric', 'Giant', 'Rhino', 'Plant', 'Spider', 'Turtle', 'Spirit', 'Griffin', 'Wall', 'Mine', 'Warrior', 'Wurm', 'Skeleton', 'Bird', 'Carrier', 'Troll', 'Atog', 'Elemental', 'Assassin', 'Ranger', 'Bear', 'Horror', 'Crocodile', 'Tower', 'Wraith', 'Minotaur', 'Ogre', 'Ape', 'Fungus', 'Serpent', 'Urza’s', 'Elf', 'Rogue', 'Dryad', 'Goblin', 'Golem', 'Barbarian', 'Dwarf', 'Aura', 'Snake', 'Island', 'Horse', 'Zombie', 'Specter', 'Dragon', 'Mountain', 'Knight', 'Kraken', 'Dinosaur', 'Phyrexian', 'Shaman', 'Octopus', 'Forest', 'Insect', 'Badger', 'Artificer', 'Berserker', 'Elephant', 'Druid', 'Avatar', 'Orc', 'Egg', 'Lizard', 'Shade', 'Cat', 'Fish', 'Angel', 'Archer', 'Wolf', 'Homunculus', 'Dog', 'Beast', 'Plains', 'Drake', 'Lhurgoyf', 'Monk', 'Mercenary', 'Rebel', 'Swamp', 'Illusion', 'Soldier', 'Wizard', 'Power-Plant'}
+Rarity: {'Rare', 'Common', 'Uncommon'}
+Power: {'4', '7', '5', '1', '*', '8', '2', '0', '3', '6'}
+Toughness: {'4', '7', '5', '1', '*', '8', '2', '9', '1+*', '3', '6'}
+Loyalty: set()

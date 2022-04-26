@@ -1,0 +1,4 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Frost Titan,6.0,['Blue'],['U'],None,['Creature'],['Giant'],Mythic,PDP12,6,6,None,"Whenever Frost Titan becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {2}.\nWhenever Frost Titan enters the battlefield or attacks, tap target permanent. It doesn't untap during its controller's next untap step."
+Grave Titan,6.0,['Black'],['B'],None,['Creature'],['Giant'],Mythic,PDP12,6,6,None,"Deathtouch\nWhenever Grave Titan enters the battlefield or attacks, create two 2/2 black Zombie creature tokens."
+Inferno Titan,6.0,['Red'],['R'],None,['Creature'],['Giant'],Mythic,PDP12,6,6,None,"{R}: Inferno Titan gets +1/+0 until end of turn.\nWhenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three targets."

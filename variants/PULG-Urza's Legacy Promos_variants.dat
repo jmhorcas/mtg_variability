@@ -1,0 +1,10 @@
+CMC: {6.0}
+Colors: set()
+ColorIdentity: set()
+Supertypes: set()
+Types: {'Creature', 'Artifact'}
+Subtypes: {'Golem'}
+Rarity: {'Rare'}
+Power: {'*'}
+Toughness: {'*'}
+Loyalty: set()

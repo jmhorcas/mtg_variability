@@ -1,0 +1,2 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Rukh Egg,4.0,['Red'],['R'],None,['Creature'],"['Bird', 'Egg']",Rare,P8ED,0,3,None,"When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the beginning of the next end step."

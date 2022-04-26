@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: set()
+Types: {'Sorcery', 'Instant', 'Creature', 'Enchantment'}
+Subtypes: {'Soltari', 'Plant', 'Wizard', 'Knight', 'Goblin', 'Human', 'Troll', 'Wall', 'Spike', 'Cleric'}
+Rarity: {'Rare'}
+Power: {'3', '2', '0', '1'}
+Toughness: {'4', '1', '2', '0', '3'}
+Loyalty: set()

@@ -1,0 +1,111 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Urborg Volcano,0.0,None,"['B', 'R']",None,['Land'],None,Uncommon,WC01,None,None,None,Urborg Volcano enters the battlefield tapped.\n{T}: Add {B} or {R}.
+Salt Marsh,0.0,None,"['B', 'U']",None,['Land'],None,Uncommon,WC01,None,None,None,Salt Marsh enters the battlefield tapped.\n{T}: Add {U} or {B}.
+Tsabo's Web,2.0,None,None,None,['Artifact'],None,Rare,WC01,None,None,None,"When Tsabo's Web enters the battlefield, draw a card.\nEach land with an activated ability that isn't a mana ability doesn't untap during its controller's untap step."
+Meekstone,1.0,None,None,None,['Artifact'],None,Rare,WC01,None,None,None,Creatures with power 3 or greater don't untap during their controllers' untap steps.
+Spite // Malice,8.0,['Black'],"['B', 'U']",None,['Instant'],None,Uncommon,WC01,None,None,None,Destroy target nonblack creature. It can't be regenerated.
+Undermine,3.0,"['Black', 'Blue']","['B', 'U']",None,['Instant'],None,Rare,WC01,None,None,None,Counter target spell. Its controller loses 3 life.
+Accumulated Knowledge,2.0,['Blue'],['U'],None,['Instant'],None,Common,WC01,None,None,None,"Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards."
+Lobotomy,4.0,"['Black', 'Blue']","['B', 'U']",None,['Sorcery'],None,Uncommon,WC01,None,None,None,"Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles."
+Pyroclasm,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,WC01,None,None,None,Pyroclasm deals 2 damage to each creature.
+Urza's Rage,3.0,['Red'],['R'],None,['Instant'],None,Rare,WC01,None,None,None,"Kicker {8}{R} (You may pay an additional {8}{R} as you cast this spell.)\nThis spell can't be countered.\nUrza's Rage deals 3 damage to any target. If this spell was kicked, instead it deals 10 damage to that permanent or player and the damage can't be prevented."
+Nether Spirit,3.0,['Black'],['B'],None,['Creature'],['Spirit'],Rare,WC01,2,2,None,"At the beginning of your upkeep, if Nether Spirit is the only creature card in your graveyard, you may return Nether Spirit to the battlefield."
+Shivan Reef,0.0,None,"['R', 'U']",None,['Land'],None,Rare,WC01,None,None,None,{T}: Add {C}.\n{T}: Add {U} or {R}. Shivan Reef deals 1 damage to you.
+Engineered Plague,3.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,WC01,None,None,None,"As Engineered Plague enters the battlefield, choose a creature type.\nAll creatures of the chosen type get -1/-1."
+Duress,1.0,['Black'],['B'],None,['Sorcery'],None,Common,WC01,None,None,None,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+Tsabo's Decree,6.0,['Black'],['B'],None,['Instant'],None,Rare,WC01,None,None,None,Choose a creature type. Target player reveals their hand and discards all creature cards of that type. Then destroy all creatures of that type that player controls. They can't be regenerated.
+Tsabo's Assassin,4.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie', 'Assassin']",Rare,WC01,1,1,None,{T}: Destroy target creature if it shares a color with the most common color among all permanents or a color tied for most common. A creature destroyed this way can't be regenerated.
+Fire // Ice,4.0,['Blue'],"['R', 'U']",None,['Instant'],None,Uncommon,WC01,None,None,None,Tap target permanent.\nDraw a card.
+Prodigal Sorcerer,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,WC01,1,1,None,{T}: Prodigal Sorcerer deals 1 damage to any target.
+Opposition,4.0,['Blue'],['U'],None,['Enchantment'],None,Rare,WC01,None,None,None,"Tap an untapped creature you control: Tap target artifact, creature, or land."
+Merfolk of the Pearl Trident,1.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Common,WC01,1,1,None,None
+Merfolk Looter,2.0,['Blue'],['U'],None,['Creature'],"['Merfolk', 'Rogue']",Uncommon,WC01,1,1,None,"{T}: Draw a card, then discard a card."
+Misdirection,5.0,['Blue'],['U'],None,['Instant'],None,Rare,WC01,None,None,None,You may exile a blue card from your hand rather than pay this spell's mana cost.\nChange the target of target spell with a single target.
+Wash Out,4.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,WC01,None,None,None,Return all permanents of the color of your choice to their owners' hands.
+Vodalian Merchant,2.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Common,WC01,1,2,None,"When Vodalian Merchant enters the battlefield, draw a card, then discard a card."
+Lord of Atlantis,2.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Rare,WC01,2,2,None,Other Merfolk get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)
+Gush,5.0,['Blue'],['U'],None,['Instant'],None,Common,WC01,None,None,None,You may return two Islands you control to their owner's hand rather than pay this spell's mana cost.\nDraw two cards.
+Hibernation,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC01,None,None,None,Return all green permanents to their owners' hands.
+Teferi's Response,2.0,['Blue'],['U'],None,['Instant'],None,Rare,WC01,None,None,None,"Counter target spell or ability an opponent controls that targets a land you control. If a permanent's ability is countered this way, destroy that permanent.\nDraw two cards."
+Darting Merfolk,2.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Common,WC01,1,1,None,{U}: Return Darting Merfolk to its owner's hand.
+Counterspell,2.0,['Blue'],['U'],None,['Instant'],None,Common,WC01,None,None,None,Counter target spell.
+Mana Maze,2.0,['Blue'],['U'],None,['Enchantment'],None,Rare,WC01,None,None,None,Players can't cast spells that share a color with the spell most recently cast this turn.
+Waterfront Bouncer,2.0,['Blue'],['U'],None,['Creature'],"['Merfolk', 'Spellshaper']",Common,WC01,1,1,None,"{U}, {T}, Discard a card: Return target creature to its owner's hand."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Rushing River,3.0,['Blue'],['U'],None,['Instant'],None,Common,WC01,None,None,None,"Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)\nReturn target nonland permanent to its owner's hand. If this spell was kicked, return another target nonland permanent to its owner's hand."
+Thwart,4.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC01,None,None,None,You may return three Islands you control to their owner's hand rather than pay this spell's mana cost.\nCounter target spell.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Static Orb,3.0,None,None,None,['Artifact'],None,Rare,WC01,None,None,None,"As long as Static Orb is untapped, players can't untap more than two permanents during their untap steps."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC01,None,None,None,({T}: Add {B}.)
+Scoria Cat,5.0,['Red'],['R'],None,['Creature'],['Cat'],Uncommon,WC01,3,3,None,Scoria Cat gets +3/+3 as long as you control no untapped lands.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC01,None,None,None,({T}: Add {R}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC01,None,None,None,({T}: Add {B}.)
+Blazing Specter,4.0,"['Black', 'Red']","['B', 'R']",None,['Creature'],['Specter'],Rare,WC01,2,2,None,"Flying, haste\nWhenever Blazing Specter deals combat damage to a player, that player discards a card."
+Persecute,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,WC01,None,None,None,Choose a color. Target player reveals their hand and discards all cards of that color.
+Vendetta,1.0,['Black'],['B'],None,['Instant'],None,Common,WC01,None,None,None,Destroy target nonblack creature. It can't be regenerated. You lose life equal to that creature's toughness.
+Skizzik,4.0,['Red'],['R'],None,['Creature'],['Elemental'],Rare,WC01,5,3,None,"Kicker {R} (You may pay an additional {R} as you cast this spell.)\nTrample, haste\nAt the beginning of the end step, if Skizzik wasn't kicked, sacrifice it."
+Plague Spitter,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Horror']",Uncommon,WC01,2,2,None,"At the beginning of your upkeep, Plague Spitter deals 1 damage to each creature and each player.\nWhen Plague Spitter dies, Plague Spitter deals 1 damage to each creature and each player."
+Thornscape Battlemage,3.0,['Green'],"['G', 'R', 'W']",None,['Creature'],"['Elf', 'Wizard']",Uncommon,WC01,2,2,None,"Kicker {R} and/or {W} (You may pay an additional {R} and/or {W} as you cast this spell.)\nWhen Thornscape Battlemage enters the battlefield, if it was kicked with its {R} kicker, it deals 2 damage to any target.\nWhen Thornscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, destroy target artifact."
+Dark Ritual,1.0,['Black'],['B'],None,['Instant'],None,Common,WC01,None,None,None,Add {B}{B}{B}.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC01,None,None,None,({T}: Add {B}.)
+Terminate,2.0,"['Black', 'Red']","['B', 'R']",None,['Instant'],None,Common,WC01,None,None,None,Destroy target creature. It can't be regenerated.
+Thunderscape Battlemage,3.0,['Red'],"['B', 'G', 'R']",None,['Creature'],"['Human', 'Wizard']",Uncommon,WC01,2,2,None,"Kicker {1}{B} and/or {G} (You may pay an additional {1}{B} and/or {G} as you cast this spell.)\nWhen Thunderscape Battlemage enters the battlefield, if it was kicked with its {1}{B} kicker, target player discards two cards.\nWhen Thunderscape Battlemage enters the battlefield, if it was kicked with its {G} kicker, destroy target enchantment."
+Flametongue Kavu,4.0,['Red'],['R'],None,['Creature'],['Kavu'],Uncommon,WC01,4,2,None,"When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC01,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC01,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC01,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC01,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC01,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC01,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC01,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC01,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC01,None,None,None,({T}: Add {R}.)
+Karplusan Forest,0.0,None,"['G', 'R']",None,['Land'],None,Rare,WC01,None,None,None,{T}: Add {C}.\n{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC01,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC01,None,None,None,({T}: Add {G}.)
+City of Brass,0.0,None,None,None,['Land'],None,Rare,WC01,None,None,None,"Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
+Rishadan Port,0.0,None,None,None,['Land'],None,Rare,WC01,None,None,None,"{T}: Add {C}.\n{1}, {T}: Tap target land."
+Llanowar Elves,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,WC01,1,1,None,{T}: Add {G}.
+Fires of Yavimaya,3.0,"['Green', 'Red']","['G', 'R']",None,['Enchantment'],None,Uncommon,WC01,None,None,None,Creatures you control have haste.\nSacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+Birds of Paradise,1.0,['Green'],['G'],None,['Creature'],['Bird'],Rare,WC01,0,1,None,Flying\n{T}: Add one mana of any color.
+Tangle,2.0,['Green'],['G'],None,['Instant'],None,Uncommon,WC01,None,None,None,Prevent all combat damage that would be dealt this turn.\nEach attacking creature doesn't untap during its controller's next untap step.
+Crypt Angel,5.0,['Black'],['B'],None,['Creature'],['Angel'],Rare,WC01,3,3,None,"Flying, protection from white\nWhen Crypt Angel enters the battlefield, return target blue or red creature card from your graveyard to your hand."
+Kavu Chameleon,5.0,['Green'],['G'],None,['Creature'],['Kavu'],Uncommon,WC01,4,4,None,This spell can't be countered.\n{G}: Kavu Chameleon becomes the color of your choice until end of turn.
+Addle,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,WC01,None,None,None,Choose a color. Target player reveals their hand and you choose a card of that color from it. That player discards that card.
+Boil,4.0,['Red'],['R'],None,['Instant'],None,Uncommon,WC01,None,None,None,Destroy all Islands.
+Blood Oath,4.0,['Red'],['R'],None,['Instant'],None,Rare,WC01,None,None,None,"Choose a card type. Target opponent reveals their hand. Blood Oath deals 3 damage to that player for each card of the chosen type revealed this way. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)"
+Obliterate,8.0,['Red'],['R'],None,['Sorcery'],None,Rare,WC01,None,None,None,"This spell can't be countered.\nDestroy all artifacts, creatures, and lands. They can't be regenerated."
+Llanowar Wastes,0.0,None,"['B', 'G']",None,['Land'],None,Rare,WC01,None,None,None,{T}: Add {C}.\n{T}: Add {B} or {G}. Llanowar Wastes deals 1 damage to you.
+Phyrexian Scuta,4.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie']",Rare,WC01,3,3,None,"Kicker—Pay 3 life. (You may pay 3 life in addition to any other costs as you cast this spell.)\nIf Phyrexian Scuta was kicked, it enters the battlefield with two +1/+1 counters on it."
+Phyrexian Arena,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,WC01,None,None,None,"At the beginning of your upkeep, you draw a card and you lose 1 life."
+Spiritmonger,5.0,"['Black', 'Green']","['B', 'G']",None,['Creature'],['Beast'],Rare,WC01,6,6,None,"Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger.\n{B}: Regenerate Spiritmonger.\n{G}: Spiritmonger becomes the color of your choice until end of turn."
+Saproling Burst,5.0,['Green'],['G'],None,['Enchantment'],None,Rare,WC01,None,None,None,"Fading 7 (This enchantment enters the battlefield with seven fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)\nRemove a fade counter from Saproling Burst: Create a green Saproling creature token. It has ""This creature's power and toughness are each equal to the number of fade counters on Saproling Burst.""\nWhen Saproling Burst leaves the battlefield, destroy all tokens created with Saproling Burst. They can't be regenerated."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC01,None,None,None,({T}: Add {B}.)
+Blastoderm,4.0,['Green'],['G'],None,['Creature'],['Beast'],Common,WC01,5,5,None,"Shroud (This creature can't be the target of spells or abilities.)\nFading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)"
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC01,None,None,None,({T}: Add {B}.)
+Crosis's Charm,3.0,"['Black', 'Red', 'Blue']","['B', 'R', 'U']",None,['Instant'],None,Uncommon,WC01,None,None,None,Choose one —\n• Return target permanent to its owner's hand.\n• Destroy target nonblack creature. It can't be regenerated.\n• Destroy target artifact.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC01,None,None,None,({T}: Add {R}.)
+Opt,1.0,['Blue'],['U'],None,['Instant'],None,Common,WC01,None,None,None,Scry 1.\nDraw a card.
+Fact or Fiction,4.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC01,None,None,None,Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+Underground River,0.0,None,"['B', 'U']",None,['Land'],None,Rare,WC01,None,None,None,{T}: Add {C}.\n{T}: Add {U} or {B}. Underground River deals 1 damage to you.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC01,None,None,None,({T}: Add {R}.)
+Sulfurous Springs,0.0,None,"['B', 'R']",None,['Land'],None,Rare,WC01,None,None,None,{T}: Add {C}.\n{T}: Add {B} or {R}. Sulfurous Springs deals 1 damage to you.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC01,None,None,None,({T}: Add {U}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC01,None,None,None,({T}: Add {B}.)

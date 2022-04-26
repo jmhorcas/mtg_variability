@@ -1,0 +1,9 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Blue Elemental Blast,1.0,['Blue'],['U'],None,['Instant'],None,Rare,SS1,None,None,None,Choose one —\n• Counter target red spell.\n• Destroy target red permanent.
+Counterspell,2.0,['Blue'],['U'],None,['Instant'],None,Rare,SS1,None,None,None,Counter target spell.
+Negate,2.0,['Blue'],['U'],None,['Instant'],None,Rare,SS1,None,None,None,Counter target noncreature spell.
+Brainstorm,1.0,['Blue'],['U'],None,['Instant'],None,Rare,SS1,None,None,None,"Draw three cards, then put two cards from your hand on top of your library in any order."
+Threads of Disloyalty,3.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Rare,SS1,None,None,None,Enchant creature with mana value 2 or less\nYou control enchanted creature.
+Gifts Ungiven,4.0,['Blue'],['U'],None,['Instant'],None,Rare,SS1,None,None,None,Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle.
+Jace Beleren,3.0,['Blue'],['U'],['Legendary'],['Planeswalker'],['Jace'],Mythic,SS1,None,None,3,[+2]: Each player draws a card.\n[−1]: Target player draws a card.\n[−10]: Target player mills twenty cards.
+Mystical Tutor,1.0,['Blue'],['U'],None,['Instant'],None,Rare,SS1,None,None,None,"Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top."

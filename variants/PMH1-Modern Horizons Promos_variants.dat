@@ -1,0 +1,10 @@
+CMC: {3.0, 7.0}
+Colors: {'White'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Legendary'}
+Types: {'Enchantment', 'Creature'}
+Subtypes: {'Shapeshifter'}
+Rarity: {'Rare', 'Mythic'}
+Power: {'6'}
+Toughness: {'6'}
+Loyalty: set()

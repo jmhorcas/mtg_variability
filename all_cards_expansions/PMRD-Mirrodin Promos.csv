@@ -1,0 +1,2 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Sword of Kaldra,4.0,None,None,['Legendary'],['Artifact'],['Equipment'],Rare,PMRD,None,None,None,"Equipped creature gets +5/+5.\nWhenever equipped creature deals damage to a creature, exile that creature. (Exile it only if it's still on the battlefield.)\nEquip {4} ({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)"

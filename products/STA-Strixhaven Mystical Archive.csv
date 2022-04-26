@@ -1,0 +1,64 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Whirlwind Denial,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,STA,None,None,None,"For each spell and ability your opponents control, counter it unless its controller pays {4}."
+Channel,2.0,['Green'],['G'],None,['Sorcery'],None,Mythic,STA,None,None,None,"Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {C}."
+Tezzeret's Gambit,4.0,['Blue'],['U'],None,['Sorcery'],None,Rare,STA,None,None,None,"({U/P} can be paid with either {U} or 2 life.)\nDraw two cards, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+Adventurous Impulse,1.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,STA,None,None,None,Look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+Swords to Plowshares,1.0,['White'],['W'],None,['Instant'],None,Rare,STA,None,None,None,Exile target creature. Its controller gains life equal to its power.
+Day of Judgment,4.0,['White'],['W'],None,['Sorcery'],None,Mythic,STA,None,None,None,Destroy all creatures.
+Abundant Harvest,1.0,['Green'],['G'],None,['Sorcery'],None,Rare,STA,None,None,None,Choose land or nonland. Reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and the rest on the bottom of your library in a random order.
+Time Warp,5.0,['Blue'],['U'],None,['Sorcery'],None,Mythic,STA,None,None,None,Target player takes an extra turn after this one.
+Revitalize,2.0,['White'],['W'],None,['Instant'],None,Uncommon,STA,None,None,None,You gain 3 life.\nDraw a card.
+Memory Lapse,2.0,['Blue'],['U'],None,['Instant'],None,Rare,STA,None,None,None,"Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard."
+Cultivate,3.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,STA,None,None,None,"Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
+Urza's Rage,3.0,['Red'],['R'],None,['Instant'],None,Rare,STA,None,None,None,"Kicker {8}{R} (You may pay an additional {8}{R} as you cast this spell.)\nThis spell can't be countered.\nUrza's Rage deals 3 damage to any target. If this spell was kicked, instead it deals 10 damage to that permanent or player and the damage can't be prevented."
+Thrill of Possibility,2.0,['Red'],['R'],None,['Instant'],None,Uncommon,STA,None,None,None,"As an additional cost to cast this spell, discard a card.\nDraw two cards."
+Stone Rain,3.0,['Red'],['R'],None,['Sorcery'],None,Rare,STA,None,None,None,Destroy target land.
+Shock,1.0,['Red'],['R'],None,['Instant'],None,Uncommon,STA,None,None,None,Shock deals 2 damage to any target.
+Strategic Planning,2.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,STA,None,None,None,Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+Krosan Grip,3.0,['Green'],['G'],None,['Instant'],None,Rare,STA,None,None,None,"Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nDestroy target artifact or enchantment."
+Mizzix's Mastery,4.0,['Red'],['R'],None,['Sorcery'],None,Mythic,STA,None,None,None,"Exile target card that's an instant or sorcery from your graveyard. For each card exiled this way, copy it, and you may cast the copy without paying its mana cost. Exile Mizzix's Mastery.\nOverload {5}{R}{R}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of ""target"" with ""each."")"
+Ephemerate,1.0,['White'],['W'],None,['Instant'],None,Rare,STA,None,None,None,"Exile target creature you control, then return it to the battlefield under its owner's control.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
+Divine Gambit,2.0,['White'],['W'],None,['Sorcery'],None,Uncommon,STA,None,None,None,"Exile target artifact, creature, or enchantment an opponent controls. That player may put a permanent card from their hand onto the battlefield."
+Lightning Bolt,1.0,['Red'],['R'],None,['Instant'],None,Rare,STA,None,None,None,Lightning Bolt deals 3 damage to any target.
+Infuriate,1.0,['Red'],['R'],None,['Instant'],None,Uncommon,STA,None,None,None,Target creature gets +3/+2 until end of turn.
+Increasing Vengeance,2.0,['Red'],['R'],None,['Instant'],None,Mythic,STA,None,None,None,"Copy target instant or sorcery spell you control. If this spell was cast from a graveyard, copy that spell twice instead. You may choose new targets for the copies.\nFlashback {3}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Grapeshot,2.0,['Red'],['R'],None,['Sorcery'],None,Rare,STA,None,None,None,"Grapeshot deals 1 damage to any target.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
+Defiant Strike,1.0,['White'],['W'],None,['Instant'],None,Uncommon,STA,None,None,None,Target creature gets +1/+0 until end of turn.\nDraw a card.
+Gift of Estates,2.0,['White'],['W'],None,['Sorcery'],None,Rare,STA,None,None,None,"If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, put them into your hand, then shuffle."
+Faithless Looting,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,STA,None,None,None,"Draw two cards, then discard two cards.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Compulsive Research,3.0,['Blue'],['U'],None,['Sorcery'],None,Rare,STA,None,None,None,Target player draws three cards. Then that player discards two cards unless they discard a land card.
+Blue Sun's Zenith,3.0,['Blue'],['U'],None,['Instant'],None,Mythic,STA,None,None,None,Target player draws X cards. Shuffle Blue Sun's Zenith into its owner's library.
+Claim the Firstborn,1.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,STA,None,None,None,Gain control of target creature with mana value 3 or less until end of turn. Untap that creature. It gains haste until end of turn.
+Chaos Warp,3.0,['Red'],['R'],None,['Instant'],None,Mythic,STA,None,None,None,"The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield."
+Putrefy,3.0,"['Black', 'Green']","['B', 'G']",None,['Instant'],None,Rare,STA,None,None,None,Destroy target artifact or creature. It can't be regenerated.
+Village Rites,1.0,['Black'],['B'],None,['Instant'],None,Uncommon,STA,None,None,None,"As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards."
+Lightning Helix,2.0,"['Red', 'White']","['R', 'W']",None,['Instant'],None,Rare,STA,None,None,None,Lightning Helix deals 3 damage to any target and you gain 3 life.
+Tendrils of Agony,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,STA,None,None,None,"Target player loses 2 life and you gain 2 life.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
+Growth Spiral,2.0,"['Green', 'Blue']","['G', 'U']",None,['Instant'],None,Rare,STA,None,None,None,Draw a card. You may put a land card from your hand onto the battlefield.
+Tainted Pact,2.0,['Black'],['B'],None,['Instant'],None,Mythic,STA,None,None,None,"Exile the top card of your library. You may put that card into your hand unless it has the same name as another card exiled this way. Repeat this process until you put a card into your hand or you exile two cards with the same name, whichever comes first."
+Electrolyze,3.0,"['Red', 'Blue']","['R', 'U']",None,['Instant'],None,Rare,STA,None,None,None,Electrolyze deals 2 damage divided as you choose among one or two targets.\nDraw a card.
+Sign in Blood,2.0,['Black'],['B'],None,['Sorcery'],None,Rare,STA,None,None,None,Target player draws two cards and loses 2 life.
+Approach of the Second Sun,7.0,['White'],['W'],None,['Sorcery'],None,Mythic,STA,None,None,None,"If this spell was cast from your hand and you've cast another spell named Approach of the Second Sun this game, you win the game. Otherwise, put Approach of the Second Sun into its owner's library seventh from the top and you gain 7 life."
+Despark,2.0,"['Black', 'White']","['B', 'W']",None,['Instant'],None,Rare,STA,None,None,None,Exile target permanent with mana value 4 or greater.
+Inquisition of Kozilek,1.0,['Black'],['B'],None,['Sorcery'],None,Rare,STA,None,None,None,Target player reveals their hand. You choose a nonland card from it with mana value 3 or less. That player discards that card.
+Brainstorm,1.0,['Blue'],['U'],None,['Instant'],None,Rare,STA,None,None,None,"Draw three cards, then put two cards from your hand on top of your library in any order."
+Weather the Storm,2.0,['Green'],['G'],None,['Instant'],None,Rare,STA,None,None,None,"You gain 3 life.\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)"
+Eliminate,2.0,['Black'],['B'],None,['Instant'],None,Uncommon,STA,None,None,None,Destroy target creature or planeswalker with mana value 3 or less.
+Mind's Desire,6.0,['Blue'],['U'],None,['Sorcery'],None,Mythic,STA,None,None,None,"Shuffle your library. Then exile the top card of your library. Until end of turn, you may play that card without paying its mana cost.\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)"
+Mana Tithe,1.0,['White'],['W'],None,['Instant'],None,Rare,STA,None,None,None,Counter target spell unless its controller pays {1}.
+Snakeskin Veil,1.0,['Green'],['G'],None,['Instant'],None,Uncommon,STA,None,None,None,Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn.
+Dark Ritual,1.0,['Black'],['B'],None,['Instant'],None,Rare,STA,None,None,None,Add {B}{B}{B}.
+Teferi's Protection,3.0,['White'],['W'],None,['Instant'],None,Mythic,STA,None,None,None,"Until your next turn, your life total can't change and you gain protection from everything. All permanents you control phase out. (While they're phased out, they're treated as though they don't exist. They phase in before you untap during your untap step.)\nExile Teferi's Protection."
+Doom Blade,2.0,['Black'],['B'],None,['Instant'],None,Rare,STA,None,None,None,Destroy target nonblack creature.
+Gods Willing,1.0,['White'],['W'],None,['Instant'],None,Rare,STA,None,None,None,"Target creature you control gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)\nScry 1."
+Regrowth,2.0,['Green'],['G'],None,['Sorcery'],None,Rare,STA,None,None,None,Return target card from your graveyard to your hand.
+Duress,1.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,STA,None,None,None,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+Primal Command,5.0,['Green'],['G'],None,['Sorcery'],None,Mythic,STA,None,None,None,"Choose two —\n• Target player gains 7 life.\n• Put target noncreature permanent on top of its owner's library.\n• Target player shuffles their graveyard into their library.\n• Search your library for a creature card, reveal it, put it into your hand, then shuffle."
+Demonic Tutor,2.0,['Black'],['B'],None,['Sorcery'],None,Mythic,STA,None,None,None,"Search your library for a card, put that card into your hand, then shuffle."
+Counterspell,2.0,['Blue'],['U'],None,['Instant'],None,Rare,STA,None,None,None,Counter target spell.
+Natural Order,4.0,['Green'],['G'],None,['Sorcery'],None,Mythic,STA,None,None,None,"As an additional cost to cast this spell, sacrifice a green creature.\nSearch your library for a green creature card, put it onto the battlefield, then shuffle."
+Crux of Fate,5.0,['Black'],['B'],None,['Sorcery'],None,Mythic,STA,None,None,None,Choose one —\n• Destroy all Dragon creatures.\n• Destroy all non-Dragon creatures.
+Agonizing Remorse,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,STA,None,None,None,Target opponent reveals their hand. You choose a nonland card from it or a card from their graveyard. Exile that card. You lose 1 life.
+Harmonize,4.0,['Green'],['G'],None,['Sorcery'],None,Rare,STA,None,None,None,Draw three cards.
+Opt,1.0,['Blue'],['U'],None,['Instant'],None,Uncommon,STA,None,None,None,Scry 1.\nDraw a card.
+Negate,2.0,['Blue'],['U'],None,['Instant'],None,Uncommon,STA,None,None,None,Counter target noncreature spell.

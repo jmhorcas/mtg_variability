@@ -1,0 +1,10 @@
+CMC: {2.0, 3.0}
+Colors: {'Red', 'Black', 'Blue'}
+ColorIdentity: {'R', 'U', 'B'}
+Supertypes: {'Basic'}
+Types: {'Instant', 'Land', 'Creature', 'Sorcery'}
+Subtypes: {'Island', 'Soldier', 'Dauthi', 'Jellyfish'}
+Rarity: {'Rare'}
+Power: {'2'}
+Toughness: {'2'}
+Loyalty: set()

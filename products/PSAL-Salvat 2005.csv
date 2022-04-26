@@ -1,0 +1,557 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Puppeteer,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Uncommon,PSAL,1,2,None,"{U}, {T}: You may tap or untap target creature."
+Wizard Replica,3.0,None,['U'],None,"['Artifact', 'Creature']",['Wizard'],Common,PSAL,1,3,None,"Flying\n{U}, Sacrifice Wizard Replica: Counter target spell unless its controller pays {2}."
+Vedalken Entrancer,4.0,['Blue'],['U'],None,['Creature'],"['Vedalken', 'Wizard']",Common,PSAL,1,4,None,"{U}, {T}: Target player mills two cards."
+Martyr of Frost,1.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,PSAL,1,1,None,"{2}, Reveal X blue cards from your hand, Sacrifice Martyr of Frost: Counter target spell unless its controller pays {X}."
+Boomerang,2.0,['Blue'],['U'],None,['Instant'],None,Common,PSAL,None,None,None,Return target permanent to its owner's hand.
+Dimir Guildmage,2.0,"['Black', 'Blue']","['B', 'U']",None,['Creature'],"['Human', 'Wizard']",Uncommon,PSAL,2,2,None,({U/B} can be paid with either {U} or {B}.)\n{3}{U}: Target player draws a card. Activate only as a sorcery.\n{3}{B}: Target player discards a card. Activate only as a sorcery.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Belltower Sphinx,5.0,['Blue'],['U'],None,['Creature'],['Sphinx'],Uncommon,PSAL,2,5,None,"Flying\nWhenever a source deals damage to Belltower Sphinx, that source's controller mills that many cards."
+Mesmeric Orb,2.0,None,None,None,['Artifact'],None,Rare,PSAL,None,None,None,"Whenever a permanent becomes untapped, that permanent's controller mills a card."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+"Azami, Lady of Scrolls",5.0,['Blue'],['U'],['Legendary'],['Creature'],"['Human', 'Wizard']",Rare,PSAL,0,2,None,Tap an untapped Wizard you control: Draw a card.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Skyrider Trainee,5.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,PSAL,3,3,None,Skyrider Trainee has flying as long as it's enchanted.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Sanctum Guardian,3.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Uncommon,PSAL,1,4,None,"Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to any target this turn, prevent that damage."
+Three Dreams,5.0,['White'],['W'],None,['Sorcery'],None,Rare,PSAL,None,None,None,"Search your library for up to three Aura cards with different names, reveal them, put them into your hand, then shuffle."
+Guardian's Magemark,3.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,PSAL,None,None,None,Flash\nEnchant creature\nCreatures you control that are enchanted get +1/+1.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Soulsworn Jury,3.0,['White'],"['U', 'W']",None,['Creature'],['Spirit'],Common,PSAL,1,4,None,"Defender (This creature can't attack.)\n{1}{U}, Sacrifice Soulsworn Jury: Counter target creature spell."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Pacifism,2.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,PSAL,None,None,None,Enchant creature\nEnchanted creature can't attack or block.
+Genju of the Falls,1.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,PSAL,None,None,None,"Enchant Island\n{2}: Enchanted Island becomes a 3/2 blue Spirit creature with flying until end of turn. It's still a land.\nWhen enchanted Island is put into a graveyard, you may return Genju of the Falls from your graveyard to your hand."
+Confiscate,6.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,PSAL,None,None,None,Enchant permanent\nYou control enchanted permanent.
+"Kitsune Mystic // Autumn-Tail, Kitsune Sage",4.0,['White'],['W'],['Legendary'],['Creature'],"['Fox', 'Wizard']",Rare,PSAL,4,5,None,{1}: Attach target Aura attached to a creature to another creature.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Plumes of Peace,3.0,"['Blue', 'White']","['U', 'W']",None,['Enchantment'],['Aura'],Common,PSAL,None,None,None,"Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.\nForecast — {W}{U}, Reveal Plumes of Peace from your hand: Tap target creature. (Activate only during your upkeep and only once each turn.)"
+Flight of Fancy,4.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,PSAL,None,None,None,"Enchant creature\nWhen Flight of Fancy enters the battlefield, draw two cards.\nEnchanted creature has flying."
+Genju of the Fields,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,PSAL,None,None,None,"Enchant Plains\n{2}: Until end of turn, enchanted Plains becomes a 2/5 white Spirit creature with ""Whenever this creature deals damage, its controller gains that much life."" It's still a land.\nWhen enchanted Plains is put into a graveyard, you may return Genju of the Fields from your graveyard to your hand."
+Auratouched Mage,6.0,['White'],['W'],None,['Creature'],"['Human', 'Wizard']",Uncommon,PSAL,3,3,None,"When Auratouched Mage enters the battlefield, search your library for an Aura card that could enchant it. If Auratouched Mage is still on the battlefield, put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle."
+Luminous Angel,7.0,['White'],['W'],None,['Creature'],['Angel'],Rare,PSAL,4,4,None,"Flying\nAt the beginning of your upkeep, you may create a 1/1 white Spirit creature token with flying."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Loxodon Stalwart,5.0,['White'],['W'],None,['Creature'],"['Elephant', 'Soldier']",Uncommon,PSAL,3,3,None,Vigilance\n{W}: Loxodon Stalwart gets +0/+1 until end of turn.
+Infiltrator's Magemark,3.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,PSAL,None,None,None,Enchant creature\nCreatures you control that are enchanted get +1/+1 and can't be blocked except by creatures with defender.
+Nightguard Patrol,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,PSAL,2,1,None,"First strike, vigilance"
+Freewind Equenaut,3.0,['White'],['W'],None,['Creature'],"['Human', 'Archer']",Common,PSAL,2,2,None,"Flying\nAs long as Freewind Equenaut is enchanted, it has ""{T}: Freewind Equenaut deals 2 damage to target attacking or blocking creature."""
+Sinstriker's Will,4.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,PSAL,None,None,None,"Enchant creature\nEnchanted creature has ""{T}: This creature deals damage equal to its power to target attacking or blocking creature."""
+Ardent Militia,5.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,PSAL,2,5,None,Vigilance
+Angel of Mercy,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,PSAL,3,3,None,"Flying\nWhen Angel of Mercy enters the battlefield, you gain 3 life."
+Thran Golem,5.0,None,None,None,"['Artifact', 'Creature']",['Golem'],Rare,PSAL,3,3,None,"As long as Thran Golem is enchanted, it gets +2/+2 and has flying, first strike, and trample."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Angel of Retribution,7.0,['White'],['W'],None,['Creature'],['Angel'],Rare,PSAL,5,5,None,"Flying, first strike"
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Lord of the Undead,3.0,['Black'],['B'],None,['Creature'],['Zombie'],Rare,PSAL,2,2,None,"Other Zombie creatures get +1/+1.\n{1}{B}, {T}: Return target Zombie card from your graveyard to your hand."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Phantom Wings,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,PSAL,None,None,None,Enchant creature\nEnchanted creature has flying.\nSacrifice Phantom Wings: Return enchanted creature to its owner's hand.
+Okiba-Gang Shinobi,5.0,['Black'],['B'],None,['Creature'],"['Rat', 'Ninja']",Common,PSAL,3,2,None,"Ninjutsu {3}{B} ({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Okiba-Gang Shinobi deals combat damage to a player, that player discards two cards."
+Walker of Secret Ways,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Ninja']",Uncommon,PSAL,1,2,None,"Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Walker of Secret Ways deals combat damage to a player, look at that player's hand.\n{1}{U}: Return target Ninja you control to its owner's hand. Activate only during your turn."
+Urborg Emissary,3.0,['Black'],"['B', 'U']",None,['Creature'],"['Human', 'Wizard']",Uncommon,PSAL,3,1,None,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)\nWhen Urborg Emissary enters the battlefield, if it was kicked, return target permanent to its owner's hand."
+Coastal Piracy,4.0,['Blue'],['U'],None,['Enchantment'],None,Rare,PSAL,None,None,None,"Whenever a creature you control deals combat damage to an opponent, you may draw a card."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Vesper Ghoul,3.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Druid']",Common,PSAL,1,1,None,"{T}, Pay 1 life: Add one mana of any color."
+Merfolk of the Pearl Trident,1.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Common,PSAL,1,1,None,None
+Stormscape Battlemage,3.0,['Blue'],"['B', 'U', 'W']",None,['Creature'],"['Metathran', 'Wizard']",Uncommon,PSAL,2,2,None,"Kicker {W} and/or {2}{B} (You may pay an additional {W} and/or {2}{B} as you cast this spell.)\nWhen Stormscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, you gain 3 life.\nWhen Stormscape Battlemage enters the battlefield, if it was kicked with its {2}{B} kicker, destroy target nonblack creature. That creature can't be regenerated."
+Dimir Infiltrator,2.0,"['Black', 'Blue']","['B', 'U']",None,['Creature'],['Spirit'],Common,PSAL,1,3,None,"Dimir Infiltrator can't be blocked.\nTransmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
+Nightscape Battlemage,3.0,['Black'],"['B', 'R', 'U']",None,['Creature'],"['Zombie', 'Wizard']",Uncommon,PSAL,2,2,None,"Kicker {2}{U} and/or {2}{R} (You may pay an additional {2}{U} and/or {2}{R} as you cast this spell.)\nWhen Nightscape Battlemage enters the battlefield, if it was kicked with its {2}{U} kicker, return up to two target nonblack creatures to their owners' hands.\nWhen Nightscape Battlemage enters the battlefield, if it was kicked with its {2}{R} kicker, destroy target land."
+Deflection,4.0,['Blue'],['U'],None,['Instant'],None,Rare,PSAL,None,None,None,Change the target of target spell with a single target.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Sage Owl,2.0,['Blue'],['U'],None,['Creature'],['Bird'],Common,PSAL,1,1,None,"Flying\nWhen Sage Owl enters the battlefield, look at the top four cards of your library, then put them back in any order."
+Ninja of the Deep Hours,4.0,['Blue'],['U'],None,['Creature'],"['Human', 'Ninja']",Common,PSAL,2,2,None,"Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Ninja of the Deep Hours deals combat damage to a player, you may draw a card."
+Mistblade Shinobi,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Ninja']",Common,PSAL,1,1,None,"Ninjutsu {U} ({U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Mistblade Shinobi deals combat damage to a player, you may return target creature that player controls to its owner's hand."
+Crown of Ascension,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,PSAL,None,None,None,Enchant creature\nEnchanted creature has flying.\nSacrifice Crown of Ascension: Enchanted creature and other creatures that share a creature type with it gain flying until end of turn.
+Marsh Crocodile,4.0,"['Black', 'Blue']","['B', 'U']",None,['Creature'],['Crocodile'],Uncommon,PSAL,4,4,None,"When Marsh Crocodile enters the battlefield, return a blue or black creature you control to its owner's hand.\nWhen Marsh Crocodile enters the battlefield, each player discards a card."
+Chill Haunting,2.0,['Black'],['B'],None,['Instant'],None,Uncommon,PSAL,None,None,None,"As an additional cost to cast this spell, exile X creature cards from your graveyard.\nTarget creature gets -X/-X until end of turn."
+Cephalid Constable,3.0,['Blue'],['U'],None,['Creature'],"['Cephalid', 'Wizard']",Rare,PSAL,1,1,None,"Whenever Cephalid Constable deals combat damage to a player, return up to that many target permanents that player controls to their owner's hand."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Throat Slitter,5.0,['Black'],['B'],None,['Creature'],"['Rat', 'Ninja']",Uncommon,PSAL,2,2,None,"Ninjutsu {2}{B} ({2}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Throat Slitter deals combat damage to a player, destroy target nonblack creature that player controls."
+Struggle for Sanity,4.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,PSAL,None,None,None,"Target opponent reveals their hand. That player exiles a card from it, then you exile a card from it. Repeat this process until all cards in that hand have been exiled. That player returns the cards they exiled this way to their hand and puts the rest into their graveyard."
+Keening Banshee,4.0,['Black'],['B'],None,['Creature'],['Spirit'],Uncommon,PSAL,2,2,None,"Flying\nWhen Keening Banshee enters the battlefield, target creature gets -2/-2 until end of turn."
+Clutch of the Undercity,4.0,"['Black', 'Blue']","['B', 'U']",None,['Instant'],None,Uncommon,PSAL,None,None,None,"Return target permanent to its owner's hand. Its controller loses 3 life.\nTransmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
+Doomsday Specter,4.0,"['Black', 'Blue']","['B', 'U']",None,['Creature'],['Specter'],Rare,PSAL,2,3,None,"Flying\nWhen Doomsday Specter enters the battlefield, return a blue or black creature you control to its owner's hand.\nWhenever Doomsday Specter deals combat damage to a player, look at that player's hand and choose a card from it. The player discards that card."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+"Higure, the Still Wind",5.0,['Blue'],['U'],['Legendary'],['Creature'],"['Human', 'Ninja']",Rare,PSAL,3,4,None,"Ninjutsu {2}{U}{U} ({2}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Higure, the Still Wind deals combat damage to a player, you may search your library for a Ninja card, reveal it, put it into your hand, then shuffle.\n{2}: Target Ninja creature can't be blocked this turn."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Helldozer,6.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Giant']",Rare,PSAL,6,5,None,"{B}{B}{B}, {T}: Destroy target land. If that land was nonbasic, untap Helldozer."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Keldon Mantle,2.0,['Red'],"['B', 'G', 'R']",None,['Enchantment'],['Aura'],Common,PSAL,None,None,None,Enchant creature\n{B}: Regenerate enchanted creature.\n{R}: Enchanted creature gets +1/+0 until end of turn.\n{G}: Enchanted creature gains trample until end of turn.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Riptide Replicator,4.0,None,None,None,['Artifact'],None,Rare,PSAL,None,None,None,"As Riptide Replicator enters the battlefield, choose a color and a creature type.\nRiptide Replicator enters the battlefield with X charge counters on it.\n{4}, {T}: Create an X/X creature token of the chosen color and type, where X is the number of charge counters on Riptide Replicator."
+Naturalize,2.0,['Green'],['G'],None,['Instant'],None,Common,PSAL,None,None,None,Destroy target artifact or enchantment.
+Engulfing Flames,1.0,['Red'],['R'],None,['Instant'],None,Uncommon,PSAL,None,None,None,Engulfing Flames deals 1 damage to target creature. It can't be regenerated this turn.\nFlashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Hunter Sliver,2.0,['Red'],['R'],None,['Creature'],['Sliver'],Common,PSAL,1,1,None,"All Sliver creatures have provoke. (Whenever a Sliver attacks, its controller may have target creature defending player controls untap and block it if able.)"
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+"Skarrg, the Rage Pits",0.0,None,"['G', 'R']",None,['Land'],None,Uncommon,PSAL,None,None,None,"{T}: Add {C}.\n{R}{G}, {T}: Target creature gets +1/+1 and gains trample until end of turn."
+Voice of the Woods,5.0,['Green'],['G'],None,['Creature'],['Elf'],Rare,PSAL,2,2,None,Tap five untapped Elves you control: Create a 7/7 green Elemental creature token with trample.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Ghor-Clan Savage,5.0,['Green'],['G'],None,['Creature'],"['Centaur', 'Berserker']",Common,PSAL,2,3,None,"Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)"
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Tears of Rage,4.0,['Red'],['R'],None,['Instant'],None,Uncommon,PSAL,None,None,None,"Cast this spell only during the declare attackers step.\nAttacking creatures you control get +X/+0 until end of turn, where X is the number of attacking creatures. Sacrifice those creatures at the beginning of the next end step."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Burning-Tree Bloodscale,4.0,"['Green', 'Red']","['G', 'R']",None,['Creature'],"['Viashino', 'Berserker']",Common,PSAL,2,2,None,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)\n{2}{R}: Target creature can't block Burning-Tree Bloodscale this turn.\n{2}{G}: Target creature blocks Burning-Tree Bloodscale this turn if able."
+Scab-Clan Mauler,2.0,"['Green', 'Red']","['G', 'R']",None,['Creature'],"['Human', 'Berserker']",Common,PSAL,1,1,None,"Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)\nTrample"
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Threaten,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,PSAL,None,None,None,Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn. (It can attack and {T} this turn.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Balduvian Rage,1.0,['Red'],['R'],None,['Instant'],None,Uncommon,PSAL,None,None,None,Target attacking creature gets +X/+0 until end of turn.\nDraw a card at the beginning of the next turn's upkeep.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Lovisa Coldeyes,5.0,['Red'],['R'],['Legendary'],['Creature'],['Human'],Rare,PSAL,3,3,None,"Each creature that's a Barbarian, a Warrior, or a Berserker gets +2/+2 and has haste."
+Lightning Coils,3.0,None,None,None,['Artifact'],None,Rare,PSAL,None,None,None,"Whenever a nontoken creature you control dies, put a charge counter on Lightning Coils.\nAt the beginning of your upkeep, if Lightning Coils has five or more charge counters on it, remove all of them from it and create that many 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Indrik Stomphowler,5.0,['Green'],['G'],None,['Creature'],['Beast'],Uncommon,PSAL,4,4,None,"When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment."
+Primal Forcemage,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Shaman']",Uncommon,PSAL,2,2,None,"Whenever another creature enters the battlefield under your control, that creature gets +3/+3 until end of turn."
+"Kamahl, Pit Fighter",6.0,['Red'],['R'],['Legendary'],['Creature'],"['Human', 'Barbarian']",Rare,PSAL,6,1,None,"Haste (This creature can attack and {T} as soon as it comes under your control.)\n{T}: Kamahl, Pit Fighter deals 3 damage to any target."
+Betrayal of Flesh,6.0,['Black'],['B'],None,['Instant'],None,Uncommon,PSAL,None,None,None,Choose one —\n• Destroy target creature.\n• Return target creature card from your graveyard to the battlefield.\nEntwine—Sacrifice three lands. (Choose both if you pay the entwine cost.)
+Hair-Strung Koto,6.0,None,None,None,['Artifact'],None,Rare,PSAL,None,None,None,Tap an untapped creature you control: Target player mills a card.
+Diabolic Tutor,4.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,PSAL,None,None,None,"Search your library for a card, put that card into your hand, then shuffle."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Raging Goblin,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Berserker']",Common,PSAL,1,1,None,Haste (This creature can attack and {T} as soon as it comes under your control.)
+Gruul Scrapper,4.0,['Green'],"['G', 'R']",None,['Creature'],"['Human', 'Berserker']",Common,PSAL,3,2,None,"When Gruul Scrapper enters the battlefield, if {R} was spent to cast it, it gains haste until end of turn."
+Nezumi Bone-Reader,2.0,['Black'],['B'],None,['Creature'],"['Rat', 'Shaman']",Uncommon,PSAL,1,1,None,"{B}, Sacrifice a creature: Target player discards a card. Activate only as a sorcery."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Larceny,5.0,['Black'],['B'],None,['Enchantment'],None,Rare,PSAL,None,None,None,"Whenever a creature you control deals combat damage to a player, that player discards a card."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Minamo Scrollkeeper,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,PSAL,2,3,None,Defender\nYour maximum hand size is increased by one.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Thundermare,6.0,['Red'],['R'],None,['Creature'],"['Elemental', 'Horse']",Rare,PSAL,5,5,None,"Haste (This creature can attack and {T} as soon as it comes under your control.)\nWhen Thundermare enters the battlefield, tap all other creatures."
+Rats' Feast,1.0,['Black'],['B'],None,['Sorcery'],None,Common,PSAL,None,None,None,Exile X target cards from a single graveyard.
+Goblin Fire Fiend,4.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Berserker']",Common,PSAL,1,1,None,Haste\nGoblin Fire Fiend must be blocked if able.\n{R}: Goblin Fire Fiend gets +1/+0 until end of turn.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Undying Rage,3.0,['Red'],['R'],None,['Enchantment'],['Aura'],Uncommon,PSAL,None,None,None,"Enchant creature\nEnchanted creature gets +2/+2 and can't block.\nWhen Undying Rage is put into a graveyard from the battlefield, return Undying Rage to its owner's hand."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Carrion Rats,1.0,['Black'],['B'],None,['Creature'],['Rat'],Common,PSAL,2,1,None,"Whenever Carrion Rats attacks or blocks, any player may exile a card from their graveyard. If a player does, Carrion Rats assigns no combat damage this turn."
+Shock,1.0,['Red'],['R'],None,['Instant'],None,Common,PSAL,None,None,None,Shock deals 2 damage to any target.
+Skullsnatcher,2.0,['Black'],['B'],None,['Creature'],"['Rat', 'Ninja']",Common,PSAL,2,1,None,"Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player's graveyard."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Nezumi Graverobber // Nighteyes the Desecrator,2.0,['Black'],['B'],['Legendary'],['Creature'],"['Rat', 'Wizard']",Uncommon,PSAL,4,2,None,{4}{B}: Put target creature card from a graveyard onto the battlefield under your control.
+Booby Trap,6.0,None,None,None,['Artifact'],None,Rare,PSAL,None,None,None,"As Booby Trap enters the battlefield, choose an opponent and a card name other than a basic land card name.\nThe chosen player reveals each card they draw.\nWhen the chosen player draws a card with the chosen name, sacrifice Booby Trap. If you do, Booby Trap deals 10 damage to that player."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Gravestorm,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,PSAL,None,None,None,"At the beginning of your upkeep, target opponent may exile a card from their graveyard. If that player doesn't, you may draw a card."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Stalking Vengeance,7.0,['Red'],['R'],None,['Creature'],['Avatar'],Rare,PSAL,5,5,None,"Haste\nWhenever another creature you control dies, it deals damage equal to its power to target player or planeswalker."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Vacuumelt,3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,PSAL,None,None,None,"Replicate {2}{U} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nReturn target creature to its owner's hand."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Vulshok Sorcerer,3.0,['Red'],['R'],None,['Creature'],"['Human', 'Shaman']",Common,PSAL,1,1,None,Haste\n{T}: Vulshok Sorcerer deals 1 damage to any target.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Dehydration,4.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,PSAL,None,None,None,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature doesn't untap during its controller's untap step.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Dirty Wererat,4.0,['Black'],['B'],None,['Creature'],"['Human', 'Rat', 'Minion']",Common,PSAL,2,3,None,"{B}, Discard a card: Regenerate Dirty Wererat.\nThreshold — As long as seven or more cards are in your graveyard, Dirty Wererat gets +2/+2 and can't block."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Tolsimir Wolfblood,6.0,"['Green', 'White']","['G', 'W']",['Legendary'],['Creature'],"['Elf', 'Warrior']",Rare,PSAL,3,4,None,"Other green creatures you control get +1/+1.\nOther white creatures you control get +1/+1.\n{T}: Create Voja, a legendary 2/2 green and white Wolf creature token."
+Crippling Fatigue,3.0,['Black'],['B'],None,['Sorcery'],None,Common,PSAL,None,None,None,"Target creature gets -2/-2 until end of turn.\nFlashback—{1}{B}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Nocturnal Raid,4.0,['Black'],['B'],None,['Instant'],None,Uncommon,PSAL,None,None,None,Black creatures get +2/+0 until end of turn.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Feral Lightning,6.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,PSAL,None,None,None,Create three 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.
+Leyline of the Meek,4.0,['White'],['W'],None,['Enchantment'],None,Rare,PSAL,None,None,None,"If Leyline of the Meek is in your opening hand, you may begin the game with it on the battlefield.\nCreature tokens get +1/+1."
+Crypt Rats,3.0,['Black'],['B'],None,['Creature'],['Rat'],Uncommon,PSAL,1,1,None,{X}: Crypt Rats deals X damage to each creature and each player. Spend only black mana on X.
+Goblin Striker,2.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Berserker']",Common,PSAL,1,1,None,"First strike, haste"
+Soul Warden,1.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Uncommon,PSAL,1,1,None,"Whenever another creature enters the battlefield, you gain 1 life."
+Sever Soul,5.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,PSAL,None,None,None,Destroy target nonblack creature. It can't be regenerated. You gain life equal to its toughness.
+Juniper Order Ranger,5.0,"['Green', 'White']","['G', 'W']",None,['Creature'],"['Human', 'Knight', 'Ranger']",Uncommon,PSAL,2,4,None,"Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger."
+Goblin Chariot,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Common,PSAL,2,2,None,Haste (This creature can attack and {T} as soon as it comes under your control.)
+Supply // Demand,5.0,"['White', 'Blue']","['G', 'U', 'W']",None,['Sorcery'],None,Uncommon,PSAL,None,None,None,"Search your library for a multicolored card, reveal it, put it into your hand, then shuffle."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Frenzied Goblin,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Berserker']",Uncommon,PSAL,1,1,None,"Whenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can't block this turn."
+Herd Gnarr,4.0,['Green'],['G'],None,['Creature'],['Beast'],Common,PSAL,2,2,None,"Whenever another creature enters the battlefield under your control, Herd Gnarr gets +2/+2 until end of turn."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Scatter the Seeds,5.0,['Green'],['G'],None,['Instant'],None,Common,PSAL,None,None,None,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nCreate three 1/1 green Saproling creature tokens.
+Thallid Germinator,3.0,['Green'],['G'],None,['Creature'],['Fungus'],Common,PSAL,2,2,None,"At the beginning of your upkeep, put a spore counter on Thallid Germinator.\nRemove three spore counters from Thallid Germinator: Create a 1/1 green Saproling creature token.\nSacrifice a Saproling: Target creature gets +1/+1 until end of turn."
+Fertile Imagination,4.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,PSAL,None,None,None,"Choose a card type. Target opponent reveals their hand. Create two 1/1 green Saproling creature tokens for each card of the chosen type revealed this way. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)"
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Soratami Rainshaper,3.0,['Blue'],['U'],None,['Creature'],"['Moonfolk', 'Wizard']",Common,PSAL,2,1,None,"Flying\n{3}, Return a land you control to its owner's hand: Target creature you control gains shroud until end of turn. (It can't be the target of spells or abilities.)"
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Patron of the Nezumi,7.0,['Black'],['B'],['Legendary'],['Creature'],['Spirit'],Rare,PSAL,6,6,None,"Rat offering (You may cast this card any time you could cast an instant by sacrificing a Rat and paying the difference in mana costs between this and the sacrificed Rat. Mana cost includes color.)\nWhenever a permanent is put into an opponent's graveyard, that player loses 1 life."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Nezumi Cutthroat,2.0,['Black'],['B'],None,['Creature'],"['Rat', 'Warrior']",Common,PSAL,2,1,None,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nNezumi Cutthroat can't block.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Suppress,3.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,PSAL,None,None,None,"Target player exiles all cards from their hand face down. At the beginning of the end step of that player's next turn, that player returns those cards to their hand."
+Beast of Burden,6.0,None,None,None,"['Artifact', 'Creature']",['Golem'],Rare,PSAL,*,*,None,Beast of Burden's power and toughness are each equal to the number of creatures on the battlefield.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Dirge of Dread,3.0,['Black'],['B'],None,['Sorcery'],None,Common,PSAL,None,None,None,"All creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)\nCycling {1}{B} ({1}{B}, Discard this card: Draw a card.)\nWhen you cycle Dirge of Dread, you may have target creature gain fear until end of turn."
+Soratami Mindsweeper,4.0,['Blue'],['U'],None,['Creature'],"['Moonfolk', 'Wizard']",Uncommon,PSAL,1,4,None,"Flying\n{2}, Return a land you control to its owner's hand: Target player mills two cards."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Bramble Elemental,5.0,['Green'],['G'],None,['Creature'],['Elemental'],Common,PSAL,4,4,None,"Whenever an Aura becomes attached to Bramble Elemental, create two 1/1 green Saproling creature tokens."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Sporesower Thallid,4.0,['Green'],['G'],None,['Creature'],['Fungus'],Uncommon,PSAL,4,4,None,"At the beginning of your upkeep, put a spore counter on each Fungus you control.\nRemove three spore counters from Sporesower Thallid: Create a 1/1 green Saproling creature token."
+Sprout,1.0,['Green'],['G'],None,['Instant'],None,Common,PSAL,None,None,None,Create a 1/1 green Saproling creature token.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Jetting Glasskite,6.0,['Blue'],['U'],None,['Creature'],['Spirit'],Uncommon,PSAL,4,4,None,"Flying\nWhenever Jetting Glasskite becomes the target of a spell or ability for the first time each turn, counter that spell or ability."
+Detainment Spell,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,PSAL,None,None,None,Enchant creature\nEnchanted creature's activated abilities can't be activated.\n{1}{W}: Attach Detainment Spell to target creature.
+Hinder,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,PSAL,None,None,None,"Counter target spell. If that spell is countered this way, put that card on the top or bottom of its owner's library instead of into that player's graveyard."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Tower of Murmurs,4.0,None,None,None,['Artifact'],None,Rare,PSAL,None,None,None,"{8}, {T}: Target player mills eight cards."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Vedalken Dismisser,6.0,['Blue'],['U'],None,['Creature'],"['Vedalken', 'Wizard']",Common,PSAL,2,2,None,"When Vedalken Dismisser enters the battlefield, put target creature on top of its owner's library."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Aven Windreader,5.0,['Blue'],['U'],None,['Creature'],"['Bird', 'Soldier', 'Wizard']",Common,PSAL,3,3,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{1}{U}: Target player reveals the top card of their library.
+Twilight Drover,3.0,['White'],['W'],None,['Creature'],['Spirit'],Rare,PSAL,1,1,None,"Whenever a creature token leaves the battlefield, put a +1/+1 counter on Twilight Drover.\n{2}{W}, Remove a +1/+1 counter from Twilight Drover: Create two 1/1 white Spirit creature tokens with flying."
+Chittering Rats,3.0,['Black'],['B'],None,['Creature'],['Rat'],Common,PSAL,2,2,None,"When Chittering Rats enters the battlefield, target opponent puts a card from their hand on top of their library."
+Vedalken Mastermind,2.0,['Blue'],['U'],None,['Creature'],"['Vedalken', 'Wizard']",Uncommon,PSAL,1,2,None,"{U}, {T}: Return target permanent you control to its owner's hand."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Overwhelm,7.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,PSAL,None,None,None,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nCreatures you control get +3/+3 until end of turn.
+Swarm of Rats,2.0,['Black'],['B'],None,['Creature'],['Rat'],Uncommon,PSAL,*,1,None,Swarm of Rats's power is equal to the number of Rats you control.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Savage Thallid,5.0,['Green'],['G'],None,['Creature'],['Fungus'],Common,PSAL,5,2,None,"At the beginning of your upkeep, put a spore counter on Savage Thallid.\nRemove three spore counters from Savage Thallid: Create a 1/1 green Saproling creature token.\nSacrifice a Saproling: Regenerate target Fungus."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Seed Spark,4.0,['White'],"['G', 'W']",None,['Instant'],None,Uncommon,PSAL,None,None,None,"Destroy target artifact or enchantment. If {G} was spent to cast this spell, create two 1/1 green Saproling creature tokens."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Strength in Numbers,2.0,['Green'],['G'],None,['Instant'],None,Common,PSAL,None,None,None,"Until end of turn, target creature gains trample and gets +X/+X, where X is the number of attacking creatures."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Marrow-Gnawer,5.0,['Black'],['B'],['Legendary'],['Creature'],"['Rat', 'Rogue']",Rare,PSAL,2,3,None,"All Rats have fear.\n{T}, Sacrifice a Rat: Create X 1/1 black Rat creature tokens, where X is the number of Rats you control."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Infernal Contract,3.0,['Black'],['B'],None,['Sorcery'],None,Rare,PSAL,None,None,None,"Draw four cards. You lose half your life, rounded up."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PSAL,None,None,None,({T}: Add {U}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Aphetto Dredging,4.0,['Black'],['B'],None,['Sorcery'],None,Common,PSAL,None,None,None,Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.
+Spectral Sliver,3.0,['Black'],['B'],None,['Creature'],"['Sliver', 'Spirit']",Uncommon,PSAL,2,2,None,"All Sliver creatures have ""{2}: This creature gets +1/+1 until end of turn."""
+Horizon Seed,5.0,['White'],['W'],None,['Creature'],['Spirit'],Uncommon,PSAL,2,1,None,"Whenever you cast a Spirit or Arcane spell, regenerate target creature."
+Cover of Darkness,2.0,['Black'],['B'],None,['Enchantment'],None,Rare,PSAL,None,None,None,"As Cover of Darkness enters the battlefield, choose a creature type.\nCreatures of the chosen type have fear. (They can't be blocked except by artifact creatures and/or black creatures.)"
+Darigaaz's Charm,3.0,"['Black', 'Green', 'Red']","['B', 'G', 'R']",None,['Instant'],None,Uncommon,PSAL,None,None,None,Choose one —\n• Return target creature card from your graveyard to your hand.\n• Darigaaz's Charm deals 3 damage to any target.\n• Target creature gets +3/+3 until end of turn.
+Bloodscent,4.0,['Green'],['G'],None,['Instant'],None,Uncommon,PSAL,None,None,None,All creatures able to block target creature this turn do so.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Dark Banishing,3.0,['Black'],['B'],None,['Instant'],None,Common,PSAL,None,None,None,Destroy target nonblack creature. It can't be regenerated.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Darigaaz's Caldera,0.0,None,"['B', 'G', 'R']",None,['Land'],['Lair'],Uncommon,PSAL,None,None,None,"When Darigaaz's Caldera enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.\n{T}: Add {B}, {R}, or {G}."
+Crypt Sliver,2.0,['Black'],['B'],None,['Creature'],['Sliver'],Common,PSAL,1,1,None,"All Slivers have ""{T}: Regenerate target Sliver."""
+Toxin Sliver,4.0,['Black'],['B'],None,['Creature'],['Sliver'],Rare,PSAL,3,3,None,"Whenever a Sliver deals combat damage to a creature, destroy that creature. It can't be regenerated."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Blade Sliver,3.0,['Red'],['R'],None,['Creature'],['Sliver'],Uncommon,PSAL,2,2,None,All Sliver creatures get +1/+0.
+Terrarion,1.0,None,None,None,['Artifact'],None,Common,PSAL,None,None,None,"Terrarion enters the battlefield tapped.\n{2}, {T}, Sacrifice Terrarion: Add two mana in any combination of colors.\nWhen Terrarion is put into a graveyard from the battlefield, draw a card."
+Savage Offensive,2.0,['Red'],"['G', 'R']",None,['Sorcery'],None,Common,PSAL,None,None,None,"Kicker {G} (You may pay an additional {G} as you cast this spell.)\nCreatures you control gain first strike until end of turn. If this spell was kicked, they get +1/+1 until end of turn."
+Quick Sliver,2.0,['Green'],['G'],None,['Creature'],['Sliver'],Common,PSAL,1,1,None,Flash\nAny player may cast Sliver spells as though they had flash.
+Root Sliver,4.0,['Green'],['G'],None,['Creature'],['Sliver'],Uncommon,PSAL,2,2,None,This spell can't be countered.\nSliver spells can't be countered.
+Brood Sliver,5.0,['Green'],['G'],None,['Creature'],['Sliver'],Rare,PSAL,3,3,None,"Whenever a Sliver deals combat damage to a player, its controller may create a 1/1 colorless Sliver creature token."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Magma Sliver,4.0,['Red'],['R'],None,['Creature'],['Sliver'],Rare,PSAL,3,3,None,"All Slivers have ""{T}: Target Sliver creature gets +X/+0 until end of turn, where X is the number of Slivers on the battlefield."""
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Stir the Pride,5.0,['White'],['W'],None,['Instant'],None,Uncommon,PSAL,None,None,None,"Choose one —\n• Creatures you control get +2/+2 until end of turn.\n• Until end of turn, creatures you control gain ""Whenever this creature deals damage, you gain that much life.""\nEntwine {1}{W} (Choose both if you pay the entwine cost.)"
+Sandsower,4.0,['White'],['W'],None,['Creature'],['Spirit'],Uncommon,PSAL,1,3,None,Tap three untapped creatures you control: Tap target creature.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Devouring Rage,5.0,['Red'],['R'],None,['Instant'],['Arcane'],Common,PSAL,None,None,None,"As an additional cost to cast this spell, you may sacrifice any number of Spirits.\nTarget creature gets +3/+0 until end of turn. For each Spirit sacrificed this way, that creature gets an additional +3/+0 until end of turn."
+Blinking Spirit,4.0,['White'],['W'],None,['Creature'],['Spirit'],Rare,PSAL,2,2,None,{0}: Return Blinking Spirit to its owner's hand.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Volcanic Hammer,2.0,['Red'],['R'],None,['Sorcery'],None,Common,PSAL,None,None,None,Volcanic Hammer deals 3 damage to any target.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Waxmane Baku,3.0,['White'],['W'],None,['Creature'],['Spirit'],Common,PSAL,2,2,None,"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Waxmane Baku.\n{1}, Remove X ki counters from Waxmane Baku: Tap X target creatures."
+Shinen of Fury's Fire,3.0,['Red'],['R'],None,['Creature'],['Spirit'],Common,PSAL,2,1,None,"Haste\nChannel — {R}, Discard Shinen of Fury's Fire: Target creature gains haste until end of turn."
+Yuki-Onna,4.0,['Red'],['R'],None,['Creature'],['Spirit'],Uncommon,PSAL,3,1,None,"When Yuki-Onna enters the battlefield, destroy target artifact.\nWhenever you cast a Spirit or Arcane spell, you may return Yuki-Onna to its owner's hand."
+Spirit Link,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,PSAL,None,None,None,"Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nWhenever enchanted creature deals damage, you gain that much life."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Kirtar's Wrath,6.0,['White'],['W'],None,['Sorcery'],None,Rare,PSAL,None,None,None,"Destroy all creatures. They can't be regenerated.\nThreshold — If seven or more cards are in your graveyard, instead destroy all creatures, then create two 1/1 white Spirit creature tokens with flying. Creatures destroyed this way can't be regenerated."
+Wayfarer's Bauble,1.0,None,None,None,['Artifact'],None,Common,PSAL,None,None,None,"{2}, {T}, Sacrifice Wayfarer's Bauble: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+Phantom Flock,5.0,['White'],['W'],None,['Creature'],"['Bird', 'Soldier', 'Spirit']",Uncommon,PSAL,0,0,None,"Flying\nPhantom Flock enters the battlefield with three +1/+1 counters on it.\nIf damage would be dealt to Phantom Flock, prevent that damage. Remove a +1/+1 counter from Phantom Flock."
+Specter's Shroud,2.0,None,None,None,['Artifact'],['Equipment'],Uncommon,PSAL,None,None,None,"Equipped creature gets +1/+0.\nWhenever equipped creature deals combat damage to a player, that player discards a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)"
+Leonin Bola,1.0,None,None,None,['Artifact'],['Equipment'],Common,PSAL,None,None,None,"Equipped creature has ""{T}, Unattach Leonin Bola: Tap target creature.""\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)"
+Pain Kami,3.0,['Red'],['R'],None,['Creature'],['Spirit'],Uncommon,PSAL,2,2,None,"{X}{R}, Sacrifice Pain Kami: It deals X damage to target creature."
+Leonin Den-Guard,2.0,['White'],['W'],None,['Creature'],"['Cat', 'Soldier']",Common,PSAL,1,3,None,"As long as Leonin Den-Guard is equipped, it gets +1/+1 and has vigilance."
+Kami of the Palace Fields,6.0,['White'],['W'],None,['Creature'],['Spirit'],Uncommon,PSAL,3,2,None,"Flying, first strike\nSoulshift 5 (When this creature dies, you may return target Spirit card with mana value 5 or less from your graveyard to your hand.)"
+Skyhunter Cub,3.0,['White'],['W'],None,['Creature'],"['Cat', 'Knight']",Common,PSAL,2,2,None,"As long as Skyhunter Cub is equipped, it gets +1/+1 and has flying."
+Aether Shockwave,4.0,['White'],['W'],None,['Instant'],None,Uncommon,PSAL,None,None,None,Choose one —\n• Tap all Spirits.\n• Tap all non-Spirit creatures.
+Skyhunter Patrol,4.0,['White'],['W'],None,['Creature'],"['Cat', 'Knight']",Common,PSAL,2,3,None,"Flying, first strike (This creature can't be blocked except by creatures with flying or reach, and it deals combat damage before creatures without first strike.)"
+Celestial Kirin,4.0,['White'],['W'],['Legendary'],['Creature'],"['Kirin', 'Spirit']",Rare,PSAL,3,3,None,"Flying\nWhenever you cast a Spirit or Arcane spell, destroy all permanents with that spell's mana value."
+Lightning Greaves,2.0,None,None,None,['Artifact'],['Equipment'],Uncommon,PSAL,None,None,None,Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Terramorphic Expanse,0.0,None,None,None,['Land'],None,Common,PSAL,None,None,None,"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Nikko-Onna,3.0,['White'],['W'],None,['Creature'],['Spirit'],Uncommon,PSAL,2,2,None,"When Nikko-Onna enters the battlefield, destroy target enchantment.\nWhenever you cast a Spirit or Arcane spell, you may return Nikko-Onna to its owner's hand."
+"Mirri, Cat Warrior",3.0,['Green'],['G'],['Legendary'],['Creature'],"['Cat', 'Warrior']",Rare,PSAL,2,3,None,"First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it can't be blocked as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)"
+Soul of Magma,5.0,['Red'],['R'],None,['Creature'],['Spirit'],Common,PSAL,2,2,None,"Whenever you cast a Spirit or Arcane spell, Soul of Magma deals 1 damage to target creature."
+Grifter's Blade,3.0,None,None,None,['Artifact'],['Equipment'],Uncommon,PSAL,None,None,None,"Flash\nAs Grifter's Blade enters the battlefield, choose a creature you control it could be attached to. If you do, it enters the battlefield attached to that creature.\nEquipped creature gets +1/+1.\nEquip {1}"
+Phantom Nomad,2.0,['White'],['W'],None,['Creature'],"['Spirit', 'Nomad']",Common,PSAL,0,0,None,"Phantom Nomad enters the battlefield with two +1/+1 counters on it.\nIf damage would be dealt to Phantom Nomad, prevent that damage. Remove a +1/+1 counter from Phantom Nomad."
+Saltblast,5.0,['White'],['W'],None,['Sorcery'],None,Uncommon,PSAL,None,None,None,Destroy target nonwhite permanent.
+Frostling,1.0,['Red'],['R'],None,['Creature'],['Spirit'],Common,PSAL,1,1,None,Sacrifice Frostling: It deals 1 damage to target creature.
+Crushing Pain,2.0,['Red'],['R'],None,['Instant'],['Arcane'],Common,PSAL,None,None,None,Crushing Pain deals 6 damage to target creature that was dealt damage this turn.
+Skyhunter Skirmisher,3.0,['White'],['W'],None,['Creature'],"['Cat', 'Knight']",Uncommon,PSAL,1,1,None,"Flying, double strike"
+Angelic Page,2.0,['White'],['W'],None,['Creature'],"['Angel', 'Spirit']",Common,PSAL,1,1,None,Flying\n{T}: Target attacking or blocking creature gets +1/+1 until end of turn.
+Lavaborn Muse,4.0,['Red'],['R'],None,['Creature'],['Spirit'],Rare,PSAL,3,3,None,"At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Lavaborn Muse deals 3 damage to that player."
+Vulshok Gauntlets,2.0,None,None,None,['Artifact'],['Equipment'],Common,PSAL,None,None,None,Equipped creature gets +4/+2 and doesn't untap during its controller's untap step.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Whitemane Lion,2.0,['White'],['W'],None,['Creature'],['Cat'],Common,PSAL,2,2,None,"Flash\nWhen Whitemane Lion enters the battlefield, return a creature you control to its owner's hand."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Selesnya Sanctuary,0.0,None,"['G', 'W']",None,['Land'],None,Common,PSAL,None,None,None,"Selesnya Sanctuary enters the battlefield tapped.\nWhen Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {G}{W}."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+"Oyobi, Who Split the Heavens",7.0,['White'],['W'],['Legendary'],['Creature'],['Spirit'],Rare,PSAL,3,6,None,"Flying\nWhenever you cast a Spirit or Arcane spell, create a 3/3 white Spirit creature token with flying."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Leonin Shikari,2.0,['White'],['W'],None,['Creature'],"['Cat', 'Soldier']",Rare,PSAL,2,2,None,You may activate equip abilities any time you could cast an instant.
+Blademane Baku,2.0,['Red'],['R'],None,['Creature'],['Spirit'],Common,PSAL,1,1,None,"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Blademane Baku.\n{1}, Remove X ki counters from Blademane Baku: For each counter removed, Blademane Baku gets +2/+0 until end of turn."
+Nacatl War-Pride,6.0,['Green'],['G'],None,['Creature'],"['Cat', 'Warrior']",Uncommon,PSAL,3,3,None,"Nacatl War-Pride must be blocked by exactly one creature if able.\nWhenever Nacatl War-Pride attacks, create X tokens that are copies of Nacatl War-Pride and that are tapped and attacking, where X is the number of creatures defending player controls. Exile the tokens at the beginning of the next end step."
+Wellwisher,2.0,['Green'],['G'],None,['Creature'],['Elf'],Common,PSAL,1,1,None,{T}: You gain 1 life for each Elf on the battlefield.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Taj-Nar Swordsmith,4.0,['White'],['W'],None,['Creature'],"['Cat', 'Soldier']",Uncommon,PSAL,2,3,None,"When Taj-Nar Swordsmith enters the battlefield, you may pay {X}. If you do, search your library for an Equipment card with mana value X or less, put that card onto the battlefield, then shuffle."
+Bonesplitter,1.0,None,None,None,['Artifact'],['Equipment'],Common,PSAL,None,None,None,Equipped creature gets +2/+0.\nEquip {1}
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Selesnya Signet,2.0,None,"['G', 'W']",None,['Artifact'],None,Common,PSAL,None,None,None,"{1}, {T}: Add {G}{W}."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Slagwurm Armor,1.0,None,None,None,['Artifact'],['Equipment'],Common,PSAL,None,None,None,Equipped creature gets +0/+6.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Raksha Golden Cub,7.0,['White'],['W'],['Legendary'],['Creature'],"['Cat', 'Soldier']",Rare,PSAL,3,4,None,"Vigilance\nAs long as Raksha Golden Cub is equipped, Cat creatures you control get +2/+2 and have double strike."
+Crown of Vigor,2.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,PSAL,None,None,None,Enchant creature\nEnchanted creature gets +1/+1.\nSacrifice Crown of Vigor: Enchanted creature and other creatures that share a creature type with it get +1/+1 until end of turn.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Call for Blood,5.0,['Black'],['B'],None,['Instant'],['Arcane'],Common,PSAL,None,None,None,"As an additional cost to cast this spell, sacrifice a creature.\nTarget creature gets -X/-X until end of turn, where X is the sacrificed creature's power."
+Birchlore Rangers,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid', 'Ranger']",Common,PSAL,1,1,None,Tap two untapped Elves you control: Add one mana of any color.\nMorph {G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Treetop Scout,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Scout']",Common,PSAL,1,1,None,Treetop Scout can't be blocked except by creatures with flying.
+Dance of Shadows,5.0,['Black'],['B'],None,['Sorcery'],['Arcane'],Uncommon,PSAL,None,None,None,Creatures you control get +1/+0 and gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)
+Leonin Elder,1.0,['White'],['W'],None,['Creature'],"['Cat', 'Cleric']",Common,PSAL,1,1,None,"Whenever an artifact enters the battlefield, you may gain 1 life."
+Selesnya Guildmage,2.0,"['Green', 'White']","['G', 'W']",None,['Creature'],"['Elf', 'Wizard']",Uncommon,PSAL,2,2,None,{3}{G}: Create a 1/1 green Saproling creature token.\n{3}{W}: Creatures you control get +1/+1 until end of turn.
+Golgari Guildmage,2.0,"['Black', 'Green']","['B', 'G']",None,['Creature'],"['Elf', 'Shaman']",Uncommon,PSAL,2,2,None,"{4}{B}, Sacrifice a creature: Return target creature card from your graveyard to your hand.\n{4}{G}: Put a +1/+1 counter on target creature."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Sanguine Praetor,8.0,['Black'],['B'],None,['Creature'],"['Avatar', 'Praetor']",Rare,PSAL,7,5,None,"{B}, Sacrifice a creature: Destroy each creature with the same mana value as the sacrificed creature."
+Leonin Skyhunter,2.0,['White'],['W'],None,['Creature'],"['Cat', 'Knight']",Uncommon,PSAL,2,2,None,Flying
+Elvish Champion,3.0,['Green'],['G'],None,['Creature'],['Elf'],Rare,PSAL,2,2,None,Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Wirewood Herald,2.0,['Green'],['G'],None,['Creature'],['Elf'],Common,PSAL,1,1,None,"When Wirewood Herald dies, you may search your library for an Elf card, reveal that card, put it into your hand, then shuffle."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Necromantic Thirst,4.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,PSAL,None,None,None,"Enchant creature\nWhenever enchanted creature deals combat damage to a player, you may return target creature card from your graveyard to your hand."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Elvish Warrior,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Common,PSAL,2,3,None,None
+Gravedigger,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,PSAL,2,2,None,"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand."
+Jedit's Dragoons,6.0,['White'],['W'],None,['Creature'],"['Cat', 'Soldier']",Common,PSAL,2,5,None,"Vigilance\nWhen Jedit's Dragoons enters the battlefield, you gain 4 life."
+Death Denied,2.0,['Black'],['B'],None,['Instant'],['Arcane'],Common,PSAL,None,None,None,Return X target creature cards from your graveyard to your hand.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Heedless One,4.0,['Green'],['G'],None,['Creature'],"['Elf', 'Avatar']",Uncommon,PSAL,*,*,None,Trample\nHeedless One's power and toughness are each equal to the number of Elves on the battlefield.
+Alpha Status,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,PSAL,None,None,None,Enchant creature\nEnchanted creature gets +2/+2 for each other creature on the battlefield that shares a creature type with it.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Woebearer,5.0,['Black'],['B'],None,['Creature'],['Zombie'],Uncommon,PSAL,2,3,None,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever Woebearer deals combat damage to a player, you may return target creature card from your graveyard to your hand."
+Caller of the Claw,3.0,['Green'],['G'],None,['Creature'],['Elf'],Rare,PSAL,2,2,None,"Flash\nWhen Caller of the Claw enters the battlefield, create a 2/2 green Bear creature token for each nontoken creature put into your graveyard from the battlefield this turn."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Carrion Howler,4.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Wolf']",Uncommon,PSAL,2,2,None,Pay 1 life: Carrion Howler gets +2/-1 until end of turn.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Fallen Angel,5.0,['Black'],['B'],None,['Creature'],['Angel'],Rare,PSAL,3,3,None,Flying\nSacrifice a creature: Fallen Angel gets +2/+1 until end of turn.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Wirewood Pride,1.0,['Green'],['G'],None,['Instant'],None,Common,PSAL,None,None,None,"Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Viridian Scout,4.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior', 'Scout']",Common,PSAL,1,2,None,"{2}{G}, Sacrifice Viridian Scout: It deals 2 damage to target creature with flying."
+Nantuko Husk,3.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Insect']",Uncommon,PSAL,2,2,None,Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Wirewood Hivemaster,2.0,['Green'],['G'],None,['Creature'],['Elf'],Uncommon,PSAL,1,1,None,"Whenever another nontoken Elf enters the battlefield, you may create a 1/1 green Insect creature token."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Seeker of Skybreak,2.0,['Green'],['G'],None,['Creature'],['Elf'],Common,PSAL,2,1,None,{T}: Untap target creature.
+Wirewood Lodge,0.0,None,['G'],None,['Land'],None,Uncommon,PSAL,None,None,None,"{T}: Add {C}.\n{G}, {T}: Untap target Elf."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Wirewood Channeler,4.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Uncommon,PSAL,2,2,None,"{T}: Add X mana of any one color, where X is the number of Elves on the battlefield."
+Festering Goblin,1.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Goblin']",Common,PSAL,1,1,None,"When Festering Goblin dies, target creature gets -1/-1 until end of turn."
+Bloodline Shaman,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Wizard', 'Shaman']",Uncommon,PSAL,1,1,None,"{T}: Choose a creature type. Reveal the top card of your library. If that card is a creature card of the chosen type, put it into your hand. Otherwise, put it into your graveyard."
+Ambush Commander,5.0,['Green'],['G'],None,['Creature'],['Elf'],Rare,PSAL,2,2,None,"Forests you control are 1/1 green Elf creatures that are still lands.\n{1}{G}, Sacrifice an Elf: Target creature gets +3/+3 until end of turn."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Blind Creeper,2.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Beast']",Common,PSAL,3,3,None,"Whenever a player casts a spell, Blind Creeper gets -1/-1 until end of turn."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Plagued Rusalka,1.0,['Black'],['B'],None,['Creature'],['Spirit'],Uncommon,PSAL,1,1,None,"{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Horror of Horrors,5.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,PSAL,None,None,None,"Sacrifice a Swamp: Regenerate target black creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Death Pit Offering,4.0,['Black'],['B'],None,['Enchantment'],None,Rare,PSAL,None,None,None,"When Death Pit Offering enters the battlefield, sacrifice all creatures you control.\nCreatures you control get +2/+2."
+Nullmage Shepherd,4.0,['Green'],['G'],None,['Creature'],"['Elf', 'Shaman']",Uncommon,PSAL,2,4,None,Tap four untapped creatures you control: Destroy target artifact or enchantment.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Timberwatch Elf,3.0,['Green'],['G'],None,['Creature'],['Elf'],Common,PSAL,1,2,None,"{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Mind Slash,3.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,PSAL,None,None,None,"{B}, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate only as a sorcery."
+Llanowar Elite,1.0,['Green'],['G'],None,['Creature'],['Elf'],Common,PSAL,1,1,None,"Kicker {8} (You may pay an additional {8} as you cast this spell.)\nTrample\nIf Llanowar Elite was kicked, it enters the battlefield with five +1/+1 counters on it."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Sylvan Messenger,4.0,['Green'],['G'],None,['Creature'],['Elf'],Uncommon,PSAL,2,2,None,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nWhen Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PSAL,None,None,None,({T}: Add {B}.)
+Elvish Vanguard,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Rare,PSAL,1,1,None,"Whenever another Elf enters the battlefield, put a +1/+1 counter on Elvish Vanguard."
+Gluttonous Zombie,5.0,['Black'],['B'],None,['Creature'],['Zombie'],Uncommon,PSAL,3,3,None,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Spineless Thug,2.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie', 'Mercenary']",Common,PSAL,2,2,None,Spineless Thug can't block.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Thelonite Hermit,4.0,['Green'],['G'],None,['Creature'],"['Elf', 'Shaman']",Rare,PSAL,1,1,None,"All Saprolings get +1/+1.\nMorph {3}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Thelonite Hermit is turned face up, create four 1/1 green Saproling creature tokens."
+Wojek Apothecary,4.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Uncommon,PSAL,1,1,None,Radiance — {T}: Prevent the next 1 damage that would be dealt to target creature and each other creature that shares a color with it this turn.
+Selesnya Evangel,2.0,"['Green', 'White']","['G', 'W']",None,['Creature'],"['Elf', 'Shaman']",Common,PSAL,1,2,None,"{1}, {T}, Tap an untapped creature you control: Create a 1/1 green Saproling creature token."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Rhox,6.0,['Green'],['G'],None,['Creature'],"['Rhino', 'Beast']",Rare,PSAL,5,5,None,"You may have Rhox assign its combat damage as though it weren't blocked.\n{2}{G}: Regenerate Rhox. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
+Thallid Shell-Dweller,2.0,['Green'],['G'],None,['Creature'],['Fungus'],Common,PSAL,0,5,None,"Defender\nAt the beginning of your upkeep, put a spore counter on Thallid Shell-Dweller.\nRemove three spore counters from Thallid Shell-Dweller: Create a 1/1 green Saproling creature token."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Fangren Firstborn,4.0,['Green'],['G'],None,['Creature'],['Beast'],Rare,PSAL,4,2,None,"Whenever Fangren Firstborn attacks, put a +1/+1 counter on each attacking creature."
+Fangren Pathcutter,6.0,['Green'],['G'],None,['Creature'],['Beast'],Uncommon,PSAL,4,6,None,"Whenever Fangren Pathcutter attacks, attacking creatures gain trample until end of turn."
+Rampant Growth,2.0,['Green'],['G'],None,['Sorcery'],None,Common,PSAL,None,None,None,"Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+Karplusan Wolverine,1.0,['Red'],['R'],['Snow'],['Creature'],"['Wolverine', 'Beast']",Common,PSAL,1,1,None,"Whenever Karplusan Wolverine becomes blocked, you may have it deal 1 damage to any target."
+Lure,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,PSAL,None,None,None,Enchant creature\nAll creatures able to block enchanted creature do so.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Enormous Baloth,7.0,['Green'],['G'],None,['Creature'],['Beast'],Uncommon,PSAL,7,7,None,None
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Pulse of the Tangle,3.0,['Green'],['G'],None,['Sorcery'],None,Rare,PSAL,None,None,None,"Create a 3/3 green Beast creature token. Then if an opponent controls more creatures than you, return Pulse of the Tangle to its owner's hand."
+Hunted Wumpus,4.0,['Green'],['G'],None,['Creature'],['Beast'],Uncommon,PSAL,6,6,None,"When Hunted Wumpus enters the battlefield, each other player may put a creature card from their hand onto the battlefield."
+Pyroclasm,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,PSAL,None,None,None,Pyroclasm deals 2 damage to each creature.
+Fangren Hunter,5.0,['Green'],['G'],None,['Creature'],['Beast'],Common,PSAL,4,4,None,Trample
+Iron-Barb Hellion,6.0,['Red'],['R'],None,['Creature'],"['Hellion', 'Beast']",Uncommon,PSAL,5,4,None,Haste\nIron-Barb Hellion can't block.
+Groffskithur,6.0,['Green'],['G'],None,['Creature'],['Beast'],Common,PSAL,3,3,None,"Whenever Groffskithur becomes blocked, you may return target card named Groffskithur from your graveyard to your hand."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Molder Slug,5.0,['Green'],['G'],None,['Creature'],"['Slug', 'Beast']",Rare,PSAL,4,6,None,"At the beginning of each player's upkeep, that player sacrifices an artifact."
+One Dozen Eyes,6.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,PSAL,None,None,None,Choose one —\n• Create a 5/5 green Beast creature token.\n• Create five 1/1 green Insect creature tokens.\nEntwine {G}{G}{G} (Choose both if you pay the entwine cost.)
+Kodama's Reach,3.0,['Green'],['G'],None,['Sorcery'],['Arcane'],Common,PSAL,None,None,None,"Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
+Serpent Skin,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,PSAL,None,None,None,Flash\nEnchant creature\nEnchanted creature gets +1/+1.\n{G}: Regenerate enchanted creature.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Ursapine,5.0,['Green'],['G'],None,['Creature'],['Beast'],Rare,PSAL,3,3,None,{G}: Target creature gets +1/+1 until end of turn.
+Fertile Ground,2.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,PSAL,None,None,None,"Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional one mana of any color."
+Predator's Strike,2.0,['Green'],['G'],None,['Instant'],None,Common,PSAL,None,None,None,Target creature gets +3/+3 and gains trample until end of turn.
+Flowstone Shambler,3.0,['Red'],['R'],None,['Creature'],['Beast'],Common,PSAL,2,2,None,{R}: Flowstone Shambler gets +1/-1 until end of turn.
+Gruul Nodorog,6.0,['Green'],"['G', 'R']",None,['Creature'],['Beast'],Common,PSAL,4,4,None,{R}: Gruul Nodorog gains menace until end of turn. (It can't be blocked except by two or more creatures.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PSAL,None,None,None,({T}: Add {R}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Jedit Ojanen of Efrava,6.0,['Green'],['G'],['Legendary'],['Creature'],"['Cat', 'Warrior']",Rare,PSAL,5,5,None,"Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)\nWhenever Jedit Ojanen of Efrava attacks or blocks, create a 2/2 green Cat Warrior creature token with forestwalk."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PSAL,None,None,None,({T}: Add {W}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PSAL,None,None,None,({T}: Add {G}.)
+Seht's Tiger,4.0,['White'],['W'],None,['Creature'],['Cat'],Rare,PSAL,3,3,None,"Flash (You may cast this spell any time you could cast an instant.)\nWhen Seht's Tiger enters the battlefield, you gain protection from the color of your choice until end of turn. (You can't be targeted, dealt damage, or enchanted by anything of the chosen color.)"
+Arctic Nishoba,6.0,['Green'],"['G', 'W']",None,['Creature'],"['Cat', 'Warrior']",Uncommon,PSAL,6,6,None,"Trample\nCumulative upkeep {G} or {W} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen Arctic Nishoba dies, you gain 2 life for each age counter on it."

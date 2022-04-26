@@ -1,0 +1,13 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Cultivate,3.0,['Green'],['G'],None,['Sorcery'],None,Rare,F11,None,None,None,"Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
+Teetering Peaks,0.0,None,['R'],None,['Land'],None,Rare,F11,None,None,None,"Teetering Peaks enters the battlefield tapped.\nWhen Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn.\n{T}: Add {R}."
+Wall of Omens,2.0,['White'],['W'],None,['Creature'],['Wall'],Rare,F11,0,4,None,"Defender\nWhen Wall of Omens enters the battlefield, draw a card."
+Everflowing Chalice,0.0,None,None,None,['Artifact'],None,Rare,F11,None,None,None,Multikicker {2}\nEverflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.\n{T}: Add {C} for each charge counter on Everflowing Chalice.
+Rhox War Monk,3.0,"['Green', 'Blue', 'White']","['G', 'U', 'W']",None,['Creature'],"['Rhino', 'Monk']",Rare,F11,3,4,None,Lifelink
+Squadron Hawk,2.0,['White'],['W'],None,['Creature'],['Bird'],Rare,F11,1,1,None,"Flying\nWhen Squadron Hawk enters the battlefield, you may search your library for up to three cards named Squadron Hawk, reveal them, put them into your hand, then shuffle."
+Jace's Ingenuity,5.0,['Blue'],['U'],None,['Instant'],None,Rare,F11,None,None,None,Draw three cards.
+Spellstutter Sprite,2.0,['Blue'],['U'],None,['Creature'],"['Faerie', 'Wizard']",Rare,F11,1,1,None,"Flash\nFlying\nWhen Spellstutter Sprite enters the battlefield, counter target spell with mana value X or less, where X is the number of Faeries you control."
+Go for the Throat,2.0,['Black'],['B'],None,['Instant'],None,Rare,F11,None,None,None,Destroy target nonartifact creature.
+Artisan of Kozilek,9.0,None,None,None,['Creature'],['Eldrazi'],Rare,F11,10,9,None,"When you cast this spell, you may return target creature card from your graveyard to the battlefield.\nAnnihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)"
+Savage Lands,0.0,None,"['B', 'G', 'R']",None,['Land'],None,Rare,F11,None,None,None,"Savage Lands enters the battlefield tapped.\n{T}: Add {B}, {R}, or {G}."
+Contagion Clasp,2.0,None,None,None,['Artifact'],None,Rare,F11,None,None,None,"When Contagion Clasp enters the battlefield, put a -1/-1 counter on target creature.\n{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"

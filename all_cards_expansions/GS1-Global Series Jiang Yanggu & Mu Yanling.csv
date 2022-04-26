@@ -1,0 +1,41 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Heavenly Qilin,3.0,['White'],['W'],None,['Creature'],['Kirin'],Common,GS1,2,2,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever Heavenly Qilin attacks, another target creature you control gains flying until end of turn."
+Welkin Tern,2.0,['Blue'],['U'],None,['Creature'],['Bird'],Common,GS1,2,1,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\nWelkin Tern can block only creatures with flying.
+Vivid Flying Fish,2.0,['Blue'],['U'],None,['Creature'],"['Fish', 'Lizard']",Common,GS1,1,1,None,Vivid Flying Fish has flying as long as it's attacking. (It can't be blocked except by creatures with flying or reach.)
+Leopard-Spotted Jiao,2.0,['Red'],['R'],None,['Creature'],['Beast'],Common,GS1,3,1,None,None
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,GS1,None,None,None,({T}: Add {G}.)
+Jiang Yanggu,5.0,['Green'],['G'],['Legendary'],['Planeswalker'],['Yanggu'],Mythic,GS1,None,None,4,"[+1]: Target creature gets +2/+2 until end of turn.\n[−1]: If you don't control a creature named Mowu, create Mowu, a legendary 3/3 green Dog creature token.\n[−5]: Until end of turn, target creature gains trample and gets +X/+X, where X is the number of lands you control."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,GS1,None,None,None,({T}: Add {R}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,GS1,None,None,None,({T}: Add {U}.)
+Timber Gorge,0.0,None,"['G', 'R']",None,['Land'],None,Common,GS1,None,None,None,Timber Gorge enters the battlefield tapped.\n{T}: Add {R} or {G}.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,GS1,None,None,None,({T}: Add {W}.)
+Cleansing Screech,5.0,['Red'],['R'],None,['Sorcery'],None,Common,GS1,None,None,None,Cleansing Screech deals 4 damage to any target.
+Meandering River,0.0,None,"['U', 'W']",None,['Land'],None,Common,GS1,None,None,None,Meandering River enters the battlefield tapped.\n{T}: Add {W} or {U}.
+Rhythmic Water Vortex,5.0,['Blue'],['U'],None,['Sorcery'],None,Rare,GS1,None,None,None,"Return up to two target creatures to their owner's hand.\nSearch your library and/or graveyard for a card named Mu Yanling, reveal it, and put it into your hand. If you searched your library this way, shuffle."
+Colorful Feiyi Sparrow,2.0,['White'],['W'],None,['Creature'],['Bird'],Common,GS1,1,3,None,Flying (This creature can't be blocked except by creatures with flying or reach.)
+Qilin's Blessing,1.0,['White'],['W'],None,['Instant'],None,Common,GS1,None,None,None,Target creature gets +2/+2 until end of turn.
+Dragon's Presence,3.0,['White'],['W'],None,['Instant'],None,Common,GS1,None,None,None,Dragon's Presence deals 5 damage to target attacking or blocking creature.
+Brilliant Plan,5.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,GS1,None,None,None,Draw three cards.
+Drown in Shapelessness,2.0,['Blue'],['U'],None,['Instant'],None,Common,GS1,None,None,None,Return target creature to its owner's hand.
+Journey for the Elixir,3.0,['Green'],['G'],None,['Sorcery'],None,Rare,GS1,None,None,None,"Search your library and graveyard for a basic land card and a card named Jiang Yanggu, reveal them, put them into your hand, then shuffle."
+Cloak of Mists,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,GS1,None,None,None,Enchant creature\nEnchanted creature can't be blocked.
+Confidence from Strength,3.0,['Green'],['G'],None,['Sorcery'],None,Common,GS1,None,None,None,Target creature gets +4/+4 and gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)
+Ancestor Dragon,6.0,['White'],['W'],None,['Creature'],['Dragon'],Rare,GS1,5,6,None,"Flying\nWhenever one or more creatures you control attack, you gain 1 life for each attacking creature."
+Aggressive Instinct,2.0,['Green'],['G'],None,['Sorcery'],None,Common,GS1,None,None,None,Target creature you control deals damage equal to its power to target creature you don't control.
+Stormcloud Spirit,5.0,['Blue'],['U'],None,['Creature'],['Spirit'],Uncommon,GS1,4,4,None,Flying (This creature can't be blocked except by creatures with flying or reach.)
+Breath of Fire,2.0,['Red'],['R'],None,['Instant'],None,Common,GS1,None,None,None,Breath of Fire deals 2 damage to target creature.
+Hardened-Scale Armor,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,GS1,None,None,None,Enchant creature\nEnchanted creature gets +3/+3.
+Earthshaking Si,6.0,['Green'],['G'],None,['Creature'],['Beast'],Common,GS1,5,5,None,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Screeching Phoenix,6.0,['Red'],['R'],None,['Creature'],['Phoenix'],Rare,GS1,4,4,None,Flying\n{2}{R}: Creatures you control get +1/+0 until end of turn.
+Fire-Omen Crane,5.0,['Red'],['R'],None,['Creature'],"['Bird', 'Spirit']",Uncommon,GS1,3,3,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever Fire-Omen Crane attacks, it deals 1 damage to target creature an opponent controls."
+Armored Whirl Turtle,3.0,['Blue'],['U'],None,['Creature'],['Turtle'],Common,GS1,0,5,None,None
+Ferocious Zheng,4.0,['Green'],['G'],None,['Creature'],"['Cat', 'Beast']",Common,GS1,4,4,None,None
+Moon-Eating Dog,4.0,['Blue'],['U'],None,['Creature'],['Dog'],Uncommon,GS1,3,3,None,"As long as you control a Yanling planeswalker, Moon-Eating Dog has flying. (It can't be blocked except by creatures with flying or reach.)"
+Giant Spider,4.0,['Green'],['G'],None,['Creature'],['Spider'],Common,GS1,2,4,None,Reach (This creature can block creatures with flying.)
+Earth-Origin Yak,4.0,['White'],['W'],None,['Creature'],['Ox'],Common,GS1,2,4,None,"When Earth-Origin Yak enters the battlefield, creatures you control get +1/+1 until end of turn."
+Reckless Pangolin,3.0,['Green'],['G'],None,['Creature'],['Pangolin'],Common,GS1,2,2,None,"Whenever Reckless Pangolin attacks, it gets +1/+1 until end of turn."
+Sacred White Deer,2.0,['Green'],['G'],None,['Creature'],['Elk'],Uncommon,GS1,2,2,None,"{3}{G}, {T}: You gain 4 life. Activate only if you control a Yanggu planeswalker."
+Nine-Tail White Fox,3.0,['Blue'],['U'],None,['Creature'],"['Fox', 'Spirit']",Common,GS1,2,2,None,"Whenever Nine-Tail White Fox deals combat damage to a player, draw a card."
+Purple-Crystal Crab,2.0,['Blue'],['U'],None,['Creature'],['Crab'],Common,GS1,1,1,None,"When Purple-Crystal Crab dies, draw a card."
+Feiyi Snake,2.0,['Green'],['G'],None,['Creature'],['Snake'],Common,GS1,2,1,None,Reach (This creature can block creatures with flying.)
+Mu Yanling,6.0,['Blue'],['U'],['Legendary'],['Planeswalker'],['Yanling'],Mythic,GS1,None,None,5,[+2]: Target creature can't be blocked this turn.\n[−3]: Draw two cards.\n[−10]: Tap all creatures your opponents control. You take an extra turn after this one.

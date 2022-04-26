@@ -1,0 +1,10 @@
+CMC: {2.0}
+Colors: {'Blue'}
+ColorIdentity: {'U'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Spellshaper', 'Merfolk'}
+Rarity: {'Rare'}
+Power: {'1'}
+Toughness: {'1'}
+Loyalty: set()

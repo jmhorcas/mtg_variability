@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
+Colors: {'Black', 'Green', 'Blue'}
+ColorIdentity: {'U', 'G', 'B'}
+Supertypes: {'Snow', 'Basic', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
+Subtypes: {'Jace', 'Snake', 'Vedalken', 'Elemental', 'Avatar', 'Island', 'Ooze', 'Scout', 'Assassin', 'Zombie', 'Bear', 'Vampire', 'Crocodile', 'Dragon', 'Fish', 'Boar', 'Human', 'Leech', 'Vraska', 'Gorgon', 'Merfolk', 'Beast', 'Shapeshifter', 'Plant', 'Spider', 'Fungus', 'Gate', 'Mercenary', 'Phyrexian', 'Warrior', 'Swamp', 'Forest', 'Illusion', 'Wizard', 'Rogue', 'Golem', 'Aura'}
+Rarity: {'Common', 'Mythic', 'Uncommon', 'Rare'}
+Power: {'4', '5', '*', '1', '2', '0', '3'}
+Toughness: {'4', '5', '*', '1', '2', '0', '3'}
+Loyalty: {'4', '5'}

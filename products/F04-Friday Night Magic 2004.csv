@@ -1,0 +1,13 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Mother of Runes,1.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Rare,F04,1,1,None,{T}: Target creature you control gains protection from the color of your choice until end of turn.
+Avalanche Riders,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Nomad']",Rare,F04,2,2,None,"Haste\nEcho {3}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Avalanche Riders enters the battlefield, destroy target land."
+Accumulated Knowledge,2.0,['Blue'],['U'],None,['Instant'],None,Rare,F04,None,None,None,"Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards."
+Silver Knight,2.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Rare,F04,2,2,None,"First strike, protection from red"
+Willbender,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Rare,F04,1,2,None,"Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Willbender is turned face up, change the target of target spell or ability with a single target."
+Carrion Feeder,1.0,['Black'],['B'],None,['Creature'],['Zombie'],Rare,F04,1,1,None,Carrion Feeder can't block.\nSacrifice a creature: Put a +1/+1 counter on Carrion Feeder.
+Lightning Rift,2.0,['Red'],['R'],None,['Enchantment'],None,Rare,F04,None,None,None,"Whenever a player cycles a card, you may pay {1}. If you do, Lightning Rift deals 2 damage to any target."
+Krosan Warchief,3.0,['Green'],['G'],None,['Creature'],['Beast'],Rare,F04,2,2,None,Beast spells you cast cost {1} less to cast.\n{1}{G}: Regenerate target Beast.
+Treetop Village,0.0,None,['G'],None,['Land'],None,Rare,F04,None,None,None,Treetop Village enters the battlefield tapped.\n{T}: Add {G}.\n{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (It can deal excess combat damage to the player or planeswalker it's attacking.)
+Brainstorm,1.0,['Blue'],['U'],None,['Instant'],None,Rare,F04,None,None,None,"Draw three cards, then put two cards from your hand on top of your library in any order."
+Slice and Dice,6.0,['Red'],['R'],None,['Sorcery'],None,Rare,F04,None,None,None,"Slice and Dice deals 4 damage to each creature.\nCycling {2}{R} ({2}{R}, Discard this card: Draw a card.)\nWhen you cycle Slice and Dice, you may have it deal 1 damage to each creature."
+Reanimate,1.0,['Black'],['B'],None,['Sorcery'],None,Rare,F04,None,None,None,Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its mana value.

@@ -1,0 +1,8 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+The Champion,0.0,None,None,None,['Hero'],None,Common,THP3,None,None,None,"{2}, {T}, Exile The Champion: Search your library for a legendary artifact card that isn't a creature, reveal it, and put it onto the battlefield. Then shuffle your library."
+Bow of the Hunter,0.0,None,None,None,"['Hero', 'Artifact']",['Equipment'],Common,THP3,None,None,None,"Equipped creature has ""{T}: This creature deals 2 damage to any target.""\nEquip {2}"
+The Destined,0.0,None,None,None,['Hero'],None,Common,THP3,None,None,None,Spells you control that target a creature you control cost {2} less to cast.
+Axe of the Warmonger,0.0,None,None,None,"['Hero', 'Artifact']",['Equipment'],Common,THP3,None,None,None,Equipped creature gets +2/+1 and has haste.\nEquip {2}
+Spear of the General,0.0,None,None,None,"['Hero', 'Artifact']",['Equipment'],Common,THP3,None,None,None,Equipped creature gets +2/+0 and has first strike.\nEquip {2}
+Cloak of the Philosopher,0.0,None,None,None,"['Hero', 'Artifact']",['Equipment'],Common,THP3,None,None,None,Equipped creature gets +1/+1.\n{2}: Untap equipped creature.\nEquip {2}
+Lash of the Tyrant,0.0,None,None,None,"['Hero', 'Artifact']",['Equipment'],Common,THP3,None,None,None,Equipped creature gets +1/+2 and has deathtouch.\nEquip {2}

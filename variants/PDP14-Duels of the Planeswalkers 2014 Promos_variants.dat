@@ -1,0 +1,10 @@
+CMC: {2.0, 4.0}
+Colors: {'White', 'Red', 'Green'}
+ColorIdentity: {'W', 'R', 'G'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Ogre', 'Warrior', 'Ooze', 'Sliver'}
+Rarity: {'Rare'}
+Power: {'3', '2'}
+Toughness: {'3', '2'}
+Loyalty: set()

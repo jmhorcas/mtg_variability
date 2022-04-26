@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 12.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Tribal', 'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Ooze', 'Scout', 'Samurai', 'Viashino', 'Pirate', 'Dihada', 'Whale', 'Equipment', 'Efreet', 'Cyclops', 'Ouphe', 'Imp', 'Nightmare', 'Human', 'Cleric', 'Frog', 'Noble', 'Giant', 'Grist', 'Squirrel', 'Plant', 'Spider', 'Treefolk', 'Spirit', 'Hydra', 'Warrior', 'Saga', 'Skeleton', 'Bird', 'Monkey', 'Elemental', 'Vedalken', 'Ranger', 'Goat', 'Thopter', 'Gargoyle', 'God', 'Archon', 'Clue', 'Minotaur', 'Gnome', 'Merfolk', 'Ape', 'Starfish', 'Kirin', 'Serpent', 'Urza’s', 'Elf', 'Sphinx', 'Rogue', 'Warlock', 'Dryad', 'Goblin', 'Golem', 'Aura', 'Snake', 'Island', 'Advisor', 'Zombie', 'Dragon', 'Mountain', 'Salamander', 'Knight', 'Devil', 'Gorgon', 'Dauthi', 'Vehicle', 'Dinosaur', 'Phyrexian', 'Shaman', 'Forest', 'Insect', 'Berserker', 'Artificer', 'Juggernaut', 'Myr', 'Druid', 'Pegasus', 'Lizard', 'Incarnation', 'Cat', 'Vampire', 'Construct', 'Angel', 'Demon', 'Archer', 'Minion', 'Camel', 'Homunculus', 'Kavu', 'Assembly-Worker', 'Dog', 'Beast', 'Plains', 'Elder', 'Drake', 'Lhurgoyf', 'Peasant', 'Manticore', 'Swamp', 'Soldier', 'Illusion', 'Wizard', 'Nymph', 'Dakkon'}
+Rarity: {'Common', 'Rare', 'Uncommon', 'Mythic'}
+Power: {'4', '7', '5', '1', '*', '2', '0', '3', '6'}
+Toughness: {'4', '7', '5', '1', '*', '2', '0', '3', '6'}
+Loyalty: {'3', '4', '0'}

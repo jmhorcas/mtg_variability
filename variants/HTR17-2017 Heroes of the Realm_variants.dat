@@ -1,0 +1,10 @@
+CMC: {3.0, 5.0, 6.0}
+Colors: {'Red', 'Black', 'Green', 'Blue'}
+ColorIdentity: {'R', 'G', 'U', 'B'}
+Supertypes: {'Legendary'}
+Types: {'Instant', 'Creature', 'Planeswalker'}
+Subtypes: {'Inzerva', 'Zombie', 'Wizard', 'Elf'}
+Rarity: {'Mythic'}
+Power: {'0'}
+Toughness: {'3'}
+Loyalty: {'4'}

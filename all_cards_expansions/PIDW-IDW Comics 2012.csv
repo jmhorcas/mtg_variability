@@ -1,0 +1,10 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Standstill,2.0,['Blue'],['U'],None,['Enchantment'],None,Rare,PIDW,None,None,None,"When a player casts a spell, sacrifice Standstill. If you do, each of that player's opponents draws three cards."
+Arrest,3.0,['White'],['W'],None,['Enchantment'],['Aura'],Rare,PIDW,None,None,None,"Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated."
+Faithless Looting,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,PIDW,None,None,None,"Draw two cards, then discard two cards.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Turnabout,4.0,['Blue'],['U'],None,['Instant'],None,Rare,PIDW,None,None,None,"Choose artifact, creature, or land. Tap all untapped permanents of the chosen type target player controls, or untap all tapped permanents of that type that player controls."
+Electrolyze,3.0,"['Red', 'Blue']","['R', 'U']",None,['Instant'],None,Rare,PIDW,None,None,None,Electrolyze deals 2 damage divided as you choose among one or two targets.\nDraw a card.
+Consume Spirit,2.0,['Black'],['B'],None,['Sorcery'],None,Rare,PIDW,None,None,None,Spend only black mana on X.\nConsume Spirit deals X damage to any target and you gain X life.
+Breath of Malfegor,5.0,"['Black', 'Red']","['B', 'R']",None,['Instant'],None,Rare,PIDW,None,None,None,Breath of Malfegor deals 5 damage to each opponent.
+Feast of Blood,2.0,['Black'],['B'],None,['Sorcery'],None,Rare,PIDW,None,None,None,Cast this spell only if you control two or more Vampires.\nDestroy target creature. You gain 4 life.
+Treasure Hunt,2.0,['Blue'],['U'],None,['Sorcery'],None,Rare,PIDW,None,None,None,"Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand."

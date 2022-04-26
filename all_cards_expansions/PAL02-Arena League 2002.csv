@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Man-o'-War,3.0,['Blue'],['U'],None,['Creature'],['Jellyfish'],Rare,PAL02,2,2,None,"When Man-o'-War enters the battlefield, return target creature to its owner's hand."
+Arc Lightning,3.0,['Red'],['R'],None,['Sorcery'],None,Rare,PAL02,None,None,None,"Arc Lightning deals 3 damage divided as you choose among one, two, or three targets."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Rare,PAL02,None,None,None,({T}: Add {U}.)
+Mana Leak,2.0,['Blue'],['U'],None,['Instant'],None,Rare,PAL02,None,None,None,Counter target spell unless its controller pays {3}.
+Dauthi Slayer,2.0,['Black'],['B'],None,['Creature'],"['Dauthi', 'Soldier']",Rare,PAL02,2,2,None,Shadow (This creature can block or be blocked by only creatures with shadow.)\nDauthi Slayer attacks each combat if able.

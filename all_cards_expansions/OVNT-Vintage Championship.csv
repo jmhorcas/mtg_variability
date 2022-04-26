@@ -1,0 +1,13 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Mishra's Workshop,0.0,None,None,None,['Land'],None,Mythic,OVNT,None,None,None,{T}: Add {C}{C}{C}. Spend this mana only to cast artifact spells.
+Mox Emerald,0.0,None,['G'],None,['Artifact'],None,Rare,OVNT,None,None,None,{T}: Add {G}.
+Library of Alexandria,0.0,None,None,None,['Land'],None,Mythic,OVNT,None,None,None,{T}: Add {C}.\n{T}: Draw a card. Activate only if you have exactly seven cards in hand.
+Tolarian Academy,0.0,None,['U'],['Legendary'],['Land'],None,Mythic,OVNT,None,None,None,{T}: Add {U} for each artifact you control.
+Timetwister,3.0,['Blue'],['U'],None,['Sorcery'],None,Rare,OVNT,None,None,None,"Each player shuffles their hand and graveyard into their library, then draws seven cards. (Then put Timetwister into its owner's graveyard.)"
+Time Walk,2.0,['Blue'],['U'],None,['Sorcery'],None,Rare,OVNT,None,None,None,Take an extra turn after this one.
+Mox Sapphire,0.0,None,['U'],None,['Artifact'],None,Rare,OVNT,None,None,None,{T}: Add {U}.
+Ancestral Recall,1.0,['Blue'],['U'],None,['Instant'],None,Rare,OVNT,None,None,None,Target player draws three cards.
+Black Lotus,0.0,None,None,None,['Artifact'],None,Rare,OVNT,None,None,None,"{T}, Sacrifice Black Lotus: Add three mana of any one color."
+Mox Ruby,0.0,None,['R'],None,['Artifact'],None,Rare,OVNT,None,None,None,{T}: Add {R}.
+Mox Jet,0.0,None,['B'],None,['Artifact'],None,Rare,OVNT,None,None,None,{T}: Add {B}.
+Mox Pearl,0.0,None,['W'],None,['Artifact'],None,Rare,OVNT,None,None,None,{T}: Add {W}.

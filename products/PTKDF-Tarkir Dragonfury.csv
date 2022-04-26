@@ -1,0 +1,5 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Dragonlord's Servant,2.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Shaman']",Uncommon,PTKDF,1,3,None,Dragon spells you cast cost {1} less to cast.
+Dragon Fodder,2.0,['Red'],['R'],None,['Sorcery'],None,Common,PTKDF,None,None,None,Create two 1/1 red Goblin creature tokens.
+Evolving Wilds,0.0,None,None,None,['Land'],None,Common,PTKDF,None,None,None,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+Foe-Razer Regent,7.0,['Green'],['G'],None,['Creature'],['Dragon'],Rare,PTKDF,4,5,None,"Flying\nWhen Foe-Razer Regent enters the battlefield, you may have it fight target creature you don't control.\nWhenever a creature you control fights, put two +1/+1 counters on it at the beginning of the next end step."

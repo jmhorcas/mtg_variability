@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 6.0}
+Colors: {'Black', 'White'}
+ColorIdentity: {'W', 'B'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Equipment', 'Swamp', 'Human', 'Elspeth', 'Plains', 'Wizard', 'Kithkin', 'Spirit', 'Cleric', 'Zombie'}
+Rarity: {'Uncommon', 'Common', 'Rare', 'Mythic'}
+Power: {'2', '1'}
+Toughness: {'2', '1'}
+Loyalty: {'4'}

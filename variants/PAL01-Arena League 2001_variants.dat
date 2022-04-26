@@ -1,0 +1,10 @@
+CMC: {2.0, 3.0, 4.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Basic'}
+Types: {'Enchantment', 'Instant', 'Land', 'Sorcery'}
+Subtypes: {'Swamp', 'Mountain', 'Forest', 'Island', 'Plains', 'Aura'}
+Rarity: {'Rare'}
+Power: set()
+Toughness: set()
+Loyalty: set()

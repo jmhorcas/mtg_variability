@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Rabbit', 'Scout', 'Faerie', 'Whale', 'Equipment', 'Efreet', 'Imp', 'Nightmare', 'Masticore', 'Human', 'Djinn', 'Cleric', 'Noble', 'Giant', 'Spirit', 'Griffin', 'Wall', 'Warrior', 'Wurm', 'Bird', 'Carrier', 'Atog', 'Jace', 'Elemental', 'Hellion', 'Horror', 'Thopter', 'Mutant', 'Boar', 'Merfolk', 'Shapeshifter', 'Ape', 'Dack', 'Elf', 'Rogue', 'Goblin', 'Golem', 'Barbarian', 'Aura', 'Nightstalker', 'Snake', 'Island', 'Advisor', 'Zombie', 'Specter', 'Dragon', 'Mountain', 'Soltari', 'Knight', 'Gorgon', 'Dauthi', 'Jellyfish', 'Phyrexian', 'Nomad', 'Forest', 'Insect', 'Thalakos', 'Artificer', 'Druid', 'Orc', 'Spellshaper', 'Lizard', 'Incarnation', 'Cat', 'Vampire', 'Construct', 'Angel', 'Kavu', 'Dog', 'Beast', 'Plains', 'Drake', 'Mercenary', 'Mystic', 'Swamp', 'Soldier', 'Illusion', 'Wizard'}
+Rarity: {'Common', 'Uncommon', 'Rare', 'Bonus', 'Mythic'}
+Power: {'4', '7', '5', '1', '8', '2', '0', '3', '6'}
+Toughness: {'4', '7', '5', '1', '2', '0', '3', '6'}
+Loyalty: {'3'}

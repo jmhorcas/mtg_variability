@@ -1,0 +1,63 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Soul Burn,3.0,['Black'],['B'],None,['Sorcery'],None,Common,CST,None,None,None,"Spend only black and/or red mana on X.\nSoul Burn deals X damage to any target. You gain life equal to the damage dealt, but not more than the amount of {B} spent on X, the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness."
+Legions of Lim-Dûl,3.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,CST,2,3,None,Snow swampwalk (This creature can't be blocked as long as defending player controls a snow Swamp.)
+Scars of the Veteran,5.0,['White'],['W'],None,['Instant'],None,Uncommon,CST,None,None,None,"You may exile a white card from your hand rather than pay this spell's mana cost.\nPrevent the next 7 damage that would be dealt to any target this turn. If it's a creature, put a +0/+1 counter on it for each 1 damage prevented this way at the beginning of the next end step."
+Kjeldoran Dead,1.0,['Black'],['B'],None,['Creature'],['Skeleton'],Common,CST,3,1,None,"When Kjeldoran Dead enters the battlefield, sacrifice a creature.\n{B}: Regenerate Kjeldoran Dead."
+Gangrenous Zombies,3.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,CST,2,2,None,"{T}, Sacrifice Gangrenous Zombies: Gangrenous Zombies deals 1 damage to each creature and each player. If you control a snow Swamp, Gangrenous Zombies deals 2 damage to each creature and each player instead."
+Drift of the Dead,4.0,['Black'],['B'],None,['Creature'],['Wall'],Uncommon,CST,*,*,None,Defender (This creature can't attack.)\nDrift of the Dead's power and toughness are each equal to the number of snow lands you control.
+Dark Ritual,1.0,['Black'],['B'],None,['Instant'],None,Common,CST,None,None,None,Add {B}{B}{B}.
+Dark Banishing,3.0,['Black'],['B'],None,['Instant'],None,Common,CST,None,None,None,Destroy target nonblack creature. It can't be regenerated.
+Ashen Ghoul,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Uncommon,CST,3,1,None,Haste\n{B}: Return Ashen Ghoul from your graveyard to the battlefield. Activate only during your upkeep and only if three or more creature cards are above Ashen Ghoul.
+Casting of Bones,3.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,CST,None,None,None,"Enchant creature\nWhen enchanted creature dies, draw three cards, then discard one of them."
+Disenchant,2.0,['White'],['W'],None,['Instant'],None,Common,CST,None,None,None,Destroy target artifact or enchantment.
+Kjeldoran Pride,2.0,['White'],"['U', 'W']",None,['Enchantment'],['Aura'],Common,CST,None,None,None,Enchant creature\nEnchanted creature gets +1/+2.\n{2}{U}: Attach Kjeldoran Pride to target creature other than enchanted creature.
+Bounty of the Hunt,5.0,['Green'],['G'],None,['Instant'],None,Uncommon,CST,None,None,None,"You may exile a green card from your hand rather than pay this spell's mana cost.\nDistribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step."
+Deadly Insect,5.0,['Green'],['G'],None,['Creature'],['Insect'],Common,CST,6,1,None,Shroud (This creature can't be the target of spells or abilities.)
+Snow Devil,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,CST,None,None,None,Enchant creature\nEnchanted creature has flying.\nEnchanted creature has first strike as long as it's blocking and you control a snow land.
+Gorilla Shaman,1.0,['Red'],['R'],None,['Creature'],"['Ape', 'Shaman']",Common,CST,1,1,None,{X}{X}{1}: Destroy target noncreature artifact with mana value X.
+Zuran Spellcaster,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,CST,1,1,None,{T}: Zuran Spellcaster deals 1 damage to any target.
+Phantasmal Fiend,4.0,['Black'],"['B', 'U']",None,['Creature'],['Illusion'],Common,CST,1,5,None,{B}: Phantasmal Fiend gets +1/-1 until end of turn.\n{1}{U}: Switch Phantasmal Fiend's power and toughness until end of turn.
+Portent,1.0,['Blue'],['U'],None,['Sorcery'],None,Common,CST,None,None,None,"Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle.\nDraw a card at the beginning of the next turn's upkeep."
+Insidious Bookworms,1.0,['Black'],['B'],None,['Creature'],['Worm'],Common,CST,1,1,None,"When Insidious Bookworms dies, you may pay {1}{B}. If you do, target player discards a card at random."
+Kjeldoran Elite Guard,4.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,CST,2,2,None,"{T}: Target creature gets +2/+2 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Elite Guard. Activate only during combat."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,CST,None,None,None,({T}: Add {G}.)
+Essence Flare,1.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,CST,None,None,None,"Enchant creature\nEnchanted creature gets +2/+0.\nAt the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,CST,None,None,None,({T}: Add {G}.)
+Iceberg,2.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,CST,None,None,None,Iceberg enters the battlefield with X ice counters on it.\n{3}: Put an ice counter on Iceberg.\nRemove an ice counter from Iceberg: Add {C}.
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,CST,None,None,None,({T}: Add {G}.)
+Brainstorm,1.0,['Blue'],['U'],None,['Instant'],None,Common,CST,None,None,None,"Draw three cards, then put two cards from your hand on top of your library in any order."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,CST,None,None,None,({T}: Add {R}.)
+Mistfolk,2.0,['Blue'],['U'],None,['Creature'],['Illusion'],Common,CST,1,2,None,{U}: Counter target spell that targets Mistfolk.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,CST,None,None,None,({T}: Add {R}.)
+Death Spark,1.0,['Red'],['R'],None,['Instant'],None,Uncommon,CST,None,None,None,"Death Spark deals 1 damage to any target.\nAt the beginning of your upkeep, if Death Spark is in your graveyard with a creature card directly above it, you may pay {1}. If you do, return Death Spark to your hand."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,CST,None,None,None,({T}: Add {R}.)
+Storm Elemental,6.0,['Blue'],['U'],None,['Creature'],['Elemental'],Uncommon,CST,3,4,None,"Flying\n{U}, Exile the top card of your library: Tap target creature with flying.\n{U}, Exile the top card of your library: If the exiled card is a snow land, Storm Elemental gets +1/+1 until end of turn."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,CST,None,None,None,({T}: Add {B}.)
+Balduvian Dead,4.0,['Black'],"['B', 'R']",None,['Creature'],['Zombie'],Uncommon,CST,2,3,None,"{2}{R}, Exile a creature card from your graveyard: Create a 3/1 black and red Graveborn creature token with haste. Sacrifice it at the beginning of the next end step."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,CST,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,CST,None,None,None,({T}: Add {B}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,CST,None,None,None,({T}: Add {U}.)
+Swords to Plowshares,1.0,['White'],['W'],None,['Instant'],None,Uncommon,CST,None,None,None,Exile target creature. Its controller gains life equal to its power.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,CST,None,None,None,({T}: Add {U}.)
+Binding Grasp,4.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,CST,None,None,None,"Enchant creature\nAt the beginning of your upkeep, sacrifice Binding Grasp unless you pay {1}{U}.\nYou control enchanted creature.\nEnchanted creature gets +0/+1."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,CST,None,None,None,({T}: Add {U}.)
+Kjeldoran Home Guard,4.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,CST,1,6,None,"At end of combat, if Kjeldoran Home Guard attacked or blocked this combat, put a -0/-1 counter on Kjeldoran Home Guard and create a 0/1 white Deserter creature token."
+Viscerid Drone,2.0,['Blue'],['U'],None,['Creature'],"['Homarid', 'Drone']",Uncommon,CST,1,2,None,"{T}, Sacrifice a creature and a Swamp: Destroy target nonartifact creature. It can't be regenerated.\n{T}, Sacrifice a creature and a snow Swamp: Destroy target creature. It can't be regenerated."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,CST,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,CST,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,CST,None,None,None,({T}: Add {W}.)
+Whalebone Glider,2.0,None,None,None,['Artifact'],None,Uncommon,CST,None,None,None,"{2}, {T}: Target creature with power 3 or less gains flying until end of turn."
+Skull Catapult,4.0,None,None,None,['Artifact'],None,Uncommon,CST,None,None,None,"{1}, {T}, Sacrifice a creature: Skull Catapult deals 2 damage to any target."
+Reinforcements,1.0,['White'],['W'],None,['Instant'],None,Common,CST,None,None,None,Put up to three target creature cards from your graveyard on top of your library.
+Barbed Sextant,1.0,None,None,None,['Artifact'],None,Common,CST,None,None,None,"{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color. Draw a card at the beginning of the next turn's upkeep."
+Browse,4.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,CST,None,None,None,"{2}{U}{U}: Look at the top five cards of your library, put one of them into your hand, and exile the rest."
+Arcum's Weathervane,2.0,None,None,None,['Artifact'],None,Uncommon,CST,None,None,None,"{2}, {T}: Target snow land is no longer snow.\n{2}, {T}: Target nonsnow basic land becomes snow."
+Lat-Nam's Legacy,2.0,['Blue'],['U'],None,['Instant'],None,Common,CST,None,None,None,"Shuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn's upkeep."
+Wings of Aesthir,2.0,"['Blue', 'White']","['U', 'W']",None,['Enchantment'],['Aura'],Uncommon,CST,None,None,None,Enchant creature\nEnchanted creature gets +1/+0 and has flying and first strike.
+Giant Trap Door Spider,3.0,"['Green', 'Red']","['G', 'R']",None,['Creature'],['Spider'],Uncommon,CST,2,3,None,"{1}{R}{G}, {T}: Exile Giant Trap Door Spider and target creature without flying that's attacking you."
+Woolly Mammoths,3.0,['Green'],['G'],None,['Creature'],['Elephant'],Common,CST,3,2,None,Woolly Mammoths has trample as long as you control a snow land.
+Tinder Wall,1.0,['Green'],"['G', 'R']",None,['Creature'],"['Plant', 'Wall']",Common,CST,0,3,None,"Defender (This creature can't attack.)\nSacrifice Tinder Wall: Add {R}{R}.\n{R}, Sacrifice Tinder Wall: It deals 2 damage to target creature it's blocking."
+Aurochs,4.0,['Green'],['G'],None,['Creature'],['Aurochs'],Common,CST,2,3,None,"Trample\nWhenever Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs."
+Orcish Lumberjack,1.0,['Red'],"['G', 'R']",None,['Creature'],['Orc'],Common,CST,1,1,None,"{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G}."
+Orcish Healer,2.0,['Red'],"['B', 'G', 'R']",None,['Creature'],"['Orc', 'Cleric']",Uncommon,CST,1,1,None,"{R}{R}, {T}: Target creature can't be regenerated this turn.\n{B}{B}{R}, {T}: Regenerate target black or green creature.\n{R}{G}{G}, {T}: Regenerate target black or green creature."
+Incinerate,2.0,['Red'],['R'],None,['Instant'],None,Common,CST,None,None,None,Incinerate deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.

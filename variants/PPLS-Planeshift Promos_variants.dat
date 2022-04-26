@@ -1,0 +1,10 @@
+CMC: {4.0}
+Colors: {'White', 'Green', 'Blue'}
+ColorIdentity: {'W', 'U', 'G'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Phelddagrif'}
+Rarity: {'Rare'}
+Power: {'4'}
+Toughness: {'4'}
+Loyalty: set()

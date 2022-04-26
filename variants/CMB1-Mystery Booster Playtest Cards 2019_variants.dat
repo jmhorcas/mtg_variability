@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Snow', 'World', 'Basic', 'Legendary'}
+Types: {'Tribal', 'Summon', 'Elemental', 'Enchantment', 'Land', 'Wolf', 'Planeswalker', 'Creature', 'Sorcery', 'Vanguard', 'Instant', 'Specter', 'Artifact'}
+Subtypes: {'Kaya', 'Cephalid', 'Tibalt', 'Snake', 'Elemental', 'Advisor', 'Island', 'Scout', 'Lizard', 'Locus', 'Horse', 'Pirate', 'Zombie', 'Cat', 'Whale', 'Sliver', 'Bear', 'Vampire', 'Weird', 'Equipment', 'Dragon', 'Bat', 'Horror', 'Fish', 'Cloud', 'Citizen', 'Angel', 'Demon', 'Construct', 'Imp', 'Slug', 'Mutant', 'Human', 'Arcane', 'Cleric', 'Dog', 'Abian', 'Eldrazi', 'Frog', 'Key', 'Giant', 'Ogre', 'Vehicle', 'Squid', 'Fire', 'Fungus', 'Brushwagg', 'Lhurgoyf', 'Turtle', 'Spirit', 'Phyrexian', 'Antelope', 'Lobster', 'Mammoth', 'Shaman', 'Warrior', 'Soldier', 'Elf', 'Insect', 'Wizard', 'Skeleton', 'Homarid', 'Rogue', 'Warlock', 'Bird', 'Alien', 'Goblin', 'Troll', 'Duck', 'Beholder', 'Aura'}
+Rarity: {'Rare'}
+Power: {'4', '7', '5', '1', '*', '8', '2', '0', '?', '3', '6'}
+Toughness: {'4', '7', '5', '*', '1', '8', '?', '2', '0', '*+1', '3', '6'}
+Loyalty: {'3', '4', '5', '*'}

@@ -1,0 +1,144 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Mantis Engine,5.0,None,None,None,"['Artifact', 'Creature']",['Insect'],Uncommon,UDS,3,3,None,{2}: Mantis Engine gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)\n{2}: Mantis Engine gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
+Junk Diver,3.0,None,None,None,"['Artifact', 'Creature']",['Bird'],Rare,UDS,1,1,None,"Flying\nWhen Junk Diver dies, return another target artifact card from your graveyard to your hand."
+Yavimaya Hollow,0.0,None,['G'],['Legendary'],['Land'],None,Rare,UDS,None,None,None,"{T}: Add {C}.\n{G}, {T}: Regenerate target creature."
+Urza's Incubator,3.0,None,None,None,['Artifact'],None,Rare,UDS,None,None,None,"As Urza's Incubator enters the battlefield, choose a creature type.\nCreature spells of the chosen type cost {2} less to cast."
+Thran Golem,5.0,None,None,None,"['Artifact', 'Creature']",['Golem'],Rare,UDS,3,3,None,"As long as Thran Golem is enchanted, it gets +2/+2 and has flying, first strike, and trample."
+Thran Foundry,1.0,None,None,None,['Artifact'],None,Uncommon,UDS,None,None,None,"{1}, {T}, Exile Thran Foundry: Target player shuffles their graveyard into their library."
+Thran Dynamo,4.0,None,None,None,['Artifact'],None,Uncommon,UDS,None,None,None,{T}: Add {C}{C}{C}.
+Storage Matrix,3.0,None,None,None,['Artifact'],None,Rare,UDS,None,None,None,"As long as Storage Matrix is untapped, each player chooses artifact, creature, or land during their untap step. That player can untap only permanents of the chosen type this step."
+Scrying Glass,2.0,None,None,None,['Artifact'],None,Rare,UDS,None,None,None,"{3}, {T}: Choose a number greater than 0 and a color. Target opponent reveals their hand. If that opponent reveals exactly the chosen number of cards of the chosen color, you draw a card."
+Powder Keg,2.0,None,None,None,['Artifact'],None,Rare,UDS,None,None,None,"At the beginning of your upkeep, you may put a fuse counter on Powder Keg.\n{T}, Sacrifice Powder Keg: Destroy each artifact and creature with mana value equal to the number of fuse counters on Powder Keg."
+Metalworker,3.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Rare,UDS,1,2,None,{T}: Reveal any number of artifact cards in your hand. Add {C}{C} for each card revealed this way.
+Masticore,4.0,None,None,None,"['Artifact', 'Creature']",['Masticore'],Rare,UDS,4,4,None,"At the beginning of your upkeep, sacrifice Masticore unless you discard a card.\n{2}: Masticore deals 1 damage to target creature.\n{2}: Regenerate Masticore."
+Eradicate,4.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,UDS,None,None,None,"Exile target nonblack creature. Search its controller's graveyard, hand, and library for all cards with the same name as that creature and exile them. Then that player shuffles."
+Extruder,4.0,None,None,None,"['Artifact', 'Creature']",['Juggernaut'],Uncommon,UDS,4,3,None,"Echo {4} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nSacrifice an artifact: Put a +1/+1 counter on target creature."
+Encroach,1.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,UDS,None,None,None,Target player reveals their hand. You choose a nonbasic land card from it. That player discards that card.
+Caltrops,3.0,None,None,None,['Artifact'],None,Uncommon,UDS,None,None,None,"Whenever a creature attacks, Caltrops deals 1 damage to it."
+Dying Wail,2.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,UDS,None,None,None,"Enchant creature\nWhen enchanted creature dies, target player discards two cards."
+Brass Secretary,3.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Uncommon,UDS,2,1,None,"{2}, Sacrifice Brass Secretary: Draw a card."
+Disease Carriers,4.0,['Black'],['B'],None,['Creature'],['Rat'],Common,UDS,2,2,None,"When Disease Carriers dies, target creature gets -2/-2 until end of turn."
+Braidwood Sextant,1.0,None,None,None,['Artifact'],None,Uncommon,UDS,None,None,None,"{2}, {T}, Sacrifice Braidwood Sextant: Search your library for a basic land card, reveal that card, put it into your hand, then shuffle."
+Chime of Night,2.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,UDS,None,None,None,"Enchant creature\nWhen Chime of Night is put into a graveyard from the battlefield, destroy target nonblack creature."
+Braidwood Cup,3.0,None,None,None,['Artifact'],None,Uncommon,UDS,None,None,None,{T}: You gain 1 life.
+Carnival of Souls,2.0,['Black'],['B'],None,['Enchantment'],None,Rare,UDS,None,None,None,"Whenever a creature enters the battlefield, you lose 1 life and add {B}."
+Yavimaya Enchantress,3.0,['Green'],['G'],None,['Creature'],"['Human', 'Druid']",Uncommon,UDS,2,2,None,Yavimaya Enchantress gets +1/+1 for each enchantment on the battlefield.
+Bubbling Muck,1.0,['Black'],['B'],None,['Sorcery'],None,Common,UDS,None,None,None,"Until end of turn, whenever a player taps a Swamp for mana, that player adds an additional {B}."
+Yavimaya Elder,3.0,['Green'],['G'],None,['Creature'],"['Human', 'Druid']",Common,UDS,2,1,None,"When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.\n{2}, Sacrifice Yavimaya Elder: Draw a card."
+Body Snatcher,4.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Minion']",Rare,UDS,2,2,None,"When Body Snatcher enters the battlefield, exile it unless you discard a creature card.\nWhen Body Snatcher dies, exile Body Snatcher and return target creature card from your graveyard to the battlefield."
+Thorn Elemental,7.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,UDS,7,7,None,You may have Thorn Elemental assign its combat damage as though it weren't blocked.
+Attrition,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,UDS,None,None,None,"{B}, Sacrifice a creature: Destroy target nonblack creature."
+Taunting Elf,1.0,['Green'],['G'],None,['Creature'],['Elf'],Common,UDS,0,1,None,All creatures able to block Taunting Elf do so.
+Apprentice Necromancer,2.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Wizard']",Rare,UDS,1,1,None,"{B}, {T}, Sacrifice Apprentice Necromancer: Return target creature card from your graveyard to the battlefield. That creature gains haste. At the beginning of the next end step, sacrifice it."
+Splinter,4.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,UDS,None,None,None,"Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles."
+Treachery,5.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Rare,UDS,None,None,None,"Enchant creature\nWhen Treachery enters the battlefield, untap up to five lands.\nYou control enchanted creature."
+Scent of Ivy,1.0,['Green'],['G'],None,['Instant'],None,Common,UDS,None,None,None,"Reveal any number of green cards in your hand. Target creature gets +X/+X until end of turn, where X is the number of cards revealed this way."
+Thieving Magpie,4.0,['Blue'],['U'],None,['Creature'],['Bird'],Uncommon,UDS,1,3,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever Thieving Magpie deals damage to an opponent, draw a card."
+Rofellos's Gift,1.0,['Green'],['G'],None,['Sorcery'],None,Common,UDS,None,None,None,Reveal any number of green cards in your hand. Return an enchantment card from your graveyard to your hand for each card revealed this way.
+Temporal Adept,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Rare,UDS,1,1,None,"{U}{U}{U}, {T}: Return target permanent to its owner's hand."
+"Rofellos, Llanowar Emissary",2.0,['Green'],['G'],['Legendary'],['Creature'],"['Elf', 'Druid']",Rare,UDS,2,1,None,{T}: Add {G} for each Forest you control.
+Telepathic Spies,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,UDS,2,2,None,"When Telepathic Spies enters the battlefield, look at target opponent's hand."
+Plow Under,5.0,['Green'],['G'],None,['Sorcery'],None,Rare,UDS,None,None,None,Put two target lands on top of their owners' libraries.
+Sigil of Sleep,1.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,UDS,None,None,None,"Enchant creature\nWhenever enchanted creature deals damage to a player, return target creature that player controls to its owner's hand."
+Compost,2.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,UDS,None,None,None,"Whenever a black card is put into an opponent's graveyard from anywhere, you may draw a card."
+Scent of Brine,2.0,['Blue'],['U'],None,['Instant'],None,Common,UDS,None,None,None,Reveal any number of blue cards in your hand. Counter target spell unless its controller pays {1} for each card revealed this way.
+Momentum,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,UDS,None,None,None,"Enchant creature\nAt the beginning of your upkeep, you may put a growth counter on Momentum.\nEnchanted creature gets +1/+1 for each growth counter on Momentum."
+Rescue,1.0,['Blue'],['U'],None,['Instant'],None,Common,UDS,None,None,None,Return target permanent you control to its owner's hand.
+Pattern of Rebirth,4.0,['Green'],['G'],None,['Enchantment'],['Aura'],Rare,UDS,None,None,None,"Enchant creature\nWhen enchanted creature dies, that creature's controller may search their library for a creature card, put that card onto the battlefield, then shuffle."
+"Rayne, Academy Chancellor",3.0,['Blue'],['U'],['Legendary'],['Creature'],"['Human', 'Wizard']",Rare,UDS,1,1,None,"Whenever you or a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card. You may draw an additional card if Rayne, Academy Chancellor is enchanted."
+Quash,4.0,['Blue'],['U'],None,['Instant'],None,Uncommon,UDS,None,None,None,"Counter target instant or sorcery spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles."
+Plated Spider,5.0,['Green'],['G'],None,['Creature'],['Spider'],Common,UDS,4,4,None,Reach (This creature can block creatures with flying.)
+Private Research,1.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,UDS,None,None,None,"Enchant creature\nAt the beginning of your upkeep, you may put a page counter on Private Research.\nWhen enchanted creature dies, draw a card for each page counter on Private Research."
+Multani's Decree,4.0,['Green'],['G'],None,['Sorcery'],None,Common,UDS,None,None,None,Destroy all enchantments. You gain 2 life for each enchantment destroyed this way.
+Marker Beetles,3.0,['Green'],['G'],None,['Creature'],['Insect'],Common,UDS,2,3,None,"When Marker Beetles dies, target creature gets +1/+1 until end of turn.\n{2}, Sacrifice Marker Beetles: Draw a card."
+Opposition,4.0,['Blue'],['U'],None,['Enchantment'],None,Rare,UDS,None,None,None,"Tap an untapped creature you control: Tap target artifact, creature, or land."
+Magnify,1.0,['Green'],['G'],None,['Instant'],None,Common,UDS,None,None,None,All creatures get +1/+1 until end of turn.
+Metathran Soldier,2.0,['Blue'],['U'],None,['Creature'],"['Metathran', 'Soldier']",Common,UDS,1,1,None,Metathran Soldier can't be blocked.
+Ivy Seer,4.0,['Green'],['G'],None,['Creature'],"['Elf', 'Wizard']",Uncommon,UDS,1,1,None,"{2}{G}, {T}: Reveal any number of green cards in your hand. Target creature gets +X/+X until end of turn, where X is the number of cards revealed this way."
+Metathran Elite,3.0,['Blue'],['U'],None,['Creature'],"['Metathran', 'Soldier']",Uncommon,UDS,2,3,None,Metathran Elite can't be blocked as long as it's enchanted.
+Goliath Beetle,3.0,['Green'],['G'],None,['Creature'],['Insect'],Common,UDS,3,1,None,Trample
+Mental Discipline,3.0,['Blue'],['U'],None,['Enchantment'],None,Common,UDS,None,None,None,"{1}{U}, Discard a card: Draw a card."
+Kingfisher,4.0,['Blue'],['U'],None,['Creature'],['Bird'],Common,UDS,2,2,None,"Flying\nWhen Kingfisher dies, draw a card."
+Hunting Moa,3.0,['Green'],['G'],None,['Creature'],"['Bird', 'Beast']",Uncommon,UDS,3,2,None,"Echo {2}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Hunting Moa enters the battlefield or dies, put a +1/+1 counter on target creature."
+Iridescent Drake,4.0,['Blue'],['U'],None,['Creature'],['Drake'],Uncommon,UDS,2,2,None,"Flying\nWhen Iridescent Drake enters the battlefield, put target Aura card from a graveyard onto the battlefield under your control attached to Iridescent Drake."
+Heart Warden,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,UDS,1,1,None,"{T}: Add {G}.\n{2}, Sacrifice Heart Warden: Draw a card."
+Illuminated Wings,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,UDS,None,None,None,"Enchant creature\nEnchanted creature has flying.\n{2}, Sacrifice Illuminated Wings: Draw a card."
+Elvish Lookout,1.0,['Green'],['G'],None,['Creature'],['Elf'],Common,UDS,1,1,None,Shroud (This creature can't be the target of spells or abilities.)
+Fledgling Osprey,1.0,['Blue'],['U'],None,['Creature'],['Bird'],Common,UDS,1,1,None,Fledgling Osprey has flying as long as it's enchanted.
+Ancient Silverback,6.0,['Green'],['G'],None,['Creature'],['Ape'],Rare,UDS,6,5,None,"{G}: Regenerate Ancient Silverback. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
+Fatigue,2.0,['Blue'],['U'],None,['Sorcery'],None,Common,UDS,None,None,None,Target player skips their next draw step.
+Donate,3.0,['Blue'],['U'],None,['Sorcery'],None,Rare,UDS,None,None,None,Target player gains control of target permanent you control.
+Gamekeeper,4.0,['Green'],['G'],None,['Creature'],['Elf'],Uncommon,UDS,2,2,None,"When Gamekeeper dies, you may exile it. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and put all other cards revealed this way into your graveyard."
+Disappear,4.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,UDS,None,None,None,Enchant creature\n{U}: Return enchanted creature and Disappear to their owners' hands.
+Emperor Crocodile,4.0,['Green'],['G'],None,['Creature'],['Crocodile'],Rare,UDS,5,5,None,"When you control no other creatures, sacrifice Emperor Crocodile."
+Bubbling Beebles,5.0,['Blue'],['U'],None,['Creature'],['Beeble'],Common,UDS,3,3,None,Bubbling Beebles can't be blocked as long as defending player controls an enchantment.
+Elvish Piper,4.0,['Green'],['G'],None,['Creature'],"['Elf', 'Shaman']",Rare,UDS,1,1,None,"{G}, {T}: You may put a creature card from your hand onto the battlefield."
+Brine Seer,4.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Uncommon,UDS,1,1,None,"{2}{U}, {T}: Reveal any number of blue cards in your hand. Counter target spell unless its controller pays {1} for each card revealed this way."
+Wild Colos,3.0,['Red'],['R'],None,['Creature'],"['Goat', 'Beast']",Common,UDS,2,2,None,Haste
+Blizzard Elemental,7.0,['Blue'],['U'],None,['Creature'],['Elemental'],Rare,UDS,5,5,None,Flying\n{3}{U}: Untap Blizzard Elemental.
+Wake of Destruction,6.0,['Red'],['R'],None,['Sorcery'],None,Rare,UDS,None,None,None,Destroy target land and all other lands with the same name as that land.
+Aura Thief,4.0,['Blue'],['U'],None,['Creature'],['Illusion'],Rare,UDS,2,2,None,"Flying\nWhen Aura Thief dies, you gain control of all enchantments. (You don't get to move Auras.)"
+Trumpet Blast,3.0,['Red'],['R'],None,['Instant'],None,Common,UDS,None,None,None,Attacking creatures get +2/+0 until end of turn.
+Wall of Glare,2.0,['White'],['W'],None,['Creature'],['Wall'],Common,UDS,0,5,None,Defender (This creature can't attack.)\nWall of Glare can block any number of creatures.
+Sowing Salt,4.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,UDS,None,None,None,"Exile target nonbasic land. Search its controller's graveyard, hand, and library for all cards with the same name as that land and exile them. Then that player shuffles."
+Voice of Reason,4.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,UDS,2,2,None,"Flying, protection from blue"
+Scent of Cinder,2.0,['Red'],['R'],None,['Sorcery'],None,Common,UDS,None,None,None,"Reveal any number of red cards in your hand. Scent of Cinder deals X damage to any target, where X is the number of cards revealed this way."
+Voice of Duty,4.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,UDS,2,2,None,"Flying, protection from green"
+Repercussion,3.0,['Red'],['R'],None,['Enchantment'],None,Rare,UDS,None,None,None,"Whenever a creature is dealt damage, Repercussion deals that much damage to that creature's controller."
+Tormented Angel,4.0,['White'],['W'],None,['Creature'],['Angel'],Common,UDS,1,5,None,Flying
+Reckless Abandon,1.0,['Red'],['R'],None,['Sorcery'],None,Common,UDS,None,None,None,"As an additional cost to cast this spell, sacrifice a creature.\nReckless Abandon deals 4 damage to any target."
+Tethered Griffin,1.0,['White'],['W'],None,['Creature'],['Griffin'],Rare,UDS,2,3,None,"Flying\nWhen you control no enchantments, sacrifice Tethered Griffin."
+Mark of Fury,1.0,['Red'],['R'],None,['Enchantment'],['Aura'],Common,UDS,None,None,None,"Enchant creature\nEnchanted creature has haste.\nAt the beginning of the end step, return Mark of Fury to its owner's hand."
+Solidarity,4.0,['White'],['W'],None,['Instant'],None,Common,UDS,None,None,None,Creatures you control get +0/+5 until end of turn.
+Landslide,1.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,UDS,None,None,None,Sacrifice any number of Mountains. Landslide deals that much damage to target player or planeswalker.
+Serra Advocate,4.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,UDS,2,2,None,Flying\n{T}: Target attacking or blocking creature gets +2/+2 until end of turn.
+Keldon Vandals,3.0,['Red'],['R'],None,['Creature'],"['Human', 'Rogue']",Common,UDS,4,1,None,"Echo {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Keldon Vandals enters the battlefield, destroy target artifact."
+Scour,4.0,['White'],['W'],None,['Instant'],None,Uncommon,UDS,None,None,None,"Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles."
+Keldon Champion,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Barbarian']",Uncommon,UDS,3,2,None,"Haste\nEcho {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Keldon Champion enters the battlefield, it deals 3 damage to target player or planeswalker."
+Scent of Jasmine,1.0,['White'],['W'],None,['Instant'],None,Common,UDS,None,None,None,Reveal any number of white cards in your hand. You gain 2 life for each card revealed this way.
+Incendiary,1.0,['Red'],['R'],None,['Enchantment'],['Aura'],Uncommon,UDS,None,None,None,"Enchant creature\nAt the beginning of your upkeep, you may put a fuse counter on Incendiary.\nWhen enchanted creature dies, Incendiary deals X damage to any target, where X is the number of fuse counters on Incendiary."
+Archery Training,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,UDS,None,None,None,"Enchant creature\nAt the beginning of your upkeep, you may put an arrow counter on Archery Training.\nEnchanted creature has ""{T}: This creature deals X damage to target attacking or blocking creature, where X is the number of arrow counters on Archery Training."""
+Impatience,3.0,['Red'],['R'],None,['Enchantment'],None,Rare,UDS,None,None,None,"At the beginning of each player's end step, if that player didn't cast a spell this turn, Impatience deals 2 damage to that player."
+Opalescence,4.0,['White'],['W'],None,['Enchantment'],None,Rare,UDS,None,None,None,Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its mana value.
+Hulking Ogre,3.0,['Red'],['R'],None,['Creature'],['Ogre'],Common,UDS,3,3,None,Hulking Ogre can't block.
+Replenish,4.0,['White'],['W'],None,['Sorcery'],None,Rare,UDS,None,None,None,Return all enchantment cards from your graveyard to the battlefield. (Auras with nothing to enchant remain in your graveyard.)
+Goblin Masons,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,UDS,2,1,None,"When Goblin Masons dies, destroy target Wall."
+Sanctimony,2.0,['White'],['W'],None,['Enchantment'],None,Uncommon,UDS,None,None,None,"Whenever an opponent taps a Mountain for mana, you may gain 1 life."
+Goblin Marshal,6.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Rare,UDS,3,3,None,"Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Goblin Marshal enters the battlefield or dies, create two 1/1 red Goblin creature tokens."
+Reliquary Monk,3.0,['White'],['W'],None,['Creature'],"['Human', 'Monk', 'Cleric']",Common,UDS,2,2,None,"When Reliquary Monk dies, destroy target artifact or enchantment."
+Goblin Gardener,4.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,UDS,2,1,None,"When Goblin Gardener dies, destroy target land."
+Master Healer,5.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Rare,UDS,1,4,None,{T}: Prevent the next 4 damage that would be dealt to any target this turn.
+Goblin Festival,2.0,['Red'],['R'],None,['Enchantment'],None,Rare,UDS,None,None,None,"{2}: Goblin Festival deals 1 damage to any target. Flip a coin. If you lose the flip, choose one of your opponents. That player gains control of Goblin Festival."
+Mask of Law and Grace,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,UDS,None,None,None,Enchant creature\nEnchanted creature has protection from black and from red.
+Goblin Berserker,4.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Berserker']",Uncommon,UDS,2,2,None,"First strike, haste"
+Jasmine Seer,4.0,['White'],['W'],None,['Creature'],"['Human', 'Wizard']",Uncommon,UDS,1,1,None,"{2}{W}, {T}: Reveal any number of white cards in your hand. You gain 2 life for each card revealed this way."
+Flame Jet,2.0,['Red'],['R'],None,['Sorcery'],None,Common,UDS,None,None,None,"Flame Jet deals 3 damage to target player or planeswalker.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Covetous Dragon,5.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,UDS,6,5,None,"Flying\nWhen you control no artifacts, sacrifice Covetous Dragon."
+Fend Off,2.0,['White'],['W'],None,['Instant'],None,Common,UDS,None,None,None,"Prevent all combat damage that would be dealt by target creature this turn.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Colos Yearling,3.0,['Red'],['R'],None,['Creature'],"['Goat', 'Beast']",Common,UDS,1,1,None,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)\n{R}: Colos Yearling gets +1/+0 until end of turn.
+Flicker,2.0,['White'],['W'],None,['Sorcery'],None,Rare,UDS,None,None,None,"Exile target nontoken permanent, then return it to the battlefield under its owner's control."
+Cinder Seer,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Wizard']",Uncommon,UDS,1,1,None,"{2}{R}, {T}: Reveal any number of red cards in your hand. Cinder Seer deals X damage to any target, where X is the number of cards revealed this way."
+Field Surgeon,2.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,UDS,1,1,None,Tap an untapped creature you control: Prevent the next 1 damage that would be dealt to target creature this turn.
+Bloodshot Cyclops,6.0,['Red'],['R'],None,['Creature'],"['Cyclops', 'Giant']",Rare,UDS,4,4,None,"{T}, Sacrifice a creature: Bloodshot Cyclops deals damage equal to the sacrificed creature's power to any target."
+Capashen Knight,2.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Common,UDS,1,1,None,First strike (This creature deals combat damage before creatures without first strike.)\n{1}{W}: Capashen Knight gets +1/+0 until end of turn.
+Aether Sting,4.0,['Red'],['R'],None,['Enchantment'],None,Uncommon,UDS,None,None,None,"Whenever an opponent casts a creature spell, Aether Sting deals 1 damage to that player."
+Academy Rector,4.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Rare,UDS,1,2,None,"When Academy Rector dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle."
+Yawgmoth's Bargain,6.0,['Black'],['B'],None,['Enchantment'],None,Rare,UDS,None,None,None,Skip your draw step.\nPay 1 life: Draw a card.
+False Prophet,4.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Rare,UDS,2,2,None,"When False Prophet dies, exile all creatures."
+Twisted Experiment,2.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,UDS,None,None,None,Enchant creature\nEnchanted creature gets +3/-1.
+Capashen Templar,3.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Common,UDS,2,2,None,{W}: Capashen Templar gets +0/+1 until end of turn.
+Squirming Mass,2.0,['Black'],['B'],None,['Creature'],['Horror'],Common,UDS,1,1,None,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Capashen Standard,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,UDS,None,None,None,"Enchant creature\nEnchanted creature gets +1/+1.\n{2}, Sacrifice Capashen Standard: Draw a card."
+Soul Feast,5.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,UDS,None,None,None,Target player loses 4 life and you gain 4 life.
+Slinking Skirge,4.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Imp']",Common,UDS,2,1,None,"Flying\n{2}, Sacrifice Slinking Skirge: Draw a card."
+Lurking Jackals,1.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,UDS,None,None,None,"When an opponent has 10 or less life, if Lurking Jackals is an enchantment, it becomes a 3/2 Jackal creature."
+Fodder Cannon,4.0,None,None,None,['Artifact'],None,Uncommon,UDS,None,None,None,"{4}, {T}, Sacrifice a creature: Fodder Cannon deals 4 damage to target creature."
+Skittering Horror,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Horror']",Common,UDS,4,3,None,"When you cast a creature spell, sacrifice Skittering Horror."
+Scent of Nightshade,2.0,['Black'],['B'],None,['Instant'],None,Common,UDS,None,None,None,"Reveal any number of black cards in your hand. Target creature gets -X/-X until end of turn, where X is the number of cards revealed this way."
+Ravenous Rats,2.0,['Black'],['B'],None,['Creature'],['Rat'],Common,UDS,1,1,None,"When Ravenous Rats enters the battlefield, target opponent discards a card."
+Rapid Decay,2.0,['Black'],['B'],None,['Instant'],None,Rare,UDS,None,None,None,"Exile up to three target cards from a single graveyard.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+Plague Dogs,5.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie', 'Dog']",Uncommon,UDS,3,3,None,"When Plague Dogs dies, all creatures get -1/-1 until end of turn.\n{2}, Sacrifice Plague Dogs: Draw a card."
+Phyrexian Negator,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Horror']",Rare,UDS,5,5,None,"Trample\nWhenever Phyrexian Negator is dealt damage, sacrifice that many permanents."
+Phyrexian Monitor,4.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Skeleton']",Common,UDS,2,2,None,{B}: Regenerate Phyrexian Monitor.
+Nightshade Seer,4.0,['Black'],['B'],None,['Creature'],"['Human', 'Wizard']",Uncommon,UDS,1,1,None,"{2}{B}, {T}: Reveal any number of black cards in your hand. Target creature gets -X/-X until end of turn, where X is the number of cards revealed this way."
+Festering Wound,2.0,['Black'],['B'],None,['Enchantment'],['Aura'],Uncommon,UDS,None,None,None,"Enchant creature\nAt the beginning of your upkeep, you may put an infection counter on Festering Wound.\nAt the beginning of the upkeep of enchanted creature's controller, Festering Wound deals X damage to that player, where X is the number of infection counters on Festering Wound."

@@ -1,0 +1,13 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Rakdos Guildmage,2.0,"['Black', 'Red']","['B', 'R']",None,['Creature'],"['Zombie', 'Shaman']",Rare,PCMP,2,2,None,"({B/R} can be paid with either {B} or {R}.)\n{3}{B}, Discard a card: Target creature gets -2/-2 until end of turn.\n{3}{R}: Create a 2/1 red Goblin creature token with haste. Exile it at the beginning of the next end step."
+Serra Avenger,2.0,['White'],['W'],None,['Creature'],['Angel'],Rare,PCMP,3,3,None,"You can't cast this spell during your first, second, or third turns of the game.\nFlying, vigilance"
+Groundbreaker,3.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,PCMP,6,1,None,"Trample, haste\nAt the beginning of the end step, sacrifice Groundbreaker."
+Mutavault,0.0,None,None,None,['Land'],None,Rare,PCMP,None,None,None,{T}: Add {C}.\n{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It's still a land.
+Electrolyze,3.0,"['Red', 'Blue']","['R', 'U']",None,['Instant'],None,Rare,PCMP,None,None,None,Electrolyze deals 2 damage divided as you choose among one or two targets.\nDraw a card.
+Blood Knight,2.0,['Red'],['R'],None,['Creature'],"['Human', 'Knight']",Rare,PCMP,2,2,None,"First strike, protection from white"
+Bramblewood Paragon,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Rare,PCMP,2,2,None,Each other Warrior creature you control enters the battlefield with an additional +1/+1 counter on it.\nEach creature you control with a +1/+1 counter on it has trample.
+Voidslime,3.0,"['Green', 'Blue']","['G', 'U']",None,['Instant'],None,Rare,PCMP,None,None,None,"Counter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)"
+"Doran, the Siege Tower",3.0,"['Black', 'Green', 'White']","['B', 'G', 'W']",['Legendary'],['Creature'],"['Treefolk', 'Shaman']",Rare,PCMP,0,5,None,Each creature assigns combat damage equal to its toughness rather than its power.
+Imperious Perfect,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Rare,PCMP,2,2,None,"Other Elves you control get +1/+1.\n{G}, {T}: Create a 1/1 green Elf Warrior creature token."
+Urza's Factory,0.0,None,None,None,['Land'],['Urza’s'],Rare,PCMP,None,None,None,"{T}: Add {C}.\n{7}, {T}: Create a 2/2 colorless Assembly-Worker artifact creature token."
+"Niv-Mizzet, the Firemind",6.0,"['Red', 'Blue']","['R', 'U']",['Legendary'],['Creature'],"['Dragon', 'Wizard']",Rare,PCMP,4,4,None,"Flying\nWhenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to any target.\n{T}: Draw a card."

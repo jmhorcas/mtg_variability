@@ -1,0 +1,10 @@
+CMC: {2.0, 3.0, 4.0}
+Colors: {'White', 'Black', 'Green', 'Blue'}
+ColorIdentity: {'W', 'U', 'G', 'B'}
+Supertypes: {'Legendary'}
+Types: {'Instant', 'Land', 'Creature'}
+Subtypes: {'Human', 'Elemental', 'Soldier', 'Spirit', 'Cleric'}
+Rarity: {'Rare', 'Mythic'}
+Power: {'4', '2'}
+Toughness: {'3', '2', '1'}
+Loyalty: set()

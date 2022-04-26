@@ -1,0 +1,9 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Ghoulcaller Gisa,5.0,['Black'],['B'],['Legendary'],['Creature'],"['Human', 'Wizard']",Mythic,CC2,3,4,None,"{B}, {T}, Sacrifice another creature: Create X 2/2 black Zombie creature tokens, where X is the sacrificed creature's power."
+"Liliana, Heretical Healer // Liliana, Defiant Necromancer",3.0,['Black'],['B'],['Legendary'],['Creature'],"['Human', 'Cleric']",Mythic,CC2,2,3,None,"Lifelink\nWhenever another nontoken creature you control dies, exile Liliana, Heretical Healer, then return her to the battlefield transformed under her owner's control. If you do, create a 2/2 black Zombie creature token."
+Reanimate,1.0,['Black'],['B'],None,['Sorcery'],None,Rare,CC2,None,None,None,Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its mana value.
+Phyrexian Arena,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,CC2,None,None,None,"At the beginning of your upkeep, you draw a card and you lose 1 life."
+Toxic Deluge,3.0,['Black'],['B'],None,['Sorcery'],None,Rare,CC2,None,None,None,"As an additional cost to cast this spell, pay X life.\nAll creatures get -X/-X until end of turn."
+Ophiomancer,3.0,['Black'],['B'],None,['Creature'],"['Human', 'Shaman']",Rare,CC2,2,2,None,"At the beginning of each upkeep, if you control no Snakes, create a 1/1 black Snake creature token with deathtouch."
+Command Tower,0.0,None,None,None,['Land'],None,Rare,CC2,None,None,None,{T}: Add one mana of any color in your commander's color identity.
+Sol Ring,1.0,None,None,None,['Artifact'],None,Rare,CC2,None,None,None,{T}: Add {C}{C}.

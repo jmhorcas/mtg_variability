@@ -1,0 +1,10 @@
+CMC: {6.0}
+Colors: {'Black'}
+ColorIdentity: {'B'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Horror', 'Nightmare'}
+Rarity: {'Rare'}
+Power: {'6'}
+Toughness: {'3'}
+Loyalty: set()

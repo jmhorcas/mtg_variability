@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 10.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
+Subtypes: {'Druid', 'Snake', 'Elemental', 'Orc', 'Avatar', 'Advisor', 'Spellshaper', 'Island', 'Scout', 'Pegasus', 'Faerie', 'Kor', 'Ranger', 'Assassin', 'Viashino', 'Zombie', 'Bear', 'Sliver', 'Cat', 'Vampire', 'Dragon', 'Horror', 'Mountain', 'Construct', 'Angel', 'Demon', 'Gargoyle', 'Archer', 'Nightmare', 'Human', 'Djinn', 'Kavu', 'Knight', 'Leech', 'Cleric', 'Gorgon', 'Merfolk', 'Assembly-Worker', 'Beast', 'Eye', 'Kraken', 'Shapeshifter', 'Noble', 'Giant', 'Plains', 'Fungus', 'Spider', 'Drake', 'Treefolk', 'Rebel', 'Spirit', 'Wall', 'Serpent', 'Spike', 'Hydra', 'Urza’s', 'Shaman', 'Warrior', 'Swamp', 'Wurm', 'Forest', 'Illusion', 'Elf', 'Insect', 'Wizard', 'Soldier', 'Skeleton', 'Homarid', 'Centaur', 'Rogue', 'Dryad', 'Bird', 'Kithkin', 'Goblin', 'Artificer', 'Aura'}
+Rarity: {'Common', 'Rare', 'Uncommon'}
+Power: {'4', '7', '5', '1', '*', '8', '2', '9', '0', '3', '6'}
+Toughness: {'4', '7', '5', '1', '*', '8', '2', '0', '3', '6'}
+Loyalty: set()

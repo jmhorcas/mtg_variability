@@ -1,0 +1,15 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Rare,PAL04,None,None,None,({T}: Add {B}.)
+Circle of Protection: Art,2.0,['White'],['W'],None,['Enchantment'],None,Rare,PAL04,None,None,None,"As Circle of Protection: Art enters the battlefield, choose an artist.\n{1}{W}: The next time a source of your choice with art by the chosen artist would deal damage to you this turn, prevent that damage.\n{1}{W}: Return Circle of Protection: Art to its owner's hand."
+Glacial Ray,2.0,['Red'],['R'],None,['Instant'],['Arcane'],Rare,PAL04,None,None,None,"Glacial Ray deals 2 damage to any target.\nSplice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
+Granny's Payback,8.0,['Green'],['G'],None,['Sorcery'],None,Rare,PAL04,None,None,None,You gain life equal to your age.
+Mise,1.0,['Blue'],['U'],None,['Instant'],None,Rare,PAL04,None,None,None,"Choose a nonland card name, then reveal the top card of your library. If that card has the chosen name, you draw three cards."
+Ashnod's Coupon,0.0,None,None,None,['Artifact'],None,Rare,PAL04,None,None,None,"{T}, Sacrifice Ashnod's Coupon: Target player gets you target drink. You pay any costs for the drink."
+Booster Tutor,1.0,['Black'],['B'],None,['Instant'],None,Rare,PAL04,None,None,None,"Open a sealed Magic booster pack, reveal the cards, and put one of them into your hand. (Remove that card from your deck before beginning a new game.)"
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Rare,PAL04,None,None,None,({T}: Add {U}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Rare,PAL04,None,None,None,({T}: Add {W}.)
+Darksteel Ingot,3.0,None,None,None,['Artifact'],None,Rare,PAL04,None,None,None,Indestructible\n{T}: Add one mana of any color.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Rare,PAL04,None,None,None,({T}: Add {R}.)
+Goblin Mime,2.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Mime']",Rare,PAL04,2,2,None,"When you speak, sacrifice Goblin Mime."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Rare,PAL04,None,None,None,({T}: Add {G}.)
+Serum Visions,1.0,['Blue'],['U'],None,['Sorcery'],None,Rare,PAL04,None,None,None,Draw a card. Scry 2.

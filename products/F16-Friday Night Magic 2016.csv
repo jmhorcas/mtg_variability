@@ -1,0 +1,13 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Flaying Tendrils,3.0,None,['B'],None,['Sorcery'],None,Rare,F16,None,None,None,"Devoid (This card has no color.)\nAll creatures get -2/-2 until end of turn. If a creature would die this turn, exile it instead."
+Crumbling Vestige,0.0,None,None,None,['Land'],None,Rare,F16,None,None,None,"Crumbling Vestige enters the battlefield tapped.\nWhen Crumbling Vestige enters the battlefield, add one mana of any color.\n{T}: Add {C}. ({C} represents colorless mana.)"
+Smash to Smithereens,2.0,['Red'],['R'],None,['Instant'],None,Rare,F16,None,None,None,Destroy target artifact. Smash to Smithereens deals 3 damage to that artifact's controller.
+Nissa's Pilgrimage,3.0,['Green'],['G'],None,['Sorcery'],None,Rare,F16,None,None,None,"Search your library for up to two basic Forest cards, reveal those cards, and put one onto the battlefield tapped and the rest into your hand. Then shuffle.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, search your library for up to three basic Forest cards instead of two."
+Goblin Warchief,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Rare,F16,2,2,None,Goblin spells you cast cost {1} less to cast.\nGoblins you control have haste.
+Sylvan Scrying,2.0,['Green'],['G'],None,['Sorcery'],None,Rare,F16,None,None,None,"Search your library for a land card, reveal it, put it into your hand, then shuffle."
+Fiery Temper,3.0,['Red'],['R'],None,['Instant'],None,Rare,F16,None,None,None,"Fiery Temper deals 3 damage to any target.\nMadness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+Spatial Contortion,2.0,None,None,None,['Instant'],None,Rare,F16,None,None,None,({C} represents colorless mana.)\nTarget creature gets +3/-3 until end of turn.
+Blighted Fen,0.0,None,['B'],None,['Land'],None,Rare,F16,None,None,None,"{T}: Add {C}.\n{4}{B}, {T}, Sacrifice Blighted Fen: Target opponent sacrifices a creature."
+Clash of Wills,1.0,['Blue'],['U'],None,['Instant'],None,Rare,F16,None,None,None,Counter target spell unless its controller pays {X}.
+Call the Bloodline,2.0,['Black'],['B'],None,['Enchantment'],None,Rare,F16,None,None,None,"{1}, Discard a card: Create a 1/1 black Vampire Knight creature token with lifelink. Activate only once each turn."
+Rise from the Tides,6.0,['Blue'],['U'],None,['Sorcery'],None,Rare,F16,None,None,None,Create a tapped 2/2 black Zombie creature token for each instant and sorcery card in your graveyard.

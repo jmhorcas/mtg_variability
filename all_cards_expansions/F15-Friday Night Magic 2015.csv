@@ -1,0 +1,13 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Orator of Ojutai,2.0,['White'],['W'],None,['Creature'],"['Bird', 'Monk']",Rare,F15,0,4,None,"As an additional cost to cast this spell, you may reveal a Dragon card from your hand.\nDefender, flying\nWhen Orator of Ojutai enters the battlefield, if you revealed a Dragon card or controlled a Dragon as you cast this spell, draw a card."
+Frost Walker,2.0,['Blue'],['U'],None,['Creature'],['Elemental'],Rare,F15,4,1,None,"When Frost Walker becomes the target of a spell or ability, sacrifice it."
+Hordeling Outburst,3.0,['Red'],['R'],None,['Sorcery'],None,Rare,F15,None,None,None,Create three 1/1 red Goblin creature tokens.
+Frenzied Goblin,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Berserker']",Rare,F15,1,1,None,"Whenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can't block this turn."
+Serum Visions,1.0,['Blue'],['U'],None,['Sorcery'],None,Rare,F15,None,None,None,Draw a card. Scry 2.
+Abzan Beastmaster,3.0,['Green'],['G'],None,['Creature'],"['Dog', 'Shaman']",Rare,F15,2,1,None,"At the beginning of your upkeep, draw a card if you control the creature with the greatest toughness or tied for the greatest toughness."
+Suspension Field,2.0,['White'],['W'],None,['Enchantment'],None,Rare,F15,None,None,None,"When Suspension Field enters the battlefield, you may exile target creature with toughness 3 or greater until Suspension Field leaves the battlefield. (That creature returns under its owner's control.)"
+Disdainful Stroke,2.0,['Blue'],['U'],None,['Instant'],None,Rare,F15,None,None,None,Counter target spell with mana value 4 or greater.
+Path to Exile,1.0,['White'],['W'],None,['Instant'],None,Rare,F15,None,None,None,"Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+Roast,2.0,['Red'],['R'],None,['Sorcery'],None,Rare,F15,None,None,None,Roast deals 5 damage to target creature without flying.
+Anticipate,2.0,['Blue'],['U'],None,['Instant'],None,Rare,F15,None,None,None,Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+Ultimate Price,2.0,['Black'],['B'],None,['Instant'],None,Rare,F15,None,None,None,Destroy target monocolored creature.

@@ -1,0 +1,10 @@
+CMC: {2.0, 3.0, 4.0, 5.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Snow', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Creature'}
+Subtypes: {'Mountain', 'Saga', 'Phoenix', 'Elk', 'Archer', 'Rogue', 'Bird', 'Human', 'Merfolk'}
+Rarity: {'Mythic'}
+Power: {'3', '4', '2', '1'}
+Toughness: {'3', '4', '1'}
+Loyalty: set()

@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+"Valakut, the Molten Pinnacle",0.0,None,['R'],None,['Land'],None,Rare,PZEN,None,None,None,"Valakut, the Molten Pinnacle enters the battlefield tapped.\nWhenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to any target.\n{T}: Add {R}."
+Day of Judgment,4.0,['White'],['W'],None,['Sorcery'],None,Rare,PZEN,None,None,None,Destroy all creatures.
+Emeria Angel,4.0,['White'],['W'],None,['Creature'],['Angel'],Rare,PZEN,3,3,None,"Flying\nLandfall — Whenever a land enters the battlefield under your control, you may create a 1/1 white Bird creature token with flying."
+Nissa's Chosen,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Rare,PZEN,2,3,None,"If Nissa's Chosen would die, put it on the bottom of its owner's library instead."
+Rampaging Baloths,6.0,['Green'],['G'],None,['Creature'],['Beast'],Mythic,PZEN,6,6,None,"Trample\nLandfall — Whenever a land enters the battlefield under your control, you may create a 4/4 green Beast creature token."

@@ -1,0 +1,10 @@
+CMC: {7.0}
+Colors: {'Green'}
+ColorIdentity: {'G'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Basilisk'}
+Rarity: {'Rare'}
+Power: {'4'}
+Toughness: {'5'}
+Loyalty: set()

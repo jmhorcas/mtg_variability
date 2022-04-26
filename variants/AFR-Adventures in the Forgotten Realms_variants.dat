@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 9.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
+Subtypes: {'Ooze', 'Faerie', 'Ellywick', 'Equipment', 'Citizen', 'Human', 'Cleric', 'Djinn', 'Frog', 'Giant', 'Spider', 'Turtle', 'Spirit', 'Wall', 'Warrior', 'Skeleton', 'Bird', 'Troll', 'Mordenkainen', 'Halfling', 'Class', 'Elemental', 'Ranger', 'Basilisk', 'Bear', 'Horror', 'Gargoyle', 'God', 'Gnome', 'Worm', 'Treasure', 'Ogre', 'Zariel', 'Bahamut', 'Tiefling', 'Elf', 'Rogue', 'Warlock', 'Dryad', 'Goblin', 'Golem', 'Barbarian', 'Dwarf', 'Aura', 'Snake', 'Island', 'Bard', 'Zombie', 'Dragon', 'Mountain', 'Knight', 'Devil', 'Jellyfish', 'Dinosaur', 'Shaman', 'Forest', 'Artificer', 'Werewolf', 'Beholder', 'Druid', 'Orc', 'Pegasus', 'Lizard', 'Cat', 'Vampire', 'Lolth', 'Angel', 'Demon', 'Wolf', 'Dog', 'Beast', 'Plains', 'Monk', 'Gnoll', 'Unicorn', 'Swamp', 'Manticore', 'Soldier', 'Wizard', 'Kobold'}
+Rarity: {'Uncommon', 'Common', 'Mythic', 'Rare'}
+Power: {'4', '7', '5', '1', '8', '2', '0', '3', '6', '10'}
+Toughness: {'4', '7', '5', '1', '2', '0', '3', '6', '10'}
+Loyalty: {'3', '4', '5'}

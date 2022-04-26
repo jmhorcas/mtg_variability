@@ -1,0 +1,11 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Velican Dragon,7.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,PSDG,5,5,None,"Flying\nWhenever Velican Dragon attacks or blocks, it gets +X/+0 until end of turn, where X is a number from 0 to 5 chosen at random."
+Camato Scout,3.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Rare,PSDG,2,3,None,"As Camato Scout enters the battlefield, choose a basic land type at random. Camato Scout has landwalk of the chosen type."
+Arden Angel,6.0,['White'],['W'],None,['Creature'],['Angel'],Rare,PSDG,4,4,None,"Flying\nAt the beginning of your upkeep, if Arden Angel is in your graveyard, choose a number from 1 to 4 at random. If the chosen number is 1, return Arden Angel from your graveyard to the battlefield."
+Lydari Druid,3.0,['Green'],['G'],None,['Creature'],['Druid'],Rare,PSDG,2,2,None,"When Lydari Druid enters the battlefield, for each land on the battlefield, choose a basic land type at random. Those lands become the land types chosen this way. (This effect lasts indefinitely.)"
+Saji's Torrent,2.0,['Blue'],['U'],None,['Instant'],None,Rare,PSDG,None,None,None,"Tap X creatures, where X is a number from 0 to 5 chosen at random."
+Ashuza's Breath,2.0,['Red'],['R'],None,['Sorcery'],None,Rare,PSDG,None,None,None,"For each creature, choose a number from 0 to 2 at random. Ashuza's Breath deals that much damage to that creature."
+Tornellan Protector,3.0,['White'],['W'],None,['Creature'],['Cleric'],Rare,PSDG,1,2,None,"{T}: Until end of turn, each time damage is dealt to target creature or player, prevent X of that damage, where X is a number from 1 to 3 chosen at random each time."
+Lydari Elephant,5.0,['Green'],['G'],None,['Creature'],['Elephant'],Rare,PSDG,*,*,None,"As Lydari Elephant enters the battlefield, choose two numbers from 3 to 7 at random. Lydari Elephant's power is equal to the first number chosen and its toughness equal to the second number chosen."
+Hapato's Might,3.0,['Black'],['B'],None,['Instant'],None,Rare,PSDG,None,None,None,"Target creature gets +X/+0 until end of turn, where X is a number from 0 to 6 chosen at random."
+Murgish Cemetery,6.0,['Black'],['B'],None,['Enchantment'],None,Rare,PSDG,None,None,None,"{3}{B}, Discard a card: Create an X/X black Zombie creature token, where X is a number from 2 to 6 chosen at random."

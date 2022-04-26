@@ -1,0 +1,7 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Wurmcoil Engine,6.0,None,None,None,"['Artifact', 'Creature']","['Phyrexian', 'Wurm']",Mythic,PW21,6,6,None,"Deathtouch, lifelink\nWhen Wurmcoil Engine dies, create a 3/3 colorless Phyrexian Wurm artifact creature token with deathtouch and a 3/3 colorless Phyrexian Wurm artifact creature token with lifelink."
+Arbor Elf,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Rare,PW21,1,1,None,{T}: Untap target Forest.
+Conjurer's Closet,5.0,None,None,None,['Artifact'],None,Rare,PW21,None,None,None,"At the beginning of your end step, you may exile target creature you control, then return that card to the battlefield under your control."
+Mind Stone,2.0,None,None,None,['Artifact'],None,Rare,PW21,None,None,None,"{T}: Add {C}.\n{1}, {T}, Sacrifice Mind Stone: Draw a card."
+Collected Company,4.0,['Green'],['G'],None,['Instant'],None,Rare,PW21,None,None,None,Look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+Fabled Passage,0.0,None,None,None,['Land'],None,Rare,PW21,None,None,None,"{T}, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."

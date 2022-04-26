@@ -1,0 +1,10 @@
+CMC: {2.0, 5.0}
+Colors: {'Red', 'Black', 'White'}
+ColorIdentity: {'W', 'R', 'B'}
+Supertypes: set()
+Types: {'Enchantment', 'Sorcery', 'Creature'}
+Subtypes: {'Vampire', 'Rogue', 'Curse', 'Aura'}
+Rarity: {'Rare'}
+Power: {'4'}
+Toughness: {'1'}
+Loyalty: set()

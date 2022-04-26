@@ -1,0 +1,82 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,DDN,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,DDN,None,None,None,({T}: Add {U}.)
+Terramorphic Expanse,0.0,None,None,None,['Land'],None,Common,DDN,None,None,None,"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+Mystic Monastery,0.0,None,"['R', 'U', 'W']",None,['Land'],None,Uncommon,DDN,None,None,None,"Mystic Monastery enters the battlefield tapped.\n{T}: Add {U}, {R}, or {W}."
+Repeal,1.0,['Blue'],['U'],None,['Instant'],None,Common,DDN,None,None,None,Return target nonland permanent with mana value X to its owner's hand.\nDraw a card.
+Arrow Volley Trap,5.0,['White'],['W'],None,['Instant'],['Trap'],Uncommon,DDN,None,None,None,"If four or more creatures are attacking, you may pay {1}{W} rather than pay this spell's mana cost.\nArrow Volley Trap deals 5 damage divided as you choose among any number of target attacking creatures."
+Whiplash Trap,5.0,['Blue'],['U'],None,['Instant'],['Trap'],Common,DDN,None,None,None,"If an opponent had two or more creatures enter the battlefield under their control this turn, you may pay {U} rather than pay this spell's mana cost.\nReturn two target creatures to their owners' hands."
+Traumatic Visions,5.0,['Blue'],['U'],None,['Instant'],None,Common,DDN,None,None,None,"Counter target spell.\nBasic landcycling {1}{U} ({1}{U}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
+Steam Augury,4.0,"['Red', 'Blue']","['R', 'U']",None,['Instant'],None,Rare,DDN,None,None,None,Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.
+Inferno Trap,4.0,['Red'],['R'],None,['Instant'],['Trap'],Uncommon,DDN,None,None,None,"If you've been dealt damage by two or more creatures this turn, you may pay {R} rather than pay this spell's mana cost.\nInferno Trap deals 4 damage to target creature."
+Hold the Line,3.0,['White'],['W'],None,['Instant'],None,Rare,DDN,None,None,None,Blocking creatures get +7/+7 until end of turn.
+Lightning Helix,2.0,"['Red', 'White']","['R', 'W']",None,['Instant'],None,Uncommon,DDN,None,None,None,Lightning Helix deals 3 damage to any target and you gain 3 life.
+Mana Leak,2.0,['Blue'],['U'],None,['Instant'],None,Common,DDN,None,None,None,Counter target spell unless its controller pays {3}.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DDN,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DDN,None,None,None,({T}: Add {W}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,DDN,None,None,None,({T}: Add {U}.)
+Swift Justice,1.0,['White'],['W'],None,['Instant'],None,Common,DDN,None,None,None,"Until end of turn, target creature gets +1/+0 and gains first strike and lifelink."
+Stave Off,1.0,['White'],['W'],None,['Instant'],None,Common,DDN,None,None,None,Target creature gains protection from the color of your choice until end of turn.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DDN,None,None,None,({T}: Add {R}.)
+Impulse,2.0,['Blue'],['U'],None,['Instant'],None,Common,DDN,None,None,None,Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+Fleeting Distraction,1.0,['Blue'],['U'],None,['Instant'],None,Common,DDN,None,None,None,Target creature gets -1/-0 until end of turn.\nDraw a card.
+Sphinx of Uthuun,7.0,['Blue'],['U'],None,['Creature'],['Sphinx'],Rare,DDN,5,6,None,"Flying\nWhen Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard."
+Thousand Winds,6.0,['Blue'],['U'],None,['Creature'],['Elemental'],Rare,DDN,5,6,None,"Flying\nMorph {5}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Thousand Winds is turned face up, return all other tapped creatures to their owners' hands."
+Faerie Invaders,5.0,['Blue'],['U'],None,['Creature'],"['Faerie', 'Rogue']",Common,DDN,3,3,None,Flash (You may cast this spell any time you could cast an instant.)\nFlying
+Lightning Angel,4.0,"['Red', 'Blue', 'White']","['R', 'U', 'W']",None,['Creature'],['Angel'],Rare,DDN,3,4,None,"Flying, vigilance, haste"
+Hussar Patrol,4.0,"['Blue', 'White']","['U', 'W']",None,['Creature'],"['Human', 'Knight']",Common,DDN,2,4,None,Flash (You may cast this spell any time you could cast an instant.)\nVigilance
+Aquamorph Entity,4.0,['Blue'],['U'],None,['Creature'],['Shapeshifter'],Common,DDN,*,*,None,"As Aquamorph Entity enters the battlefield or is turned face up, it becomes your choice of 5/1 or 1/5.\nMorph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)"
+Stonecloaker,3.0,['White'],['W'],None,['Creature'],['Gargoyle'],Uncommon,DDN,3,2,None,"Flash\nFlying\nWhen Stonecloaker enters the battlefield, return a creature you control to its owner's hand.\nWhen Stonecloaker enters the battlefield, exile target card from a graveyard."
+Kor Hookmaster,3.0,['White'],['W'],None,['Creature'],"['Kor', 'Soldier']",Common,DDN,2,2,None,"When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step."
+Echo Tracer,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,DDN,2,2,None,"Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Echo Tracer is turned face up, return target creature to its owner's hand."
+Master Decoy,2.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,DDN,1,2,None,"{W}, {T}: Tap target creature."
+Lone Missionary,2.0,['White'],['W'],None,['Creature'],"['Kor', 'Monk']",Common,DDN,2,1,None,"When Lone Missionary enters the battlefield, you gain 4 life."
+Sparkmage Apprentice,2.0,['Red'],['R'],None,['Creature'],"['Human', 'Wizard']",Common,DDN,1,1,None,"When Sparkmage Apprentice enters the battlefield, it deals 1 damage to any target."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DDN,None,None,None,({T}: Add {R}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DDN,None,None,None,({T}: Add {R}.)
+Nomad Outpost,0.0,None,"['B', 'R', 'W']",None,['Land'],None,Uncommon,DDN,None,None,None,"Nomad Outpost enters the battlefield tapped.\n{T}: Add {R}, {W}, or {B}."
+Willbender,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Uncommon,DDN,1,2,None,"Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Willbender is turned face up, change the target of target spell or ability with a single target."
+Ghitu Encampment,0.0,None,['R'],None,['Land'],None,Uncommon,DDN,None,None,None,Ghitu Encampment enters the battlefield tapped.\n{T}: Add {R}.\n{1}{R}: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land. (It deals combat damage before creatures without first strike.)
+Jeskai Elder,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Monk']",Uncommon,DDN,1,2,None,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever Jeskai Elder deals combat damage to a player, you may draw a card. If you do, discard a card."
+Evolving Wilds,0.0,None,None,None,['Land'],None,Common,DDN,None,None,None,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+Banefire,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,DDN,None,None,None,"Banefire deals X damage to any target.\nIf X is 5 or more, this spell can't be countered and the damage can't be prevented."
+Fathom Seer,2.0,['Blue'],['U'],None,['Creature'],['Illusion'],Common,DDN,1,3,None,"Morph—Return two Islands you control to their owner's hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Fathom Seer is turned face up, draw two cards."
+Fury of the Horde,7.0,['Red'],['R'],None,['Sorcery'],None,Rare,DDN,None,None,None,"You may exile two red cards from your hand rather than pay this spell's mana cost.\nUntap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase."
+Coral Trickster,2.0,['Blue'],['U'],None,['Creature'],"['Merfolk', 'Rogue']",Common,DDN,2,1,None,"Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Coral Trickster is turned face up, you may tap or untap target permanent."
+Fiery Fall,6.0,['Red'],['R'],None,['Instant'],None,Common,DDN,None,None,None,"Fiery Fall deals 5 damage to target creature.\nBasic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
+Orcish Cannonade,3.0,['Red'],['R'],None,['Instant'],None,Common,DDN,None,None,None,Orcish Cannonade deals 2 damage to any target and 3 damage to you.\nDraw a card.
+Faerie Impostor,1.0,['Blue'],['U'],None,['Creature'],"['Faerie', 'Rogue']",Uncommon,DDN,2,1,None,"Flying\nWhen Faerie Impostor enters the battlefield, sacrifice it unless you return another creature you control to its owner's hand."
+Dauntless Onslaught,3.0,['White'],['W'],None,['Instant'],None,Uncommon,DDN,None,None,None,Up to two target creatures each get +2/+2 until end of turn.
+Arcanis the Omnipotent,6.0,['Blue'],['U'],['Legendary'],['Creature'],['Wizard'],Mythic,DDN,3,4,None,{T}: Draw three cards.\n{2}{U}{U}: Return Arcanis the Omnipotent to its owner's hand.
+Act of Treason,3.0,['Red'],['R'],None,['Sorcery'],None,Common,DDN,None,None,None,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,DDN,None,None,None,({T}: Add {B}.)
+Krenko's Command,2.0,['Red'],['R'],None,['Sorcery'],None,Common,DDN,None,None,None,Create two 1/1 red Goblin creature tokens.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,DDN,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,DDN,None,None,None,({T}: Add {B}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DDN,None,None,None,({T}: Add {W}.)
+Goblin Bombardment,2.0,['Red'],['R'],None,['Enchantment'],None,Uncommon,DDN,None,None,None,Sacrifice a creature: Goblin Bombardment deals 1 damage to any target.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,DDN,None,None,None,({T}: Add {R}.)
+Arc Trail,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,DDN,None,None,None,Arc Trail deals 2 damage to any target and 1 damage to another target.
+Bone Splinters,1.0,['Black'],['B'],None,['Sorcery'],None,Common,DDN,None,None,None,"As an additional cost to cast this spell, sacrifice a creature.\nDestroy target creature."
+Shock,1.0,['Red'],['R'],None,['Instant'],None,Common,DDN,None,None,None,Shock deals 2 damage to any target.
+Reckless Abandon,1.0,['Red'],['R'],None,['Sorcery'],None,Common,DDN,None,None,None,"As an additional cost to cast this spell, sacrifice a creature.\nReckless Abandon deals 4 damage to any target."
+Oni of Wild Places,6.0,['Red'],['R'],None,['Creature'],"['Demon', 'Spirit']",Uncommon,DDN,6,5,None,"Haste\nAt the beginning of your upkeep, return a red creature you control to its owner's hand."
+Scourge Devil,5.0,['Red'],['R'],None,['Creature'],['Devil'],Uncommon,DDN,3,3,None,"When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.\nUnearth {2}{R} ({2}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+Frenzied Goblin,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Berserker']",Uncommon,DDN,1,1,None,"Whenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can't block this turn."
+Beetleback Chief,4.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Uncommon,DDN,2,2,None,"When Beetleback Chief enters the battlefield, create two 1/1 red Goblin creature tokens."
+Ogre Battledriver,4.0,['Red'],['R'],None,['Creature'],"['Ogre', 'Warrior']",Rare,DDN,3,3,None,"Whenever another creature enters the battlefield under your control, that creature gets +2/+0 and gains haste until end of turn. (It can attack and {T} this turn.)"
+Flame-Kin Zealot,4.0,"['Red', 'White']","['R', 'W']",None,['Creature'],"['Elemental', 'Berserker']",Uncommon,DDN,2,2,None,"When Flame-Kin Zealot enters the battlefield, creatures you control get +1/+1 and gain haste until end of turn."
+"Krenko, Mob Boss",4.0,['Red'],['R'],['Legendary'],['Creature'],"['Goblin', 'Warrior']",Rare,DDN,3,3,None,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control."
+Mardu Heart-Piercer,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Archer']",Uncommon,DDN,2,3,None,"Raid — When Mardu Heart-Piercer enters the battlefield, if you attacked this turn, Mardu Heart-Piercer deals 2 damage to any target."
+Shambling Remains,3.0,"['Black', 'Red']","['B', 'R']",None,['Creature'],"['Zombie', 'Horror']",Uncommon,DDN,4,3,None,Shambling Remains can't block.\nUnearth {B}{R} ({B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Kathari Bomber,3.0,"['Black', 'Red']","['B', 'R']",None,['Creature'],"['Bird', 'Shaman']",Common,DDN,2,2,None,"Flying\nWhen Kathari Bomber deals combat damage to a player, create two 1/1 red Goblin creature tokens and sacrifice Kathari Bomber.\nUnearth {3}{B}{R} ({3}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+Hellraiser Goblin,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Berserker']",Uncommon,DDN,2,2,None,Creatures you control have haste and attack each combat if able.
+Hell's Thunder,3.0,['Red'],['R'],None,['Creature'],['Elemental'],Rare,DDN,4,4,None,"Flying, haste\nAt the beginning of the end step, sacrifice Hell's Thunder.\nUnearth {4}{R} ({4}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+Goblin Warchief,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Uncommon,DDN,2,2,None,Goblin spells you cast cost {1} less to cast.\nGoblins you control have haste.
+Fleshbag Marauder,3.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Warrior']",Uncommon,DDN,3,1,None,"When Fleshbag Marauder enters the battlefield, each player sacrifices a creature."
+Infantry Veteran,1.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,DDN,1,1,None,{T}: Target attacking creature gets +1/+1 until end of turn.
+Zurgo Helmsmasher,5.0,"['Black', 'Red', 'White']","['B', 'R', 'W']",['Legendary'],['Creature'],"['Orc', 'Warrior']",Mythic,DDN,7,2,None,"Haste\nZurgo Helmsmasher attacks each combat if able.\nZurgo Helmsmasher has indestructible as long as it's your turn.\nWhenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a +1/+1 counter on Zurgo Helmsmasher."
+Goblin Deathraiders,2.0,"['Black', 'Red']","['B', 'R']",None,['Creature'],"['Goblin', 'Warrior']",Common,DDN,3,1,None,Trample
+Dregscape Zombie,2.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,DDN,2,1,None,Unearth {B} ({B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Leonin Snarecaster,2.0,['White'],['W'],None,['Creature'],"['Cat', 'Soldier']",Common,DDN,2,1,None,"When Leonin Snarecaster enters the battlefield, you may tap target creature."
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DDN,None,None,None,({T}: Add {W}.)

@@ -1,0 +1,10 @@
+CMC: {9.0, 2.0, 3.0, 5.0}
+Colors: {'White', 'Black', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: set()
+Types: {'Land', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
+Subtypes: {'Eldrazi', 'Rhino', 'Wizard', 'Faerie', 'Monk', 'Bird', 'Wall'}
+Rarity: {'Rare'}
+Power: {'3', '10', '0', '1'}
+Toughness: {'4', '9', '1'}
+Loyalty: set()

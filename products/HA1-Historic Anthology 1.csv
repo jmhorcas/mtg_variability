@@ -1,0 +1,21 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Fauna Shaman,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Shaman']",Rare,HA1,2,2,None,"{G}, {T}, Discard a creature card: Search your library for a creature card, reveal it, put it into your hand, then shuffle."
+Hypnotic Specter,3.0,['Black'],['B'],None,['Creature'],['Specter'],Rare,HA1,2,2,None,"Flying\nWhenever Hypnotic Specter deals damage to an opponent, that player discards a card at random."
+Hidetsugu's Second Rite,4.0,['Red'],['R'],None,['Instant'],None,Rare,HA1,None,None,None,"If target player has exactly 10 life, Hidetsugu's Second Rite deals 10 damage to that player."
+Imperious Perfect,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Uncommon,HA1,2,2,None,"Other Elves you control get +1/+1.\n{G}, {T}: Create a 1/1 green Elf Warrior creature token."
+Elvish Visionary,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Shaman']",Common,HA1,1,1,None,"When Elvish Visionary enters the battlefield, draw a card."
+Burning-Tree Emissary,2.0,"['Green', 'Red']","['G', 'R']",None,['Creature'],"['Human', 'Shaman']",Uncommon,HA1,2,2,None,"When Burning-Tree Emissary enters the battlefield, add {R}{G}."
+Kiln Fiend,2.0,['Red'],['R'],None,['Creature'],"['Elemental', 'Beast']",Common,HA1,1,2,None,"Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until end of turn."
+Goblin Matron,3.0,['Red'],['R'],None,['Creature'],['Goblin'],Uncommon,HA1,1,1,None,"When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle."
+Cryptbreaker,1.0,['Black'],['B'],None,['Creature'],['Zombie'],Rare,HA1,1,1,None,"{1}{B}, {T}, Discard a card: Create a 2/2 black Zombie creature token.\nTap three untapped Zombies you control: You draw a card and you lose 1 life."
+Phyrexian Arena,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,HA1,None,None,None,"At the beginning of your upkeep, you draw a card and you lose 1 life."
+Tendrils of Corruption,4.0,['Black'],['B'],None,['Instant'],None,Common,HA1,None,None,None,"Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control."
+Serra Ascendant,1.0,['White'],['W'],None,['Creature'],"['Human', 'Monk']",Rare,HA1,1,1,None,"Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nAs long as you have 30 or more life, Serra Ascendant gets +5/+5 and has flying."
+Soul Warden,1.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,HA1,1,1,None,"Whenever another creature enters the battlefield, you gain 1 life."
+Darksteel Reactor,4.0,None,None,None,['Artifact'],None,Rare,HA1,None,None,None,"Indestructible (Effects that say ""destroy"" don't destroy this artifact.)\nAt the beginning of your upkeep, you may put a charge counter on Darksteel Reactor.\nWhen Darksteel Reactor has twenty or more charge counters on it, you win the game."
+Ornithopter,0.0,None,None,None,"['Artifact', 'Creature']",['Thopter'],Uncommon,HA1,0,2,None,Flying
+Kinsbaile Cavalier,4.0,['White'],['W'],None,['Creature'],"['Kithkin', 'Knight']",Rare,HA1,2,2,None,Knight creatures you control have double strike.
+Distant Melody,4.0,['Blue'],['U'],None,['Sorcery'],None,Common,HA1,None,None,None,Choose a creature type. Draw a card for each permanent you control of that type.
+Captain Sisay,4.0,"['Green', 'White']","['G', 'W']",['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,HA1,2,2,None,"{T}: Search your library for a legendary card, reveal that card, put it into your hand, then shuffle."
+Mind Stone,2.0,None,None,None,['Artifact'],None,Common,HA1,None,None,None,"{T}: Add {C}.\n{1}, {T}, Sacrifice Mind Stone: Draw a card."
+Treasure Hunt,2.0,['Blue'],['U'],None,['Sorcery'],None,Common,HA1,None,None,None,"Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand."

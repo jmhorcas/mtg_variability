@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: set()
+Types: {'Sorcery', 'Creature'}
+Subtypes: {'Horror', 'Soldier', 'Lizard', 'Werewolf', 'Human', 'Zombie'}
+Rarity: {'Rare', 'Uncommon'}
+Power: {'13', '2', '3'}
+Toughness: {'13', '2', '3'}
+Loyalty: set()

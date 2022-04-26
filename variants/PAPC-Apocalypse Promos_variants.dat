@@ -1,0 +1,10 @@
+CMC: {7.0}
+Colors: {'Black', 'Green', 'Blue'}
+ColorIdentity: {'U', 'G', 'B'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Beast', 'Fungus'}
+Rarity: {'Rare'}
+Power: {'6'}
+Toughness: {'4'}
+Loyalty: set()

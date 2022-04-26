@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 7.0, 12.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Snow', 'Basic', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery'}
+Subtypes: {'Druid', 'Island', 'Zombie', 'Dragon', 'Horror', 'Mountain', 'Human', 'Vraska', 'Merfolk', 'Frog', 'Plains', 'Elder', 'Dinosaur', 'Ral', 'Warrior', 'Swamp', 'Forest', 'Elf', 'Wizard', 'Artificer', 'Teferi'}
+Rarity: {'Rare', 'Common', 'Mythic'}
+Power: {'4', '12', '1', '2', '6'}
+Toughness: {'4', '12', '1', '2', '6'}
+Loyalty: {'4', '5'}

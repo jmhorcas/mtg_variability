@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Ancient Hellkite,7.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,PM11,6,6,None,Flying\n{R}: Ancient Hellkite deals 1 damage to target creature defending player controls. Activate only if Ancient Hellkite is attacking.
+Birds of Paradise,1.0,['Green'],['G'],None,['Creature'],['Bird'],Rare,PM11,0,1,None,Flying\n{T}: Add one mana of any color.
+Liliana's Specter,3.0,['Black'],['B'],None,['Creature'],['Specter'],Common,PM11,2,1,None,"Flying\nWhen Liliana's Specter enters the battlefield, each opponent discards a card."
+Mitotic Slime,5.0,['Green'],['G'],None,['Creature'],['Ooze'],Rare,PM11,4,4,None,"When Mitotic Slime dies, create two 2/2 green Ooze creature tokens. They have ""When this creature dies, create two 1/1 green Ooze creature tokens."""
+Sun Titan,6.0,['White'],['W'],None,['Creature'],['Giant'],Mythic,PM11,6,6,None,"Vigilance\nWhenever Sun Titan enters the battlefield or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield."

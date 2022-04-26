@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Day of Judgment,4.0,['White'],['W'],None,['Sorcery'],None,Rare,P11,None,None,None,Destroy all creatures.
+Searing Blaze,2.0,['Red'],['R'],None,['Instant'],None,Rare,P11,None,None,None,"Searing Blaze deals 1 damage to target player or planeswalker and 1 damage to target creature that player or that planeswalker's controller controls.\nLandfall — If you had a land enter the battlefield under your control this turn, Searing Blaze deals 3 damage to that player or planeswalker and 3 damage to that creature instead."
+Doom Blade,2.0,['Black'],['B'],None,['Instant'],None,Rare,P11,None,None,None,Destroy target nonblack creature.
+Treasure Hunt,2.0,['Blue'],['U'],None,['Sorcery'],None,Rare,P11,None,None,None,"Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand."
+Brave the Elements,1.0,['White'],['W'],None,['Instant'],None,Rare,P11,None,None,None,Choose a color. White creatures you control gain protection from the chosen color until end of turn.

@@ -1,0 +1,9 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Elvish Champion,3.0,['Green'],['G'],None,['Creature'],['Elf'],Rare,PJSE,2,2,None,Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.)
+Soltari Priest,2.0,['White'],['W'],None,['Creature'],"['Soltari', 'Cleric']",Rare,PJSE,2,1,None,Protection from red\nShadow (This creature can block or be blocked by only creatures with shadow.)
+Slith Firewalker,2.0,['Red'],['R'],None,['Creature'],['Slith'],Rare,PJSE,1,1,None,"Haste\nWhenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it."
+Shard Phoenix,5.0,['Red'],['R'],None,['Creature'],['Phoenix'],Rare,PJSE,2,2,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\nSacrifice Shard Phoenix: It deals 2 damage to each creature without flying.\n{R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate only during your upkeep.
+Sakura-Tribe Elder,2.0,['Green'],['G'],None,['Creature'],"['Snake', 'Shaman']",Rare,PJSE,1,1,None,"Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+Glorious Anthem,3.0,['White'],['W'],None,['Enchantment'],None,Rare,PJSE,None,None,None,Creatures you control get +1/+1.
+Royal Assassin,3.0,['Black'],['B'],None,['Creature'],"['Human', 'Assassin']",Rare,PJSE,1,1,None,{T}: Destroy target tapped creature.
+Whirling Dervish,2.0,['Green'],['G'],None,['Creature'],"['Human', 'Monk']",Rare,PJSE,1,1,None,"Protection from black\nAt the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it."

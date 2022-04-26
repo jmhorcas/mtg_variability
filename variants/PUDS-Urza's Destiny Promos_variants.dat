@@ -1,0 +1,10 @@
+CMC: {4.0}
+Colors: {'White'}
+ColorIdentity: {'W'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Cleric', 'Human'}
+Rarity: {'Rare'}
+Power: {'2'}
+Toughness: {'2'}
+Loyalty: set()

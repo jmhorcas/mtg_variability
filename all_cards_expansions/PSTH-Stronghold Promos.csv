@@ -1,0 +1,2 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Revenant,5.0,['Black'],['B'],None,['Creature'],['Spirit'],Rare,PSTH,*,*,None,Flying\nRevenant's power and toughness are each equal to the number of creature cards in your graveyard.

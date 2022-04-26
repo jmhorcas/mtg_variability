@@ -1,0 +1,13 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Lingering Souls,3.0,['White'],"['B', 'W']",None,['Sorcery'],None,Rare,F12,None,None,None,Create two 1/1 white Spirit creature tokens with flying.\nFlashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Avacyn's Pilgrim,1.0,['Green'],"['G', 'W']",None,['Creature'],"['Human', 'Monk']",Rare,F12,1,1,None,{T}: Add {W}.
+Tectonic Edge,0.0,None,None,None,['Land'],None,Rare,F12,None,None,None,"{T}: Add {C}.\n{1}, {T}, Sacrifice Tectonic Edge: Destroy target nonbasic land. Activate only if an opponent controls four or more lands."
+Glistener Elf,1.0,['Green'],['G'],None,['Creature'],"['Phyrexian', 'Elf', 'Warrior']",Rare,F12,1,1,None,Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Ancient Grudge,2.0,['Red'],"['G', 'R']",None,['Instant'],None,Rare,F12,None,None,None,Destroy target artifact.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Acidic Slime,5.0,['Green'],['G'],None,['Creature'],['Ooze'],Rare,F12,2,2,None,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nWhen Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land."
+Dismember,3.0,['Black'],['B'],None,['Instant'],None,Rare,F12,None,None,None,({B/P} can be paid with either {B} or 2 life.)\nTarget creature gets -5/-5 until end of turn.
+Gitaxian Probe,1.0,['Blue'],['U'],None,['Sorcery'],None,Rare,F12,None,None,None,({U/P} can be paid with either {U} or 2 life.)\nLook at target player's hand.\nDraw a card.
+Pillar of Flame,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,F12,None,None,None,"Pillar of Flame deals 2 damage to any target. If a creature dealt damage this way would die this turn, exile it instead."
+Despise,1.0,['Black'],['B'],None,['Sorcery'],None,Rare,F12,None,None,None,Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player discards that card.
+Forbidden Alchemy,3.0,['Blue'],"['B', 'U']",None,['Instant'],None,Rare,F12,None,None,None,Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.\nFlashback {6}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Evolving Wilds,0.0,None,None,None,['Land'],None,Rare,F12,None,None,None,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."

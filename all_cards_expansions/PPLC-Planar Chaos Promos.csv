@@ -1,0 +1,3 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+"Oros, the Avenger",6.0,"['Black', 'Red', 'White']","['B', 'R', 'W']",['Legendary'],['Creature'],['Dragon'],Rare,PPLC,6,6,None,"Flying\nWhenever Oros, the Avenger deals combat damage to a player, you may pay {2}{W}. If you do, Oros deals 3 damage to each nonwhite creature."
+Hedge Troll,3.0,['Green'],"['G', 'W']",None,['Creature'],"['Troll', 'Cleric']",Rare,PPLC,2,2,None,Hedge Troll gets +1/+1 as long as you control a Plains.\n{W}: Regenerate Hedge Troll.

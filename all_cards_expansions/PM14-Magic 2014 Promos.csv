@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Megantic Sliver,6.0,['Green'],['G'],None,['Creature'],['Sliver'],Rare,PM14,3,3,None,Sliver creatures you control get +3/+3.
+Goblin Diplomats,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Rare,PM14,2,1,None,{T}: Each creature attacks this turn if able.
+Hive Stirrings,3.0,['White'],['W'],None,['Sorcery'],None,Common,PM14,None,None,None,Create two 1/1 colorless Sliver creature tokens.
+Colossal Whale,7.0,['Blue'],['U'],None,['Creature'],['Whale'],Rare,PM14,5,5,None,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhenever Colossal Whale attacks, you may exile target creature defending player controls until Colossal Whale leaves the battlefield. (That creature returns under its owner's control.)"
+Ratchet Bomb,2.0,None,None,None,['Artifact'],None,Rare,PM14,None,None,None,"{T}: Put a charge counter on Ratchet Bomb.\n{T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with mana value equal to the number of charge counters on Ratchet Bomb."

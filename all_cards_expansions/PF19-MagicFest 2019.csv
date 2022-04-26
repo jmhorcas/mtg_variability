@@ -1,0 +1,8 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Sol Ring,1.0,None,None,None,['Artifact'],None,Rare,PF19,None,None,None,{T}: Add {C}{C}.
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Rare,PF19,None,None,None,({T}: Add {R}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Rare,PF19,None,None,None,({T}: Add {W}.)
+Lightning Bolt,1.0,['Red'],['R'],None,['Instant'],None,Rare,PF19,None,None,None,Lightning Bolt deals 3 damage to any target.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Rare,PF19,None,None,None,({T}: Add {U}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Rare,PF19,None,None,None,({T}: Add {G}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Rare,PF19,None,None,None,({T}: Add {B}.)

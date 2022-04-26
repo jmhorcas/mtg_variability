@@ -1,0 +1,3 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Liliana Vess,5.0,['Black'],['B'],['Legendary'],['Planeswalker'],['Liliana'],Mythic,PDP10,None,None,5,"[+1]: Target player discards a card.\n[−2]: Search your library for a card, then shuffle and put that card on top.\n[−8]: Put all creature cards from all graveyards onto the battlefield under your control."
+Nissa Revane,4.0,['Green'],['G'],['Legendary'],['Planeswalker'],['Nissa'],Mythic,PDP10,None,None,2,"[+1]: Search your library for a card named Nissa's Chosen, put it onto the battlefield, then shuffle.\n[+1]: You gain 2 life for each Elf you control.\n[−7]: Search your library for any number of Elf creature cards, put them onto the battlefield, then shuffle."

@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Ludevic's Test Subject // Ludevic's Abomination,2.0,['Blue'],['U'],None,['Creature'],"['Lizard', 'Horror']",Rare,PISD,13,13,None,Trample
+Mayor of Avabruck // Howlpack Alpha,2.0,['Green'],['G'],None,['Creature'],['Werewolf'],Rare,PISD,3,3,None,"Each other creature you control that's a Werewolf or a Wolf gets +1/+1.\nAt the beginning of your end step, create a 2/2 green Wolf creature token.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack Alpha."
+Elite Inquisitor,2.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,PISD,2,2,None,"First strike, vigilance\nProtection from Vampires, from Werewolves, and from Zombies"
+Devil's Play,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,PISD,None,None,None,Devil's Play deals X damage to any target.\nFlashback {X}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Diregraf Ghoul,1.0,['Black'],['B'],None,['Creature'],['Zombie'],Uncommon,PISD,2,2,None,Diregraf Ghoul enters the battlefield tapped.

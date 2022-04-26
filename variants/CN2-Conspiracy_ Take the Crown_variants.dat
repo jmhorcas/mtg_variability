@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Conspiracy', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
+Subtypes: {'Kaya', 'Druid', 'Snake', 'Vedalken', 'Elemental', 'Avatar', 'Advisor', 'Sable', 'Ooze', 'Scout', 'Assassin', 'Ranger', 'Pirate', 'Siren', 'Zombie', 'Specter', 'Cat', 'Vampire', 'Rat', 'Equipment', 'Dragon', 'Horror', 'Cyclops', 'Satyr', 'Construct', 'Angel', 'Demon', 'Gargoyle', 'Harpy', 'Wolf', 'Mutant', 'Homunculus', 'Knight', 'Human', 'Cleric', 'Devil', 'Gorgon', 'Dog', 'Merfolk', 'Beast', 'Shapeshifter', 'Ogre', 'Giant', 'Spider', 'Mercenary', 'Spirit', 'Dinosaur', 'Griffin', 'Wall', 'Chimera', 'Hydra', 'Phyrexian', 'Unicorn', 'Shaman', 'Daretti', 'Warrior', 'Soldier', 'Skeleton', 'Elf', 'Wizard', 'Illusion', 'Sphinx', 'Rogue', 'Bird', 'Goblin', 'Golem', 'Crab', 'Aura'}
+Rarity: {'Uncommon', 'Common', 'Mythic', 'Rare'}
+Power: {'4', '5', '1', '*', '2', '0', '3', '6'}
+Toughness: {'4', '7', '5', '1', '*', '2', '0', '3', '6'}
+Loyalty: {'3', '5'}

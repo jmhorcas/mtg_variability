@@ -1,0 +1,9 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+"Omnath, Locus of Mana",3.0,['Green'],['G'],['Legendary'],['Creature'],['Elemental'],Mythic,CC1,1,1,None,"You don't lose unspent green mana as steps and phases end.\nOmnath, Locus of Mana gets +1/+1 for each unspent green mana you have."
+Command Tower,0.0,None,None,None,['Land'],None,Rare,CC1,None,None,None,{T}: Add one mana of any color in your commander's color identity.
+Bane of Progress,6.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,CC1,2,2,None,"When Bane of Progress enters the battlefield, destroy all artifacts and enchantments. Put a +1/+1 counter on Bane of Progress for each permanent destroyed this way."
+"Freyalise, Llanowar's Fury",5.0,['Green'],['G'],['Legendary'],['Planeswalker'],['Freyalise'],Mythic,CC1,None,None,3,"[+2]: Create a 1/1 green Elf Druid creature token with ""{T}: Add {G}.""\n[−2]: Destroy target artifact or enchantment.\n[−6]: Draw a card for each green creature you control.\nFreyalise, Llanowar's Fury can be your commander."
+Worldly Tutor,1.0,['Green'],['G'],None,['Instant'],None,Rare,CC1,None,None,None,"Search your library for a creature card, reveal it, then shuffle and put the card on top."
+Sylvan Library,2.0,['Green'],['G'],None,['Enchantment'],None,Rare,CC1,None,None,None,"At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library."
+Seedborn Muse,5.0,['Green'],['G'],None,['Creature'],['Spirit'],Rare,CC1,2,4,None,Untap all permanents you control during each other player's untap step.
+Sol Ring,1.0,None,None,None,['Artifact'],None,Rare,CC1,None,None,None,{T}: Add {C}{C}.

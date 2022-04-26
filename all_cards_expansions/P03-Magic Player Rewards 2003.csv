@@ -1,0 +1,2 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Voidmage Prodigy,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Rare,P03,2,1,None,"{U}{U}, Sacrifice a Wizard: Counter target spell.\nMorph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)"

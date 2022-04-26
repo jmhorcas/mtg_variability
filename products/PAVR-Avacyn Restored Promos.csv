@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Killing Wave,1.0,['Black'],['B'],None,['Sorcery'],None,Rare,PAVR,None,None,None,"For each creature, its controller sacrifices it unless they pay X life."
+Moonsilver Spear,4.0,None,None,None,['Artifact'],['Equipment'],Rare,PAVR,None,None,None,"Equipped creature has first strike.\nWhenever equipped creature attacks, create a 4/4 white Angel creature token with flying.\nEquip {4}"
+Restoration Angel,4.0,['White'],['W'],None,['Creature'],['Angel'],Rare,PAVR,3,4,None,"Flash\nFlying\nWhen Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control."
+Latch Seeker,3.0,['Blue'],['U'],None,['Creature'],['Spirit'],Uncommon,PAVR,3,1,None,Latch Seeker can't be blocked.
+Silverblade Paladin,3.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Rare,PAVR,2,2,None,"Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Silverblade Paladin is paired with another creature, both creatures have double strike."

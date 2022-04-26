@@ -1,0 +1,10 @@
+CMC: {4.0, 5.0, 6.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Legendary'}
+Types: {'Planeswalker'}
+Subtypes: {'Nahiri', 'Daretti', 'Nixilis', 'Teferi', 'Freyalise'}
+Rarity: {'Mythic'}
+Power: set()
+Toughness: set()
+Loyalty: {'3', '5'}

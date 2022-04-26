@@ -1,0 +1,7 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Path to Exile,1.0,['White'],['W'],None,['Instant'],None,Rare,PF20,None,None,None,"Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Rare,PF20,None,None,None,({T}: Add {R}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Rare,PF20,None,None,None,({T}: Add {B}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Rare,PF20,None,None,None,({T}: Add {G}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Rare,PF20,None,None,None,({T}: Add {W}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Rare,PF20,None,None,None,({T}: Add {U}.)

@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
+Subtypes: {'Nissa', 'Scout', 'Faerie', 'Sorin', 'Naga', 'Cyclops', 'Arlinn', 'Nightmare', 'Human', 'Vraska', 'Teyo', 'Giant', 'Rhino', 'Plant', 'Spider', 'Nixilis', 'Spirit', 'Griffin', 'Wall', 'Hydra', 'Hippo', 'Ral', 'Warrior', 'Wurm', 'Centaur', 'Bird', 'Saheeli', 'Troll', 'Gideon', 'Jace', 'Tibalt', 'Elemental', 'Narset', 'Assassin', 'Hellion', 'Bear', 'Crocodile', 'Weird', 'Leviathan', 'Kiora', 'God', 'Huatli', 'Mutant', 'Boar', 'Minotaur', 'Merfolk', 'Ogre', 'Sarkhan', 'Liliana', 'Chandra', 'Elf', 'Sphinx', 'Rogue', 'Goblin', 'Golem', 'Tamiyo', 'Ugin', 'Aura', 'Kasmina', 'Advisor', 'Island', 'Angrath', 'Jackal', 'Zombie', 'Dragon', 'Mountain', 'Nahiri', 'Knight', 'Devil', 'Gorgon', 'Vehicle', 'Samut', 'Dinosaur', 'Forest', 'Insect', 'Elephant', 'Berserker', 'Teferi', 'Jaya', 'Domri', 'Kaya', 'Druid', 'Avatar', 'Tezzeret', 'Pegasus', 'Cat', 'Bolas', 'Vampire', 'Angel', 'Wolf', 'Homunculus', 'Dog', 'Ajani', 'Beast', 'Karn', 'Davriel', 'Plains', 'Drake', 'Monk', 'Gate', 'Ashiok', 'Swamp', 'Manticore', 'Vivien', 'Yanggu', 'Illusion', 'Soldier', 'Wizard', 'Dovin'}
+Rarity: {'Common', 'Rare', 'Uncommon', 'Mythic'}
+Power: {'4', '7', '5', '1', '2', '0', '3', '6'}
+Toughness: {'4', '5', '1', '2', '0', '3', '6'}
+Loyalty: {'4', '7', '5', '3', '6'}

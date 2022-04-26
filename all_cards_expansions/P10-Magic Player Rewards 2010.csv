@@ -1,0 +1,10 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Volcanic Fallout,3.0,['Red'],['R'],None,['Instant'],None,Rare,P10,None,None,None,This spell can't be countered.\nVolcanic Fallout deals 2 damage to each creature and each player.
+Bituminous Blast,5.0,"['Black', 'Red']","['B', 'R']",None,['Instant'],None,Rare,P10,None,None,None,"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)\nBituminous Blast deals 4 damage to target creature."
+Infest,3.0,['Black'],['B'],None,['Sorcery'],None,Rare,P10,None,None,None,All creatures get -2/-2 until end of turn.
+Burst Lightning,1.0,['Red'],['R'],None,['Instant'],None,Rare,P10,None,None,None,"Kicker {4} (You may pay an additional {4} as you cast this spell.)\nBurst Lightning deals 2 damage to any target. If this spell was kicked, it deals 4 damage instead."
+Sign in Blood,2.0,['Black'],['B'],None,['Sorcery'],None,Rare,P10,None,None,None,Target player draws two cards and loses 2 life.
+Celestial Purge,2.0,['White'],['W'],None,['Instant'],None,Rare,P10,None,None,None,Exile target black or red permanent.
+Harrow,3.0,['Green'],['G'],None,['Instant'],None,Rare,P10,None,None,None,"As an additional cost to cast this spell, sacrifice a land.\nSearch your library for up to two basic land cards, put them onto the battlefield, then shuffle."
+Cancel,3.0,['Blue'],['U'],None,['Instant'],None,Rare,P10,None,None,None,Counter target spell.
+Lightning Bolt,1.0,['Red'],['R'],None,['Instant'],None,Rare,P10,None,None,None,Lightning Bolt deals 3 damage to any target.

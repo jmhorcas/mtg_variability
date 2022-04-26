@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
+Subtypes: {'Rabbit', 'Scout', 'Faerie', 'Kor', 'Whale', 'Rat', 'Harpy', 'Human', 'Cleric', 'Noble', 'Giant', 'Plant', 'Spider', 'Turtle', 'Spirit', 'Wall', 'Spike', 'Hydra', 'Warrior', 'Wurm', 'Troll', 'Elemental', 'Assassin', 'Basilisk', 'Sliver', 'Horror', 'Thopter', 'Boar', 'Gnome', 'Merfolk', 'Shapeshifter', 'Ogre', 'Serpent', 'Elf', 'Rogue', 'Dryad', 'Goblin', 'Golem', 'Aura', 'Snake', 'Island', 'Jackal', 'Zombie', 'Shark', 'Dragon', 'Mountain', 'Soltari', 'Knight', 'Dauthi', 'Dinosaur', 'Phyrexian', 'Shaman', 'Nomad', 'Forest', 'Thalakos', 'Elephant', 'Druid', 'Pegasus', 'Lizard', 'Shade', 'Cat', 'Vampire', 'Construct', 'Angel', 'Archer', 'Minion', 'Dog', 'Beast', 'Thrull', 'Plains', 'Drake', 'Monk', 'Swamp', 'Soldier', 'Illusion', 'Phoenix', 'Wizard'}
+Rarity: {'Common', 'Mythic', 'Uncommon', 'Rare'}
+Power: {'4', '7', '5', '*', '1', '2', '0', '3', '6'}
+Toughness: {'4', '7', '5', '1', '*', '2', '0', '3', '6'}
+Loyalty: set()

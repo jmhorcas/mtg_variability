@@ -1,0 +1,3 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Hammer of Bogardan,3.0,['Red'],['R'],None,['Sorcery'],None,Rare,G02,None,None,None,Hammer of Bogardan deals 3 damage to any target.\n{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate only during your upkeep.
+Tradewind Rider,4.0,['Blue'],['U'],None,['Creature'],['Spirit'],Rare,G02,1,4,None,"Flying\n{T}, Tap two untapped creatures you control: Return target permanent to its owner's hand."

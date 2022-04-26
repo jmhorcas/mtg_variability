@@ -1,0 +1,10 @@
+CMC: set()
+Colors: set()
+ColorIdentity: set()
+Supertypes: set()
+Types: {'Land', 'Creature', 'Artifact'}
+Subtypes: {'Construct'}
+Rarity: {'Rare'}
+Power: {'0'}
+Toughness: {'0'}
+Loyalty: set()

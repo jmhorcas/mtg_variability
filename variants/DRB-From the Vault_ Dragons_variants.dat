@@ -1,0 +1,10 @@
+CMC: {4.0, 6.0, 7.0, 8.0, 9.0, 16.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Legendary'}
+Types: {'Enchantment', 'Sorcery', 'Creature', 'Artifact'}
+Subtypes: {'Dragon', 'Elder', 'Wizard', 'Spirit', 'Zombie'}
+Rarity: {'Rare'}
+Power: {'4', '7', '5', '8', '9', '2', '6'}
+Toughness: {'4', '7', '5', '8', '9', '3', '6'}
+Loyalty: set()

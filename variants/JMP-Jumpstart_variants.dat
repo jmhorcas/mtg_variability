@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 12.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
+Subtypes: {'Scout', 'Elk', 'Kor', 'Faerie', 'Pirate', 'Rat', 'Equipment', 'Efreet', 'Cyclops', 'Imp', 'Human', 'Cleric', 'Djinn', 'Noble', 'Giant', 'Rhino', 'Plant', 'Turtle', 'Treefolk', 'Spirit', 'Wall', 'Hydra', 'Warrior', 'Skeleton', 'Bird', 'Carrier', 'Monkey', 'Vedalken', 'Elemental', 'Scarecrow', 'Ranger', 'Hellion', 'Horror', 'Gargoyle', 'Archon', 'Mutant', 'Boar', 'Minotaur', 'Merfolk', 'Ogre', 'Fungus', 'Starfish', 'Serpent', 'Aetherborn', 'Elf', 'Sphinx', 'Rogue', 'Warlock', 'Goblin', 'Golem', 'Barbarian', 'Aura', 'Island', 'Advisor', 'Jackal', 'Zombie', 'Specter', 'Dragon', 'Mountain', 'Salamander', 'Knight', 'Devil', 'Dinosaur', 'Phyrexian', 'Chimera', 'Shaman', 'Octopus', 'Azra', 'Forest', 'Insect', 'Artificer', 'Berserker', 'Juggernaut', 'Myr', 'Druid', 'Cat', 'Vampire', 'Bat', 'Ally', 'Construct', 'Angel', 'Demon', 'Archer', 'Minion', 'Kavu', 'Dog', 'Beast', 'Food', 'Praetor', 'Squid', 'Plains', 'Elder', 'Drake', 'Monk', 'Unicorn', 'Swamp', 'Illusion', 'Soldier', 'Phoenix', 'Wizard'}
+Rarity: {'Common', 'Rare', 'Uncommon', 'Mythic'}
+Power: {'4', '7', '5', '12', '1', '*', '8', '2', '0', '3', '6'}
+Toughness: {'4', '7', '5', '12', '1', '8', '*', '2', '0', '3', '6'}
+Loyalty: set()

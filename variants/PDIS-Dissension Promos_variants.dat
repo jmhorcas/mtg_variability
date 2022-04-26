@@ -1,0 +1,10 @@
+CMC: {2.0, 3.0}
+Colors: {'Red', 'Black', 'White', 'Blue'}
+ColorIdentity: {'W', 'R', 'U', 'B'}
+Supertypes: set()
+Types: {'Creature'}
+Subtypes: {'Wizard', 'Avatar', 'Vedalken'}
+Rarity: {'Rare'}
+Power: {'2', '5'}
+Toughness: {'3', '2'}
+Loyalty: set()

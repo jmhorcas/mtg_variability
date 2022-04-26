@@ -1,0 +1,10 @@
+CMC: {2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Supertypes: {'Legendary'}
+Types: {'Enchantment', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Snake', 'Vedalken', 'Elemental', 'Scout', 'Lizard', 'Viashino', 'Assassin', 'Zombie', 'Cat', 'Hellion', 'Rat', 'Dragon', 'Equipment', 'Horror', 'Cyclops', 'Construct', 'Angel', 'Demon', 'Archer', 'Leviathan', 'Mutant', 'Human', 'Knight', 'Leech', 'Minotaur', 'Beast', 'Ogre', 'Rhino', 'Fungus', 'Spider', 'Drake', 'Spirit', 'Griffin', 'Wall', 'Shaman', 'Warrior', 'Wurm', 'Soldier', 'Elf', 'Insect', 'Wizard', 'Sphinx', 'Skeleton', 'Illusion', 'Rogue', 'Berserker', 'Bird', 'Goblin', 'Golem', 'Aura'}
+Rarity: {'Uncommon', 'Common', 'Mythic', 'Rare'}
+Power: {'4', '7', '5', '1', '*', '2', '0', '3', '6'}
+Toughness: {'4', '7', '5', '1', '*', '8', '2', '3', '6'}
+Loyalty: set()

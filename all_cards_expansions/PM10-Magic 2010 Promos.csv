@@ -1,0 +1,6 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Honor of the Pure,2.0,['White'],['W'],None,['Enchantment'],None,Rare,PM10,None,None,None,White creatures you control get +1/+1.
+Mycoid Shepherd,4.0,"['Green', 'White']","['G', 'W']",None,['Creature'],['Fungus'],Rare,PM10,5,4,None,"Whenever Mycoid Shepherd or another creature you control with power 5 or greater dies, you may gain 5 life."
+Naya Sojourners,5.0,"['Green', 'Red', 'White']","['G', 'R', 'W']",None,['Creature'],"['Elf', 'Shaman']",Rare,PM10,5,3,None,"When you cycle Naya Sojourners or it dies, you may put a +1/+1 counter on target creature.\nCycling {2}{G} ({2}{G}, Discard this card: Draw a card.)"
+Ant Queen,5.0,['Green'],['G'],None,['Creature'],['Insect'],Rare,PM10,5,5,None,{1}{G}: Create a 1/1 green Insect creature token.
+Vampire Nocturnus,4.0,['Black'],['B'],None,['Creature'],['Vampire'],Mythic,PM10,3,3,None,"Play with the top card of your library revealed.\nAs long as the top card of your library is black, Vampire Nocturnus and other Vampire creatures you control get +2/+1 and have flying."

@@ -1,0 +1,102 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Phyrexian Furnace,1.0,None,None,None,['Artifact'],None,Uncommon,WC98,None,None,None,"{T}: Exile the bottom card of target player's graveyard.\n{1}, Sacrifice Phyrexian Furnace: Exile target card from a graveyard. Draw a card."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC98,None,None,None,({T}: Add {U}.)
+Wall of Roots,2.0,['Green'],['G'],None,['Creature'],"['Plant', 'Wall']",Common,WC98,0,5,None,Defender\nPut a -0/-1 counter on Wall of Roots: Add {G}. Activate only once each turn.
+Cloudchaser Eagle,4.0,['White'],['W'],None,['Creature'],['Bird'],Common,WC98,2,2,None,"Flying\nWhen Cloudchaser Eagle enters the battlefield, destroy target enchantment."
+Survival of the Fittest,2.0,['Green'],['G'],None,['Enchantment'],None,Rare,WC98,None,None,None,"{G}, Discard a creature card: Search your library for a creature card, reveal that card, put it into your hand, then shuffle."
+Volrath's Stronghold,0.0,None,['B'],['Legendary'],['Land'],None,Rare,WC98,None,None,None,"{T}: Add {C}.\n{1}{B}, {T}: Put target creature card from your graveyard on top of your library."
+Wall of Blossoms,2.0,['Green'],['G'],None,['Creature'],"['Plant', 'Wall']",Uncommon,WC98,0,4,None,"Defender\nWhen Wall of Blossoms enters the battlefield, draw a card."
+Spike Weaver,4.0,['Green'],['G'],None,['Creature'],['Spike'],Rare,WC98,0,0,None,"Spike Weaver enters the battlefield with three +1/+1 counters on it.\n{2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature.\n{1}, Remove a +1/+1 counter from Spike Weaver: Prevent all combat damage that would be dealt this turn."
+Uktabi Orangutan,3.0,['Green'],['G'],None,['Creature'],['Ape'],Uncommon,WC98,2,2,None,"When Uktabi Orangutan enters the battlefield, destroy target artifact."
+Mana Leak,2.0,['Blue'],['U'],None,['Instant'],None,Common,WC98,None,None,None,Counter target spell unless its controller pays {3}.
+Spike Feeder,3.0,['Green'],['G'],None,['Creature'],['Spike'],Uncommon,WC98,0,0,None,"Spike Feeder enters the battlefield with two +1/+1 counters on it.\n{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature.\nRemove a +1/+1 counter from Spike Feeder: You gain 2 life."
+Impulse,2.0,['Blue'],['U'],None,['Instant'],None,Common,WC98,None,None,None,Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+Dissipate,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC98,None,None,None,"Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
+Orcish Settlers,2.0,['Red'],['R'],None,['Creature'],['Orc'],Uncommon,WC98,1,1,None,"{X}{X}{R}, {T}, Sacrifice Orcish Settlers: Destroy X target lands."
+Forbid,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC98,None,None,None,"Buyback—Discard two cards. (You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)\nCounter target spell."
+Nekrataal,4.0,['Black'],['B'],None,['Creature'],"['Human', 'Assassin']",Uncommon,WC98,2,1,None,"First strike\nWhen Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated."
+Rainbow Efreet,4.0,['Blue'],['U'],None,['Creature'],['Efreet'],Rare,WC98,3,1,None,"Flying\n{U}{U}: Rainbow Efreet phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)"
+Emerald Charm,1.0,['Green'],['G'],None,['Instant'],None,Common,WC98,None,None,None,Choose one —\n• Untap target permanent.\n• Destroy target non-Aura enchantment.\n• Target creature loses flying until end of turn.
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC98,None,None,None,({T}: Add {U}.)
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC98,None,None,None,({T}: Add {U}.)
+Capsize,3.0,['Blue'],['U'],None,['Instant'],None,Common,WC98,None,None,None,"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)\nReturn target permanent to its owner's hand."
+Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,WC98,None,None,None,({T}: Add {U}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC98,None,None,None,({T}: Add {G}.)
+Shock,1.0,['Red'],['R'],None,['Instant'],None,Common,WC98,None,None,None,Shock deals 2 damage to any target.
+Counterspell,2.0,['Blue'],['U'],None,['Instant'],None,Common,WC98,None,None,None,Counter target spell.
+Scroll Rack,2.0,None,None,None,['Artifact'],None,Rare,WC98,None,None,None,"{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order."
+Hall of Gemstone,3.0,['Green'],['G'],['World'],['Enchantment'],None,Rare,WC98,None,None,None,"At the beginning of each player's upkeep, that player chooses a color. Until end of turn, lands tapped for mana produce mana of the chosen color instead of any other color."
+Force Spike,1.0,['Blue'],['U'],None,['Instant'],None,Common,WC98,None,None,None,Counter target spell unless its controller pays {1}.
+Boil,4.0,['Red'],['R'],None,['Instant'],None,Uncommon,WC98,None,None,None,Destroy all Islands.
+Stalking Stones,0.0,None,None,None,['Land'],None,Uncommon,WC98,None,None,None,{T}: Add {C}.\n{6}: Stalking Stones becomes a 3/3 Elemental artifact creature that's still a land. (This effect lasts indefinitely.)
+Spirit of the Night,9.0,['Black'],['B'],['Legendary'],['Creature'],"['Demon', 'Spirit']",Rare,WC98,6,5,None,"Flying, trample, haste, protection from black\nSpirit of the Night has first strike as long as it's attacking."
+Memory Lapse,2.0,['Blue'],['U'],None,['Instant'],None,Common,WC98,None,None,None,"Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard."
+Dread of Night,1.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,WC98,None,None,None,White creatures get -1/-1.
+Nevinyrral's Disk,4.0,None,None,None,['Artifact'],None,Rare,WC98,None,None,None,"Nevinyrral's Disk enters the battlefield tapped.\n{1}, {T}: Destroy all artifacts, creatures, and enchantments."
+Grindstone,1.0,None,None,None,['Artifact'],None,Rare,WC98,None,None,None,"{3}, {T}: Target player mills two cards. If two cards that share a color were milled this way, repeat this process."
+Quicksand,0.0,None,None,None,['Land'],None,Uncommon,WC98,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn."
+Whispers of the Muse,1.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC98,None,None,None,"Buyback {5} (You may pay an additional {5} as you cast this spell. If you do, put this card into your hand as it resolves.)\nDraw a card."
+City of Brass,0.0,None,None,None,['Land'],None,Rare,WC98,None,None,None,"Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
+Sea Sprite,2.0,['Blue'],['U'],None,['Creature'],['Faerie'],Uncommon,WC98,1,1,None,"Flying, protection from red"
+Tradewind Rider,4.0,['Blue'],['U'],None,['Creature'],['Spirit'],Rare,WC98,1,4,None,"Flying\n{T}, Tap two untapped creatures you control: Return target permanent to its owner's hand."
+Undiscovered Paradise,0.0,None,None,None,['Land'],None,Rare,WC98,None,None,None,"{T}: Add one mana of any color. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner's hand."
+Thrull Surgeon,2.0,['Black'],['B'],None,['Creature'],['Thrull'],Common,WC98,1,1,None,"{1}{B}, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate only as a sorcery."
+Staunch Defenders,5.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,WC98,3,4,None,"When Staunch Defenders enters the battlefield, you gain 4 life."
+Birds of Paradise,1.0,['Green'],['G'],None,['Creature'],['Bird'],Rare,WC98,0,1,None,Flying\n{T}: Add one mana of any color.
+Dismiss,4.0,['Blue'],['U'],None,['Instant'],None,Uncommon,WC98,None,None,None,Counter target spell.\nDraw a card.
+Lobotomy,4.0,"['Black', 'Blue']","['B', 'U']",None,['Sorcery'],None,Uncommon,WC98,None,None,None,"Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles."
+Gemstone Mine,0.0,None,None,None,['Land'],None,Uncommon,WC98,None,None,None,"Gemstone Mine enters the battlefield with three mining counters on it.\n{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color. If there are no mining counters on Gemstone Mine, sacrifice it."
+Hydroblast,1.0,['Blue'],['U'],None,['Instant'],None,Common,WC98,None,None,None,Choose one —\n• Counter target spell if it's red.\n• Destroy target permanent if it's red.
+Man-o'-War,3.0,['Blue'],['U'],None,['Creature'],['Jellyfish'],Common,WC98,2,2,None,"When Man-o'-War enters the battlefield, return target creature to its owner's hand."
+Underground River,0.0,None,"['B', 'U']",None,['Land'],None,Rare,WC98,None,None,None,{T}: Add {C}.\n{T}: Add {U} or {B}. Underground River deals 1 damage to you.
+Dwarven Thaumaturgist,3.0,['Red'],['R'],None,['Creature'],"['Dwarf', 'Shaman']",Rare,WC98,1,2,None,{T}: Switch target creature's power and toughness until end of turn.
+Karplusan Forest,0.0,None,"['G', 'R']",None,['Land'],None,Rare,WC98,None,None,None,{T}: Add {C}.\n{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.
+Verdant Force,8.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,WC98,7,7,None,"At the beginning of each upkeep, create a 1/1 green Saproling creature token."
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC98,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC98,None,None,None,({T}: Add {R}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC98,None,None,None,({T}: Add {G}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC98,None,None,None,({T}: Add {R}.)
+Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,WC98,None,None,None,({T}: Add {G}.)
+Mogg Flunkies,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,WC98,3,3,None,Mogg Flunkies can't attack or block alone.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,WC98,None,None,None,({T}: Add {B}.)
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC98,None,None,None,({T}: Add {R}.)
+Recurring Nightmare,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,WC98,None,None,None,"Sacrifice a creature, Return Recurring Nightmare to its owner's hand: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery."
+Fireblast,6.0,['Red'],['R'],None,['Instant'],None,Common,WC98,None,None,None,You may sacrifice two Mountains rather than pay this spell's mana cost.\nFireblast deals 4 damage to any target.
+Reflecting Pool,0.0,None,None,None,['Land'],None,Rare,WC98,None,None,None,{T}: Add one mana of any type that a land you control could produce.
+Ironclaw Orcs,2.0,['Red'],['R'],None,['Creature'],['Orc'],Common,WC98,2,2,None,Ironclaw Orcs can't block creatures with power 2 or greater.
+Ball Lightning,3.0,['Red'],['R'],None,['Creature'],['Elemental'],Rare,WC98,6,1,None,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nHaste (This creature can attack and {T} as soon as it comes under your control.)\nAt the beginning of the end step, sacrifice Ball Lightning."
+Incinerate,2.0,['Red'],['R'],None,['Instant'],None,Common,WC98,None,None,None,Incinerate deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.
+Hammer of Bogardan,3.0,['Red'],['R'],None,['Sorcery'],None,Rare,WC98,None,None,None,Hammer of Bogardan deals 3 damage to any target.\n{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate only during your upkeep.
+Dwarven Miner,2.0,['Red'],['R'],None,['Creature'],['Dwarf'],Uncommon,WC98,1,2,None,"{2}{R}, {T}: Destroy target nonbasic land."
+Shattering Pulse,2.0,['Red'],['R'],None,['Instant'],None,Common,WC98,None,None,None,"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)\nDestroy target artifact."
+Viashino Sandstalker,3.0,['Red'],['R'],None,['Creature'],"['Viashino', 'Warrior']",Uncommon,WC98,4,2,None,"Haste (This creature can attack and {T} as soon as it comes under your control.)\nAt the beginning of the end step, return Viashino Sandstalker to its owner's hand. (Return it only if it's on the battlefield.)"
+Nomads en-Kor,1.0,['White'],['W'],None,['Creature'],"['Kor', 'Nomad', 'Soldier']",Common,WC98,1,1,None,{0}: The next 1 damage that would be dealt to Nomads en-Kor this turn is dealt to target creature you control instead.
+Armageddon,4.0,['White'],['W'],None,['Sorcery'],None,Rare,WC98,None,None,None,Destroy all lands.
+Spirit Link,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,WC98,None,None,None,"Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nWhenever enchanted creature deals damage, you gain that much life."
+Soltari Priest,2.0,['White'],['W'],None,['Creature'],"['Soltari', 'Cleric']",Uncommon,WC98,2,1,None,Protection from red\nShadow (This creature can block or be blocked by only creatures with shadow.)
+Empyrial Armor,3.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,WC98,None,None,None,Enchant creature\nEnchanted creature gets +1/+1 for each card in your hand.
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC98,None,None,None,({T}: Add {W}.)
+Soltari Monk,2.0,['White'],['W'],None,['Creature'],"['Soltari', 'Monk', 'Cleric']",Uncommon,WC98,2,1,None,Protection from black\nShadow (This creature can block or be blocked by only creatures with shadow.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC98,None,None,None,({T}: Add {W}.)
+Cursed Scroll,1.0,None,None,None,['Artifact'],None,Rare,WC98,None,None,None,"{3}, {T}: Choose a card name, then reveal a card at random from your hand. If that card has the chosen name, Cursed Scroll deals 2 damage to any target."
+Soul Warden,1.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,WC98,1,1,None,"Whenever another creature enters the battlefield, you gain 1 life."
+Warrior en-Kor,2.0,['White'],['W'],None,['Creature'],"['Kor', 'Warrior', 'Knight']",Uncommon,WC98,2,2,None,{0}: The next 1 damage that would be dealt to Warrior en-Kor this turn is dealt to target creature you control instead.
+Tithe,1.0,['White'],['W'],None,['Instant'],None,Rare,WC98,None,None,None,"Search your library for a Plains card. If target opponent controls more lands than you, you may search your library for an additional Plains card. Reveal those cards, put them into your hand, then shuffle."
+Disenchant,2.0,['White'],['W'],None,['Instant'],None,Common,WC98,None,None,None,Destroy target artifact or enchantment.
+Paladin en-Vec,3.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Rare,WC98,2,2,None,"First strike, protection from black and from red (This creature deals combat damage before creatures without first strike. It can't be blocked, targeted, dealt damage, or enchanted by anything black or red.)"
+Soltari Visionary,3.0,['White'],['W'],None,['Creature'],"['Soltari', 'Cleric']",Common,WC98,2,2,None,"Shadow (This creature can block or be blocked by only creatures with shadow.)\nWhenever Soltari Visionary deals damage to a player, destroy target enchantment that player controls."
+Abeyance,2.0,['White'],['W'],None,['Instant'],None,Rare,WC98,None,None,None,"Until end of turn, target player can't cast instant or sorcery spells, and that player can't activate abilities that aren't mana abilities.\nDraw a card."
+Bottle Gnomes,3.0,None,None,None,"['Artifact', 'Creature']",['Gnome'],Uncommon,WC98,1,3,None,Sacrifice Bottle Gnomes: You gain 3 life.
+Pyroblast,1.0,['Red'],['R'],None,['Instant'],None,Common,WC98,None,None,None,Choose one —\n• Counter target spell if it's blue.\n• Destroy target permanent if it's blue.
+Mogg Fanatic,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,WC98,1,1,None,Sacrifice Mogg Fanatic: It deals 1 damage to any target.
+Jackal Pup,1.0,['Red'],['R'],None,['Creature'],['Jackal'],Uncommon,WC98,2,1,None,"Whenever Jackal Pup is dealt damage, it deals that much damage to you."
+Final Fortune,2.0,['Red'],['R'],None,['Instant'],None,Rare,WC98,None,None,None,"Take an extra turn after this one. At the beginning of that turn's end step, you lose the game."
+Goblin Vandal,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Rogue']",Common,WC98,1,1,None,"Whenever Goblin Vandal attacks and isn't blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn."
+Firestorm,1.0,['Red'],['R'],None,['Instant'],None,Rare,WC98,None,None,None,"As an additional cost to cast this spell, discard X cards.\nFirestorm deals X damage to each of X targets."
+Aura of Silence,3.0,['White'],['W'],None,['Enchantment'],None,Uncommon,WC98,None,None,None,Artifact and enchantment spells your opponents cast cost {2} more to cast.\nSacrifice Aura of Silence: Destroy target artifact or enchantment.
+White Knight,2.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Uncommon,WC98,2,2,None,"First strike (This creature deals combat damage before creatures without first strike.)\nProtection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)"
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC98,None,None,None,({T}: Add {W}.)
+Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,WC98,None,None,None,({T}: Add {W}.)
+Cataclysm,4.0,['White'],['W'],None,['Sorcery'],None,Rare,WC98,None,None,None,"Each player chooses from among the permanents they control an artifact, a creature, an enchantment, and a land, then sacrifices the rest."
+Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,WC98,None,None,None,({T}: Add {R}.)
+Wasteland,0.0,None,None,None,['Land'],None,Uncommon,WC98,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land."

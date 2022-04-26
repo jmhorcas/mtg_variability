@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 10.0}
+Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
+ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Tribal', 'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Scout', 'Faerie', 'Kor', 'Viashino', 'Rat', 'Equipment', 'Imp', 'Nightmare', 'Human', 'Cleric', 'Djinn', 'Arcane', 'Noble', 'Giant', 'Rhino', 'Spider', 'Treefolk', 'Spirit', 'Hydra', 'Warrior', 'Wurm', 'Centaur', 'Bird', 'Kithkin', 'Elemental', 'Assassin', 'Ranger', 'Sliver', 'Horror', 'Gargoyle', 'Wraith', 'Worm', 'Merfolk', 'Shapeshifter', 'Ogre', 'Ape', 'Fungus', 'Serpent', 'Urza’s', 'Elf', 'Rogue', 'Dryad', 'Goblin', 'Golem', 'Dwarf', 'Ninja', 'Aura', 'Snake', 'Advisor', 'Island', 'Zombie', 'Dragon', 'Knight', 'Devil', 'Gorgon', 'Dinosaur', 'Phyrexian', 'Shaman', 'Forest', 'Insect', 'Artificer', 'Berserker', 'Juggernaut', 'Myr', 'Druid', 'Avatar', 'Spellshaper', 'Shade', 'Cat', 'Vampire', 'Ally', 'Fish', 'Construct', 'Angel', 'Demon', 'Archer', 'Homunculus', 'Kavu', 'Beast', 'Elder', 'Drake', 'Lhurgoyf', 'Monk', 'Rebel', 'Desert', 'Soldier', 'Illusion', 'Wizard'}
+Rarity: {'Common', 'Uncommon', 'Rare', 'Special', 'Mythic'}
+Power: {'4', '7', '5', '1', '*', '2', '9', '0', '3', '6', '10', '-1'}
+Toughness: {'4', '7', '5', '1', '*', '2', '0', '1+*', '3', '6', '10'}
+Loyalty: set()

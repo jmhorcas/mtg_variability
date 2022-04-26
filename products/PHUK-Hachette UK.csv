@@ -1,0 +1,47 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Suppress,3.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,PHUK,None,None,None,"Target player exiles all cards from their hand face down. At the beginning of the end step of that player's next turn, that player returns those cards to their hand."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Patron of the Nezumi,7.0,['Black'],['B'],['Legendary'],['Creature'],['Spirit'],Rare,PHUK,6,6,None,"Rat offering (You may cast this card any time you could cast an instant by sacrificing a Rat and paying the difference in mana costs between this and the sacrificed Rat. Mana cost includes color.)\nWhenever a permanent is put into an opponent's graveyard, that player loses 1 life."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Dirge of Dread,3.0,['Black'],['B'],None,['Sorcery'],None,Common,PHUK,None,None,None,"All creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)\nCycling {1}{B} ({1}{B}, Discard this card: Draw a card.)\nWhen you cycle Dirge of Dread, you may have target creature gain fear until end of turn."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Swarm of Rats,2.0,['Black'],['B'],None,['Creature'],['Rat'],Uncommon,PHUK,*,1,None,Swarm of Rats's power is equal to the number of Rats you control.
+Nezumi Cutthroat,2.0,['Black'],['B'],None,['Creature'],"['Rat', 'Warrior']",Common,PHUK,2,1,None,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nNezumi Cutthroat can't block.
+Sever Soul,5.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,PHUK,None,None,None,Destroy target nonblack creature. It can't be regenerated. You gain life equal to its toughness.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Infernal Contract,3.0,['Black'],['B'],None,['Sorcery'],None,Rare,PHUK,None,None,None,"Draw four cards. You lose half your life, rounded up."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Dirty Wererat,4.0,['Black'],['B'],None,['Creature'],"['Human', 'Rat', 'Minion']",Common,PHUK,2,3,None,"{B}, Discard a card: Regenerate Dirty Wererat.\nThreshold — As long as seven or more cards are in your graveyard, Dirty Wererat gets +2/+2 and can't block."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Nocturnal Raid,4.0,['Black'],['B'],None,['Instant'],None,Uncommon,PHUK,None,None,None,Black creatures get +2/+0 until end of turn.
+Marrow-Gnawer,5.0,['Black'],['B'],['Legendary'],['Creature'],"['Rat', 'Rogue']",Rare,PHUK,2,3,None,"All Rats have fear.\n{T}, Sacrifice a Rat: Create X 1/1 black Rat creature tokens, where X is the number of Rats you control."
+Crippling Fatigue,3.0,['Black'],['B'],None,['Sorcery'],None,Common,PHUK,None,None,None,"Target creature gets -2/-2 until end of turn.\nFlashback—{1}{B}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Chittering Rats,3.0,['Black'],['B'],None,['Creature'],['Rat'],Common,PHUK,2,2,None,"When Chittering Rats enters the battlefield, target opponent puts a card from their hand on top of their library."
+Betrayal of Flesh,6.0,['Black'],['B'],None,['Instant'],None,Uncommon,PHUK,None,None,None,Choose one —\n• Destroy target creature.\n• Return target creature card from your graveyard to the battlefield.\nEntwine—Sacrifice three lands. (Choose both if you pay the entwine cost.)
+Diabolic Tutor,4.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,PHUK,None,None,None,"Search your library for a card, put that card into your hand, then shuffle."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Skullsnatcher,2.0,['Black'],['B'],None,['Creature'],"['Rat', 'Ninja']",Common,PHUK,2,1,None,"Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player's graveyard."
+Nezumi Bone-Reader,2.0,['Black'],['B'],None,['Creature'],"['Rat', 'Shaman']",Uncommon,PHUK,1,1,None,"{B}, Sacrifice a creature: Target player discards a card. Activate only as a sorcery."
+Crypt Rats,3.0,['Black'],['B'],None,['Creature'],['Rat'],Uncommon,PHUK,1,1,None,{X}: Crypt Rats deals X damage to each creature and each player. Spend only black mana on X.
+Larceny,5.0,['Black'],['B'],None,['Enchantment'],None,Rare,PHUK,None,None,None,"Whenever a creature you control deals combat damage to a player, that player discards a card."
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Gravestorm,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,PHUK,None,None,None,"At the beginning of your upkeep, target opponent may exile a card from their graveyard. If that player doesn't, you may draw a card."
+Rats' Feast,1.0,['Black'],['B'],None,['Sorcery'],None,Common,PHUK,None,None,None,Exile X target cards from a single graveyard.
+Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PHUK,None,None,None,({T}: Add {B}.)
+Nezumi Graverobber // Nighteyes the Desecrator,2.0,['Black'],['B'],None,['Creature'],"['Rat', 'Rogue']",Uncommon,PHUK,2,1,None,"{1}{B}: Exile target card from an opponent's graveyard. If no cards are in that graveyard, flip Nezumi Graverobber."
+Carrion Rats,1.0,['Black'],['B'],None,['Creature'],['Rat'],Common,PHUK,2,1,None,"Whenever Carrion Rats attacks or blocks, any player may exile a card from their graveyard. If a player does, Carrion Rats assigns no combat damage this turn."
