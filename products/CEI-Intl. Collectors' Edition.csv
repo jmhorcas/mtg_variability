@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Animate Wall,{W},1.0,['W'],['W'],Enchantment — Aura,,['Aura'],Rare,Enchant Wall\nEnchanted Wall can attack as though it didn't have defender.,1,,,,CEI,Intl. Collectors' Edition

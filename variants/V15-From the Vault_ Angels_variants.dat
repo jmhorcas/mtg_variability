@@ -1,10 +1,16 @@
-CMC: {3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Sorcery', 'Creature', 'Artifact'}
-Subtypes: {'Angel'}
-Rarity: {'Mythic'}
-Power: {'4', '7', '5', '8', '3', '6'}
-Toughness: {'4', '7', '5', '8', '3', '6'}
-Loyalty: set()
+name: ['Akroma, Angel of Fury', 'Akroma, Angel of Wrath', 'Archangel of Strife', 'Aurelia, the Warleader', 'Avacyn, Angel of Hope', 'Baneslayer Angel', 'Entreat the Angels', 'Exalted Angel', 'Iona, Shield of Emeria', 'Iridescent Angel', 'Jenara, Asura of War', 'Lightning Angel', 'Platinum Angel', 'Serra Angel', 'Tariel, Reckoner of Souls']
+mana_cost: ['{1}{U}{R}{W}', '{2}{R}{R}{W}{W}', '{3}{W}{W}', '{4}{R}{W}{B}', '{4}{W}{W}', '{5}{R}{R}{R}', '{5}{W}{U}', '{5}{W}{W}', '{5}{W}{W}{W}', '{6}{W}{W}{W}', '{7}', '{G}{W}{U}', '{X}{X}{W}{W}{W}']
+cmc: [3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0]
+colors: ['B', 'G', 'R', 'U', 'W']
+color_identity: ['B', 'G', 'R', 'U', 'W']
+type: ['Artifact Creature — Angel', 'Creature — Angel', 'Legendary Creature — Angel', 'Sorcery']
+supertypes: ['Legendary']
+subtypes: ['Angel']
+rarity: ['Mythic']
+text: ["Create X 4/4 white Angel creature tokens with flying.\nMiracle {X}{W}{W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)", 'Flying\nAs Archangel of Strife enters the battlefield, each player chooses war or peace.\nCreatures controlled by players who chose war get +3/+0.\nCreatures controlled by players who chose peace get +0/+3.', "Flying\nAs Iona, Shield of Emeria enters the battlefield, choose a color.\nYour opponents can't cast spells of the chosen color.", 'Flying\nWhenever Exalted Angel deals damage, you gain that much life.\nMorph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)', "Flying\nYou can't lose the game and your opponents can't win the game.", 'Flying\n{1}{W}: Put a +1/+1 counter on Jenara, Asura of War.', 'Flying, first strike, lifelink, protection from Demons and from Dragons', 'Flying, first strike, vigilance, trample, haste, protection from black and from red', 'Flying, protection from all colors', 'Flying, vigilance', "Flying, vigilance\n{T}: Choose a creature card at random from target opponent's graveyard. Put that card onto the battlefield under your control.", 'Flying, vigilance, haste', 'Flying, vigilance, haste\nWhenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.', 'Flying, vigilance, indestructible\nOther permanents you control have indestructible.', "This spell can't be countered.\nFlying, trample, protection from white and from blue\n{R}: Akroma, Angel of Fury gets +1/+0 until end of turn.\nMorph {3}{R}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)"]
+number: ['1', '10', '11', '12', '13', '14', '15', '2', '3', '4', '5', '6', '7', '8', '9']
+power: ['3', '4', '5', '6', '7', '8']
+toughness: ['3', '4', '5', '6', '7', '8']
+loyalty: []
+set: ['V15']
+set_name: ['From the Vault: Angels']

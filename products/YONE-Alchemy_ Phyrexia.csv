@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Ghalma the Shaper,{1}{W}{W},3.0,['W'],['W'],Legendary Creature — Elephant Artificer,['Legendary'],"['Elephant', 'Artificer']",Mythic,"Vigilance\nWhenever Ghalma the Shaper attacks, conjure a card named Tempered Steel into your hand, then create a 1/1 colorless Myr artifact creature token.",1,3,3,,YONE,Alchemy: Phyrexia

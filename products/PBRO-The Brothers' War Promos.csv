@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+In the Trenches,{1}{W}{W},3.0,['W'],['W'],Enchantment,,,Mythic,Creatures you control get +1/+1.\n{5}{W}: Exile target nonland permanent you don't control until In the Trenches leaves the battlefield. Activate only as a sorcery and only once.,8p,,,,PBRO,The Brothers' War Promos

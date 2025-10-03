@@ -1,10 +1,16 @@
-CMC: set()
-Colors: set()
-ColorIdentity: {'R', 'U', 'B'}
-Supertypes: {'Ongoing'}
-Types: {'Scheme'}
-Subtypes: set()
-Rarity: {'Common'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['A Reckoning Approaches', 'Because I Have Willed It', 'Behold My Grandeur', 'Bow to My Command', 'Choose Your Demise', 'Delight in the Hunt', 'Every Dream a Nightmare', 'For Each of You, a Gift', 'Know Evil', 'Make Yourself Useful', 'My Forces Are Innumerable', 'My Laughter Echoes', 'No One Will Hear Your Cries', 'Pay Tribute to Me', 'Power Without Equal', 'The Mighty Will Fall', 'There Is No Refuge', 'This World Belongs to Me', "What's Yours Is Now Mine", 'When Will You Learn?']
+mana_cost: []
+cmc: [0.0]
+colors: []
+color_identity: ['B', 'R', 'U']
+type: ['Ongoing Scheme', 'Scheme']
+supertypes: ['Ongoing']
+subtypes: []
+rarity: ['Common']
+text: ["(An ongoing scheme remains face up until it's abandoned.)\nAs you set this scheme in motion, choose an opponent.\nCreatures the chosen player controls can't attack you or planeswalkers you control.\nAt the beginning of your opponents' end step, they may tap any number of untapped creatures they control with total power 8 or greater. If they do, abandon this scheme.", "(An ongoing scheme remains face up until it's abandoned.)\nAt the beginning of your end step, create a 3/3 black Horror creature token.\nAt the beginning of your opponents' end step, they may sacrifice two creatures. If they do, abandon this scheme.", "(An ongoing scheme remains face up until it's abandoned.)\nSpells you cast cost {1} less to cast.\nAt the beginning of your opponents' end step, if they cast four or more spells this turn, abandon this scheme.", "(An ongoing scheme remains face up until it's abandoned.)\nWhenever you set a non-ongoing scheme in motion, you may abandon this scheme. If you do, set that scheme in motion again.", 'When you set this scheme in motion, add {U}{B}{R}.\nWhen you set this scheme in motion, if you control six or more lands, you may search your library for a card with mana value 6 or greater, reveal it, put it into your hand, then shuffle.', 'When you set this scheme in motion, choose an opponent with the highest life total among your opponents. That player loses 7 life.', 'When you set this scheme in motion, create a 3/3 black Horror creature token and prevent all damage that would be dealt to creatures you control this turn.', 'When you set this scheme in motion, destroy target creature an opponent controls. If a creature is destroyed this way, you gain life equal to its toughness.', 'When you set this scheme in motion, draw three cards. You have no maximum hand size until your next turn. If you control six or more lands, you may cast up to three spells from your hand without paying their mana costs.', 'When you set this scheme in motion, draw two cards. You may play an additional land this turn.', 'When you set this scheme in motion, each opponent chooses a creature they control, then sacrifices the rest.', 'When you set this scheme in motion, each opponent discards a card. You draw a card for each land card discarded this way.', 'When you set this scheme in motion, each opponent exiles the top card of their library. You may cast any number of spells from among cards exiled this way without paying their mana costs.', 'When you set this scheme in motion, each opponent sacrifices a creature. If you control six or more lands, each opponent sacrifices another creature.', 'When you set this scheme in motion, for each opponent, create a 3/3 black Horror creature token that attacks that player each combat if able.', 'When you set this scheme in motion, gain control of target creature an opponent controls and untap it.', 'When you set this scheme in motion, it deals 3 damage to up to one target creature. Create a 3/3 black Horror creature token.', 'When you set this scheme in motion, look at the top four cards of your library and separate them into a face-down pile and a face-up pile. An opponent chooses one of those piles. Put the cards in that pile into your hand and the rest on the bottom of your library in any order.', 'When you set this scheme in motion, look at the top six cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in any order.', "When you set this scheme in motion, until your next turn, up to one target opponent can't attack with creatures, up to one target opponent can't cast creature spells, and up to one target opponent can't cast noncreature spells. You can't choose any player as a target more than once."]
+number: ['10★', '11★', '12★', '13★', '14★', '15★', '16★', '17★', '18★', '19★', '1★', '20★', '2★', '3★', '4★', '5★', '6★', '7★', '8★', '9★']
+power: []
+toughness: []
+loyalty: []
+set: ['OE01']
+set_name: ['Archenemy: Nicol Bolas Schemes']

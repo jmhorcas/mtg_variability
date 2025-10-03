@@ -1,10 +1,16 @@
-CMC: {6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Vampire', 'Phoenix', 'Angel', 'Turtle', 'Dinosaur'}
-Rarity: {'Rare'}
-Power: {'4', '7', '5'}
-Toughness: {'3', '4', '7', '5'}
-Loyalty: set()
+name: ['Angelic Guardian', 'Angler Turtle', 'Immortal Phoenix', 'Rampaging Brontodon', 'Vengeant Vampire']
+mana_cost: ['{4}{B}{B}', '{4}{R}{R}', '{4}{W}{W}', '{5}{G}{G}', '{5}{U}{U}']
+cmc: [6.0, 7.0]
+colors: ['B', 'G', 'R', 'U', 'W']
+color_identity: ['B', 'G', 'R', 'U', 'W']
+type: ['Creature — Angel', 'Creature — Dinosaur', 'Creature — Phoenix', 'Creature — Turtle', 'Creature — Vampire']
+supertypes: []
+subtypes: ['Angel', 'Dinosaur', 'Phoenix', 'Turtle', 'Vampire']
+rarity: ['Rare']
+text: ["Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Immortal Phoenix dies, return it to its owner's hand.", 'Flying (This creature can\'t be blocked except by creatures with flying or reach.)\nWhenever one or more creatures you control attack, they gain indestructible until end of turn. (Damage and effects that say "destroy" don\'t destroy them.)', 'Hexproof\nCreatures your opponents control attack each combat if able.', 'Lifelink\nWhen Vengeant Vampire dies, destroy target creature an opponent controls and you gain 4 life.', 'Trample\nWhenever Rampaging Brontodon attacks, it gets +1/+1 until end of turn for each land you control.']
+number: ['GP1', 'GP2', 'GP3', 'GP4', 'GP5']
+power: ['4', '5', '7']
+toughness: ['3', '4', '5', '7']
+loyalty: []
+set: ['G18']
+set_name: ['M19 Gift Pack']

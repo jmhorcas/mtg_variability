@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Pteramander,{U},1.0,['U'],['U'],Creature — Salamander Drake,,"['Salamander', 'Drake']",Uncommon,"Flying\n{7}{U}: Adapt 4. This ability costs {1} less to activate for each instant and sorcery card in your graveyard. (If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)",2019-1,1,1,,PWCS,Planeswalker Championship Promos

@@ -1,2 +1,2 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-"Lu Bu, Master-at-Arms",6.0,['Red'],['R'],['Legendary'],['Creature'],"['Human', 'Soldier', 'Warrior']",Rare,PPTK,4,3,None,Haste; horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+"Lu Bu, Master-at-Arms",{5}{R},6.0,['R'],['R'],Legendary Creature — Human Soldier Warrior,['Legendary'],"['Human', 'Soldier', 'Warrior']",Rare,Haste; horsemanship (This creature can't be blocked except by creatures with horsemanship.),115a,4,3,,PPTK,Portal: Three Kingdoms Promos

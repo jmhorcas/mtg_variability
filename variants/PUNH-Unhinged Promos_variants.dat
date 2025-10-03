@@ -1,10 +1,16 @@
-CMC: {3.0}
-Colors: {'Black', 'White'}
-ColorIdentity: {'W', 'B'}
-Supertypes: set()
-Types: {'Sorcery'}
-Subtypes: set()
-Rarity: {'Rare'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ["Ass Whuppin'"]
+mana_cost: ['{1}{W}{B}']
+cmc: [3.0]
+colors: ['B', 'W']
+color_identity: ['B', 'W']
+type: ['Sorcery']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['Destroy target silver-bordered or acorn permanent in any game you can see from your seat.']
+number: ['117★']
+power: []
+toughness: []
+loyalty: []
+set: ['PUNH']
+set_name: ['Unhinged Promos']

@@ -1,3 +1,2 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Balduvian Horde,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Barbarian']",Rare,PWOR,5,5,None,"When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random."
-Crucible of Worlds,3.0,None,None,None,['Artifact'],None,Mythic,PWOR,None,None,None,You may play lands from your graveyard.
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Balduvian Horde,{2}{R}{R},4.0,['R'],['R'],Creature — Human Barbarian,,"['Human', 'Barbarian']",Rare,"When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random.",1,5,5,,PWOR,World Championship Promos

@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Nicol Bolas,{2}{U}{U}{B}{B}{R}{R},8.0,"['B', 'R', 'U']","['B', 'R', 'U']",Legendary Creature — Elder Dragon,['Legendary'],"['Elder', 'Dragon']",Rare,"Flying\nAt the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.\nWhenever Nicol Bolas deals damage to an opponent, that player discards their hand.",1,7,7,,PMDA,Magic × Duel Masters Promos

@@ -1,0 +1,3 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Wood Elves,{2}{G},3.0,['G'],['G'],Creature — Elf Scout,,"['Elf', 'Scout']",Rare,"When Wood Elves enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle.",1,1,1,,PDCI,DCI Promos
+Tazeem,,0.0,,,Plane — Zendikar,,['Zendikar'],Rare,"Creatures can't block.\nWhenever chaos ensues, draw a card for each land you control.",41,,,,PDCI,DCI Promos

@@ -1,10 +1,16 @@
-CMC: {2.0, 4.0, 5.0, 6.0, 7.0, 9.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Creature'}
-Subtypes: {'Vampire', 'Horror', 'Dragon', 'Frog', 'Human', 'Shapeshifter', 'Warrior', 'Advisor', 'Elf', 'Elder', 'Wizard', 'Knight', 'Minion', 'Goblin', 'Spirit', 'Dinosaur', 'Phyrexian'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'4', '2', '9', '3', '6'}
-Toughness: {'4', '2', '9', '3', '6'}
-Loyalty: set()
+name: ['Morophon, the Boundless']
+mana_cost: ['{7}']
+cmc: [7.0]
+colors: []
+color_identity: ['B', 'G', 'R', 'U', 'W']
+type: ['Legendary Creature — Shapeshifter']
+supertypes: ['Legendary']
+subtypes: ['Shapeshifter']
+rarity: ['Mythic']
+text: ['Changeling (This card is every creature type.)\nAs Morophon, the Boundless enters the battlefield, choose a creature type.\nSpells of the chosen type you cast cost {W}{U}{B}{R}{G} less to cast. This effect reduces only the amount of colored mana you pay.\nOther creatures you control of the chosen type get +1/+1.']
+number: ['1']
+power: ['6']
+toughness: ['6']
+loyalty: []
+set: ['PJ21']
+set_name: ['Judge Gift Cards 2021']

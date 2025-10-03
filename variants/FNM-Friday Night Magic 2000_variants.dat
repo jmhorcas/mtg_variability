@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Sorcery', 'Instant', 'Creature'}
-Subtypes: {'Druid', 'Snake', 'Soldier', 'Elf', 'Wizard', 'Archer', 'Human'}
-Rarity: {'Rare'}
-Power: {'3', '2', '1'}
-Toughness: {'4', '2', '1'}
-Loyalty: set()
+name: ['River Boa']
+mana_cost: ['{1}{G}']
+cmc: [2.0]
+colors: ['G']
+color_identity: ['G']
+type: ['Creature — Snake']
+supertypes: []
+subtypes: ['Snake']
+rarity: ['Rare']
+text: ["Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\n{G}: Regenerate River Boa."]
+number: ['1']
+power: ['2']
+toughness: ['1']
+loyalty: []
+set: ['FNM']
+set_name: ['Friday Night Magic 2000']

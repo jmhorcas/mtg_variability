@@ -1,10 +1,16 @@
-CMC: {2.0, 7.0}
-Colors: {'Red', 'Green'}
-ColorIdentity: {'R', 'G'}
-Supertypes: set()
-Types: {'Sorcery', 'Land', 'Creature'}
-Subtypes: {'Dragon', 'Goblin', 'Shaman'}
-Rarity: {'Uncommon', 'Common', 'Rare'}
-Power: {'4', '1'}
-Toughness: {'3', '5'}
-Loyalty: set()
+name: ['Dragon Fodder']
+mana_cost: ['{1}{R}']
+cmc: [2.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Sorcery']
+supertypes: []
+subtypes: []
+rarity: ['Common']
+text: ['Create two 1/1 red Goblin creature tokens.']
+number: ['135']
+power: []
+toughness: []
+loyalty: []
+set: ['PTKDF']
+set_name: ['Tarkir Dragonfury']

@@ -1,10 +1,16 @@
-CMC: {4.0}
-Colors: {'Red', 'White'}
-ColorIdentity: {'W', 'R'}
-Supertypes: {'Legendary'}
-Types: {'Planeswalker'}
-Subtypes: {'Ajani'}
-Rarity: {'Mythic'}
-Power: set()
-Toughness: set()
-Loyalty: {'3'}
+name: ['Ajani Vengeant']
+mana_cost: ['{2}{R}{W}']
+cmc: [4.0]
+colors: ['R', 'W']
+color_identity: ['R', 'W']
+type: ['Legendary Planeswalker — Ajani']
+supertypes: ['Legendary']
+subtypes: ['Ajani']
+rarity: ['Mythic']
+text: ["[+1]: Target permanent doesn't untap during its controller's next untap step.\n[−2]: Ajani Vengeant deals 3 damage to any target and you gain 3 life.\n[−7]: Destroy all lands target player controls."]
+number: ['154★']
+power: []
+toughness: []
+loyalty: ['3']
+set: ['PALA']
+set_name: ['Shards of Alara Promos']

@@ -1,10 +1,16 @@
-CMC: {3.0, 4.0}
-Colors: {'Red', 'Black', 'Green'}
-ColorIdentity: {'R', 'G', 'B'}
-Supertypes: set()
-Types: {'Instant', 'Land', 'Creature', 'Artifact'}
-Subtypes: {'Centaur', 'Badger'}
-Rarity: {'Rare'}
-Power: {'2'}
-Toughness: {'2'}
-Loyalty: set()
+name: ['Arena', 'Giant Badger', 'Mana Crypt', 'Sewers of Estark', 'Windseeker Centaur']
+mana_cost: ['{0}', '{1}{G}{G}', '{1}{R}{R}', '{2}{B}{B}']
+cmc: [0.0, 3.0, 4.0]
+colors: ['B', 'G', 'R']
+color_identity: ['B', 'G', 'R']
+type: ['Artifact', 'Creature — Badger', 'Creature — Centaur', 'Instant', 'Land']
+supertypes: []
+subtypes: ['Badger', 'Centaur']
+rarity: ['Rare']
+text: ['At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.\n{T}: Add {C}{C}.', "Choose target creature. If it's attacking, it can't be blocked this turn. If it's blocking, prevent all combat damage that would be dealt this combat by it and each creature it's blocking.", 'Vigilance', 'Whenever Giant Badger blocks, it gets +2/+2 until end of turn.', "{3}, {T}: Tap target creature you control and target creature of an opponent's choice they control. Those creatures fight each other. (Each deals damage equal to its power to the other.)"]
+number: ['1', '2', '3', '4', '5']
+power: ['2']
+toughness: ['2']
+loyalty: []
+set: ['PHPR']
+set_name: ['HarperPrism Book Promos']

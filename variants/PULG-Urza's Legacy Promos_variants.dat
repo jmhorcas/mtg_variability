@@ -1,10 +1,16 @@
-CMC: {6.0}
-Colors: set()
-ColorIdentity: set()
-Supertypes: set()
-Types: {'Creature', 'Artifact'}
-Subtypes: {'Golem'}
-Rarity: {'Rare'}
-Power: {'*'}
-Toughness: {'*'}
-Loyalty: set()
+name: ['Beast of Burden']
+mana_cost: ['{6}']
+cmc: [6.0]
+colors: []
+color_identity: []
+type: ['Artifact Creature — Golem']
+supertypes: []
+subtypes: ['Golem']
+rarity: ['Rare']
+text: ["Beast of Burden's power and toughness are each equal to the number of creatures on the battlefield."]
+number: ['122', '122†']
+power: ['*']
+toughness: ['*']
+loyalty: []
+set: ['PULG']
+set_name: ["Urza's Legacy Promos"]

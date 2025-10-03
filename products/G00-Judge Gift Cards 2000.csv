@@ -1,3 +1,2 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Counterspell,2.0,['Blue'],['U'],None,['Instant'],None,Rare,G00,None,None,None,Counter target spell.
-Vampiric Tutor,1.0,['Black'],['B'],None,['Instant'],None,Rare,G00,None,None,None,"Search your library for a card, then shuffle and put that card on top. You lose 2 life."
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Counterspell,{U}{U},2.0,['U'],['U'],Instant,,,Rare,Counter target spell.,1,,,,G00,Judge Gift Cards 2000

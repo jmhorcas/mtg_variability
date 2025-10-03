@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Sorcery', 'Creature'}
-Subtypes: {'Beast', 'Octopus', 'Warrior', 'Rabbit', 'Human', 'Ogre', 'Rhino', 'Elf', 'Soldier', 'Orgg', 'Knight', 'Faerie', 'Bird', 'Boar', 'Goblin', 'Griffin'}
-Rarity: {'Common', 'Rare', 'Uncommon'}
-Power: {'4', '5', '1', '2', '3', '6'}
-Toughness: {'4', '5', '1', '2', '3', '6'}
-Loyalty: set()
+name: ['Angelic Blessing', 'Breath of Life', 'Durkwood Boars', 'Eager Cadet', 'Giant Octopus', 'Hand of Death', 'Knight Errant', 'Lava Axe', "Mons's Goblin Raiders", 'Monstrous Growth', 'Moon Sprite', 'Ogre Warrior', 'Rhox', 'Royal Falcon', 'Sea Eagle', 'Time Ebb', 'Trained Orgg', 'Vizzerdrix', 'Wild Griffin', 'Willow Elf']
+mana_cost: ['{1}{G}', '{1}{U}', '{1}{W}', '{2}{B}', '{2}{U}', '{2}{W}', '{3}{R}', '{3}{U}', '{3}{W}', '{4}{G}', '{4}{G}{G}', '{4}{R}', '{6}{R}', '{6}{U}', '{G}', '{R}', '{W}']
+cmc: [1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0]
+colors: ['B', 'G', 'R', 'U', 'W']
+color_identity: ['B', 'G', 'R', 'U', 'W']
+type: ['Creature — Bird', 'Creature — Boar', 'Creature — Elf', 'Creature — Faerie', 'Creature — Goblin', 'Creature — Griffin', 'Creature — Human Knight', 'Creature — Human Soldier', 'Creature — Octopus', 'Creature — Ogre Warrior', 'Creature — Orgg', 'Creature — Rabbit Beast', 'Creature — Rhino Beast', 'Sorcery']
+supertypes: []
+subtypes: ['Beast', 'Bird', 'Boar', 'Elf', 'Faerie', 'Goblin', 'Griffin', 'Human', 'Knight', 'Octopus', 'Ogre', 'Orgg', 'Rabbit', 'Rhino', 'Soldier', 'Warrior']
+rarity: ['Common', 'Rare', 'Uncommon']
+text: ['Destroy target nonblack creature.', 'Flying', 'Lava Axe deals 5 damage to target player or planeswalker.', "Put target creature on top of its owner's library.", 'Return target creature card from your graveyard to the battlefield.', "Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)", 'Target creature gets +4/+4 until end of turn.', "You may have Rhox assign its combat damage as though it weren't blocked.\n{2}{G}: Regenerate Rhox. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"]
+number: ['1', '11', '14', '18', '19', '20', '25', '3', '31', '32', '33', '37', '38', '41', '42', '43', '45', '5', '7', '8']
+power: ['1', '2', '3', '4', '5', '6']
+toughness: ['1', '2', '3', '4', '5', '6']
+loyalty: []
+set: ['S00']
+set_name: ['Starter 2000']

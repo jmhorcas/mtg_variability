@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Metropolis Reformer,{2}{W},3.0,['W'],['W'],Creature — Angel Cleric,,"['Angel', 'Cleric']",Rare,"Flying, vigilance\nYou have hexproof.\nWhenever Metropolis Reformer is dealt damage, you gain that much life.",4p,2,3,,PMAT,March of the Machine: The Aftermath Promos

@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 9.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Snake', 'Class', 'Elemental', 'Ooze', 'Ranger', 'Zombie', 'Vampire', 'Ellywick', 'Dragon', 'Equipment', 'Horror', 'Lolth', 'Demon', 'God', 'Human', 'Knight', 'Gnome', 'Devil', 'Dog', 'Frog', 'Jellyfish', 'Giant', 'Zariel', 'Turtle', 'Spirit', 'Dinosaur', 'Bahamut', 'Shaman', 'Soldier', 'Skeleton', 'Elf', 'Wizard', 'Rogue', 'Artificer', 'Werewolf', 'Goblin', 'Kobold', 'Beholder', 'Barbarian', 'Mordenkainen'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'4', '7', '5', '1', '2', '0', '3', '6', '10'}
-Toughness: {'4', '7', '5', '1', '2', '0', '3', '6', '10'}
-Loyalty: {'3', '4', '5'}
+name: ['The Book of Exalted Deeds']
+mana_cost: ['{W}{W}{W}']
+cmc: [3.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Legendary Artifact']
+supertypes: ['Legendary']
+subtypes: []
+rarity: ['Mythic']
+text: ['At the beginning of your end step, if you gained 3 or more life this turn, create a 3/3 white Angel creature token with flying.\n{W}{W}{W}, {T}, Exile The Book of Exalted Deeds: Put an enlightened counter on target Angel. It gains "You can\'t lose the game and your opponents can\'t win the game." Activate only as a sorcery.']
+number: ['4a']
+power: []
+toughness: []
+loyalty: []
+set: ['PAFR']
+set_name: ['Adventures in the Forgotten Realms Promos']

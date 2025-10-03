@@ -1,0 +1,44 @@
+features
+    "MTG Card"
+        mandatory
+            String Name
+            "Color indicator"
+                    alternative
+                        Color {abstract}
+                            or
+                                White
+                                Blue
+                                Black
+                                Red
+                                Green
+                        Colorless
+            "Mana cost"
+                or
+                    Integer "Colorless mana" {default 0}
+                    Integer "White mana" {default 0}
+                    Integer "Blue mana" {default 0}
+                    Integer "Black mana" {default 0}
+                    Integer "Red mana" {default 0}
+                    Integer "Green mana" {default 0}
+            Integer "Mana Value" {default 0}
+            Rarity {"@variable"}
+            "Type" {"@variable"}
+        optional
+            Supertype {"@variable"}
+            Subtype {"@variable"}
+            Power
+                alternative
+                    Integer "Power value"
+                    "Power Star"
+            Toughness
+                alternative
+                    Integer "Toughness value"
+                    "Toughness Star"
+constraints
+    "White mana" > 0 => White
+    "Blue mana" > 0 => Blue
+    "Black mana" > 0 => Black
+    "Red mana" > 0 => Red
+    "Green mana" > 0 => Green
+    ("White mana" == 0 & "Blue mana" == 0 & "Black mana" == 0 & "Red mana" == 0 & "Green mana" == 0) => Colorless
+    "Mana Value" == ("Colorless mana" + "White mana" + "Blue mana" + "Black mana" + "Red mana" + "Green mana")

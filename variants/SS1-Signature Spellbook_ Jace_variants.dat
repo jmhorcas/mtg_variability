@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0}
-Colors: {'Blue'}
-ColorIdentity: {'U'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Instant', 'Planeswalker'}
-Subtypes: {'Jace', 'Aura'}
-Rarity: {'Rare', 'Mythic'}
-Power: set()
-Toughness: set()
-Loyalty: {'3'}
+name: ['Blue Elemental Blast', 'Brainstorm', 'Counterspell', 'Gifts Ungiven', 'Jace Beleren', 'Mystical Tutor', 'Negate', 'Threads of Disloyalty']
+mana_cost: ['{1}{U}', '{1}{U}{U}', '{3}{U}', '{U}', '{U}{U}']
+cmc: [1.0, 2.0, 3.0, 4.0]
+colors: ['U']
+color_identity: ['U']
+type: ['Enchantment — Aura', 'Instant', 'Legendary Planeswalker — Jace']
+supertypes: ['Legendary']
+subtypes: ['Aura', 'Jace']
+rarity: ['Mythic', 'Rare']
+text: ['Choose one —\n• Counter target red spell.\n• Destroy target red permanent.', 'Counter target noncreature spell.', 'Counter target spell.', 'Draw three cards, then put two cards from your hand on top of your library in any order.', 'Enchant creature with mana value 2 or less\nYou control enchanted creature.', 'Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top.', 'Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle.', '[+2]: Each player draws a card.\n[−1]: Target player draws a card.\n[−10]: Target player mills twenty cards.']
+number: ['1', '2', '3', '4', '5', '6', '7', '8']
+power: []
+toughness: []
+loyalty: ['3']
+set: ['SS1']
+set_name: ['Signature Spellbook: Jace']

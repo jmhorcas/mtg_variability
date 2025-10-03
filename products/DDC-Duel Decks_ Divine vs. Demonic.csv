@@ -1,63 +1,63 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Reiver Demon,8.0,['Black'],['B'],None,['Creature'],['Demon'],Rare,DDC,6,6,None,"Flying\nWhen Reiver Demon enters the battlefield, if you cast it from your hand, destroy all nonartifact, nonblack creatures. They can't be regenerated."
-"Akroma, Angel of Wrath",8.0,['White'],['W'],['Legendary'],['Creature'],['Angel'],Mythic,DDC,6,6,None,"Flying, first strike, vigilance, trample, haste, protection from black and from red"
-Fallen Angel,5.0,['Black'],['B'],None,['Creature'],['Angel'],Rare,DDC,3,3,None,Flying\nSacrifice a creature: Fallen Angel gets +2/+1 until end of turn.
-Charging Paladin,3.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Common,DDC,2,2,None,"Whenever Charging Paladin attacks, it gets +0/+3 until end of turn."
-Cackling Imp,4.0,['Black'],['B'],None,['Creature'],['Imp'],Common,DDC,2,2,None,Flying\n{T}: Target player loses 1 life.
-Promise of Power,5.0,['Black'],['B'],None,['Sorcery'],None,Rare,DDC,None,None,None,"Choose one —\n• You draw five cards and you lose 5 life.\n• Create an X/X black Demon creature token with flying, where X is the number of cards in your hand.\nEntwine {4} (Choose both if you pay the entwine cost.)"
-Otherworldly Journey,2.0,['White'],['W'],None,['Instant'],['Arcane'],Uncommon,DDC,None,None,None,"Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it."
-Abyssal Specter,4.0,['Black'],['B'],None,['Creature'],['Specter'],Uncommon,DDC,2,3,None,"Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card."
-Souldrinker,4.0,['Black'],['B'],None,['Creature'],['Spirit'],Uncommon,DDC,2,2,None,Pay 3 life: Put a +1/+1 counter on Souldrinker.
-Pacifism,2.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,DDC,None,None,None,Enchant creature\nEnchanted creature can't attack or block.
-Breeding Pit,4.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,DDC,None,None,None,"At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}.\nAt the beginning of your end step, create a 0/1 black Thrull creature token."
-Demon's Jester,4.0,['Black'],['B'],None,['Creature'],['Imp'],Common,DDC,2,2,None,Flying\nHellbent — Demon's Jester gets +2/+1 as long as you have no cards in hand.
-Angelsong,2.0,['White'],['W'],None,['Instant'],None,Common,DDC,None,None,None,"Prevent all combat damage that would be dealt this turn.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Reya Dawnbringer,9.0,['White'],['W'],['Legendary'],['Creature'],['Angel'],Rare,DDC,4,6,None,"Flying\nAt the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield."
-Soot Imp,3.0,['Black'],['B'],None,['Creature'],['Imp'],Uncommon,DDC,1,2,None,"Flying\nWhenever a player casts a nonblack spell, that player loses 1 life."
-Stinkweed Imp,3.0,['Black'],['B'],None,['Creature'],['Imp'],Common,DDC,1,2,None,"Flying\nWhenever Stinkweed Imp deals combat damage to a creature, destroy that creature.\nDredge 5 (If you would draw a card, you may mill five cards instead. If you do, return this card from your graveyard to your hand.)"
-Barter in Blood,4.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,DDC,None,None,None,Each player sacrifices two creatures.
-Overeager Apprentice,3.0,['Black'],['B'],None,['Creature'],"['Human', 'Minion']",Common,DDC,1,2,None,"Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B}."
-Oni Possession,3.0,['Black'],['B'],None,['Enchantment'],['Aura'],Uncommon,DDC,None,None,None,"Enchant creature\nAt the beginning of your upkeep, sacrifice a creature.\nEnchanted creature gets +3/+3 and has trample.\nEnchanted creature is a Demon Spirit."
-Dusk Imp,3.0,['Black'],['B'],None,['Creature'],['Imp'],Common,DDC,2,1,None,Flying
-Daggerclaw Imp,3.0,['Black'],['B'],None,['Creature'],['Imp'],Uncommon,DDC,3,1,None,Flying\nDaggerclaw Imp can't block.
-Angelic Benediction,4.0,['White'],['W'],None,['Enchantment'],None,Uncommon,DDC,None,None,None,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhenever a creature you control attacks alone, you may tap target creature."
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DDC,None,None,None,({T}: Add {W}.)
-Abyssal Gatekeeper,2.0,['Black'],['B'],None,['Creature'],['Horror'],Common,DDC,1,1,None,"When Abyssal Gatekeeper dies, each player sacrifices a creature."
-Foul Imp,2.0,['Black'],['B'],None,['Creature'],['Imp'],Common,DDC,2,2,None,"Flying\nWhen Foul Imp enters the battlefield, you lose 2 life."
-Lord of the Pit,7.0,['Black'],['B'],None,['Creature'],['Demon'],Mythic,DDC,7,7,None,"Flying, trample\nAt the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you."
-Serra Advocate,4.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,DDC,2,2,None,Flying\n{T}: Target attacking or blocking creature gets +2/+2 until end of turn.
-Luminous Angel,7.0,['White'],['W'],None,['Creature'],['Angel'],Rare,DDC,4,4,None,"Flying\nAt the beginning of your upkeep, you may create a 1/1 white Spirit creature token with flying."
-Healing Salve,1.0,['White'],['W'],None,['Instant'],None,Common,DDC,None,None,None,Choose one —\n• Target player gains 3 life.\n• Prevent the next 3 damage that would be dealt to any target this turn.
-Angelic Page,2.0,['White'],['W'],None,['Creature'],"['Angel', 'Spirit']",Common,DDC,1,1,None,Flying\n{T}: Target attacking or blocking creature gets +1/+1 until end of turn.
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DDC,None,None,None,({T}: Add {W}.)
-Angelic Protector,4.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,DDC,2,2,None,"Flying\nWhenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn."
-Dark Banishing,3.0,['Black'],['B'],None,['Instant'],None,Common,DDC,None,None,None,Destroy target nonblack creature. It can't be regenerated.
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DDC,None,None,None,({T}: Add {W}.)
-Icatian Priest,1.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Uncommon,DDC,1,1,None,{1}{W}{W}: Target creature gets +1/+1 until end of turn.
-Demonic Tutor,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,DDC,None,None,None,"Search your library for a card, put that card into your hand, then shuffle."
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,DDC,None,None,None,({T}: Add {W}.)
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,DDC,None,None,None,({T}: Add {B}.)
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,DDC,None,None,None,({T}: Add {B}.)
-Angel's Feather,2.0,None,None,None,['Artifact'],None,Uncommon,DDC,None,None,None,"Whenever a player casts a white spell, you may gain 1 life."
-Secluded Steppe,0.0,None,['W'],None,['Land'],None,Common,DDC,None,None,None,"Secluded Steppe enters the battlefield tapped.\n{T}: Add {W}.\nCycling {W} ({W}, Discard this card: Draw a card.)"
-Cruel Edict,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,DDC,None,None,None,Target opponent sacrifices a creature.
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,DDC,None,None,None,({T}: Add {B}.)
-Marble Diamond,2.0,None,['W'],None,['Artifact'],None,Uncommon,DDC,None,None,None,Marble Diamond enters the battlefield tapped.\n{T}: Add {W}.
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,DDC,None,None,None,({T}: Add {B}.)
-Faith's Fetters,4.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,DDC,None,None,None,"Enchant permanent\nWhen Faith's Fetters enters the battlefield, you gain 4 life.\nEnchanted permanent can't attack or block, and its activated abilities can't be activated unless they're mana abilities."
-Unholy Strength,1.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,DDC,None,None,None,Enchant creature\nEnchanted creature gets +2/+1.
-Serra's Boon,3.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,DDC,None,None,None,"Enchant creature\nEnchanted creature gets +1/+2 as long as it's white. Otherwise, it gets -2/-1."
-Venerable Monk,3.0,['White'],['W'],None,['Creature'],"['Human', 'Monk', 'Cleric']",Common,DDC,2,2,None,"When Venerable Monk enters the battlefield, you gain 2 life."
-Barren Moor,0.0,None,['B'],None,['Land'],None,Common,DDC,None,None,None,"Barren Moor enters the battlefield tapped.\n{T}: Add {B}.\nCycling {B} ({B}, Discard this card: Draw a card.)"
-Righteous Cause,5.0,['White'],['W'],None,['Enchantment'],None,Uncommon,DDC,None,None,None,"Whenever a creature attacks, you gain 1 life."
-Duress,1.0,['Black'],['B'],None,['Sorcery'],None,Common,DDC,None,None,None,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
-Demon's Horn,2.0,None,None,None,['Artifact'],None,Uncommon,DDC,None,None,None,"Whenever a player casts a black spell, you may gain 1 life."
-Serra's Embrace,4.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,DDC,None,None,None,Enchant creature\nEnchanted creature gets +2/+2 and has flying and vigilance.
-Consume Spirit,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,DDC,None,None,None,Spend only black mana on X.\nConsume Spirit deals X damage to any target and you gain X life.
-Sustainer of the Realm,4.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,DDC,2,3,None,"Flying\nWhenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn."
-Dark Ritual,1.0,['Black'],['B'],None,['Instant'],None,Common,DDC,None,None,None,Add {B}{B}{B}.
-Twilight Shepherd,6.0,['White'],['W'],None,['Creature'],['Angel'],Rare,DDC,5,5,None,"Flying, vigilance\nWhen Twilight Shepherd enters the battlefield, return to your hand all cards in your graveyard that were put there from the battlefield this turn.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)"
-Angel of Mercy,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,DDC,3,3,None,"Flying\nWhen Angel of Mercy enters the battlefield, you gain 3 life."
-"Kuro, Pitlord",9.0,['Black'],['B'],['Legendary'],['Creature'],"['Demon', 'Spirit']",Rare,DDC,9,9,None,"At the beginning of your upkeep, sacrifice Kuro, Pitlord unless you pay {B}{B}{B}{B}.\nPay 1 life: Target creature gets -1/-1 until end of turn."
-Corrupt,6.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,DDC,None,None,None,Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.
-Serra Angel,5.0,['White'],['W'],None,['Creature'],['Angel'],Rare,DDC,4,4,None,"Flying, vigilance"
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Sustainer of the Realm,{2}{W}{W},4.0,['W'],['W'],Creature — Angel,,['Angel'],Uncommon,"Flying\nWhenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn.",8,2,3,,DDC,Duel Decks: Divine vs. Demonic
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),29,,,,DDC,Duel Decks: Divine vs. Demonic
+Lord of the Pit,{4}{B}{B}{B},7.0,['B'],['B'],Creature — Demon,,['Demon'],Mythic,"Flying, trample\nAt the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.",30,7,7,,DDC,Duel Decks: Divine vs. Demonic
+Marble Diamond,{2},2.0,,['W'],Artifact,,,Uncommon,Marble Diamond enters the battlefield tapped.\n{T}: Add {W}.,24,,,,DDC,Duel Decks: Divine vs. Demonic
+Healing Salve,{W},1.0,['W'],['W'],Instant,,,Common,Choose one —\n• Target player gains 3 life.\n• Prevent the next 3 damage that would be dealt to any target this turn.,14,,,,DDC,Duel Decks: Divine vs. Demonic
+Secluded Steppe,,0.0,,['W'],Land,,,Common,"Secluded Steppe enters the battlefield tapped.\n{T}: Add {W}.\nCycling {W} ({W}, Discard this card: Draw a card.)",25,,,,DDC,Duel Decks: Divine vs. Demonic
+Dusk Imp,{2}{B},3.0,['B'],['B'],Creature — Imp,,['Imp'],Common,Flying,34,2,1,,DDC,Duel Decks: Divine vs. Demonic
+Demon's Horn,{2},2.0,,,Artifact,,,Uncommon,"Whenever a player casts a black spell, you may gain 1 life.",57,,,,DDC,Duel Decks: Divine vs. Demonic
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),59,,,,DDC,Duel Decks: Divine vs. Demonic
+Angel's Feather,{2},2.0,,,Artifact,,,Uncommon,"Whenever a player casts a white spell, you may gain 1 life.",23,,,,DDC,Duel Decks: Divine vs. Demonic
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),26,,,,DDC,Duel Decks: Divine vs. Demonic
+Oni Possession,{2}{B},3.0,['B'],['B'],Enchantment — Aura,,['Aura'],Uncommon,"Enchant creature\nAt the beginning of your upkeep, sacrifice a creature.\nEnchanted creature gets +3/+3 and has trample.\nEnchanted creature is a Demon Spirit.",51,,,,DDC,Duel Decks: Divine vs. Demonic
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),28,,,,DDC,Duel Decks: Divine vs. Demonic
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),61,,,,DDC,Duel Decks: Divine vs. Demonic
+Charging Paladin,{2}{W},3.0,['W'],['W'],Creature — Human Knight,,"['Human', 'Knight']",Common,"Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.",4,2,2,,DDC,Duel Decks: Divine vs. Demonic
+Angelic Benediction,{3}{W},4.0,['W'],['W'],Enchantment,,,Uncommon,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhenever a creature you control attacks alone, you may tap target creature.",19,,,,DDC,Duel Decks: Divine vs. Demonic
+Barter in Blood,{2}{B}{B},4.0,['B'],['B'],Sorcery,,,Uncommon,Each player sacrifices two creatures.,52,,,,DDC,Duel Decks: Divine vs. Demonic
+Righteous Cause,{3}{W}{W},5.0,['W'],['W'],Enchantment,,,Uncommon,"Whenever a creature attacks, you gain 1 life.",22,,,,DDC,Duel Decks: Divine vs. Demonic
+Serra's Boon,{2}{W},3.0,['W'],['W'],Enchantment — Aura,,['Aura'],Uncommon,"Enchant creature\nEnchanted creature gets +1/+2 as long as it's white. Otherwise, it gets -2/-1.",18,,,,DDC,Duel Decks: Divine vs. Demonic
+Serra's Embrace,{2}{W}{W},4.0,['W'],['W'],Enchantment — Aura,,['Aura'],Uncommon,Enchant creature\nEnchanted creature gets +2/+2 and has flying and vigilance.,21,,,,DDC,Duel Decks: Divine vs. Demonic
+Breeding Pit,{3}{B},4.0,['B'],['B'],Enchantment,,,Uncommon,"At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}.\nAt the beginning of your end step, create a 0/1 black Thrull creature token.",53,,,,DDC,Duel Decks: Divine vs. Demonic
+Foul Imp,{B}{B},2.0,['B'],['B'],Creature — Imp,,['Imp'],Common,"Flying\nWhen Foul Imp enters the battlefield, you lose 2 life.",32,2,2,,DDC,Duel Decks: Divine vs. Demonic
+Faith's Fetters,{3}{W},4.0,['W'],['W'],Enchantment — Aura,,['Aura'],Common,"Enchant permanent\nWhen Faith's Fetters enters the battlefield, you gain 4 life.\nEnchanted permanent can't attack or block, and its activated abilities can't be activated unless they're mana abilities.",20,,,,DDC,Duel Decks: Divine vs. Demonic
+Promise of Power,{2}{B}{B}{B},5.0,['B'],['B'],Sorcery,,,Rare,"Choose one —\n• You draw five cards and you lose 5 life.\n• Create an X/X black Demon creature token with flying, where X is the number of cards in your hand.\nEntwine {4} (Choose both if you pay the entwine cost.)",54,,,,DDC,Duel Decks: Divine vs. Demonic
+Souldrinker,{3}{B},4.0,['B'],['B'],Creature — Spirit,,['Spirit'],Uncommon,Pay 3 life: Put a +1/+1 counter on Souldrinker.,39,2,2,,DDC,Duel Decks: Divine vs. Demonic
+Corrupt,{5}{B},6.0,['B'],['B'],Sorcery,,,Uncommon,Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.,55,,,,DDC,Duel Decks: Divine vs. Demonic
+Barren Moor,,0.0,,['B'],Land,,,Common,"Barren Moor enters the battlefield tapped.\n{T}: Add {B}.\nCycling {B} ({B}, Discard this card: Draw a card.)",58,,,,DDC,Duel Decks: Divine vs. Demonic
+Fallen Angel,{3}{B}{B},5.0,['B'],['B'],Creature — Angel,,['Angel'],Rare,Flying\nSacrifice a creature: Fallen Angel gets +2/+1 until end of turn.,42,3,3,,DDC,Duel Decks: Divine vs. Demonic
+Twilight Shepherd,{3}{W}{W}{W},6.0,['W'],['W'],Creature — Angel,,['Angel'],Rare,"Flying, vigilance\nWhen Twilight Shepherd enters the battlefield, return to your hand all cards in your graveyard that were put there from the battlefield this turn.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",11,5,5,,DDC,Duel Decks: Divine vs. Demonic
+Luminous Angel,{4}{W}{W}{W},7.0,['W'],['W'],Creature — Angel,,['Angel'],Rare,"Flying\nAt the beginning of your upkeep, you may create a 1/1 white Spirit creature token with flying.",12,4,4,,DDC,Duel Decks: Divine vs. Demonic
+Daggerclaw Imp,{2}{B},3.0,['B'],['B'],Creature — Imp,,['Imp'],Uncommon,Flying\nDaggerclaw Imp can't block.,33,3,1,,DDC,Duel Decks: Divine vs. Demonic
+Demonic Tutor,{1}{B},2.0,['B'],['B'],Sorcery,,,Uncommon,"Search your library for a card, put that card into your hand, then shuffle.",49,,,,DDC,Duel Decks: Divine vs. Demonic
+Pacifism,{1}{W},2.0,['W'],['W'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nEnchanted creature can't attack or block.,17,,,,DDC,Duel Decks: Divine vs. Demonic
+Angel of Mercy,{4}{W},5.0,['W'],['W'],Creature — Angel,,['Angel'],Uncommon,"Flying\nWhen Angel of Mercy enters the battlefield, you gain 3 life.",9,3,3,,DDC,Duel Decks: Divine vs. Demonic
+Unholy Strength,{B},1.0,['B'],['B'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nEnchanted creature gets +2/+1.,47,,,,DDC,Duel Decks: Divine vs. Demonic
+Stinkweed Imp,{2}{B},3.0,['B'],['B'],Creature — Imp,,['Imp'],Common,"Flying\nWhenever Stinkweed Imp deals combat damage to a creature, destroy that creature.\nDredge 5 (If you would draw a card, you may mill five cards instead. If you do, return this card from your graveyard to your hand.)",36,1,2,,DDC,Duel Decks: Divine vs. Demonic
+Demon's Jester,{3}{B},4.0,['B'],['B'],Creature — Imp,,['Imp'],Common,Flying\nHellbent — Demon's Jester gets +2/+1 as long as you have no cards in hand.,38,2,2,,DDC,Duel Decks: Divine vs. Demonic
+Dark Ritual,{B},1.0,['B'],['B'],Instant,,,Common,Add {B}{B}{B}.,45,,,,DDC,Duel Decks: Divine vs. Demonic
+Cruel Edict,{1}{B},2.0,['B'],['B'],Sorcery,,,Uncommon,Target opponent sacrifices a creature.,48,,,,DDC,Duel Decks: Divine vs. Demonic
+"Kuro, Pitlord",{6}{B}{B}{B},9.0,['B'],['B'],Legendary Creature — Demon Spirit,['Legendary'],"['Demon', 'Spirit']",Rare,"At the beginning of your upkeep, sacrifice Kuro, Pitlord unless you pay {B}{B}{B}{B}.\nPay 1 life: Target creature gets -1/-1 until end of turn.",44,9,9,,DDC,Duel Decks: Divine vs. Demonic
+Serra Advocate,{3}{W},4.0,['W'],['W'],Creature — Angel,,['Angel'],Uncommon,Flying\n{T}: Target attacking or blocking creature gets +2/+2 until end of turn.,7,2,2,,DDC,Duel Decks: Divine vs. Demonic
+Abyssal Specter,{2}{B}{B},4.0,['B'],['B'],Creature — Specter,,['Specter'],Uncommon,"Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",40,2,3,,DDC,Duel Decks: Divine vs. Demonic
+Serra Angel,{3}{W}{W},5.0,['W'],['W'],Creature — Angel,,['Angel'],Rare,"Flying, vigilance",10,4,4,,DDC,Duel Decks: Divine vs. Demonic
+Cackling Imp,{2}{B}{B},4.0,['B'],['B'],Creature — Imp,,['Imp'],Common,Flying\n{T}: Target player loses 1 life.,41,2,2,,DDC,Duel Decks: Divine vs. Demonic
+Icatian Priest,{W},1.0,['W'],['W'],Creature — Human Cleric,,"['Human', 'Cleric']",Uncommon,{1}{W}{W}: Target creature gets +1/+1 until end of turn.,2,1,1,,DDC,Duel Decks: Divine vs. Demonic
+Reiver Demon,{4}{B}{B}{B}{B},8.0,['B'],['B'],Creature — Demon,,['Demon'],Rare,"Flying\nWhen Reiver Demon enters the battlefield, if you cast it from your hand, destroy all nonartifact, nonblack creatures. They can't be regenerated.",43,6,6,,DDC,Duel Decks: Divine vs. Demonic
+Dark Banishing,{2}{B},3.0,['B'],['B'],Instant,,,Common,Destroy target nonblack creature. It can't be regenerated.,50,,,,DDC,Duel Decks: Divine vs. Demonic
+Angelic Protector,{3}{W},4.0,['W'],['W'],Creature — Angel,,['Angel'],Uncommon,"Flying\nWhenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn.",6,2,2,,DDC,Duel Decks: Divine vs. Demonic
+Soot Imp,{1}{B}{B},3.0,['B'],['B'],Creature — Imp,,['Imp'],Uncommon,"Flying\nWhenever a player casts a nonblack spell, that player loses 1 life.",37,1,2,,DDC,Duel Decks: Divine vs. Demonic
+Duress,{B},1.0,['B'],['B'],Sorcery,,,Common,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",46,,,,DDC,Duel Decks: Divine vs. Demonic
+Angelic Page,{1}{W},2.0,['W'],['W'],Creature — Angel Spirit,,"['Angel', 'Spirit']",Common,Flying\n{T}: Target attacking or blocking creature gets +1/+1 until end of turn.,3,1,1,,DDC,Duel Decks: Divine vs. Demonic
+Venerable Monk,{2}{W},3.0,['W'],['W'],Creature — Human Monk Cleric,,"['Human', 'Monk', 'Cleric']",Common,"When Venerable Monk enters the battlefield, you gain 2 life.",5,2,2,,DDC,Duel Decks: Divine vs. Demonic
+Abyssal Gatekeeper,{1}{B},2.0,['B'],['B'],Creature — Horror,,['Horror'],Common,"When Abyssal Gatekeeper dies, each player sacrifices a creature.",31,1,1,,DDC,Duel Decks: Divine vs. Demonic
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),27,,,,DDC,Duel Decks: Divine vs. Demonic
+Overeager Apprentice,{2}{B},3.0,['B'],['B'],Creature — Human Minion,,"['Human', 'Minion']",Common,"Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B}.",35,1,2,,DDC,Duel Decks: Divine vs. Demonic
+Otherworldly Journey,{1}{W},2.0,['W'],['W'],Instant — Arcane,,['Arcane'],Uncommon,"Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.",16,,,,DDC,Duel Decks: Divine vs. Demonic
+Angelsong,{1}{W},2.0,['W'],['W'],Instant,,,Common,"Prevent all combat damage that would be dealt this turn.\nCycling {2} ({2}, Discard this card: Draw a card.)",15,,,,DDC,Duel Decks: Divine vs. Demonic
+"Akroma, Angel of Wrath",{5}{W}{W}{W},8.0,['W'],['W'],Legendary Creature — Angel,['Legendary'],['Angel'],Mythic,"Flying, first strike, vigilance, trample, haste, protection from black and from red",1,6,6,,DDC,Duel Decks: Divine vs. Demonic
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),62,,,,DDC,Duel Decks: Divine vs. Demonic
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),60,,,,DDC,Duel Decks: Divine vs. Demonic
+Consume Spirit,{X}{1}{B},2.0,['B'],['B'],Sorcery,,,Uncommon,Spend only black mana on X.\nConsume Spirit deals X damage to any target and you gain X life.,56,,,,DDC,Duel Decks: Divine vs. Demonic
+Reya Dawnbringer,{6}{W}{W}{W},9.0,['W'],['W'],Legendary Creature — Angel,['Legendary'],['Angel'],Rare,"Flying\nAt the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.",13,4,6,,DDC,Duel Decks: Divine vs. Demonic

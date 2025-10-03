@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Assemble the Players,{1}{W},2.0,['W'],['W'],Enchantment,,,Rare,"You may look at the top card of your library any time.\nOnce each turn, you may cast a creature spell with power 2 or less from the top of your library.",3p,,,,PMKM,Murders at Karlov Manor Promos

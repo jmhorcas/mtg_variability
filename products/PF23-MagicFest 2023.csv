@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+"Gandalf, Friend of the Shire",{3}{U},4.0,['U'],['U'],Legendary Creature — Avatar Wizard,['Legendary'],"['Avatar', 'Wizard']",Rare,"Flash\nYou may cast sorcery spells as though they had flash.\nWhenever the Ring tempts you, if you chose a creature other than Gandalf, Friend of the Shire as your Ring-bearer, draw a card.",1,2,4,,PF23,MagicFest 2023

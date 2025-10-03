@@ -1,10 +1,16 @@
-CMC: {9.0, 5.0, 6.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Creature'}
-Subtypes: {'Vampire', 'Dragon', 'Avatar', 'Human', 'Wizard', 'Knight', 'Cat'}
-Rarity: {'Mythic'}
-Power: {'4', '10', '5'}
-Toughness: {'4', '10', '5'}
-Loyalty: set()
+name: ['Arahbo, Roar of the World']
+mana_cost: ['{3}{G}{W}']
+cmc: [5.0]
+colors: ['G', 'W']
+color_identity: ['G', 'W']
+type: ['Legendary Creature — Cat Avatar']
+supertypes: ['Legendary']
+subtypes: ['Avatar', 'Cat']
+rarity: ['Mythic']
+text: ['Eminence — At the beginning of combat on your turn, if Arahbo, Roar of the World is in the command zone or on the battlefield, another target Cat you control gets +3/+3 until end of turn.\nWhenever another Cat you control attacks, you may pay {1}{G}{W}. If you do, it gains trample and gets +X/+X until end of turn, where X is its power.']
+number: ['35']
+power: ['5']
+toughness: ['5']
+loyalty: []
+set: ['OC17']
+set_name: ['Commander 2017 Oversized']

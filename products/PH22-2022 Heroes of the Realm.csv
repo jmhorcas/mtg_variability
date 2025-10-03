@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+"Treizeci, Sun of Serra",{3}{W},4.0,['W'],['W'],Legendary Creature — Human Knight,['Legendary'],"['Human', 'Knight']",Mythic,"Companion — Your starting deck contains only nostalgic cards. (Retro frames, legends, and artifacts are nostalgic.)\nVigilance\nWhenever you cast a nostalgic spell, you may pay {2}. If you do, put a +1/+1 counter on Treizeci, then for each +1/+1 counter on it, create a Serra Angel token.",1,3,3,,PH22,2022 Heroes of the Realm

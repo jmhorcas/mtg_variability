@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Scrutiny of the Guildpact,{1}{W},2.0,['W'],['W'],Enchantment,,,Uncommon,"When Scrutiny of the Guildpact enters the battlefield, you may choose a creature card in your hand. If you do, that card perpetually incorporates {W} and gains ""When you cast this spell, create a 2/2 white and blue Detective creature token.""\nMulticolored creatures you control get +1/+1.",1,,,,YMKM,Alchemy: Murders at Karlov Manor

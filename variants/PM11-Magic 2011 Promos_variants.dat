@@ -1,10 +1,16 @@
-CMC: {1.0, 3.0, 5.0, 6.0, 7.0}
-Colors: {'White', 'Red', 'Black', 'Green'}
-ColorIdentity: {'W', 'R', 'G', 'B'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Dragon', 'Giant', 'Ooze', 'Bird', 'Specter'}
-Rarity: {'Rare', 'Common', 'Mythic'}
-Power: {'6', '4', '2', '0'}
-Toughness: {'6', '4', '1'}
-Loyalty: set()
+name: ['Sun Titan']
+mana_cost: ['{4}{W}{W}']
+cmc: [6.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Giant']
+supertypes: []
+subtypes: ['Giant']
+rarity: ['Mythic']
+text: ['Vigilance\nWhenever Sun Titan enters the battlefield or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.']
+number: ['35★']
+power: ['6']
+toughness: ['6']
+loyalty: []
+set: ['PM11']
+set_name: ['Magic 2011 Promos']

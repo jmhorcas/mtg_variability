@@ -1,2 +1,2 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Dirtcowl Wurm,5.0,['Green'],['G'],None,['Creature'],['Wurm'],Rare,PTMP,3,4,None,"Whenever an opponent plays a land, put a +1/+1 counter on Dirtcowl Wurm."
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Dirtcowl Wurm,{4}{G},5.0,['G'],['G'],Creature — Wurm,,['Wurm'],Rare,"Whenever an opponent plays a land, put a +1/+1 counter on Dirtcowl Wurm.",221,3,4,,PTMP,Tempest Promos

@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Tezzeret', 'Advisor', 'Scout', 'Lizard', 'Pirate', 'Whale', 'Vampire', 'Thopter', 'Dragon', 'Construct', 'Angel', 'Demon', 'Human', 'Ajani', 'Shapeshifter', 'Vehicle', 'Aetherborn', 'Warrior', 'Elf', 'Wizard', 'Rogue', 'Artificer', 'Elephant', 'Dwarf', 'Aura'}
-Rarity: {'Rare', 'Mythic', 'Uncommon'}
-Power: {'4', '7', '5', '1', '2', '0', '3', '6'}
-Toughness: {'4', '7', '5', '1', '2', '0', '3', '6'}
-Loyalty: {'4', '5'}
+name: ['Aethergeode Miner']
+mana_cost: ['{1}{W}']
+cmc: [2.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Dwarf Scout']
+supertypes: []
+subtypes: ['Dwarf', 'Scout']
+rarity: ['Rare']
+text: ["Whenever Aethergeode Miner attacks, you get {E}{E} (two energy counters).\nPay {E}{E}: Exile Aethergeode Miner, then return it to the battlefield under its owner's control."]
+number: ['4s']
+power: ['3']
+toughness: ['1']
+loyalty: []
+set: ['PAER']
+set_name: ['Aether Revolt Promos']

@@ -1,2 +1,2 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Glory,5.0,['White'],['W'],None,['Creature'],['Incarnation'],Rare,PJUD,3,3,None,Flying\n{2}{W}: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate only if Glory is in your graveyard.
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Glory,{3}{W}{W},5.0,['W'],['W'],Creature — Incarnation,,['Incarnation'],Rare,Flying\n{2}{W}: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate only if Glory is in your graveyard.,11,3,3,,PJUD,Judgment Promos

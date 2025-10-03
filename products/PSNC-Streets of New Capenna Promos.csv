@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Depopulate,{2}{W}{W},4.0,['W'],['W'],Sorcery,,,Rare,Each player who controls a multicolored creature draws a card. Then destroy all creatures.,10p,,,,PSNC,Streets of New Capenna Promos

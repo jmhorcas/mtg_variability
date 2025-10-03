@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 5.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Instant', 'Land', 'Creature', 'Sorcery'}
-Subtypes: {'Warrior', 'Elf', 'Ooze', 'Monk', 'Human', 'Phyrexian'}
-Rarity: {'Rare'}
-Power: {'2', '1'}
-Toughness: {'2', '1'}
-Loyalty: set()
+name: ['Glistener Elf']
+mana_cost: ['{G}']
+cmc: [1.0]
+colors: ['G']
+color_identity: ['G']
+type: ['Creature — Phyrexian Elf Warrior']
+supertypes: []
+subtypes: ['Elf', 'Phyrexian', 'Warrior']
+rarity: ['Rare']
+text: ['Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)']
+number: ['1']
+power: ['1']
+toughness: ['1']
+loyalty: []
+set: ['F12']
+set_name: ['Friday Night Magic 2012']

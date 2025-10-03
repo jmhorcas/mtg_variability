@@ -1,10 +1,16 @@
-CMC: {2.0, 4.0, 5.0, 6.0}
-Colors: {'Red', 'Black', 'Green'}
-ColorIdentity: {'R', 'G', 'B'}
-Supertypes: {'Legendary'}
-Types: {'Instant', 'Creature'}
-Subtypes: {'Vampire', 'Insect', 'Shade', 'Mutant', 'Goblin', 'Knight'}
-Rarity: {'Rare'}
-Power: {'3', '5'}
-Toughness: {'3', '5', '1'}
-Loyalty: set()
+name: ['Goblin Mutant']
+mana_cost: ['{2}{R}{R}']
+cmc: [4.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Creature — Goblin Mutant']
+supertypes: []
+subtypes: ['Goblin', 'Mutant']
+rarity: ['Rare']
+text: ["Trample\nGoblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.\nGoblin Mutant can't block creatures with power 3 or greater."]
+number: ['1']
+power: ['5']
+toughness: ['3']
+loyalty: []
+set: ['PHJ']
+set_name: ['Hobby Japan Promos']

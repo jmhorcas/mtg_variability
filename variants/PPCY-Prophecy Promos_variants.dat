@@ -1,10 +1,16 @@
-CMC: {8.0}
-Colors: {'White'}
-ColorIdentity: {'W'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Avatar'}
-Rarity: {'Rare'}
-Power: {'4'}
-Toughness: {'9'}
-Loyalty: set()
+name: ['Avatar of Hope']
+mana_cost: ['{6}{W}{W}']
+cmc: [8.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Avatar']
+supertypes: []
+subtypes: ['Avatar']
+rarity: ['Rare']
+text: ['If you have 3 or less life, this spell costs {6} less to cast.\nFlying\nAvatar of Hope can block any number of creatures.']
+number: ['3']
+power: ['4']
+toughness: ['9']
+loyalty: []
+set: ['PPCY']
+set_name: ['Prophecy Promos']

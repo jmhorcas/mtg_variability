@@ -1,10 +1,16 @@
-CMC: {7.0}
-Colors: {'Black', 'Green', 'Blue'}
-ColorIdentity: {'U', 'G', 'B'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Beast', 'Fungus'}
-Rarity: {'Rare'}
-Power: {'6'}
-Toughness: {'4'}
-Loyalty: set()
+name: ['Fungal Shambler']
+mana_cost: ['{4}{B}{G}{U}']
+cmc: [7.0]
+colors: ['B', 'G', 'U']
+color_identity: ['B', 'G', 'U']
+type: ['Creature — Fungus Beast']
+supertypes: []
+subtypes: ['Beast', 'Fungus']
+rarity: ['Rare']
+text: ['Trample\nWhenever Fungal Shambler deals damage to an opponent, you draw a card and that opponent discards a card.']
+number: ['100']
+power: ['6']
+toughness: ['4']
+loyalty: []
+set: ['PAPC']
+set_name: ['Apocalypse Promos']

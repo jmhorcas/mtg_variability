@@ -1,10 +1,16 @@
-CMC: {3.0, 4.0, 5.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Planeswalker'}
-Subtypes: {'Aminatou', 'Estrid', 'Windgrace', 'Saheeli'}
-Rarity: {'Mythic'}
-Power: set()
-Toughness: set()
-Loyalty: {'3', '4', '5'}
+name: ['Aminatou, the Fateshifter']
+mana_cost: ['{W}{U}{B}']
+cmc: [3.0]
+colors: ['B', 'U', 'W']
+color_identity: ['B', 'U', 'W']
+type: ['Legendary Planeswalker — Aminatou']
+supertypes: ['Legendary']
+subtypes: ['Aminatou']
+rarity: ['Mythic']
+text: ['[+1]: Draw a card, then put a card from your hand on top of your library.\n[−1]: Exile another target permanent you own, then return it to the battlefield under your control.\n[−6]: Choose left or right. Each player gains control of all nonland permanents other than Aminatou, the Fateshifter controlled by the next player in the chosen direction.\nAminatou, the Fateshifter can be your commander.']
+number: ['37']
+power: []
+toughness: []
+loyalty: ['3']
+set: ['OC18']
+set_name: ['Commander 2018 Oversized']

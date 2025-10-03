@@ -1,10 +1,16 @@
-CMC: {4.0}
-Colors: {'White', 'Black', 'Green', 'Blue'}
-ColorIdentity: {'W', 'U', 'G', 'B'}
-Supertypes: {'Legendary'}
-Types: {'Creature'}
-Subtypes: {'Warrior', 'Zombie', 'Noble', 'Human'}
-Rarity: {'Mythic'}
-Power: {'3', '0'}
-Toughness: {'3', '4'}
-Loyalty: set()
+name: ['Leinore, Autumn Sovereign']
+mana_cost: ['{2}{G}{W}']
+cmc: [4.0]
+colors: ['G', 'W']
+color_identity: ['G', 'W']
+type: ['Legendary Creature — Human Noble']
+supertypes: ['Legendary']
+subtypes: ['Human', 'Noble']
+rarity: ['Mythic']
+text: ['Coven — At the beginning of combat on your turn, put a +1/+1 counter on up to one target creature you control. Then if you control three or more creatures with different powers, draw a card.']
+number: ['1']
+power: ['0']
+toughness: ['4']
+loyalty: []
+set: ['OMIC']
+set_name: ['Midnight Hunt Commander Display Commanders']

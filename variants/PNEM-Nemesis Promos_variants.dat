@@ -1,10 +1,16 @@
-CMC: {4.0}
-Colors: {'Black'}
-ColorIdentity: {'B'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Phyrexian', 'Zombie', 'Mercenary', 'Assassin'}
-Rarity: {'Rare'}
-Power: {'2'}
-Toughness: {'2'}
-Loyalty: set()
+name: ['Rathi Assassin']
+mana_cost: ['{2}{B}{B}']
+cmc: [4.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Creature — Phyrexian Zombie Mercenary Assassin']
+supertypes: []
+subtypes: ['Assassin', 'Mercenary', 'Phyrexian', 'Zombie']
+rarity: ['Rare']
+text: ['{1}{B}{B}, {T}: Destroy target tapped nonblack creature.\n{3}, {T}: Search your library for a Mercenary permanent card with mana value 3 or less, put it onto the battlefield, then shuffle.']
+number: ['67']
+power: ['2']
+toughness: ['2']
+loyalty: []
+set: ['PNEM']
+set_name: ['Nemesis Promos']

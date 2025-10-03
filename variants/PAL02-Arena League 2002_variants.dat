@@ -1,10 +1,16 @@
-CMC: {2.0, 3.0}
-Colors: {'Red', 'Black', 'Blue'}
-ColorIdentity: {'R', 'U', 'B'}
-Supertypes: {'Basic'}
-Types: {'Instant', 'Land', 'Creature', 'Sorcery'}
-Subtypes: {'Island', 'Soldier', 'Dauthi', 'Jellyfish'}
-Rarity: {'Rare'}
-Power: {'2'}
-Toughness: {'2'}
-Loyalty: set()
+name: ['Island']
+mana_cost: []
+cmc: [0.0]
+colors: []
+color_identity: ['U']
+type: ['Basic Land — Island']
+supertypes: ['Basic']
+subtypes: ['Island']
+rarity: ['Rare']
+text: ['({T}: Add {U}.)']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['PAL02']
+set_name: ['Arena League 2002']

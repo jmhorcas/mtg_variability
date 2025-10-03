@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Sorcery', 'Instant', 'Creature', 'Enchantment'}
-Subtypes: {'Warrior', 'Druid', 'Wurm', 'Elf', 'Goblin', 'Dog', 'Aura'}
-Rarity: {'Rare'}
-Power: {'4', '2', '1'}
-Toughness: {'4', '2', '1'}
-Loyalty: set()
+name: ['Elves of Deep Shadow']
+mana_cost: ['{G}']
+cmc: [1.0]
+colors: ['G']
+color_identity: ['B', 'G']
+type: ['Creature — Elf Druid']
+supertypes: []
+subtypes: ['Druid', 'Elf']
+rarity: ['Rare']
+text: ['{T}: Add {B}. Elves of Deep Shadow deals 1 damage to you.']
+number: ['1']
+power: ['1']
+toughness: ['1']
+loyalty: []
+set: ['F06']
+set_name: ['Friday Night Magic 2006']

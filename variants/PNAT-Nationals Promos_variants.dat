@@ -1,10 +1,16 @@
-CMC: set()
-Colors: set()
-ColorIdentity: set()
-Supertypes: set()
-Types: {'Land'}
-Subtypes: set()
-Rarity: {'Rare'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['Flooded Strand']
+mana_cost: []
+cmc: [0.0]
+colors: []
+color_identity: []
+type: ['Land']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.']
+number: ['2018']
+power: []
+toughness: []
+loyalty: []
+set: ['PNAT']
+set_name: ['Nationals Promos']

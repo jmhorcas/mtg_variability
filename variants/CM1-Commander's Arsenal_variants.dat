@@ -1,10 +1,16 @@
-CMC: {2.0, 3.0, 4.0, 5.0, 6.0, 8.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Shapeshifter', 'Elemental', 'Advisor', 'Ooze', 'Elf', 'Wizard', 'Spider', 'Rogue', 'Human', 'Cleric'}
-Rarity: {'Rare', 'Common', 'Uncommon', 'Mythic'}
-Power: {'4', '7', '5', '1', '2', '0'}
-Toughness: {'4', '5', '1', '2', '0', '6'}
-Loyalty: set()
+name: ['Chaos Warp', 'Command Tower', 'Decree of Pain', 'Desertion', 'Diaochan, Artful Beauty', 'Dragonlair Spider', 'Duplicant', 'Edric, Spymaster of Trest', 'Kaalia of the Vast', 'Loyal Retainers', 'Maelstrom Wanderer', "Mind's Eye", "Mirari's Wake", 'Rhystic Study', 'Scroll Rack', 'Sylvan Library', 'The Mimeoplasm', 'Vela the Night-Clad']
+mana_cost: ['{1}{G}', '{1}{G}{U}', '{1}{R}{W}{B}', '{2}', '{2}{B}{G}{U}', '{2}{R}', '{2}{R}{R}{G}{G}', '{2}{U}', '{2}{W}', '{3}{G}{W}', '{3}{R}', '{3}{U}{U}', '{4}{U}{B}', '{5}', '{5}{G}{U}{R}', '{6}', '{6}{B}{B}']
+cmc: [0.0, 2.0, 3.0, 4.0, 5.0, 6.0, 8.0]
+colors: ['B', 'G', 'R', 'U', 'W']
+color_identity: ['B', 'G', 'R', 'U', 'W']
+type: ['Artifact', 'Artifact Creature — Shapeshifter', 'Creature — Human Advisor', 'Creature — Spider', 'Enchantment', 'Instant', 'Land', 'Legendary Creature — Elemental', 'Legendary Creature — Elf Rogue', 'Legendary Creature — Human Advisor', 'Legendary Creature — Human Cleric', 'Legendary Creature — Human Wizard', 'Legendary Creature — Ooze', 'Sorcery']
+supertypes: ['Legendary']
+subtypes: ['Advisor', 'Cleric', 'Elemental', 'Elf', 'Human', 'Ooze', 'Rogue', 'Shapeshifter', 'Spider', 'Wizard']
+rarity: ['Common', 'Mythic', 'Rare', 'Uncommon']
+text: ['As The Mimeoplasm enters the battlefield, you may exile two creature cards from graveyards. If you do, it enters the battlefield as a copy of one of those cards with a number of additional +1/+1 counters on it equal to the power of the other card.', 'At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.', "Counter target spell. If an artifact or creature spell is countered this way, put that card onto the battlefield under your control instead of into its owner's graveyard.", 'Creatures you control get +1/+1.\nWhenever you tap a land for mana, add one mana of any type that land produced.', 'Creatures you control have haste.\nCascade, cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order. Then do it again.)', "Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.\nCycling {3}{B}{B} ({3}{B}{B}, Discard this card: Draw a card.)\nWhen you cycle Decree of Pain, all creatures get -2/-2 until end of turn.", 'Flying\nWhenever Kaalia of the Vast attacks an opponent, you may put an Angel, Demon, or Dragon creature card from your hand onto the battlefield tapped and attacking that opponent.', "Imprint — When Duplicant enters the battlefield, you may exile target nontoken creature.\nAs long as a card exiled with Duplicant is a creature card, Duplicant has the power, toughness, and creature types of the last creature card exiled with Duplicant. It's still a Shapeshifter.", "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nOther creatures you control have intimidate.\nWhenever Vela the Night-Clad or another creature you control leaves the battlefield, each opponent loses 1 life.", 'Reach\nWhenever an opponent casts a spell, create a 1/1 green Insect creature token.', 'Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate only during your turn, before attackers are declared.', "The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield.", 'Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.', 'Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.', 'Whenever an opponent draws a card, you may pay {1}. If you do, draw a card.', '{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order.', "{T}: Add one mana of any color in your commander's color identity.", "{T}: Destroy target creature of your choice, then destroy target creature of an opponent's choice. Activate only during your turn, before attackers are declared."]
+number: ['1', '10', '11', '12', '13', '14', '15', '16', '17', '18', '2', '3', '4', '5', '6', '7', '8', '9']
+power: ['0', '1', '2', '4', '5', '7']
+toughness: ['0', '1', '2', '4', '5', '6']
+loyalty: []
+set: ['CM1']
+set_name: ["Commander's Arsenal"]

@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 4.0}
-Colors: {'Red'}
-ColorIdentity: {'R'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Planeswalker', 'Creature', 'Sorcery', 'Instant'}
-Subtypes: {'Chandra', 'Shaman', 'Human'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'2'}
-Toughness: {'1'}
-Loyalty: {'4'}
+name: ['Chandra, Torch of Defiance']
+mana_cost: ['{2}{R}{R}']
+cmc: [4.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Legendary Planeswalker — Chandra']
+supertypes: ['Legendary']
+subtypes: ['Chandra']
+rarity: ['Mythic']
+text: ['[+1]: Exile the top card of your library. You may cast that card. If you don\'t, Chandra, Torch of Defiance deals 2 damage to each opponent.\n[+1]: Add {R}{R}.\n[−3]: Chandra, Torch of Defiance deals 4 damage to target creature.\n[−7]: You get an emblem with "Whenever you cast a spell, this emblem deals 5 damage to any target."']
+number: ['1']
+power: []
+toughness: []
+loyalty: ['4']
+set: ['SS3']
+set_name: ['Signature Spellbook: Chandra']

@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Elemental', 'Faerie', 'Cat', 'Vampire', 'Dragon', 'Horror', 'Crocodile', 'Angel', 'Minion', 'Knight', 'Human', 'Cleric', 'Minotaur', 'Dog', 'Noble', 'Drake', 'Phyrexian', 'Shaman', 'Wurm', 'Illusion', 'Phoenix', 'Demigod', 'Monger', 'Juggernaut', 'Aura'}
-Rarity: {'Rare', 'Common', 'Uncommon'}
-Power: {'4', '7', '5', '1', '*', '2', '0', '3', '6'}
-Toughness: {'4', '7', '5', '1', '*', '2', '3'}
-Loyalty: set()
+name: ['Fireball', 'Spined Wurm']
+mana_cost: ['{4}{G}', '{X}{R}']
+cmc: [1.0, 5.0]
+colors: ['G', 'R']
+color_identity: ['G', 'R']
+type: ['Creature — Wurm', 'Sorcery']
+supertypes: []
+subtypes: ['Wurm']
+rarity: ['Common']
+text: ['This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets.']
+number: ['11', '4']
+power: ['5']
+toughness: ['4']
+loyalty: []
+set: ['PMEI']
+set_name: ['Media Inserts']

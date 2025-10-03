@@ -1,10 +1,16 @@
-CMC: {3.0, 6.0}
-Colors: {'White', 'Red', 'Black', 'Green'}
-ColorIdentity: {'W', 'R', 'G', 'B'}
-Supertypes: {'Legendary'}
-Types: {'Creature'}
-Subtypes: {'Troll', 'Cleric', 'Dragon'}
-Rarity: {'Rare'}
-Power: {'6', '2'}
-Toughness: {'6', '2'}
-Loyalty: set()
+name: ['Hedge Troll']
+mana_cost: ['{2}{G}']
+cmc: [3.0]
+colors: ['G']
+color_identity: ['G', 'W']
+type: ['Creature — Troll Cleric']
+supertypes: []
+subtypes: ['Cleric', 'Troll']
+rarity: ['Rare']
+text: ['Hedge Troll gets +1/+1 as long as you control a Plains.\n{W}: Regenerate Hedge Troll.']
+number: ['151★']
+power: ['2']
+toughness: ['2']
+loyalty: []
+set: ['PPLC']
+set_name: ['Planar Chaos Promos']

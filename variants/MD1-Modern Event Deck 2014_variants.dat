@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 6.0}
-Colors: {'Black', 'White'}
-ColorIdentity: {'W', 'B'}
-Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Equipment', 'Swamp', 'Human', 'Elspeth', 'Plains', 'Wizard', 'Kithkin', 'Spirit', 'Cleric', 'Zombie'}
-Rarity: {'Uncommon', 'Common', 'Rare', 'Mythic'}
-Power: {'2', '1'}
-Toughness: {'2', '1'}
-Loyalty: {'4'}
+name: ['Burrenton Forge-Tender', 'Caves of Koilos', 'City of Brass', 'Dismember', 'Duress', 'Elspeth, Knight-Errant', 'Ghost Quarter', 'Honor of the Pure', 'Inquisition of Kozilek', 'Intangible Virtue', 'Isolated Chapel', "Kataki, War's Wage", 'Lingering Souls', 'Path to Exile', 'Plains', 'Raise the Alarm', 'Relic of Progenitus', 'Shrine of Loyal Legions', 'Soul Warden', 'Spectral Procession', 'Swamp', 'Sword of Feast and Famine', 'Tidehollow Sculler', 'Vault of the Archangel', 'Windbrisk Heights', 'Zealous Persecution']
+mana_cost: ['{1}', '{1}{B/P}{B/P}', '{1}{W}', '{2/W}{2/W}{2/W}', '{2}', '{2}{W}', '{2}{W}{W}', '{3}', '{B}', '{W}', '{W}{B}']
+cmc: [0.0, 1.0, 2.0, 3.0, 4.0, 6.0]
+colors: ['B', 'W']
+color_identity: ['B', 'W']
+type: ['Artifact', 'Artifact Creature — Zombie', 'Artifact — Equipment', 'Basic Land — Plains', 'Basic Land — Swamp', 'Creature — Human Cleric', 'Creature — Kithkin Wizard', 'Enchantment', 'Instant', 'Land', 'Legendary Creature — Spirit', 'Legendary Planeswalker — Elspeth', 'Sorcery']
+supertypes: ['Basic', 'Legendary']
+subtypes: ['Cleric', 'Elspeth', 'Equipment', 'Human', 'Kithkin', 'Plains', 'Spirit', 'Swamp', 'Wizard', 'Zombie']
+rarity: ['Common', 'Mythic', 'Rare', 'Uncommon']
+text: ['({B/P} can be paid with either {B} or 2 life.)\nTarget creature gets -5/-5 until end of turn.', '({T}: Add {B}.)', '({T}: Add {W}.)', 'All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {1}."', 'At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on Shrine of Loyal Legions.\n{3}, {T}, Sacrifice Shrine of Loyal Legions: Create a 1/1 colorless Phyrexian Myr artifact creature token for each charge counter on Shrine of Loyal Legions.', 'Create three 1/1 white Spirit creature tokens with flying.', 'Create two 1/1 white Soldier creature tokens.', 'Create two 1/1 white Spirit creature tokens with flying.\nFlashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)', 'Creature tokens you control get +1/+1 and have vigilance.', 'Equipped creature gets +2/+2 and has protection from black and from green.\nWhenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.\nEquip {2}', 'Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.', 'Hideaway 4 (When this land enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)\nWindbrisk Heights enters the battlefield tapped.\n{T}: Add {W}.\n{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.', 'Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.\n{T}: Add {W} or {B}.', 'Protection from red\nSacrifice Burrenton Forge-Tender: Prevent all damage a red source of your choice would deal this turn.', 'Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.', 'Target player reveals their hand. You choose a nonland card from it with mana value 3 or less. That player discards that card.', 'Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.', "When Tidehollow Sculler enters the battlefield, target opponent reveals their hand and you choose a nonland card from it. Exile that card.\nWhen Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.", 'Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color.', 'Whenever another creature enters the battlefield, you gain 1 life.', 'White creatures you control get +1/+1.', '[+1]: Create a 1/1 white Soldier creature token.\n[+1]: Target creature gets +3/+3 and gains flying until end of turn.\n[−8]: You get an emblem with "Artifacts, creatures, enchantments, and lands you control have indestructible."', '{T}: Add {C}.\n{2}{W}{B}, {T}: Creatures you control gain deathtouch and lifelink until end of turn.', '{T}: Add {C}.\n{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.', '{T}: Add {C}.\n{T}: Add {W} or {B}. Caves of Koilos deals 1 damage to you.', '{T}: Target player exiles a card from their graveyard.\n{1}, Exile Relic of Progenitus: Exile all graveyards. Draw a card.']
+number: ['1', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '2', '20', '21', '22', '23', '24', '25', '26', '3', '4', '5', '6', '7', '8', '9']
+power: ['1', '2']
+toughness: ['1', '2']
+loyalty: ['4']
+set: ['MD1']
+set_name: ['Modern Event Deck 2014']

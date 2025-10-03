@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 6.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Enchantment', 'Creature'}
-Subtypes: {'Angel', 'Wizard', 'Human'}
-Rarity: {'Rare'}
-Power: {'4', '2', '1'}
-Toughness: {'2', '5', '1'}
-Loyalty: set()
+name: ['Exalted Angel']
+mana_cost: ['{4}{W}{W}']
+cmc: [6.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Angel']
+supertypes: []
+subtypes: ['Angel']
+rarity: ['Rare']
+text: ['Flying\nWhenever Exalted Angel deals damage, you gain that much life.\nMorph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)']
+number: ['1']
+power: ['4']
+toughness: ['5']
+loyalty: []
+set: ['G06']
+set_name: ['Judge Gift Cards 2006']

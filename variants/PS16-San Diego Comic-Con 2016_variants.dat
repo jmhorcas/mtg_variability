@@ -1,10 +1,16 @@
-CMC: {3.0, 4.0, 5.0, 6.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Planeswalker'}
-Subtypes: {'Jace', 'Nissa', 'Liliana', 'Chandra', 'Gideon'}
-Rarity: {'Mythic'}
-Power: set()
-Toughness: set()
-Loyalty: {'3', '4', '5'}
+name: ['Gideon, Ally of Zendikar']
+mana_cost: ['{2}{W}{W}']
+cmc: [4.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Legendary Planeswalker — Gideon']
+supertypes: ['Legendary']
+subtypes: ['Gideon']
+rarity: ['Mythic']
+text: ['[+1]: Until end of turn, Gideon, Ally of Zendikar becomes a 5/5 Human Soldier Ally creature with indestructible that\'s still a planeswalker. Prevent all damage that would be dealt to him this turn.\n[0]: Create a 2/2 white Knight Ally creature token.\n[−4]: You get an emblem with "Creatures you control get +1/+1."']
+number: ['29']
+power: []
+toughness: []
+loyalty: ['4']
+set: ['PS16']
+set_name: ['San Diego Comic-Con 2016']

@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Archon of the Wild Rose,{2}{W}{W},4.0,['W'],['W'],Creature — Archon,,['Archon'],Rare,Flying\nOther creatures you control that are enchanted by Auras you control have base power and toughness 4/4 and have flying.,1p,4,4,,PWOE,Wilds of Eldraine Promos

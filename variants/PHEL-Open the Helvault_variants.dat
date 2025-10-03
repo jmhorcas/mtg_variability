@@ -1,10 +1,16 @@
-CMC: {8.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Creature'}
-Subtypes: {'Angel', 'Demon'}
-Rarity: {'Mythic'}
-Power: {'7', '5', '8'}
-Toughness: {'7', '5', '8'}
-Loyalty: set()
+name: ['Avacyn, Angel of Hope']
+mana_cost: ['{5}{W}{W}{W}']
+cmc: [8.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Legendary Creature — Angel']
+supertypes: ['Legendary']
+subtypes: ['Angel']
+rarity: ['Mythic']
+text: ['Flying, vigilance, indestructible\nOther permanents you control have indestructible.']
+number: ['6']
+power: ['8']
+toughness: ['8']
+loyalty: []
+set: ['PHEL']
+set_name: ['Open the Helvault']

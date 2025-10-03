@@ -1,10 +1,16 @@
-CMC: {2.0, 3.0}
-Colors: {'Red', 'Black', 'White', 'Blue'}
-ColorIdentity: {'W', 'R', 'U', 'B'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Wizard', 'Avatar', 'Vedalken'}
-Rarity: {'Rare'}
-Power: {'2', '5'}
-Toughness: {'3', '2'}
-Loyalty: set()
+name: ['Avatar of Discord']
+mana_cost: ['{B/R}{B/R}{B/R}']
+cmc: [3.0]
+colors: ['B', 'R']
+color_identity: ['B', 'R']
+type: ['Creature — Avatar']
+supertypes: []
+subtypes: ['Avatar']
+rarity: ['Rare']
+text: ['({B/R} can be paid with either {B} or {R}.)\nFlying\nWhen Avatar of Discord enters the battlefield, sacrifice it unless you discard two cards.']
+number: ['140★']
+power: ['5']
+toughness: ['3']
+loyalty: []
+set: ['PDIS']
+set_name: ['Dissension Promos']

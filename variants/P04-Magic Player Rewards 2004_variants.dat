@@ -1,10 +1,16 @@
-CMC: {2.0}
-Colors: set()
-ColorIdentity: set()
-Supertypes: set()
-Types: {'Artifact'}
-Subtypes: set()
-Rarity: {'Rare'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['Powder Keg']
+mana_cost: ['{2}']
+cmc: [2.0]
+colors: []
+color_identity: []
+type: ['Artifact']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['At the beginning of your upkeep, you may put a fuse counter on Powder Keg.\n{T}, Sacrifice Powder Keg: Destroy each artifact and creature with mana value equal to the number of fuse counters on Powder Keg.']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['P04']
+set_name: ['Magic Player Rewards 2004']

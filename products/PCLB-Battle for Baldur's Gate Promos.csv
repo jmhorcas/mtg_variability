@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Ancient Gold Dragon,{5}{W}{W},7.0,['W'],['W'],Creature — Elder Dragon,,"['Elder', 'Dragon']",Mythic,"Flying\nWhenever Ancient Gold Dragon deals combat damage to a player, roll a d20. You create a number of 1/1 blue Faerie Dragon creature tokens with flying equal to the result.",3s,7,10,,PCLB,Battle for Baldur's Gate Promos

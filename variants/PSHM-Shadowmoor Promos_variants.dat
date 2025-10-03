@@ -1,10 +1,16 @@
-CMC: {2.0, 5.0}
-Colors: {'Red', 'Black', 'Green'}
-ColorIdentity: {'R', 'G', 'B'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Shaman', 'Avatar', 'Goblin', 'Spirit'}
-Rarity: {'Rare'}
-Power: {'2', '5'}
-Toughness: {'4', '2'}
-Loyalty: set()
+name: ['Demigod of Revenge']
+mana_cost: ['{B/R}{B/R}{B/R}{B/R}{B/R}']
+cmc: [5.0]
+colors: ['B', 'R']
+color_identity: ['B', 'R']
+type: ['Creature — Spirit Avatar']
+supertypes: []
+subtypes: ['Avatar', 'Spirit']
+rarity: ['Rare']
+text: ['When you cast this spell, return all cards named Demigod of Revenge from your graveyard to the battlefield.\nFlying, haste']
+number: ['183★']
+power: ['5']
+toughness: ['4']
+loyalty: []
+set: ['PSHM']
+set_name: ['Shadowmoor Promos']

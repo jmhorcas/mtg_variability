@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 15.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Snow', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Kaya', 'Druid', 'Avatar', 'Nissa', 'Narset', 'Adventure', 'Vampire', 'Dragon', 'Basri', 'Salamander', 'Human', 'Cleric', 'Vraska', 'Ajani', 'Beast', 'Eldrazi', 'Elspeth', 'Drake', 'Liliana', 'Spirit', 'Warrior', 'Wizard'}
-Rarity: {'Rare', 'Mythic', 'Uncommon'}
-Power: {'5', '1', '2', '0', '15', '3', '6'}
-Toughness: {'5', '1', '0', '15', '3', '6'}
-Loyalty: {'3', '4', '6', '5'}
+name: ['Eternal Dragon']
+mana_cost: ['{5}{W}{W}']
+cmc: [7.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Dragon Spirit']
+supertypes: []
+subtypes: ['Dragon', 'Spirit']
+rarity: ['Rare']
+text: ['Flying\n{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate only during your upkeep.\nPlainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)']
+number: ['2007']
+power: ['5']
+toughness: ['5']
+loyalty: []
+set: ['PPRO']
+set_name: ['Pro Tour Promos']

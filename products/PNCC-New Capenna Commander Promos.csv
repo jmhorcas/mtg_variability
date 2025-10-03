@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Aerial Extortionist,{3}{W}{W},5.0,['W'],['W'],Creature — Bird Soldier,,"['Bird', 'Soldier']",Rare,"Flying\nWhenever Aerial Extortionist enters the battlefield or deals combat damage to a player, exile up to one target nonland permanent. For as long as that card remains exiled, its owner may cast it.\nWhenever another player casts a spell from anywhere other than their hand, draw a card.",11p,4,3,,PNCC,New Capenna Commander Promos

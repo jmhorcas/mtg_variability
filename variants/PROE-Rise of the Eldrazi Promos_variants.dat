@@ -1,10 +1,16 @@
-CMC: {1.0, 3.0, 4.0, 6.0, 8.0, 15.0}
-Colors: {'Red', 'Black', 'White'}
-ColorIdentity: {'W', 'R', 'B'}
-Supertypes: {'Legendary'}
-Types: {'Instant', 'Creature'}
-Subtypes: {'Vampire', 'Eldrazi', 'Angel', 'Demon', 'Assassin', 'Minotaur', 'Shaman'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'7', '5', '1', '15', '3'}
-Toughness: {'7', '1', '15', '3', '6'}
-Loyalty: set()
+name: ['Emrakul, the Aeons Torn']
+mana_cost: ['{15}']
+cmc: [15.0]
+colors: []
+color_identity: []
+type: ['Legendary Creature — Eldrazi']
+supertypes: ['Legendary']
+subtypes: ['Eldrazi']
+rarity: ['Mythic']
+text: ["This spell can't be countered.\nWhen you cast this spell, take an extra turn after this one.\nFlying, protection from spells that are one or more colors, annihilator 6\nWhen Emrakul, the Aeons Torn is put into a graveyard from anywhere, its owner shuffles their graveyard into their library."]
+number: ['4★']
+power: ['15']
+toughness: ['15']
+loyalty: []
+set: ['PROE']
+set_name: ['Rise of the Eldrazi Promos']

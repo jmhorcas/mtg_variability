@@ -1,33 +1,33 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Xantcha,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,Sacrifice a permanent: Regenerate target creature.
-Urza,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,{3}: Urza deals 1 damage to any target.
-Titania,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,You may play an additional land on each of your turns.
-Tawnos,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,"You may cast artifact, creature, and enchantment spells as though they had flash."
-Serra,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,Creatures you control get +0/+2.
-Mishra,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,"If a creature you control would deal damage, it deals double that damage instead."
-Gix,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,{3}: Return target creature card from your graveyard to your hand.
-Ashnod,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,"Whenever a creature deals damage to you, destroy it."
-Takara,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,Sacrifice a creature: Takara deals 1 damage to any target.
-Crovax,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,"Whenever a creature you control deals damage to a creature or player, you gain 1 life."
-Eladamri,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,{0}: The next 1 damage that would be dealt to target creature you control is dealt to you instead.
-Sidar Kondo,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,{3}: Target creature gets +3/+3 until end of turn.
-Oracle,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,{0}: Untap target attacking creature you control and remove it from combat.
-"Sliver Queen, Brood Mother",0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,{3}: Create a 1/1 colorless Sliver creature token.
-Orim,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,Creatures you control have reach.
-Rofellos,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,"Whenever a creature you control dies, draw a card."
-Multani,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,"Creatures you control get +X/+0, where X is the number of cards in your hand."
-Lyna,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,Creatures you control have shadow. (They can block and be blocked only by creatures with shadow.)
-Squee,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,Your opponents play with their hands revealed.
-Selenia,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,Creatures you control have vigilance.
-Sisay,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,"Whenever you tap a land for mana, add one mana of any type that land produced."
-Starke,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,"At the beginning of your draw step, you may draw an additional card. If you do, put a card from your hand on the bottom of your library."
-Gerrard,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,"At the beginning of your draw step, draw an additional card."
-Hanna,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,Spells you cast cost {1} less to cast.
-Volrath,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,"Whenever a creature you control is put into your graveyard from the battlefield, you may put it on top of your library."
-Maraxus,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,Creatures you control get +1/+0.
-Ertai,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,Creatures you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)
-Mirri,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,"If a basic land you control is tapped for mana, it produces mana of a color of your choice instead of any other type."
-Tahngarth,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,Creatures you control have haste.
-Barrin,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,Sacrifice a permanent: Return target creature to its owner's hand.
-Karn,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,Each noncreature artifact you control is an artifact creature with power and toughness each equal to its mana value.
-Greven il-Vec,0.0,None,None,None,['Vanguard'],None,Rare,PVAN,None,None,None,"Whenever a creature you control deals damage to a creature, destroy the other creature. It can't be regenerated."
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Selenia,,0.0,,,Vanguard,,,Rare,Creatures you control have vigilance.,206,,,,PVAN,Vanguard Series
+Multani,,0.0,,,Vanguard,,,Rare,"Creatures you control get +X/+0, where X is the number of cards in your hand.",303,,,,PVAN,Vanguard Series
+Tahngarth,,0.0,,,Vanguard,,,Rare,Creatures you control have haste.,108,,,,PVAN,Vanguard Series
+Oracle,,0.0,,,Vanguard,,,Rare,{0}: Untap target attacking creature you control and remove it from combat.,304,,,,PVAN,Vanguard Series
+Lyna,,0.0,,,Vanguard,,,Rare,Creatures you control have shadow. (They can block and be blocked only by creatures with shadow.),302,,,,PVAN,Vanguard Series
+Barrin,,0.0,,,Vanguard,,,Rare,Sacrifice a permanent: Return target creature to its owner's hand.,201,,,,PVAN,Vanguard Series
+Crovax,,0.0,,,Vanguard,,,Rare,"Whenever a creature you control deals damage to a creature or player, you gain 1 life.",202,,,,PVAN,Vanguard Series
+Sisay,,0.0,,,Vanguard,,,Rare,"Whenever you tap a land for mana, add one mana of any type that land produced.",106,,,,PVAN,Vanguard Series
+Greven il-Vec,,0.0,,,Vanguard,,,Rare,"Whenever a creature you control deals damage to a creature, destroy the other creature. It can't be regenerated.",203,,,,PVAN,Vanguard Series
+Gerrard,,0.0,,,Vanguard,,,Rare,"At the beginning of your draw step, draw an additional card.",102,,,,PVAN,Vanguard Series
+Hanna,,0.0,,,Vanguard,,,Rare,Spells you cast cost {1} less to cast.,204,,,,PVAN,Vanguard Series
+Orim,,0.0,,,Vanguard,,,Rare,Creatures you control have reach.,205,,,,PVAN,Vanguard Series
+Karn,,0.0,,,Vanguard,,,Rare,Each noncreature artifact you control is an artifact creature with power and toughness each equal to its mana value.,103,,,,PVAN,Vanguard Series
+"Sliver Queen, Brood Mother",,0.0,,,Vanguard,,,Rare,{3}: Create a 1/1 colorless Sliver creature token.,307,,,,PVAN,Vanguard Series
+Rofellos,,0.0,,,Vanguard,,,Rare,"Whenever a creature you control dies, draw a card.",305,,,,PVAN,Vanguard Series
+Sidar Kondo,,0.0,,,Vanguard,,,Rare,{3}: Target creature gets +3/+3 until end of turn.,306,,,,PVAN,Vanguard Series
+Ashnod,,0.0,,,Vanguard,,,Rare,"Whenever a creature deals damage to you, destroy it.",401,,,,PVAN,Vanguard Series
+Takara,,0.0,,,Vanguard,,,Rare,Sacrifice a creature: Takara deals 1 damage to any target.,308,,,,PVAN,Vanguard Series
+Xantcha,,0.0,,,Vanguard,,,Rare,Sacrifice a permanent: Regenerate target creature.,408,,,,PVAN,Vanguard Series
+Titania,,0.0,,,Vanguard,,,Rare,You may play an additional land on each of your turns.,406,,,,PVAN,Vanguard Series
+Urza,,0.0,,,Vanguard,,,Rare,{3}: Urza deals 1 damage to any target.,407,,,,PVAN,Vanguard Series
+Tawnos,,0.0,,,Vanguard,,,Rare,"You may cast artifact, creature, and enchantment spells as though they had flash.",405,,,,PVAN,Vanguard Series
+Mishra,,0.0,,,Vanguard,,,Rare,"If a creature you control would deal damage, it deals double that damage instead.",403,,,,PVAN,Vanguard Series
+Serra,,0.0,,,Vanguard,,,Rare,Creatures you control get +0/+2.,404,,,,PVAN,Vanguard Series
+Gix,,0.0,,,Vanguard,,,Rare,{3}: Return target creature card from your graveyard to your hand.,402,,,,PVAN,Vanguard Series
+Ertai,,0.0,,,Vanguard,,,Rare,Creatures you control have hexproof. (They can't be the targets of spells or abilities your opponents control.),101,,,,PVAN,Vanguard Series
+Squee,,0.0,,,Vanguard,,,Rare,Your opponents play with their hands revealed.,107,,,,PVAN,Vanguard Series
+Mirri,,0.0,,,Vanguard,,,Rare,"If a basic land you control is tapped for mana, it produces mana of a color of your choice instead of any other type.",105,,,,PVAN,Vanguard Series
+Maraxus,,0.0,,,Vanguard,,,Rare,Creatures you control get +1/+0.,104,,,,PVAN,Vanguard Series
+Eladamri,,0.0,,,Vanguard,,,Rare,{0}: The next 1 damage that would be dealt to target creature you control is dealt to you instead.,301,,,,PVAN,Vanguard Series
+Volrath,,0.0,,,Vanguard,,,Rare,"Whenever a creature you control is put into your graveyard from the battlefield, you may put it on top of your library.",208,,,,PVAN,Vanguard Series
+Starke,,0.0,,,Vanguard,,,Rare,"At the beginning of your draw step, you may draw an additional card. If you do, put a card from your hand on the bottom of your library.",207,,,,PVAN,Vanguard Series

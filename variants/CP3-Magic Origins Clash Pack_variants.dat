@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 4.0, 5.0}
-Colors: {'White', 'Black', 'Green'}
-ColorIdentity: {'W', 'G', 'B'}
-Supertypes: {'Legendary'}
-Types: {'Instant', 'Land', 'Creature'}
-Subtypes: {'Dragon', 'Warrior', 'Druid', 'Rhino', 'Human'}
-Rarity: {'Uncommon', 'Rare'}
-Power: {'2', '4', '5', '1'}
-Toughness: {'2', '5', '1'}
-Loyalty: set()
+name: ['Honored Hierarch']
+mana_cost: ['{G}']
+cmc: [1.0]
+colors: ['G']
+color_identity: ['G']
+type: ['Creature — Human Druid']
+supertypes: []
+subtypes: ['Druid', 'Human']
+rarity: ['Rare']
+text: ['Renown 1 (When this creature deals combat damage to a player, if it isn\'t renowned, put a +1/+1 counter on it and it becomes renowned.)\nAs long as Honored Hierarch is renowned, it has vigilance and "{T}: Add one mana of any color."']
+number: ['1']
+power: ['1']
+toughness: ['1']
+loyalty: []
+set: ['CP3']
+set_name: ['Magic Origins Clash Pack']

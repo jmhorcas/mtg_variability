@@ -1,10 +1,16 @@
-CMC: {1.0}
-Colors: {'White'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Basic'}
-Types: {'Instant', 'Land'}
-Subtypes: {'Swamp', 'Mountain', 'Forest', 'Island', 'Plains'}
-Rarity: {'Rare'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['Path to Exile']
+mana_cost: ['{W}']
+cmc: [1.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Instant']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['PF20']
+set_name: ['MagicFest 2020']

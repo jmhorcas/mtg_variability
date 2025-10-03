@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 10.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Instant', 'Creature', 'Sorcery', 'Artifact'}
-Subtypes: {'Avatar'}
-Rarity: {'Mythic'}
-Power: {'6'}
-Toughness: {'6'}
-Loyalty: set()
+name: ['Armageddon', 'Burning of Xinye', 'Cataclysm', 'Child of Alara', 'Decree of Annihilation', 'Firespout', 'Fracturing Gust', 'Living Death', 'Martial Coup', 'Rolling Earthquake', 'Smokestack', 'Terminus', 'Upheaval', "Virtue's Ruin", 'Wrath of God']
+mana_cost: ['{2}{B}', '{2}{G/W}{G/W}{G/W}', '{2}{R/G}', '{2}{W}{W}', '{3}{B}{B}', '{3}{W}', '{4}', '{4}{R}{R}', '{4}{U}{U}', '{4}{W}{W}', '{8}{R}{R}', '{W}{U}{B}{R}{G}', '{X}{R}', '{X}{W}{W}']
+cmc: [1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 10.0]
+colors: ['B', 'G', 'R', 'U', 'W']
+color_identity: ['B', 'G', 'R', 'U', 'W']
+type: ['Artifact', 'Instant', 'Legendary Creature — Avatar', 'Sorcery']
+supertypes: ['Legendary']
+subtypes: ['Avatar']
+rarity: ['Mythic']
+text: ["At the beginning of your upkeep, you may put a soot counter on Smokestack.\nAt the beginning of each player's upkeep, that player sacrifices a permanent for each soot counter on Smokestack.", 'Create X 1/1 white Soldier creature tokens. If X is 5 or more, destroy all other creatures.', 'Destroy all artifacts and enchantments. You gain 2 life for each permanent destroyed this way.', "Destroy all creatures. They can't be regenerated.", 'Destroy all lands.', 'Destroy all white creatures.', 'Each player chooses from among the permanents they control an artifact, a creature, an enchantment, and a land, then sacrifices the rest.', 'Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield.', 'Exile all artifacts, creatures, and lands from the battlefield, all cards from all graveyards, and all cards from all hands.\nCycling {5}{R}{R} ({5}{R}{R}, Discard this card: Draw a card.)\nWhen you cycle Decree of Annihilation, destroy all lands.', 'Firespout deals 3 damage to each creature without flying if {R} was spent to cast this spell and 3 damage to each creature with flying if {G} was spent to cast this spell. (Do both if {R}{G} was spent.)', "Put all creatures on the bottom of their owners' libraries.\nMiracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)", "Return all permanents to their owners' hands.", 'Rolling Earthquake deals X damage to each creature without horsemanship and each player.', "Trample\nWhen Child of Alara dies, destroy all nonland permanents. They can't be regenerated.", 'You destroy four lands you control, then target opponent destroys four lands they control. Then Burning of Xinye deals 4 damage to each creature.']
+number: ['1', '10', '11', '12', '13', '14', '15', '2', '3', '4', '5', '6', '7', '8', '9']
+power: ['6']
+toughness: ['6']
+loyalty: []
+set: ['V14']
+set_name: ['From the Vault: Annihilation']

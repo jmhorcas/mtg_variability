@@ -1,10 +1,16 @@
-CMC: {1.0, 5.0}
-Colors: {'Red', 'Green', 'White', 'Blue'}
-ColorIdentity: {'W', 'R', 'G', 'U'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Kithkin', 'Avatar', 'Spirit'}
-Rarity: {'Rare'}
-Power: {'*', '1'}
-Toughness: {'*', '1'}
-Loyalty: set()
+name: ['Figure of Destiny']
+mana_cost: ['{R/W}']
+cmc: [1.0]
+colors: ['R', 'W']
+color_identity: ['R', 'W']
+type: ['Creature — Kithkin']
+supertypes: []
+subtypes: ['Kithkin']
+rarity: ['Rare']
+text: ['{R/W}: Figure of Destiny becomes a Kithkin Spirit with base power and toughness 2/2.\n{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a Kithkin Spirit Warrior with base power and toughness 4/4.\n{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes a Kithkin Spirit Warrior Avatar with base power and toughness 8/8, flying, and first strike.']
+number: ['139★']
+power: ['1']
+toughness: ['1']
+loyalty: []
+set: ['PEVE']
+set_name: ['Eventide Promos']

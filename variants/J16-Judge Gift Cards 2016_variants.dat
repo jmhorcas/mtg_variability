@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0}
-Colors: {'White', 'Black', 'Green', 'Blue'}
-ColorIdentity: {'W', 'U', 'G', 'B'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant'}
-Subtypes: {'Wizard', 'Kor', 'Monk', 'Artificer', 'Human'}
-Rarity: {'Rare'}
-Power: {'1'}
-Toughness: {'4', '2'}
-Loyalty: set()
+name: ['Stoneforge Mystic']
+mana_cost: ['{1}{W}']
+cmc: [2.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Kor Artificer']
+supertypes: []
+subtypes: ['Artificer', 'Kor']
+rarity: ['Rare']
+text: ['When Stoneforge Mystic enters the battlefield, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.\n{1}{W}, {T}: You may put an Equipment card from your hand onto the battlefield.']
+number: ['1']
+power: ['1']
+toughness: ['2']
+loyalty: []
+set: ['J16']
+set_name: ['Judge Gift Cards 2016']

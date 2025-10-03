@@ -1,10 +1,16 @@
-CMC: {2.0, 3.0, 4.0, 5.0, 6.0, 8.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Beast', 'Horror', 'Thrull', 'Elemental', 'Soldier', 'Elf', 'Angel', 'Wizard', 'Human', 'Specter'}
-Rarity: {'Rare', 'Uncommon'}
-Power: {'4', '*', '1', '2', '9', '3'}
-Toughness: {'4', '*', '1', '2', '9', '3'}
-Loyalty: set()
+name: ['Skarrg Goliath']
+mana_cost: ['{6}{G}{G}']
+cmc: [8.0]
+colors: ['G']
+color_identity: ['G']
+type: ['Creature — Beast']
+supertypes: []
+subtypes: ['Beast']
+rarity: ['Rare']
+text: ['Trample\nBloodrush — {5}{G}{G}, Discard Skarrg Goliath: Target attacking creature gets +9/+9 and gains trample until end of turn.']
+number: ['133★']
+power: ['9']
+toughness: ['9']
+loyalty: []
+set: ['PGTC']
+set_name: ['Gatecrash Promos']

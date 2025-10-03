@@ -1,10 +1,16 @@
-CMC: {6.0}
-Colors: {'Black'}
-ColorIdentity: {'B'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Specter'}
-Rarity: {'Rare'}
-Power: {'4'}
-Toughness: {'4'}
-Loyalty: set()
+name: ['Silent Specter']
+mana_cost: ['{4}{B}{B}']
+cmc: [6.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Creature — Specter']
+supertypes: []
+subtypes: ['Specter']
+rarity: ['Rare']
+text: ['Flying\nWhenever Silent Specter deals combat damage to a player, that player discards two cards.\nMorph {3}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)']
+number: ['169']
+power: ['4']
+toughness: ['4']
+loyalty: []
+set: ['PONS']
+set_name: ['Onslaught Promos']

@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Elemental', 'Island', 'Lizard', 'Incarnation', 'Zombie', 'Cat', 'Horror', 'Mountain', 'Angel', 'Mutant', 'Human', 'Cleric', 'Gorgon', 'Dog', 'Beast', 'Frog', 'Plains', 'Mercenary', 'Spirit', 'Warrior', 'Swamp', 'Wurm', 'Forest', 'Centaur', 'Insect', 'Wizard', 'Goblin', 'Barbarian', 'Aura'}
-Rarity: {'Common', 'Rare', 'Uncommon'}
-Power: {'4', '7', '5', '1', '2', '0', '3'}
-Toughness: {'4', '7', '5', '1', '2', '0', '3'}
-Loyalty: set()
+name: ['Decree of Justice']
+mana_cost: ['{X}{X}{2}{W}{W}']
+cmc: [4.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Sorcery']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['Create X 4/4 white Angel creature tokens with flying.\nCycling {2}{W} ({2}{W}, Discard this card: Draw a card.)\nWhen you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white Soldier creature tokens.']
+number: ['dz8']
+power: []
+toughness: []
+loyalty: []
+set: ['WC03']
+set_name: ['World Championship Decks 2003']

@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+By Elspeth's Command,{2}{W},3.0,['W'],['W'],Enchantment,,,Rare,"At the beginning of combat on your turn, choose one that wasn't chosen during your last combat —\n• Up to one target Soldier perpetually gets +1/+1 and gains flying.\n• Choose a Soldier card in your hand. It perpetually gets +1/+1 and gains vigilance.\n• Create a 1/1 colorless Soldier artifact creature token.",1,,,,YBRO,Alchemy: The Brothers' War

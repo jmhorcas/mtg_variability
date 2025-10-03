@@ -1,10 +1,16 @@
-CMC: {2.0, 3.0, 6.0}
-Colors: {'Red', 'Black', 'Green'}
-ColorIdentity: {'R', 'G', 'B'}
-Supertypes: set()
-Types: {'Instant', 'Land', 'Creature', 'Artifact'}
-Subtypes: {'Scout', 'Gorgon', 'Human'}
-Rarity: {'Uncommon', 'Rare'}
-Power: {'3', '2'}
-Toughness: {'6', '1'}
-Loyalty: set()
+name: ['Xathrid Gorgon']
+mana_cost: ['{5}{B}']
+cmc: [6.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Creature — Gorgon']
+supertypes: []
+subtypes: ['Gorgon']
+rarity: ['Rare']
+text: ["Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\n{2}{B}, {T}: Put a petrification counter on target creature. It gains defender and becomes a colorless artifact in addition to its other types. Its activated abilities can't be activated. (A creature with defender can't attack.)"]
+number: ['118★']
+power: ['3']
+toughness: ['6']
+loyalty: []
+set: ['PM13']
+set_name: ['Magic 2013 Promos']

@@ -1,10 +1,16 @@
-CMC: {3.0, 4.0, 6.0}
-Colors: {'Black', 'White'}
-ColorIdentity: {'W', 'B'}
-Supertypes: set()
-Types: {'Enchantment', 'Sorcery', 'Creature', 'Artifact'}
-Subtypes: {'Construct', 'Dragon', 'Wurm', 'Phyrexian'}
-Rarity: {'Rare', 'Mythic', 'Uncommon'}
-Power: {'6', '5', '1'}
-Toughness: {'6', '5', '1'}
-Loyalty: set()
+name: ['Memoricide']
+mana_cost: ['{3}{B}']
+cmc: [4.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Sorcery']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ["Choose a nonland card name. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles."]
+number: ['69★']
+power: []
+toughness: []
+loyalty: []
+set: ['PSOM']
+set_name: ['Scars of Mirrodin Promos']

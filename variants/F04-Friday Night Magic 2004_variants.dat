@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 6.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant'}
-Subtypes: {'Beast', 'Human', 'Nomad', 'Wizard', 'Knight', 'Cleric', 'Zombie'}
-Rarity: {'Rare'}
-Power: {'2', '1'}
-Toughness: {'2', '1'}
-Loyalty: set()
+name: ['Willbender']
+mana_cost: ['{1}{U}']
+cmc: [2.0]
+colors: ['U']
+color_identity: ['U']
+type: ['Creature — Human Wizard']
+supertypes: []
+subtypes: ['Human', 'Wizard']
+rarity: ['Rare']
+text: ['Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Willbender is turned face up, change the target of target spell or ability with a single target.']
+number: ['1']
+power: ['1']
+toughness: ['2']
+loyalty: []
+set: ['F04']
+set_name: ['Friday Night Magic 2004']

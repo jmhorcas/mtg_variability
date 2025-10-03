@@ -1,10 +1,16 @@
-CMC: {8.0, 1.0, 3.0, 5.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Sorcery', 'Instant', 'Creature', 'Artifact'}
-Subtypes: {'Advisor', 'Incarnation', 'Human'}
-Rarity: {'Rare'}
-Power: {'4', '1'}
-Toughness: {'4', '1'}
-Loyalty: set()
+name: ['Swords to Plowshares']
+mana_cost: ['{W}']
+cmc: [1.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Instant']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['Exile target creature. Its controller gains life equal to its power.']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['J13']
+set_name: ['Judge Gift Cards 2013']

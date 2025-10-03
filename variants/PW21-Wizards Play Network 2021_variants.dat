@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 4.0, 5.0, 6.0}
-Colors: {'Green'}
-ColorIdentity: {'G'}
-Supertypes: set()
-Types: {'Instant', 'Land', 'Creature', 'Artifact'}
-Subtypes: {'Druid', 'Phyrexian', 'Elf', 'Wurm'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'6', '1'}
-Toughness: {'6', '1'}
-Loyalty: set()
+name: ['Arbor Elf']
+mana_cost: ['{G}']
+cmc: [1.0]
+colors: ['G']
+color_identity: ['G']
+type: ['Creature — Elf Druid']
+supertypes: []
+subtypes: ['Druid', 'Elf']
+rarity: ['Rare']
+text: ['{T}: Untap target Forest.']
+number: ['1']
+power: ['1']
+toughness: ['1']
+loyalty: []
+set: ['PW21']
+set_name: ['Wizards Play Network 2021']

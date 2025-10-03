@@ -1,10 +1,16 @@
-CMC: {6.0}
-Colors: {'Black'}
-ColorIdentity: {'B'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Horror', 'Nightmare'}
-Rarity: {'Rare'}
-Power: {'6'}
-Toughness: {'3'}
-Loyalty: set()
+name: ["Laquatus's Champion"]
+mana_cost: ['{4}{B}{B}']
+cmc: [6.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Creature — Nightmare Horror']
+supertypes: []
+subtypes: ['Horror', 'Nightmare']
+rarity: ['Rare']
+text: ["When Laquatus's Champion enters the battlefield, target player loses 6 life.\nWhen Laquatus's Champion leaves the battlefield, that player gains 6 life.\n{B}: Regenerate Laquatus's Champion."]
+number: ['67', '67†']
+power: ['6']
+toughness: ['3']
+loyalty: []
+set: ['PTOR']
+set_name: ['Torment Promos']

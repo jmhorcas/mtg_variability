@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Norn's Annex,{3}{W/P}{W/P},5.0,['W'],['W'],Artifact,,,Rare,({W/P} can be paid with either {W} or 2 life.)\nCreatures can't attack you or planeswalkers you control unless their controller pays {W/P} for each of those creatures.,1,,,,PW23,Wizards Play Network 2023

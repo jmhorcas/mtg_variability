@@ -1,166 +1,166 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Cunning Giant,6.0,['Red'],['R'],None,['Creature'],['Giant'],Rare,P02,4,4,None,"If Cunning Giant is unblocked, you may have it assign its combat damage to a creature defending player controls."
-Brimstone Dragon,8.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,P02,6,6,None,"Flying, haste"
-Blaze,1.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,P02,None,None,None,Blaze deals X damage to any target.
-Vampiric Spirit,4.0,['Black'],['B'],None,['Creature'],['Spirit'],Rare,P02,4,3,None,"Flying\nWhen Vampiric Spirit enters the battlefield, you lose 4 life."
-Swarm of Rats,2.0,['Black'],['B'],None,['Creature'],['Rat'],Common,P02,*,1,None,Swarm of Rats's power is equal to the number of Rats you control.
-Return of the Nightstalkers,7.0,['Black'],['B'],None,['Sorcery'],None,Rare,P02,None,None,None,Return all Nightstalker permanent cards from your graveyard to the battlefield. Then destroy all Swamps you control.
-Ravenous Rats,2.0,['Black'],['B'],None,['Creature'],['Rat'],Common,P02,1,1,None,"When Ravenous Rats enters the battlefield, target opponent discards a card."
-Raise Dead,1.0,['Black'],['B'],None,['Sorcery'],None,Common,P02,None,None,None,Return target creature card from your graveyard to your hand.
-Rain of Daggers,6.0,['Black'],['B'],None,['Sorcery'],None,Rare,P02,None,None,None,Destroy all creatures target opponent controls. You lose 2 life for each creature destroyed this way.
-Earthquake,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,P02,None,None,None,Earthquake deals X damage to each creature without flying and each player.
-Ogre Warrior,4.0,['Red'],['R'],None,['Creature'],"['Ogre', 'Warrior']",Common,P02,3,3,None,None
-Raging Goblin,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Berserker']",Common,P02,1,1,None,Haste (This creature can attack and {T} as soon as it comes under your control.)
-Ogre Taskmaster,4.0,['Red'],['R'],None,['Creature'],['Ogre'],Uncommon,P02,4,3,None,Ogre Taskmaster can't block.
-Kiss of Death,6.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,P02,None,None,None,Kiss of Death deals 4 damage to target opponent or planeswalker. You gain 4 life.
-Hand of Death,3.0,['Black'],['B'],None,['Sorcery'],None,Common,P02,None,None,None,Destroy target nonblack creature.
-Dark Offering,6.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,P02,None,None,None,Destroy target nonblack creature. You gain 3 life.
-Jagged Lightning,5.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,P02,None,None,None,Jagged Lightning deals 3 damage to each of two target creatures.
-Magma Giant,7.0,['Red'],['R'],None,['Creature'],['Giant'],Rare,P02,5,5,None,"When Magma Giant enters the battlefield, it deals 2 damage to each creature and each player."
-Lava Axe,5.0,['Red'],['R'],None,['Sorcery'],None,Common,P02,None,None,None,Lava Axe deals 5 damage to target player or planeswalker.
-Goblin Piker,2.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Common,P02,2,1,None,None
-Goblin Mountaineer,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Scout']",Common,P02,1,1,None,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
-Goblin War Strike,1.0,['Red'],['R'],None,['Sorcery'],None,Common,P02,None,None,None,Goblin War Strike deals damage to target player or planeswalker equal to the number of Goblins you control.
-Moaning Spirit,3.0,['Black'],['B'],None,['Creature'],['Spirit'],Common,P02,2,1,None,Flying
-Goblin Lore,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,P02,None,None,None,"Draw four cards, then discard three cards at random."
-Goblin Raider,2.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Common,P02,2,2,None,Goblin Raider can't block.
-Goblin War Cry,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,P02,None,None,None,Target opponent chooses a creature they control. Other creatures they control can't block this turn.
-Goblin Matron,3.0,['Red'],['R'],None,['Creature'],['Goblin'],Uncommon,P02,1,1,None,"When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle."
-Goblin Glider,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,P02,1,1,None,Flying\nGoblin Glider can't block.
-Goblin General,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Rare,P02,1,1,None,"Whenever Goblin General attacks, Goblin creatures you control get +1/+1 until end of turn."
-Goblin Firestarter,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Uncommon,P02,1,1,None,"Sacrifice Goblin Firestarter: It deals 1 damage to any target. Activate only during your turn, before attackers are declared."
-Nightstalker Engine,5.0,['Black'],['B'],None,['Creature'],['Nightstalker'],Rare,P02,*,3,None,Nightstalker Engine's power is equal to the number of creature cards in your graveyard.
-Goblin Cavaliers,3.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,P02,3,2,None,None
-Muck Rats,1.0,['Black'],['B'],None,['Creature'],['Rat'],Common,P02,1,1,None,None
-Mind Rot,3.0,['Black'],['B'],None,['Sorcery'],None,Common,P02,None,None,None,Target player discards two cards.
-Lurking Nightstalker,2.0,['Black'],['B'],None,['Creature'],['Nightstalker'],Common,P02,1,1,None,"Whenever Lurking Nightstalker attacks, it gets +2/+0 until end of turn."
-Hidden Horror,3.0,['Black'],['B'],None,['Creature'],['Horror'],Rare,P02,4,4,None,"When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card."
-Foul Spirit,3.0,['Black'],['B'],None,['Creature'],['Spirit'],Uncommon,P02,3,2,None,"Flying\nWhen Foul Spirit enters the battlefield, sacrifice a land."
-Dakmor Sorceress,6.0,['Black'],['B'],None,['Creature'],"['Human', 'Wizard']",Rare,P02,*,4,None,Dakmor Sorceress's power is equal to the number of Swamps you control.
-Dakmor Scorpion,2.0,['Black'],['B'],None,['Creature'],['Scorpion'],Common,P02,2,1,None,None
-Ogre Berserker,5.0,['Red'],['R'],None,['Creature'],"['Ogre', 'Berserker']",Common,P02,4,2,None,Haste
-Ogre Arsonist,5.0,['Red'],['R'],None,['Creature'],['Ogre'],Uncommon,P02,3,3,None,"When Ogre Arsonist enters the battlefield, destroy target land."
-Prowling Nightstalker,4.0,['Black'],['B'],None,['Creature'],['Nightstalker'],Common,P02,2,2,None,Prowling Nightstalker can't be blocked except by black creatures.
-Predatory Nightstalker,5.0,['Black'],['B'],None,['Creature'],['Nightstalker'],Uncommon,P02,3,2,None,"When Predatory Nightstalker enters the battlefield, you may have target opponent sacrifice a creature."
-Obsidian Giant,5.0,['Red'],['R'],None,['Creature'],['Giant'],Uncommon,P02,4,4,None,None
-Raiding Nightstalker,3.0,['Black'],['B'],None,['Creature'],['Nightstalker'],Common,P02,2,2,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
-Cruel Edict,2.0,['Black'],['B'],None,['Sorcery'],None,Common,P02,None,None,None,Target opponent sacrifices a creature.
-Coercion,3.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,P02,None,None,None,Target opponent reveals their hand. You choose a card from it. That player discards that card.
-Chorus of Woe,1.0,['Black'],['B'],None,['Sorcery'],None,Common,P02,None,None,None,Creatures you control get +1/+0 until end of turn.
-Brutal Nightstalker,5.0,['Black'],['B'],None,['Creature'],['Nightstalker'],Uncommon,P02,3,2,None,"When Brutal Nightstalker enters the battlefield, you may have target opponent discard a card."
-Bloodcurdling Scream,1.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,P02,None,None,None,Target creature gets +X/+0 until end of turn.
-Ancient Craving,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,P02,None,None,None,You draw three cards and you lose 3 life.
-Abyssal Nightstalker,4.0,['Black'],['B'],None,['Creature'],['Nightstalker'],Uncommon,P02,2,2,None,"Whenever Abyssal Nightstalker attacks and isn't blocked, defending player discards a card."
-Wind Sail,2.0,['Blue'],['U'],None,['Sorcery'],None,Common,P02,None,None,None,One or two target creatures gain flying until end of turn.
-Undo,3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,P02,None,None,None,Return two target creatures to their owners' hands.
-Touch of Brilliance,4.0,['Blue'],['U'],None,['Sorcery'],None,Common,P02,None,None,None,Draw two cards.
-Time Ebb,3.0,['Blue'],['U'],None,['Sorcery'],None,Common,P02,None,None,None,Put target creature on top of its owner's library.
-Tidal Surge,2.0,['Blue'],['U'],None,['Sorcery'],None,Common,P02,None,None,None,Tap up to three target creatures without flying.
-Theft of Dreams,3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,P02,None,None,None,Draw a card for each tapped creature target opponent controls.
-Temporal Manipulation,5.0,['Blue'],['U'],None,['Sorcery'],None,Rare,P02,None,None,None,Take an extra turn after this one.
-Talas Warrior,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Pirate', 'Warrior']",Rare,P02,2,2,None,Talas Warrior can't be blocked.
-Talas Scout,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Pirate', 'Scout']",Common,P02,1,2,None,Flying
-Talas Researcher,5.0,['Blue'],['U'],None,['Creature'],"['Human', 'Pirate', 'Wizard']",Rare,P02,1,1,None,"{T}: Draw a card. Activate only during your turn, before attackers are declared."
-Talas Merchant,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Pirate']",Common,P02,1,3,None,None
-Talas Explorer,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Pirate', 'Scout']",Common,P02,1,1,None,"Flying\nWhen Talas Explorer enters the battlefield, look at target opponent's hand."
-Talas Air Ship,4.0,['Blue'],['U'],None,['Creature'],"['Human', 'Pirate']",Common,P02,3,2,None,Flying
-Steam Frigate,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Pirate']",Common,P02,3,3,None,Steam Frigate can't attack unless defending player controls an Island.
-Sleight of Hand,1.0,['Blue'],['U'],None,['Sorcery'],None,Common,P02,None,None,None,Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
-Sea Drake,3.0,['Blue'],['U'],None,['Creature'],['Drake'],Uncommon,P02,4,3,None,"Flying\nWhen Sea Drake enters the battlefield, return two target lands you control to their owner's hand."
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,P02,None,None,None,({T}: Add {G}.)
-Screeching Drake,4.0,['Blue'],['U'],None,['Creature'],['Drake'],Common,P02,2,2,None,"Flying\nWhen Screeching Drake enters the battlefield, draw a card, then discard a card."
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,P02,None,None,None,({T}: Add {G}.)
-Remove,1.0,['Blue'],['U'],None,['Instant'],None,Uncommon,P02,None,None,None,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nReturn target attacking creature to its owner's hand.
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,P02,None,None,None,({T}: Add {G}.)
-Piracy,2.0,['Blue'],['U'],None,['Sorcery'],None,Rare,P02,None,None,None,"Until end of turn, you may tap lands you don't control for mana. Spend this mana only to cast spells."
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,P02,None,None,None,({T}: Add {R}.)
-Mystic Denial,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,P02,None,None,None,Counter target creature or sorcery spell.
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,P02,None,None,None,({T}: Add {R}.)
-Dakmor Plague,5.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,P02,None,None,None,Dakmor Plague deals 3 damage to each creature and each player.
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,P02,None,None,None,({T}: Add {R}.)
-False Summoning,2.0,['Blue'],['U'],None,['Instant'],None,Common,P02,None,None,None,Counter target creature spell.
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,P02,None,None,None,({T}: Add {B}.)
-Eye Spy,1.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,P02,None,None,None,Look at the top card of target player's library. You may put that card into their graveyard.
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,P02,None,None,None,({T}: Add {B}.)
-Extinguish,2.0,['Blue'],['U'],None,['Instant'],None,Common,P02,None,None,None,Counter target sorcery spell.
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,P02,None,None,None,({T}: Add {B}.)
-Exhaustion,3.0,['Blue'],['U'],None,['Sorcery'],None,Rare,P02,None,None,None,Creatures and lands target opponent controls don't untap during their next untap step.
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,P02,None,None,None,({T}: Add {U}.)
-Déjà Vu,3.0,['Blue'],['U'],None,['Sorcery'],None,Common,P02,None,None,None,Return target sorcery card from your graveyard to your hand.
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,P02,None,None,None,({T}: Add {U}.)
-Denizen of the Deep,8.0,['Blue'],['U'],None,['Creature'],['Serpent'],Rare,P02,11,11,None,"When Denizen of the Deep enters the battlefield, return each other creature you control to its owner's hand."
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,P02,None,None,None,({T}: Add {U}.)
-Coastal Wizard,4.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Rare,P02,1,1,None,"{T}: Return Coastal Wizard and another target creature to their owners' hands. Activate only during your turn, before attackers are declared."
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,P02,None,None,None,({T}: Add {W}.)
-Armored Galleon,5.0,['Blue'],['U'],None,['Creature'],"['Human', 'Pirate']",Uncommon,P02,5,4,None,Armored Galleon can't attack unless defending player controls an Island.
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,P02,None,None,None,({T}: Add {W}.)
-Apprentice Sorcerer,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Uncommon,P02,1,1,None,"{T}: Apprentice Sorcerer deals 1 damage to any target. Activate only during your turn, before attackers are declared."
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,P02,None,None,None,({T}: Add {W}.)
-Air Elemental,5.0,['Blue'],['U'],None,['Creature'],['Elemental'],Uncommon,P02,4,4,None,Flying
-Wild Ox,4.0,['Green'],['G'],None,['Creature'],['Ox'],Uncommon,P02,3,3,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
-Wild Griffin,3.0,['White'],['W'],None,['Creature'],['Griffin'],Common,P02,2,2,None,Flying
-Untamed Wilds,3.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,P02,None,None,None,"Search your library for a basic land card, put that card onto the battlefield, then shuffle."
-Warrior's Stand,2.0,['White'],['W'],None,['Instant'],None,Uncommon,P02,None,None,None,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nCreatures you control get +2/+2 until end of turn.
-Tree Monkey,1.0,['Green'],['G'],None,['Creature'],['Monkey'],Common,P02,1,1,None,Reach (This creature can block creatures with flying.)
-Volunteer Militia,1.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,P02,1,2,None,None
-Sylvan Yeti,4.0,['Green'],['G'],None,['Creature'],['Yeti'],Rare,P02,*,4,None,Sylvan Yeti's power is equal to the number of cards in your hand.
-Vengeance,4.0,['White'],['W'],None,['Sorcery'],None,Uncommon,P02,None,None,None,Destroy target tapped creature.
-Sylvan Basilisk,5.0,['Green'],['G'],None,['Creature'],['Basilisk'],Rare,P02,2,4,None,"Whenever Sylvan Basilisk becomes blocked by a creature, destroy that creature."
-Salvage,1.0,['Green'],['G'],None,['Sorcery'],None,Common,P02,None,None,None,Put target card from your graveyard on top of your library.
-Trokin High Guard,4.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Common,P02,3,3,None,None
-River Bear,4.0,['Green'],['G'],None,['Creature'],['Bear'],Uncommon,P02,3,3,None,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
-Town Sentry,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,P02,2,2,None,"Whenever Town Sentry blocks, it gets +0/+2 until end of turn."
-Renewing Touch,1.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,P02,None,None,None,Shuffle any number of target creature cards from your graveyard into your library.
-Temple Elder,3.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Uncommon,P02,1,2,None,"{T}: You gain 1 life. Activate only during your turn, before attackers are declared."
-Razorclaw Bear,4.0,['Green'],['G'],None,['Creature'],['Bear'],Rare,P02,3,3,None,"Whenever Razorclaw Bear becomes blocked, it gets +2/+2 until end of turn."
-Temple Acolyte,2.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,P02,1,3,None,"When Temple Acolyte enters the battlefield, you gain 3 life."
-Plated Wurm,5.0,['Green'],['G'],None,['Creature'],['Wurm'],Common,P02,4,5,None,None
-Steam Catapult,5.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,P02,2,3,None,"{T}: Destroy target tapped creature. Activate only during your turn, before attackers are declared."
-Righteous Fury,6.0,['White'],['W'],None,['Sorcery'],None,Rare,P02,None,None,None,Destroy all tapped creatures. You gain 2 life for each creature destroyed this way.
-Norwood Warrior,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Common,P02,2,2,None,"Whenever Norwood Warrior becomes blocked, it gets +1/+1 until end of turn."
-Righteous Charge,3.0,['White'],['W'],None,['Sorcery'],None,Common,P02,None,None,None,Creatures you control get +2/+2 until end of turn.
-Norwood Riders,4.0,['Green'],['G'],None,['Creature'],['Elf'],Common,P02,3,3,None,Norwood Riders can't be blocked by more than one creature.
-Rally the Troops,1.0,['White'],['W'],None,['Instant'],None,Uncommon,P02,None,None,None,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nUntap all creatures you control.
-Norwood Ranger,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Scout', 'Ranger']",Common,P02,1,2,None,None
-Path of Peace,4.0,['White'],['W'],None,['Sorcery'],None,Common,P02,None,None,None,Destroy target creature. Its owner gains 4 life.
-Norwood Priestess,4.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Rare,P02,1,1,None,"{T}: You may put a green creature card from your hand onto the battlefield. Activate only during your turn, before attackers are declared."
-Just Fate,3.0,['White'],['W'],None,['Instant'],None,Rare,P02,None,None,None,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nDestroy target attacking creature.
-Norwood Archers,4.0,['Green'],['G'],None,['Creature'],"['Elf', 'Archer']",Common,P02,3,3,None,Reach (This creature can block creatures with flying.)
-Alaborn Grenadier,2.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,P02,2,2,None,Vigilance
-Nature's Lore,2.0,['Green'],['G'],None,['Sorcery'],None,Common,P02,None,None,None,"Search your library for a Forest card, put that card onto the battlefield, then shuffle."
-Alaborn Veteran,3.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Rare,P02,2,2,None,"{T}: Target creature gets +2/+2 until end of turn. Activate only during your turn, before attackers are declared."
-Natural Spring,5.0,['Green'],['G'],None,['Sorcery'],None,Common,P02,None,None,None,Target player gains 8 life.
-Monstrous Growth,2.0,['Green'],['G'],None,['Sorcery'],None,Common,P02,None,None,None,Target creature gets +4/+4 until end of turn.
-Festival of Trokin,1.0,['White'],['W'],None,['Sorcery'],None,Common,P02,None,None,None,You gain 2 life for each creature you control.
-Breath of Life,4.0,['White'],['W'],None,['Sorcery'],None,Common,P02,None,None,None,Return target creature card from your graveyard to the battlefield.
-Lynx,2.0,['Green'],['G'],None,['Creature'],['Cat'],Common,P02,2,1,None,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
-Bargain,3.0,['White'],['W'],None,['Sorcery'],None,Uncommon,P02,None,None,None,Target opponent draws a card.\nYou gain 7 life.
-Lone Wolf,3.0,['Green'],['G'],None,['Creature'],['Wolf'],Uncommon,P02,2,2,None,You may have Lone Wolf assign its combat damage as though it weren't blocked.
-Armored Griffin,4.0,['White'],['W'],None,['Creature'],['Griffin'],Uncommon,P02,2,3,None,"Flying, vigilance"
-Ironhoof Ox,5.0,['Green'],['G'],None,['Creature'],['Ox'],Uncommon,P02,4,4,None,Ironhoof Ox can't be blocked by more than one creature.
-Armageddon,4.0,['White'],['W'],None,['Sorcery'],None,Rare,P02,None,None,None,Destroy all lands.
-Archangel,7.0,['White'],['W'],None,['Creature'],['Angel'],Rare,P02,5,5,None,"Flying, vigilance"
-Hurricane,1.0,['Green'],['G'],None,['Sorcery'],None,Rare,P02,None,None,None,Hurricane deals X damage to each creature with flying and each player.
-Angelic Wall,2.0,['White'],['W'],None,['Creature'],['Wall'],Common,P02,0,4,None,Defender (This creature can't attack.)\nFlying
-Harmony of Nature,3.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,P02,None,None,None,Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.
-Alaborn Zealot,1.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,P02,1,1,None,"When Alaborn Zealot blocks a creature, destroy that creature and Alaborn Zealot."
-Golden Bear,4.0,['Green'],['G'],None,['Creature'],['Bear'],Common,P02,4,3,None,None
-Angel of Mercy,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,P02,3,3,None,"Flying\nWhen Angel of Mercy enters the battlefield, you gain 3 life."
-Angel of Fury,6.0,['White'],['W'],None,['Creature'],['Angel'],Rare,P02,3,5,None,"Flying\nWhen Angel of Fury dies, you may shuffle it into its owner's library."
-Deep Wood,2.0,['Green'],['G'],None,['Instant'],None,Uncommon,P02,None,None,None,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nPrevent all damage that would be dealt to you this turn by attacking creatures.
-Dakmor Bat,2.0,['Black'],['B'],None,['Creature'],['Bat'],Common,P02,1,1,None,Flying
-Deathcoil Wurm,8.0,['Green'],['G'],None,['Creature'],['Wurm'],Rare,P02,7,6,None,You may have Deathcoil Wurm assign its combat damage as though it weren't blocked.
-Angelic Blessing,3.0,['White'],['W'],None,['Sorcery'],None,Common,P02,None,None,None,Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
-Bee Sting,4.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,P02,None,None,None,Bee Sting deals 2 damage to any target.
-Bear Cub,2.0,['Green'],['G'],None,['Creature'],['Bear'],Common,P02,2,2,None,None
-Barbtooth Wurm,6.0,['Green'],['G'],None,['Creature'],['Wurm'],Common,P02,6,4,None,None
-Alaborn Trooper,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,P02,2,3,None,None
-Alluring Scent,3.0,['Green'],['G'],None,['Sorcery'],None,Rare,P02,None,None,None,All creatures able to block target creature this turn do so.
-Alaborn Musketeer,2.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,P02,2,1,None,Reach (This creature can block creatures with flying.)
-Wildfire,6.0,['Red'],['R'],None,['Sorcery'],None,Rare,P02,None,None,None,Each player sacrifices four lands. Wildfire deals 4 damage to each creature.
-Alaborn Cavalier,4.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Uncommon,P02,2,2,None,"Whenever Alaborn Cavalier attacks, you may tap target creature."
-Volcanic Hammer,2.0,['Red'],['R'],None,['Sorcery'],None,Common,P02,None,None,None,Volcanic Hammer deals 3 damage to any target.
-Tremor,1.0,['Red'],['R'],None,['Sorcery'],None,Common,P02,None,None,None,Tremor deals 1 damage to each creature without flying.
-Stone Rain,3.0,['Red'],['R'],None,['Sorcery'],None,Common,P02,None,None,None,Destroy target land.
-Relentless Assault,4.0,['Red'],['R'],None,['Sorcery'],None,Rare,P02,None,None,None,"Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase."
-Spitting Earth,2.0,['Red'],['R'],None,['Sorcery'],None,Common,P02,None,None,None,Spitting Earth deals damage to target creature equal to the number of Mountains you control.
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Wild Griffin,{2}{W},3.0,['W'],['W'],Creature — Griffin,,['Griffin'],Common,Flying,30,2,2,,P02,Portal Second Age
+Rain of Daggers,{4}{B}{B},6.0,['B'],['B'],Sorcery,,,Rare,Destroy all creatures target opponent controls. You lose 2 life for each creature destroyed this way.,85,,,,P02,Portal Second Age
+Ogre Berserker,{4}{R},5.0,['R'],['R'],Creature — Ogre Berserker,,"['Ogre', 'Berserker']",Common,Haste,111,4,2,,P02,Portal Second Age
+Predatory Nightstalker,{3}{B}{B},5.0,['B'],['B'],Creature — Nightstalker,,['Nightstalker'],Uncommon,"When Predatory Nightstalker enters the battlefield, you may have target opponent sacrifice a creature.",82,3,2,,P02,Portal Second Age
+Dark Offering,{4}{B}{B},6.0,['B'],['B'],Sorcery,,,Uncommon,Destroy target nonblack creature. You gain 3 life.,72,,,,P02,Portal Second Age
+Talas Merchant,{1}{U},2.0,['U'],['U'],Creature — Human Pirate,,"['Human', 'Pirate']",Common,,50,1,3,,P02,Portal Second Age
+Remove,{U},1.0,['U'],['U'],Instant,,,Uncommon,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nReturn target attacking creature to its owner's hand.,43,,,,P02,Portal Second Age
+Lurking Nightstalker,{B}{B},2.0,['B'],['B'],Creature — Nightstalker,,['Nightstalker'],Common,"Whenever Lurking Nightstalker attacks, it gets +2/+0 until end of turn.",77,1,1,,P02,Portal Second Age
+Touch of Brilliance,{3}{U},4.0,['U'],['U'],Sorcery,,,Common,Draw two cards.,58,,,,P02,Portal Second Age
+Goblin War Strike,{R},1.0,['R'],['R'],Sorcery,,,Common,Goblin War Strike deals damage to target player or planeswalker equal to the number of Goblins you control.,105,,,,P02,Portal Second Age
+Piracy,{U}{U},2.0,['U'],['U'],Sorcery,,,Rare,"Until end of turn, you may tap lands you don't control for mana. Spend this mana only to cast spells.",42,,,,P02,Portal Second Age
+Warrior's Stand,{1}{W},2.0,['W'],['W'],Instant,,,Uncommon,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nCreatures you control get +2/+2 until end of turn.,29,,,,P02,Portal Second Age
+Sea Drake,{2}{U},3.0,['U'],['U'],Creature — Drake,,['Drake'],Uncommon,"Flying\nWhen Sea Drake enters the battlefield, return two target lands you control to their owner's hand.",45,4,3,,P02,Portal Second Age
+Vengeance,{3}{W},4.0,['W'],['W'],Sorcery,,,Uncommon,Destroy target tapped creature.,27,,,,P02,Portal Second Age
+Alaborn Zealot,{W},1.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Uncommon,"When Alaborn Zealot blocks a creature, destroy that creature and Alaborn Zealot.",6,1,1,,P02,Portal Second Age
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),160,,,,P02,Portal Second Age
+Déjà Vu,{2}{U},3.0,['U'],['U'],Sorcery,,,Common,Return target sorcery card from your graveyard to your hand.,36,,,,P02,Portal Second Age
+Screeching Drake,{3}{U},4.0,['U'],['U'],Creature — Drake,,['Drake'],Common,"Flying\nWhen Screeching Drake enters the battlefield, draw a card, then discard a card.",44,2,2,,P02,Portal Second Age
+Archangel,{5}{W}{W},7.0,['W'],['W'],Creature — Angel,,['Angel'],Rare,"Flying, vigilance",11,5,5,,P02,Portal Second Age
+Sleight of Hand,{U},1.0,['U'],['U'],Sorcery,,,Common,Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.,46,,,,P02,Portal Second Age
+Goblin Cavaliers,{2}{R},3.0,['R'],['R'],Creature — Goblin,,['Goblin'],Common,,95,3,2,,P02,Portal Second Age
+Raise Dead,{B},1.0,['B'],['B'],Sorcery,,,Common,Return target creature card from your graveyard to your hand.,86,,,,P02,Portal Second Age
+Denizen of the Deep,{6}{U}{U},8.0,['U'],['U'],Creature — Serpent,,['Serpent'],Rare,"When Denizen of the Deep enters the battlefield, return each other creature you control to its owner's hand.",35,11,11,,P02,Portal Second Age
+Cruel Edict,{1}{B},2.0,['B'],['B'],Sorcery,,,Common,Target opponent sacrifices a creature.,67,,,,P02,Portal Second Age
+Mystic Denial,{1}{U}{U},3.0,['U'],['U'],Instant,,,Uncommon,Counter target creature or sorcery spell.,41,,,,P02,Portal Second Age
+Coastal Wizard,{2}{U}{U},4.0,['U'],['U'],Creature — Human Wizard,,"['Human', 'Wizard']",Rare,"{T}: Return Coastal Wizard and another target creature to their owners' hands. Activate only during your turn, before attackers are declared.",34,1,1,,P02,Portal Second Age
+Ravenous Rats,{1}{B},2.0,['B'],['B'],Creature — Rat,,['Rat'],Common,"When Ravenous Rats enters the battlefield, target opponent discards a card.",87,1,1,,P02,Portal Second Age
+Breath of Life,{3}{W},4.0,['W'],['W'],Sorcery,,,Common,Return target creature card from your graveyard to the battlefield.,15,,,,P02,Portal Second Age
+Time Ebb,{2}{U},3.0,['U'],['U'],Sorcery,,,Common,Put target creature on top of its owner's library.,57,,,,P02,Portal Second Age
+Ogre Warrior,{3}{R},4.0,['R'],['R'],Creature — Ogre Warrior,,"['Ogre', 'Warrior']",Common,,113,3,3,,P02,Portal Second Age
+Angel of Fury,{4}{W}{W},6.0,['W'],['W'],Creature — Angel,,['Angel'],Rare,"Flying\nWhen Angel of Fury dies, you may shuffle it into its owner's library.",7,3,5,,P02,Portal Second Age
+Relentless Assault,{2}{R}{R},4.0,['R'],['R'],Sorcery,,,Rare,"Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.",115,,,,P02,Portal Second Age
+Muck Rats,{B},1.0,['B'],['B'],Creature — Rat,,['Rat'],Common,,80,1,1,,P02,Portal Second Age
+Goblin Glider,{1}{R},2.0,['R'],['R'],Creature — Goblin,,['Goblin'],Common,Flying\nGoblin Glider can't block.,98,1,1,,P02,Portal Second Age
+Alaborn Trooper,{2}{W},3.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Common,,4,2,3,,P02,Portal Second Age
+Ancient Craving,{3}{B},4.0,['B'],['B'],Sorcery,,,Rare,You draw three cards and you lose 3 life.,62,,,,P02,Portal Second Age
+Wind Sail,{1}{U},2.0,['U'],['U'],Sorcery,,,Common,One or two target creatures gain flying until end of turn.,60,,,,P02,Portal Second Age
+Festival of Trokin,{W},1.0,['W'],['W'],Sorcery,,,Common,You gain 2 life for each creature you control.,16,,,,P02,Portal Second Age
+Return of the Nightstalkers,{5}{B}{B},7.0,['B'],['B'],Sorcery,,,Rare,Return all Nightstalker permanent cards from your graveyard to the battlefield. Then destroy all Swamps you control.,88,,,,P02,Portal Second Age
+Obsidian Giant,{4}{R},5.0,['R'],['R'],Creature — Giant,,['Giant'],Uncommon,,109,4,4,,P02,Portal Second Age
+Temple Elder,{2}{W},3.0,['W'],['W'],Creature — Human Cleric,,"['Human', 'Cleric']",Uncommon,"{T}: You gain 1 life. Activate only during your turn, before attackers are declared.",24,1,2,,P02,Portal Second Age
+Chorus of Woe,{B},1.0,['B'],['B'],Sorcery,,,Common,Creatures you control get +1/+0 until end of turn.,65,,,,P02,Portal Second Age
+Angel of Mercy,{4}{W},5.0,['W'],['W'],Creature — Angel,,['Angel'],Uncommon,"Flying\nWhen Angel of Mercy enters the battlefield, you gain 3 life.",8,3,3,,P02,Portal Second Age
+Air Elemental,{3}{U}{U},5.0,['U'],['U'],Creature — Elemental,,['Elemental'],Uncommon,Flying,31,4,4,,P02,Portal Second Age
+Talas Air Ship,{3}{U},4.0,['U'],['U'],Creature — Human Pirate,,"['Human', 'Pirate']",Common,Flying,48,3,2,,P02,Portal Second Age
+Wild Ox,{3}{G},4.0,['G'],['G'],Creature — Ox,,['Ox'],Uncommon,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),150,3,3,,P02,Portal Second Age
+Tree Monkey,{G},1.0,['G'],['G'],Creature — Monkey,,['Monkey'],Common,Reach (This creature can block creatures with flying.),148,1,1,,P02,Portal Second Age
+Apprentice Sorcerer,{2}{U},3.0,['U'],['U'],Creature — Human Wizard,,"['Human', 'Wizard']",Uncommon,"{T}: Apprentice Sorcerer deals 1 damage to any target. Activate only during your turn, before attackers are declared.",32,1,1,,P02,Portal Second Age
+Alaborn Veteran,{2}{W},3.0,['W'],['W'],Creature — Human Knight,,"['Human', 'Knight']",Rare,"{T}: Target creature gets +2/+2 until end of turn. Activate only during your turn, before attackers are declared.",5,2,2,,P02,Portal Second Age
+Bear Cub,{1}{G},2.0,['G'],['G'],Creature — Bear,,['Bear'],Common,,123,2,2,,P02,Portal Second Age
+Steam Catapult,{3}{W}{W},5.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Rare,"{T}: Destroy target tapped creature. Activate only during your turn, before attackers are declared.",22,2,3,,P02,Portal Second Age
+Bee Sting,{3}{G},4.0,['G'],['G'],Sorcery,,,Uncommon,Bee Sting deals 2 damage to any target.,124,,,,P02,Portal Second Age
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),156,,,,P02,Portal Second Age
+Deep Wood,{1}{G},2.0,['G'],['G'],Instant,,,Uncommon,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nPrevent all damage that would be dealt to you this turn by attacking creatures.,126,,,,P02,Portal Second Age
+Alaborn Cavalier,{2}{W}{W},4.0,['W'],['W'],Creature — Human Knight,,"['Human', 'Knight']",Uncommon,"Whenever Alaborn Cavalier attacks, you may tap target creature.",1,2,2,,P02,Portal Second Age
+Nightstalker Engine,{4}{B},5.0,['B'],['B'],Creature — Nightstalker,,['Nightstalker'],Rare,Nightstalker Engine's power is equal to the number of creature cards in your graveyard.,81,*,3,,P02,Portal Second Age
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),164,,,,P02,Portal Second Age
+Cunning Giant,{5}{R},6.0,['R'],['R'],Creature — Giant,,['Giant'],Rare,"If Cunning Giant is unblocked, you may have it assign its combat damage to a creature defending player controls.",93,4,4,,P02,Portal Second Age
+Goblin Matron,{2}{R},3.0,['R'],['R'],Creature — Goblin,,['Goblin'],Uncommon,"When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle.",100,1,1,,P02,Portal Second Age
+Blaze,{X}{R},1.0,['R'],['R'],Sorcery,,,Uncommon,Blaze deals X damage to any target.,91,,,,P02,Portal Second Age
+Talas Researcher,{4}{U},5.0,['U'],['U'],Creature — Human Pirate Wizard,,"['Human', 'Pirate', 'Wizard']",Rare,"{T}: Draw a card. Activate only during your turn, before attackers are declared.",51,1,1,,P02,Portal Second Age
+Goblin Firestarter,{R},1.0,['R'],['R'],Creature — Goblin,,['Goblin'],Uncommon,"Sacrifice Goblin Firestarter: It deals 1 damage to any target. Activate only during your turn, before attackers are declared.",96,1,1,,P02,Portal Second Age
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),153,,,,P02,Portal Second Age
+Vampiric Spirit,{2}{B}{B},4.0,['B'],['B'],Creature — Spirit,,['Spirit'],Rare,"Flying\nWhen Vampiric Spirit enters the battlefield, you lose 4 life.",90,4,3,,P02,Portal Second Age
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),155,,,,P02,Portal Second Age
+Goblin Lore,{1}{R},2.0,['R'],['R'],Sorcery,,,Uncommon,"Draw four cards, then discard three cards at random.",99,,,,P02,Portal Second Age
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),154,,,,P02,Portal Second Age
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),152,,,,P02,Portal Second Age
+Righteous Charge,{1}{W}{W},3.0,['W'],['W'],Sorcery,,,Common,Creatures you control get +2/+2 until end of turn.,20,,,,P02,Portal Second Age
+Sylvan Yeti,{2}{G}{G},4.0,['G'],['G'],Creature — Yeti,,['Yeti'],Rare,Sylvan Yeti's power is equal to the number of cards in your hand.,147,*,4,,P02,Portal Second Age
+Moaning Spirit,{2}{B},3.0,['B'],['B'],Creature — Spirit,,['Spirit'],Common,Flying,79,2,1,,P02,Portal Second Age
+Earthquake,{X}{R},1.0,['R'],['R'],Sorcery,,,Rare,Earthquake deals X damage to each creature without flying and each player.,94,,,,P02,Portal Second Age
+Dakmor Bat,{1}{B},2.0,['B'],['B'],Creature — Bat,,['Bat'],Common,Flying,68,1,1,,P02,Portal Second Age
+Goblin Piker,{1}{R},2.0,['R'],['R'],Creature — Goblin Warrior,,"['Goblin', 'Warrior']",Common,,102,2,1,,P02,Portal Second Age
+Path of Peace,{3}{W},4.0,['W'],['W'],Sorcery,,,Common,Destroy target creature. Its owner gains 4 life.,18,,,,P02,Portal Second Age
+Coercion,{2}{B},3.0,['B'],['B'],Sorcery,,,Uncommon,Target opponent reveals their hand. You choose a card from it. That player discards that card.,66,,,,P02,Portal Second Age
+Kiss of Death,{4}{B}{B},6.0,['B'],['B'],Sorcery,,,Uncommon,Kiss of Death deals 4 damage to target opponent or planeswalker. You gain 4 life.,76,,,,P02,Portal Second Age
+Angelic Blessing,{2}{W},3.0,['W'],['W'],Sorcery,,,Common,Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.),9,,,,P02,Portal Second Age
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),161,,,,P02,Portal Second Age
+Alluring Scent,{1}{G}{G},3.0,['G'],['G'],Sorcery,,,Rare,All creatures able to block target creature this turn do so.,121,,,,P02,Portal Second Age
+Plated Wurm,{4}{G},5.0,['G'],['G'],Creature — Wurm,,['Wurm'],Common,,141,4,5,,P02,Portal Second Age
+Foul Spirit,{2}{B},3.0,['B'],['B'],Creature — Spirit,,['Spirit'],Uncommon,"Flying\nWhen Foul Spirit enters the battlefield, sacrifice a land.",73,3,2,,P02,Portal Second Age
+Just Fate,{2}{W},3.0,['W'],['W'],Instant,,,Rare,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nDestroy target attacking creature.,17,,,,P02,Portal Second Age
+Wildfire,{4}{R}{R},6.0,['R'],['R'],Sorcery,,,Rare,Each player sacrifices four lands. Wildfire deals 4 damage to each creature.,120,,,,P02,Portal Second Age
+Volcanic Hammer,{1}{R},2.0,['R'],['R'],Sorcery,,,Common,Volcanic Hammer deals 3 damage to any target.,119,,,,P02,Portal Second Age
+Dakmor Plague,{3}{B}{B},5.0,['B'],['B'],Sorcery,,,Uncommon,Dakmor Plague deals 3 damage to each creature and each player.,69,,,,P02,Portal Second Age
+Barbtooth Wurm,{5}{G},6.0,['G'],['G'],Creature — Wurm,,['Wurm'],Common,,122,6,4,,P02,Portal Second Age
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),151,,,,P02,Portal Second Age
+Hand of Death,{2}{B},3.0,['B'],['B'],Sorcery,,,Common,Destroy target nonblack creature.,74,,,,P02,Portal Second Age
+Tremor,{R},1.0,['R'],['R'],Sorcery,,,Common,Tremor deals 1 damage to each creature without flying.,118,,,,P02,Portal Second Age
+Brutal Nightstalker,{3}{B}{B},5.0,['B'],['B'],Creature — Nightstalker,,['Nightstalker'],Uncommon,"When Brutal Nightstalker enters the battlefield, you may have target opponent discard a card.",64,3,2,,P02,Portal Second Age
+Extinguish,{1}{U},2.0,['U'],['U'],Instant,,,Common,Counter target sorcery spell.,38,,,,P02,Portal Second Age
+False Summoning,{1}{U},2.0,['U'],['U'],Instant,,,Common,Counter target creature spell.,40,,,,P02,Portal Second Age
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),157,,,,P02,Portal Second Age
+Mind Rot,{2}{B},3.0,['B'],['B'],Sorcery,,,Common,Target player discards two cards.,78,,,,P02,Portal Second Age
+Dakmor Sorceress,{5}{B},6.0,['B'],['B'],Creature — Human Wizard,,"['Human', 'Wizard']",Rare,Dakmor Sorceress's power is equal to the number of Swamps you control.,71,*,4,,P02,Portal Second Age
+Monstrous Growth,{1}{G},2.0,['G'],['G'],Sorcery,,,Common,Target creature gets +4/+4 until end of turn.,133,,,,P02,Portal Second Age
+Town Sentry,{2}{W},3.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Common,"Whenever Town Sentry blocks, it gets +0/+2 until end of turn.",25,2,2,,P02,Portal Second Age
+Lone Wolf,{2}{G},3.0,['G'],['G'],Creature — Wolf,,['Wolf'],Uncommon,You may have Lone Wolf assign its combat damage as though it weren't blocked.,131,2,2,,P02,Portal Second Age
+Goblin Raider,{1}{R},2.0,['R'],['R'],Creature — Goblin Warrior,,"['Goblin', 'Warrior']",Common,Goblin Raider can't block.,103,2,2,,P02,Portal Second Age
+Armored Galleon,{4}{U},5.0,['U'],['U'],Creature — Human Pirate,,"['Human', 'Pirate']",Uncommon,Armored Galleon can't attack unless defending player controls an Island.,33,5,4,,P02,Portal Second Age
+Norwood Archers,{3}{G},4.0,['G'],['G'],Creature — Elf Archer,,"['Elf', 'Archer']",Common,Reach (This creature can block creatures with flying.),136,3,3,,P02,Portal Second Age
+Raging Goblin,{R},1.0,['R'],['R'],Creature — Goblin Berserker,,"['Goblin', 'Berserker']",Common,Haste (This creature can attack and {T} as soon as it comes under your control.),114,1,1,,P02,Portal Second Age
+Natural Spring,{3}{G}{G},5.0,['G'],['G'],Sorcery,,,Common,Target player gains 8 life.,134,,,,P02,Portal Second Age
+Theft of Dreams,{2}{U},3.0,['U'],['U'],Sorcery,,,Uncommon,Draw a card for each tapped creature target opponent controls.,55,,,,P02,Portal Second Age
+Nature's Lore,{1}{G},2.0,['G'],['G'],Sorcery,,,Common,"Search your library for a Forest card, put that card onto the battlefield, then shuffle.",135,,,,P02,Portal Second Age
+Righteous Fury,{4}{W}{W},6.0,['W'],['W'],Sorcery,,,Rare,Destroy all tapped creatures. You gain 2 life for each creature destroyed this way.,21,,,,P02,Portal Second Age
+Norwood Ranger,{G},1.0,['G'],['G'],Creature — Elf Scout Ranger,,"['Elf', 'Scout', 'Ranger']",Common,,138,1,2,,P02,Portal Second Age
+Temple Acolyte,{1}{W},2.0,['W'],['W'],Creature — Human Cleric,,"['Human', 'Cleric']",Common,"When Temple Acolyte enters the battlefield, you gain 3 life.",23,1,3,,P02,Portal Second Age
+Armored Griffin,{3}{W},4.0,['W'],['W'],Creature — Griffin,,['Griffin'],Uncommon,"Flying, vigilance",13,2,3,,P02,Portal Second Age
+Salvage,{G},1.0,['G'],['G'],Sorcery,,,Common,Put target card from your graveyard on top of your library.,145,,,,P02,Portal Second Age
+Ironhoof Ox,{3}{G}{G},5.0,['G'],['G'],Creature — Ox,,['Ox'],Uncommon,Ironhoof Ox can't be blocked by more than one creature.,130,4,4,,P02,Portal Second Age
+Talas Warrior,{1}{U}{U},3.0,['U'],['U'],Creature — Human Pirate Warrior,,"['Human', 'Pirate', 'Warrior']",Rare,Talas Warrior can't be blocked.,53,2,2,,P02,Portal Second Age
+Talas Explorer,{1}{U},2.0,['U'],['U'],Creature — Human Pirate Scout,,"['Human', 'Pirate', 'Scout']",Common,"Flying\nWhen Talas Explorer enters the battlefield, look at target opponent's hand.",49,1,1,,P02,Portal Second Age
+Harmony of Nature,{2}{G},3.0,['G'],['G'],Sorcery,,,Uncommon,Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.,128,,,,P02,Portal Second Age
+Golden Bear,{3}{G},4.0,['G'],['G'],Creature — Bear,,['Bear'],Common,,127,4,3,,P02,Portal Second Age
+Hurricane,{X}{G},1.0,['G'],['G'],Sorcery,,,Rare,Hurricane deals X damage to each creature with flying and each player.,129,,,,P02,Portal Second Age
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),162,,,,P02,Portal Second Age
+Prowling Nightstalker,{3}{B},4.0,['B'],['B'],Creature — Nightstalker,,['Nightstalker'],Common,Prowling Nightstalker can't be blocked except by black creatures.,83,2,2,,P02,Portal Second Age
+Ogre Arsonist,{4}{R},5.0,['R'],['R'],Creature — Ogre,,['Ogre'],Uncommon,"When Ogre Arsonist enters the battlefield, destroy target land.",110,3,3,,P02,Portal Second Age
+Lynx,{1}{G},2.0,['G'],['G'],Creature — Cat,,['Cat'],Common,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),132,2,1,,P02,Portal Second Age
+Bargain,{2}{W},3.0,['W'],['W'],Sorcery,,,Uncommon,Target opponent draws a card.\nYou gain 7 life.,14,,,,P02,Portal Second Age
+Deathcoil Wurm,{6}{G}{G},8.0,['G'],['G'],Creature — Wurm,,['Wurm'],Rare,You may have Deathcoil Wurm assign its combat damage as though it weren't blocked.,125,7,6,,P02,Portal Second Age
+Talas Scout,{1}{U},2.0,['U'],['U'],Creature — Human Pirate Scout,,"['Human', 'Pirate', 'Scout']",Common,Flying,52,1,2,,P02,Portal Second Age
+Steam Frigate,{2}{U},3.0,['U'],['U'],Creature — Human Pirate,,"['Human', 'Pirate']",Common,Steam Frigate can't attack unless defending player controls an Island.,47,3,3,,P02,Portal Second Age
+Goblin General,{1}{R}{R},3.0,['R'],['R'],Creature — Goblin Warrior,,"['Goblin', 'Warrior']",Rare,"Whenever Goblin General attacks, Goblin creatures you control get +1/+1 until end of turn.",97,1,1,,P02,Portal Second Age
+Rally the Troops,{W},1.0,['W'],['W'],Instant,,,Uncommon,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nUntap all creatures you control.,19,,,,P02,Portal Second Age
+Stone Rain,{2}{R},3.0,['R'],['R'],Sorcery,,,Common,Destroy target land.,117,,,,P02,Portal Second Age
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),165,,,,P02,Portal Second Age
+Spitting Earth,{1}{R},2.0,['R'],['R'],Sorcery,,,Common,Spitting Earth deals damage to target creature equal to the number of Mountains you control.,116,,,,P02,Portal Second Age
+Brimstone Dragon,{6}{R}{R},8.0,['R'],['R'],Creature — Dragon,,['Dragon'],Rare,"Flying, haste",92,6,6,,P02,Portal Second Age
+Dakmor Scorpion,{1}{B},2.0,['B'],['B'],Creature — Scorpion,,['Scorpion'],Common,,70,2,1,,P02,Portal Second Age
+Lava Axe,{4}{R},5.0,['R'],['R'],Sorcery,,,Common,Lava Axe deals 5 damage to target player or planeswalker.,107,,,,P02,Portal Second Age
+Exhaustion,{2}{U},3.0,['U'],['U'],Sorcery,,,Rare,Creatures and lands target opponent controls don't untap during their next untap step.,37,,,,P02,Portal Second Age
+Ogre Taskmaster,{3}{R},4.0,['R'],['R'],Creature — Ogre,,['Ogre'],Uncommon,Ogre Taskmaster can't block.,112,4,3,,P02,Portal Second Age
+Swarm of Rats,{1}{B},2.0,['B'],['B'],Creature — Rat,,['Rat'],Common,Swarm of Rats's power is equal to the number of Rats you control.,89,*,1,,P02,Portal Second Age
+Armageddon,{3}{W},4.0,['W'],['W'],Sorcery,,,Rare,Destroy all lands.,12,,,,P02,Portal Second Age
+Raiding Nightstalker,{2}{B},3.0,['B'],['B'],Creature — Nightstalker,,['Nightstalker'],Common,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),84,2,2,,P02,Portal Second Age
+Abyssal Nightstalker,{3}{B},4.0,['B'],['B'],Creature — Nightstalker,,['Nightstalker'],Uncommon,"Whenever Abyssal Nightstalker attacks and isn't blocked, defending player discards a card.",61,2,2,,P02,Portal Second Age
+Magma Giant,{5}{R}{R},7.0,['R'],['R'],Creature — Giant,,['Giant'],Rare,"When Magma Giant enters the battlefield, it deals 2 damage to each creature and each player.",108,5,5,,P02,Portal Second Age
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),163,,,,P02,Portal Second Age
+Bloodcurdling Scream,{X}{B},1.0,['B'],['B'],Sorcery,,,Uncommon,Target creature gets +X/+0 until end of turn.,63,,,,P02,Portal Second Age
+Untamed Wilds,{2}{G},3.0,['G'],['G'],Sorcery,,,Uncommon,"Search your library for a basic land card, put that card onto the battlefield, then shuffle.",149,,,,P02,Portal Second Age
+Undo,{1}{U}{U},3.0,['U'],['U'],Sorcery,,,Uncommon,Return two target creatures to their owners' hands.,59,,,,P02,Portal Second Age
+Norwood Warrior,{2}{G},3.0,['G'],['G'],Creature — Elf Warrior,,"['Elf', 'Warrior']",Common,"Whenever Norwood Warrior becomes blocked, it gets +1/+1 until end of turn.",140,2,2,,P02,Portal Second Age
+Goblin Mountaineer,{R},1.0,['R'],['R'],Creature — Goblin Scout,,"['Goblin', 'Scout']",Common,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.),101,1,1,,P02,Portal Second Age
+Temporal Manipulation,{3}{U}{U},5.0,['U'],['U'],Sorcery,,,Rare,Take an extra turn after this one.,54,,,,P02,Portal Second Age
+Jagged Lightning,{3}{R}{R},5.0,['R'],['R'],Sorcery,,,Uncommon,Jagged Lightning deals 3 damage to each of two target creatures.,106,,,,P02,Portal Second Age
+Volunteer Militia,{W},1.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Common,,28,1,2,,P02,Portal Second Age
+Alaborn Grenadier,{W}{W},2.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Common,Vigilance,2,2,2,,P02,Portal Second Age
+Norwood Priestess,{2}{G}{G},4.0,['G'],['G'],Creature — Elf Druid,,"['Elf', 'Druid']",Rare,"{T}: You may put a green creature card from your hand onto the battlefield. Activate only during your turn, before attackers are declared.",137,1,1,,P02,Portal Second Age
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),159,,,,P02,Portal Second Age
+Angelic Wall,{1}{W},2.0,['W'],['W'],Creature — Wall,,['Wall'],Common,Defender (This creature can't attack.)\nFlying,10,0,4,,P02,Portal Second Age
+Trokin High Guard,{3}{W},4.0,['W'],['W'],Creature — Human Knight,,"['Human', 'Knight']",Common,,26,3,3,,P02,Portal Second Age
+Renewing Touch,{G},1.0,['G'],['G'],Sorcery,,,Uncommon,Shuffle any number of target creature cards from your graveyard into your library.,143,,,,P02,Portal Second Age
+Sylvan Basilisk,{3}{G}{G},5.0,['G'],['G'],Creature — Basilisk,,['Basilisk'],Rare,"Whenever Sylvan Basilisk becomes blocked by a creature, destroy that creature.",146,2,4,,P02,Portal Second Age
+Tidal Surge,{1}{U},2.0,['U'],['U'],Sorcery,,,Common,Tap up to three target creatures without flying.,56,,,,P02,Portal Second Age
+Alaborn Musketeer,{1}{W},2.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Common,Reach (This creature can block creatures with flying.),3,2,1,,P02,Portal Second Age
+River Bear,{3}{G},4.0,['G'],['G'],Creature — Bear,,['Bear'],Uncommon,Islandwalk (This creature can't be blocked as long as defending player controls an Island.),144,3,3,,P02,Portal Second Age
+Eye Spy,{U},1.0,['U'],['U'],Sorcery,,,Uncommon,Look at the top card of target player's library. You may put that card into their graveyard.,39,,,,P02,Portal Second Age
+Goblin War Cry,{2}{R},3.0,['R'],['R'],Sorcery,,,Uncommon,Target opponent chooses a creature they control. Other creatures they control can't block this turn.,104,,,,P02,Portal Second Age
+Norwood Riders,{3}{G},4.0,['G'],['G'],Creature — Elf,,['Elf'],Common,Norwood Riders can't be blocked by more than one creature.,139,3,3,,P02,Portal Second Age
+Razorclaw Bear,{2}{G}{G},4.0,['G'],['G'],Creature — Bear,,['Bear'],Rare,"Whenever Razorclaw Bear becomes blocked, it gets +2/+2 until end of turn.",142,3,3,,P02,Portal Second Age
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),158,,,,P02,Portal Second Age
+Hidden Horror,{1}{B}{B},3.0,['B'],['B'],Creature — Horror,,['Horror'],Rare,"When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.",75,4,4,,P02,Portal Second Age

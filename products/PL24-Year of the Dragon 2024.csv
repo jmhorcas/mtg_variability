@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Dragonlord's Servant,{1}{R},2.0,['R'],['R'],Creature — Goblin Shaman,,"['Goblin', 'Shaman']",Rare,Dragon spells you cast cost {1} less to cast.,1,1,3,,PL24,Year of the Dragon 2024

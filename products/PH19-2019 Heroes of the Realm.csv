@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Collectigull // Only the Best,{2}{W},3.0,['W'],['W'],Creature — Bird,,['Bird'],Mythic,"Flying, protection from common\nWhenever Collectigull attacks, reveal the top card of your library. If it's a Booster Fun card, you may put it into your hand.",1,1,1,,PH19,2019 Heroes of the Realm

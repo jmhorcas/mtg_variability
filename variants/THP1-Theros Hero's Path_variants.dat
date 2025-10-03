@@ -1,10 +1,16 @@
-CMC: set()
-Colors: set()
-ColorIdentity: set()
-Supertypes: set()
-Types: {'Hero'}
-Subtypes: set()
-Rarity: {'Common'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['The Protector']
+mana_cost: []
+cmc: [0.0]
+colors: []
+color_identity: []
+type: ['Hero']
+supertypes: []
+subtypes: []
+rarity: ['Common']
+text: ['{T}: Prevent the next 1 damage that would be dealt to any target this turn.']
+number: ['1a']
+power: []
+toughness: []
+loyalty: []
+set: ['THP1']
+set_name: ["Theros Hero's Path"]

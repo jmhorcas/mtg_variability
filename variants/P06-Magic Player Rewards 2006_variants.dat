@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Instant', 'Creature', 'Sorcery'}
-Subtypes: {'Specter'}
-Rarity: {'Rare'}
-Power: {'2'}
-Toughness: {'2'}
-Loyalty: set()
+name: ['Hypnotic Specter']
+mana_cost: ['{1}{B}{B}']
+cmc: [3.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Creature — Specter']
+supertypes: []
+subtypes: ['Specter']
+rarity: ['Rare']
+text: ['Flying\nWhenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.']
+number: ['1']
+power: ['2']
+toughness: ['2']
+loyalty: []
+set: ['P06']
+set_name: ['Magic Player Rewards 2006']

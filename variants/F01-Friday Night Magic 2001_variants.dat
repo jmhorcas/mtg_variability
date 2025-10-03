@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 6.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Instant', 'Creature'}
-Subtypes: {'Snake', 'Elf', 'Ranger', 'Jackal', 'Zombie'}
-Rarity: {'Rare'}
-Power: {'2', '1'}
-Toughness: {'3', '2', '1'}
-Loyalty: set()
+name: ['Swords to Plowshares']
+mana_cost: ['{W}']
+cmc: [1.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Instant']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['Exile target creature. Its controller gains life equal to its power.']
+number: ['6']
+power: []
+toughness: []
+loyalty: []
+set: ['F01']
+set_name: ['Friday Night Magic 2001']

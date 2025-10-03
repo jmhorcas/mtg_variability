@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 10.0, 11.0, 13.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Ooze', 'Zombie', 'Vampire', 'Equipment', 'Horror', 'Dragon', 'Construct', 'Angel', 'Wolf', 'Boar', 'Knight', 'Human', 'Cleric', 'Devil', 'Eldrazi', 'Shapeshifter', 'Plant', 'Spider', 'Liliana', 'Treefolk', 'Spirit', 'Octopus', 'Warrior', 'Soldier', 'Insect', 'Wizard', 'Werewolf', 'Tamiyo', 'Aura'}
-Rarity: {'Rare', 'Mythic', 'Uncommon'}
-Power: {'13', '4', '7', '5', '1', '2', '9', '0', '3', '6'}
-Toughness: {'13', '4', '7', '5', '1', '2', '0', '3', '6', '10'}
-Loyalty: {'3', '4'}
+name: ['Decimator of the Provinces']
+mana_cost: ['{10}']
+cmc: [10.0]
+colors: []
+color_identity: ['G']
+type: ['Creature — Eldrazi Boar']
+supertypes: []
+subtypes: ['Boar', 'Eldrazi']
+rarity: ['Mythic']
+text: ["Emerge {6}{G}{G}{G} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)\nWhen you cast this spell, creatures you control get +2/+2 and gain trample until end of turn.\nTrample, haste"]
+number: ['2s']
+power: ['7']
+toughness: ['7']
+loyalty: []
+set: ['PEMN']
+set_name: ['Eldritch Moon Promos']

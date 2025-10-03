@@ -1,16 +1,2 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PALP,None,None,None,({T}: Add {R}.)
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PALP,None,None,None,({T}: Add {G}.)
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PALP,None,None,None,({T}: Add {B}.)
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PALP,None,None,None,({T}: Add {G}.)
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PALP,None,None,None,({T}: Add {U}.)
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PALP,None,None,None,({T}: Add {B}.)
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,PALP,None,None,None,({T}: Add {B}.)
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PALP,None,None,None,({T}: Add {W}.)
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,PALP,None,None,None,({T}: Add {G}.)
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PALP,None,None,None,({T}: Add {W}.)
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,PALP,None,None,None,({T}: Add {W}.)
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PALP,None,None,None,({T}: Add {U}.)
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PALP,None,None,None,({T}: Add {R}.)
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,PALP,None,None,None,({T}: Add {U}.)
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,PALP,None,None,None,({T}: Add {R}.)
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),1,,,,PALP,Asia Pacific Land Program

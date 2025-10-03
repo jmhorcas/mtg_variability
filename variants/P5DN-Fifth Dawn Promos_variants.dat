@@ -1,10 +1,16 @@
-CMC: {3.0}
-Colors: set()
-ColorIdentity: set()
-Supertypes: {'Legendary'}
-Types: {'Artifact'}
-Subtypes: {'Equipment'}
-Rarity: {'Rare'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['Helm of Kaldra']
+mana_cost: ['{3}']
+cmc: [3.0]
+colors: []
+color_identity: []
+type: ['Legendary Artifact — Equipment']
+supertypes: ['Legendary']
+subtypes: ['Equipment']
+rarity: ['Rare']
+text: ['Equipped creature has first strike, trample, and haste.\n{1}: If you control Equipment named Helm of Kaldra, Sword of Kaldra, and Shield of Kaldra, create Kaldra, a legendary 4/4 colorless Avatar creature token. Attach those Equipment to it.\nEquip {2}']
+number: ['131★']
+power: []
+toughness: []
+loyalty: []
+set: ['P5DN']
+set_name: ['Fifth Dawn Promos']

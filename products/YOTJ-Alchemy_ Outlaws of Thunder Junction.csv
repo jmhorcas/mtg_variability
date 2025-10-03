@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Prairie Survivalist,{1}{W},2.0,['W'],['W'],Creature — Human Scout,,"['Human', 'Scout']",Rare,"Flying\nAt the beginning of combat on your turn, target creature you control perpetually gets +1/+0. Then choose a creature card in your hand. It perpetually gets +1/+0.",1,0,1,,YOTJ,Alchemy: Outlaws of Thunder Junction

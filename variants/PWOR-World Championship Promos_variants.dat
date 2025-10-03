@@ -1,10 +1,16 @@
-CMC: {3.0, 4.0}
-Colors: {'Red'}
-ColorIdentity: {'R'}
-Supertypes: set()
-Types: {'Creature', 'Artifact'}
-Subtypes: {'Barbarian', 'Human'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'5'}
-Toughness: {'5'}
-Loyalty: set()
+name: ['Balduvian Horde']
+mana_cost: ['{2}{R}{R}']
+cmc: [4.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Creature — Human Barbarian']
+supertypes: []
+subtypes: ['Barbarian', 'Human']
+rarity: ['Rare']
+text: ['When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random.']
+number: ['1']
+power: ['5']
+toughness: ['5']
+loyalty: []
+set: ['PWOR']
+set_name: ['World Championship Promos']

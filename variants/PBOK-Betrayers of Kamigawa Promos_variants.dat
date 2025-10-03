@@ -1,10 +1,16 @@
-CMC: {3.0, 6.0}
-Colors: {'Black', 'Green'}
-ColorIdentity: {'G', 'B'}
-Supertypes: {'Legendary'}
-Types: {'Creature'}
-Subtypes: {'Rat', 'Spirit', 'Ninja'}
-Rarity: {'Rare', 'Uncommon'}
-Power: {'4', '5'}
-Toughness: {'3', '4'}
-Loyalty: set()
+name: ['Ink-Eyes, Servant of Oni']
+mana_cost: ['{4}{B}{B}']
+cmc: [6.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Legendary Creature — Rat Ninja']
+supertypes: ['Legendary']
+subtypes: ['Ninja', 'Rat']
+rarity: ['Rare']
+text: ["Ninjutsu {3}{B}{B} ({3}{B}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Ink-Eyes, Servant of Oni deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.\n{1}{B}: Regenerate Ink-Eyes."]
+number: ['71★']
+power: ['5']
+toughness: ['4']
+loyalty: []
+set: ['PBOK']
+set_name: ['Betrayers of Kamigawa Promos']

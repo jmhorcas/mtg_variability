@@ -1,9 +1,9 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Blue Elemental Blast,1.0,['Blue'],['U'],None,['Instant'],None,Rare,SS1,None,None,None,Choose one —\n• Counter target red spell.\n• Destroy target red permanent.
-Counterspell,2.0,['Blue'],['U'],None,['Instant'],None,Rare,SS1,None,None,None,Counter target spell.
-Negate,2.0,['Blue'],['U'],None,['Instant'],None,Rare,SS1,None,None,None,Counter target noncreature spell.
-Brainstorm,1.0,['Blue'],['U'],None,['Instant'],None,Rare,SS1,None,None,None,"Draw three cards, then put two cards from your hand on top of your library in any order."
-Threads of Disloyalty,3.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Rare,SS1,None,None,None,Enchant creature with mana value 2 or less\nYou control enchanted creature.
-Gifts Ungiven,4.0,['Blue'],['U'],None,['Instant'],None,Rare,SS1,None,None,None,Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle.
-Jace Beleren,3.0,['Blue'],['U'],['Legendary'],['Planeswalker'],['Jace'],Mythic,SS1,None,None,3,[+2]: Each player draws a card.\n[−1]: Target player draws a card.\n[−10]: Target player mills twenty cards.
-Mystical Tutor,1.0,['Blue'],['U'],None,['Instant'],None,Rare,SS1,None,None,None,"Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top."
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Counterspell,{U}{U},2.0,['U'],['U'],Instant,,,Rare,Counter target spell.,4,,,,SS1,Signature Spellbook: Jace
+Threads of Disloyalty,{1}{U}{U},3.0,['U'],['U'],Enchantment — Aura,,['Aura'],Rare,Enchant creature with mana value 2 or less\nYou control enchanted creature.,8,,,,SS1,Signature Spellbook: Jace
+Mystical Tutor,{U},1.0,['U'],['U'],Instant,,,Rare,"Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top.",6,,,,SS1,Signature Spellbook: Jace
+Gifts Ungiven,{3}{U},4.0,['U'],['U'],Instant,,,Rare,Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle.,5,,,,SS1,Signature Spellbook: Jace
+Brainstorm,{U},1.0,['U'],['U'],Instant,,,Rare,"Draw three cards, then put two cards from your hand on top of your library in any order.",3,,,,SS1,Signature Spellbook: Jace
+Blue Elemental Blast,{U},1.0,['U'],['U'],Instant,,,Rare,Choose one —\n• Counter target red spell.\n• Destroy target red permanent.,2,,,,SS1,Signature Spellbook: Jace
+Negate,{1}{U},2.0,['U'],['U'],Instant,,,Rare,Counter target noncreature spell.,7,,,,SS1,Signature Spellbook: Jace
+Jace Beleren,{1}{U}{U},3.0,['U'],['U'],Legendary Planeswalker — Jace,['Legendary'],['Jace'],Mythic,[+2]: Each player draws a card.\n[−1]: Target player draws a card.\n[−10]: Target player mills twenty cards.,1,,,3,SS1,Signature Spellbook: Jace

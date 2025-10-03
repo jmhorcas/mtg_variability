@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Basic'}
-Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant'}
-Subtypes: {'Druid', 'Island', 'Scout', 'Incarnation', 'Zombie', 'Bear', 'Cat', 'Mountain', 'Archer', 'Human', 'Kavu', 'Dog', 'Merfolk', 'Beast', 'Frog', 'Plains', 'Spirit', 'Swamp', 'Forest', 'Centaur', 'Soldier', 'Elf', 'Wizard', 'Mongoose', 'Rogue', 'Bird', 'Atog', 'Aura'}
-Rarity: {'Common', 'Rare', 'Uncommon'}
-Power: {'4', '1', '2', '0', '3'}
-Toughness: {'4', '1', '2', '0', '3'}
-Loyalty: set()
+name: ['Glory']
+mana_cost: ['{3}{W}{W}']
+cmc: [5.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Incarnation']
+supertypes: []
+subtypes: ['Incarnation']
+rarity: ['Rare']
+text: ['Flying\n{2}{W}: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate only if Glory is in your graveyard.']
+number: ['bk11']
+power: ['3']
+toughness: ['3']
+loyalty: []
+set: ['WC02']
+set_name: ['World Championship Decks 2002']

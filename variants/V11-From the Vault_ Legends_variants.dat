@@ -1,10 +1,16 @@
-CMC: {1.0, 3.0, 4.0, 5.0, 6.0, 10.0, 11.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Creature', 'Artifact'}
-Subtypes: {'Warrior', 'Eldrazi', 'Human', 'Avatar', 'Elemental', 'Soldier', 'Sphinx', 'Wizard', 'Faerie', 'Treefolk', 'Goblin', 'Knight', 'Cleric', 'Hydra', 'Gorgon', 'Shaman'}
-Rarity: {'Mythic'}
-Power: {'4', '5', '1', '2', '0', '3', '10'}
-Toughness: {'4', '5', '1', '2', '0', '3', '10'}
-Loyalty: set()
+name: ['Cao Cao, Lord of Wei', 'Captain Sisay', 'Doran, the Siege Tower', 'Kiki-Jiki, Mirror Breaker', 'Kresh the Bloodbraided', 'Mikaeus, the Lunarch', 'Omnath, Locus of Mana', 'Oona, Queen of the Fae', 'Progenitus', 'Rafiq of the Many', 'Sharuum the Hegemon', 'Sun Quan, Lord of Wu', 'Teferi, Mage of Zhalfir', 'Ulamog, the Infinite Gyre', 'Visara the Dreadful']
+mana_cost: ['{11}', '{1}{G}{W}{U}', '{2}{B}{R}{G}', '{2}{G}', '{2}{G}{W}', '{2}{R}{R}{R}', '{2}{U}{U}{U}', '{3}{B}{B}', '{3}{B}{B}{B}', '{3}{U/B}{U/B}{U/B}', '{3}{W}{U}{B}', '{4}{U}{U}', '{W}{B}{G}', '{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}', '{X}{W}']
+cmc: [1.0, 3.0, 4.0, 5.0, 6.0, 10.0, 11.0]
+colors: ['B', 'G', 'R', 'U', 'W']
+color_identity: ['B', 'G', 'R', 'U', 'W']
+type: ['Legendary Artifact Creature — Sphinx', 'Legendary Creature — Eldrazi', 'Legendary Creature — Elemental', 'Legendary Creature — Faerie Wizard', 'Legendary Creature — Goblin Shaman', 'Legendary Creature — Gorgon', 'Legendary Creature — Human Cleric', 'Legendary Creature — Human Knight', 'Legendary Creature — Human Soldier', 'Legendary Creature — Human Warrior', 'Legendary Creature — Human Wizard', 'Legendary Creature — Hydra Avatar', 'Legendary Creature — Treefolk Shaman']
+supertypes: ['Legendary']
+subtypes: ['Avatar', 'Cleric', 'Eldrazi', 'Elemental', 'Faerie', 'Goblin', 'Gorgon', 'Human', 'Hydra', 'Knight', 'Shaman', 'Soldier', 'Sphinx', 'Treefolk', 'Warrior', 'Wizard']
+rarity: ['Mythic']
+text: ["Creatures you control have horsemanship. (They can't be blocked except by creatures with horsemanship.)", 'Each creature assigns combat damage equal to its toughness rather than its power.', 'Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhenever a creature you control attacks alone, it gains double strike until end of turn.', "Flash\nCreature cards you own that aren't on the battlefield have flash.\nEach opponent can cast spells only any time they could cast a sorcery.", 'Flying\nWhen Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield.', "Flying\n{T}: Destroy target creature. It can't be regenerated.", 'Flying\n{X}{U/B}: Choose a color. Target opponent exiles the top X cards of their library. For each card of the chosen color exiled this way, create a 1/1 blue and black Faerie Rogue creature token with flying.', "Haste\n{T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.", 'Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it.\n{T}: Put a +1/+1 counter on Mikaeus.\n{T}, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.', "Protection from everything\nIf Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.", 'When you cast this spell, destroy target permanent.\nIndestructible\nAnnihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)\nWhen Ulamog, the Infinite Gyre is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.', "Whenever another creature dies, you may put X +1/+1 counters on Kresh the Bloodbraided, where X is that creature's power.", "You don't lose unspent green mana as steps and phases end.\nOmnath, Locus of Mana gets +1/+1 for each unspent green mana you have.", '{T}: Search your library for a legendary card, reveal that card, put it into your hand, then shuffle.', '{T}: Target opponent discards two cards. Activate only during your turn, before attackers are declared.']
+number: ['1', '10', '11', '12', '13', '14', '15', '2', '3', '4', '5', '6', '7', '8', '9']
+power: ['0', '1', '10', '2', '3', '4', '5']
+toughness: ['0', '1', '10', '2', '3', '4', '5']
+loyalty: []
+set: ['V11']
+set_name: ['From the Vault: Legends']

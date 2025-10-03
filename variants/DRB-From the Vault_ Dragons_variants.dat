@@ -1,10 +1,16 @@
-CMC: {4.0, 6.0, 7.0, 8.0, 9.0, 16.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Sorcery', 'Creature', 'Artifact'}
-Subtypes: {'Dragon', 'Elder', 'Wizard', 'Spirit', 'Zombie'}
-Rarity: {'Rare'}
-Power: {'4', '7', '5', '8', '9', '2', '6'}
-Toughness: {'4', '7', '5', '8', '9', '3', '6'}
-Loyalty: set()
+name: ['Bladewing the Risen', 'Bogardan Hellkite', 'Draco', 'Dragon Whelp', 'Dragonstorm', 'Ebon Dragon', 'Form of the Dragon', 'Hellkite Overlord', 'Kokusho, the Evening Star', 'Nicol Bolas', 'Niv-Mizzet, the Firemind', 'Rith, the Awakener', 'Shivan Dragon', 'Thunder Dragon', 'Two-Headed Dragon']
+mana_cost: ['{16}', '{2}{R}{R}', '{2}{U}{U}{B}{B}{R}{R}', '{2}{U}{U}{R}{R}', '{3}{B}{B}{R}{R}', '{3}{R}{G}{W}', '{4}{B}{B}', '{4}{B}{R}{R}{G}', '{4}{R}{R}', '{4}{R}{R}{R}', '{5}{B}{B}', '{5}{R}{R}', '{6}{R}{R}', '{8}{R}']
+cmc: [4.0, 6.0, 7.0, 8.0, 9.0, 16.0]
+colors: ['B', 'G', 'R', 'U', 'W']
+color_identity: ['B', 'G', 'R', 'U', 'W']
+type: ['Artifact Creature — Dragon', 'Creature — Dragon', 'Enchantment', 'Legendary Creature — Dragon', 'Legendary Creature — Dragon Spirit', 'Legendary Creature — Dragon Wizard', 'Legendary Creature — Elder Dragon', 'Legendary Creature — Zombie Dragon', 'Sorcery']
+supertypes: ['Legendary']
+subtypes: ['Dragon', 'Elder', 'Spirit', 'Wizard', 'Zombie']
+rarity: ['Rare']
+text: ["At the beginning of your upkeep, Form of the Dragon deals 5 damage to any target.\nAt the beginning of each end step, your life total becomes 5.\nCreatures without flying can't attack you.", 'Domain — This spell costs {2} less to cast for each basic land type among lands you control.\nFlying\nDomain — At the beginning of your upkeep, sacrifice Draco unless you pay {10}. This cost is reduced by {2} for each basic land type among lands you control.', 'Flash\nFlying\nWhen Bogardan Hellkite enters the battlefield, it deals 5 damage divided as you choose among any number of targets.', 'Flying\nAt the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.\nWhenever Nicol Bolas deals damage to an opponent, that player discards their hand.', "Flying\nMenace (This creature can't be blocked except by two or more creatures.)\nTwo-Headed Dragon can block an additional creature each combat.\n{1}{R}: Two-Headed Dragon gets +2/+0 until end of turn.", 'Flying\nWhen Bladewing the Risen enters the battlefield, you may return target Dragon permanent card from your graveyard to the battlefield.\n{B}{R}: Dragon creatures get +1/+1 until end of turn.', 'Flying\nWhen Ebon Dragon enters the battlefield, you may have target opponent discard a card.', 'Flying\nWhen Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way.', 'Flying\nWhen Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.', 'Flying\nWhenever Rith, the Awakener deals combat damage to a player, you may pay {2}{G}. If you do, choose a color, then create a 1/1 green Saproling creature token for each permanent of that color.', 'Flying\nWhenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to any target.\n{T}: Draw a card.', 'Flying\n{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.', "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.", 'Flying, trample, haste\n{R}: Hellkite Overlord gets +1/+0 until end of turn.\n{B}{G}: Regenerate Hellkite Overlord.', 'Search your library for a Dragon permanent card, put it onto the battlefield, then shuffle.\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)']
+number: ['1', '10', '11', '12', '13', '14', '15', '2', '3', '4', '5', '6', '7', '8', '9']
+power: ['2', '4', '5', '6', '7', '8', '9']
+toughness: ['3', '4', '5', '6', '7', '8', '9']
+loyalty: []
+set: ['DRB']
+set_name: ['From the Vault: Dragons']

@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 7.0}
-Colors: {'Red', 'Black', 'Blue'}
-ColorIdentity: {'R', 'U', 'B'}
-Supertypes: {'Legendary'}
-Types: {'Instant', 'Creature', 'Artifact'}
-Subtypes: {'Myr', 'Praetor', 'Shapeshifter', 'Human', 'Cleric', 'Phyrexian'}
-Rarity: {'Uncommon', 'Common', 'Rare', 'Mythic'}
-Power: {'6', '5', '2', '0'}
-Toughness: {'6', '0', '1'}
-Loyalty: set()
+name: ['Phyrexian Metamorph']
+mana_cost: ['{3}{U/P}']
+cmc: [4.0]
+colors: ['U']
+color_identity: ['U']
+type: ['Artifact Creature — Phyrexian Shapeshifter']
+supertypes: []
+subtypes: ['Phyrexian', 'Shapeshifter']
+rarity: ['Rare']
+text: ["({U/P} can be paid with either {U} or 2 life.)\nYou may have Phyrexian Metamorph enter the battlefield as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types."]
+number: ['42★']
+power: ['0']
+toughness: ['0']
+loyalty: []
+set: ['PNPH']
+set_name: ['New Phyrexia Promos']

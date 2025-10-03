@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0}
-Colors: {'Red', 'Black', 'Green', 'White'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Instant', 'Land', 'Creature'}
-Subtypes: {'Vampire', 'Warrior', 'Ally', 'Soldier', 'Elf', 'Human', 'Shaman'}
-Rarity: {'Rare', 'Common', 'Mythic'}
-Power: {'2', '0', '1'}
-Toughness: {'2', '1'}
-Loyalty: set()
+name: ['Ruthless Cullblade']
+mana_cost: ['{1}{B}']
+cmc: [2.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Creature — Vampire Warrior']
+supertypes: []
+subtypes: ['Vampire', 'Warrior']
+rarity: ['Common']
+text: ['Ruthless Cullblade gets +2/+1 as long as an opponent has 10 or less life.']
+number: ['65★']
+power: ['2']
+toughness: ['1']
+loyalty: []
+set: ['PWWK']
+set_name: ['Worldwake Promos']

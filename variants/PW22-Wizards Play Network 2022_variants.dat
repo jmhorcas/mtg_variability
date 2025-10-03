@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 4.0}
-Colors: {'Red', 'White', 'Blue'}
-ColorIdentity: {'W', 'U', 'R'}
-Supertypes: {'Legendary'}
-Types: {'Instant', 'Creature'}
-Subtypes: {'Dragon', 'Spirit'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'4'}
-Toughness: {'4'}
-Loyalty: set()
+name: ['Consider']
+mana_cost: ['{U}']
+cmc: [1.0]
+colors: ['U']
+color_identity: ['U']
+type: ['Instant']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\nDraw a card.']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['PW22']
+set_name: ['Wizards Play Network 2022']

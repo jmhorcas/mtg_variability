@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+"Avacyn, Angel of Hope",{5}{W}{W}{W},8.0,['W'],['W'],Legendary Creature — Angel,['Legendary'],['Angel'],Mythic,"Flying, vigilance, indestructible\nOther permanents you control have indestructible.",1,8,8,,HA6,Historic Anthology 6

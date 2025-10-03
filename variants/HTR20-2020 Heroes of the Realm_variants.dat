@@ -1,10 +1,16 @@
-CMC: {3.0, 6.0}
-Colors: {'Red', 'Green'}
-ColorIdentity: {'U', 'G', 'R'}
-Supertypes: {'Legendary'}
-Types: {'Land', 'Creature', 'Artifact'}
-Subtypes: {'Wizard', 'Vehicle', 'Treefolk', 'Lair'}
-Rarity: {'Mythic'}
-Power: {'6', '5'}
-Toughness: {'3', '6'}
-Loyalty: set()
+name: ['Euroakus']
+mana_cost: ['{4}{G}{G}']
+cmc: [6.0]
+colors: ['G']
+color_identity: ['G', 'U']
+type: ['Legendary Creature — Treefolk Wizard']
+supertypes: ['Legendary']
+subtypes: ['Treefolk', 'Wizard']
+rarity: ['Mythic']
+text: ['When Euroakus enters the battlefield, create a number of 1/1 blue Human Wizard creature tokens equal to the number of differently named lands you control.\n{4}{G}{U}: Draw a card for each Wizard you control. They each get +1/+1 until end of turn for each card in your hand.']
+number: ['1']
+power: ['6']
+toughness: ['6']
+loyalty: []
+set: ['HTR20']
+set_name: ['2020 Heroes of the Realm']

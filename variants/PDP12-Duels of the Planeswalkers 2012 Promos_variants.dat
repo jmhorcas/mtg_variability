@@ -1,10 +1,16 @@
-CMC: {6.0}
-Colors: {'Red', 'Black', 'Blue'}
-ColorIdentity: {'R', 'U', 'B'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Giant'}
-Rarity: {'Mythic'}
-Power: {'6'}
-Toughness: {'6'}
-Loyalty: set()
+name: ['Frost Titan']
+mana_cost: ['{4}{U}{U}']
+cmc: [6.0]
+colors: ['U']
+color_identity: ['U']
+type: ['Creature — Giant']
+supertypes: []
+subtypes: ['Giant']
+rarity: ['Mythic']
+text: ["Whenever Frost Titan becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {2}.\nWhenever Frost Titan enters the battlefield or attacks, tap target permanent. It doesn't untap during its controller's next untap step."]
+number: ['1']
+power: ['6']
+toughness: ['6']
+loyalty: []
+set: ['PDP12']
+set_name: ['Duels of the Planeswalkers 2012 Promos']

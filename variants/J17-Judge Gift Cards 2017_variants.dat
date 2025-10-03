@@ -1,10 +1,16 @@
-CMC: {8.0, 2.0, 3.0, 5.0}
-Colors: {'White', 'Black', 'Green', 'Blue'}
-ColorIdentity: {'W', 'U', 'G', 'B'}
-Supertypes: {'Legendary'}
-Types: {'Sorcery', 'Land', 'Creature', 'Artifact'}
-Subtypes: {'Horror', 'Cyborg', 'Advisor', 'Angel', 'Treefolk', 'Kithkin', 'Phyrexian', 'Shaman'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'1', '2', '0', '8'}
-Toughness: {'4', '5', '1', '8', '2'}
-Loyalty: set()
+name: ['Avacyn, Angel of Hope']
+mana_cost: ['{5}{W}{W}{W}']
+cmc: [8.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Legendary Creature — Angel']
+supertypes: ['Legendary']
+subtypes: ['Angel']
+rarity: ['Mythic']
+text: ['Flying, vigilance, indestructible\nOther permanents you control have indestructible.']
+number: ['1']
+power: ['8']
+toughness: ['8']
+loyalty: []
+set: ['J17']
+set_name: ['Judge Gift Cards 2017']

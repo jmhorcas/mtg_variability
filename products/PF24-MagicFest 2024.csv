@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Counterspell,{U}{U},2.0,['U'],['U'],Instant,,,Rare,Counter target spell.,1,,,,PF24,MagicFest 2024

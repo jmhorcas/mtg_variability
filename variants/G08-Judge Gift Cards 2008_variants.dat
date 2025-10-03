@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 6.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Instant', 'Creature', 'Sorcery'}
-Subtypes: {'Warrior', 'Goblin'}
-Rarity: {'Rare'}
-Power: {'1'}
-Toughness: {'2'}
-Loyalty: set()
+name: ["Orim's Chant"]
+mana_cost: ['{W}']
+cmc: [1.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Instant']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ["Kicker {W} (You may pay an additional {W} as you cast this spell.)\nTarget player can't cast spells this turn. If this spell was kicked, creatures can't attack this turn."]
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['G08']
+set_name: ['Judge Gift Cards 2008']

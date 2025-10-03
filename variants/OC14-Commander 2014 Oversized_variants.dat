@@ -1,10 +1,16 @@
-CMC: {4.0, 5.0, 6.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Planeswalker'}
-Subtypes: {'Nahiri', 'Daretti', 'Nixilis', 'Teferi', 'Freyalise'}
-Rarity: {'Mythic'}
-Power: set()
-Toughness: set()
-Loyalty: {'3', '5'}
+name: ['Nahiri, the Lithomancer']
+mana_cost: ['{3}{W}{W}']
+cmc: [5.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Legendary Planeswalker — Nahiri']
+supertypes: ['Legendary']
+subtypes: ['Nahiri']
+rarity: ['Mythic']
+text: ['[+2]: Create a 1/1 white Kor Soldier creature token. You may attach an Equipment you control to it.\n[−2]: You may put an Equipment card from your hand or graveyard onto the battlefield.\n[−10]: Create a colorless Equipment artifact token named Stoneforged Blade. It has indestructible, "Equipped creature gets +5/+5 and has double strike," and equip {0}.\nNahiri, the Lithomancer can be your commander.']
+number: ['10']
+power: []
+toughness: []
+loyalty: ['3']
+set: ['OC14']
+set_name: ['Commander 2014 Oversized']

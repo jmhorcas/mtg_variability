@@ -1,10 +1,16 @@
-CMC: {2.0, 3.0, 4.0, 5.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Enchantment', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Equipment', 'Warrior', 'Myr', 'Snake', 'Elemental', 'Soldier', 'Elf', 'Ouphe', 'Wolf', 'Assassin', 'Goblin', 'Merfolk', 'Shaman'}
-Rarity: {'Rare'}
-Power: {'3', '4', '2', '1'}
-Toughness: {'3', '4', '2', '1'}
-Loyalty: set()
+name: ['Magma Jet']
+mana_cost: ['{1}{R}']
+cmc: [2.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Instant']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['Magma Jet deals 2 damage to any target. Scry 2.']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['F09']
+set_name: ['Friday Night Magic 2009']

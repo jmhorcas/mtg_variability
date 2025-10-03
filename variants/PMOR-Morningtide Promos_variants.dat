@@ -1,10 +1,16 @@
-CMC: {4.0, 5.0}
-Colors: {'Black'}
-ColorIdentity: {'B'}
-Supertypes: set()
-Types: {'Creature', 'Artifact'}
-Subtypes: {'Rogue', 'Goblin'}
-Rarity: {'Rare'}
-Power: {'5'}
-Toughness: {'3'}
-Loyalty: set()
+name: ['Earwig Squad']
+mana_cost: ['{3}{B}{B}']
+cmc: [5.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Creature — Goblin Rogue']
+supertypes: []
+subtypes: ['Goblin', 'Rogue']
+rarity: ['Rare']
+text: ["Prowl {2}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)\nWhen Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles."]
+number: ['60★']
+power: ['5']
+toughness: ['3']
+loyalty: []
+set: ['PMOR']
+set_name: ['Morningtide Promos']

@@ -1,6 +1,6 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Rampaging Brontodon,7.0,['Green'],['G'],None,['Creature'],['Dinosaur'],Rare,G18,7,7,None,"Trample\nWhenever Rampaging Brontodon attacks, it gets +1/+1 until end of turn for each land you control."
-Immortal Phoenix,6.0,['Red'],['R'],None,['Creature'],['Phoenix'],Rare,G18,5,3,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Immortal Phoenix dies, return it to its owner's hand."
-Vengeant Vampire,6.0,['Black'],['B'],None,['Creature'],['Vampire'],Rare,G18,4,4,None,"Lifelink\nWhen Vengeant Vampire dies, destroy target creature an opponent controls and you gain 4 life."
-Angler Turtle,7.0,['Blue'],['U'],None,['Creature'],['Turtle'],Rare,G18,5,7,None,Hexproof\nCreatures your opponents control attack each combat if able.
-Angelic Guardian,6.0,['White'],['W'],None,['Creature'],['Angel'],Rare,G18,5,5,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever one or more creatures you control attack, they gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)"
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Angelic Guardian,{4}{W}{W},6.0,['W'],['W'],Creature — Angel,,['Angel'],Rare,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever one or more creatures you control attack, they gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",GP1,5,5,,G18,M19 Gift Pack
+Angler Turtle,{5}{U}{U},7.0,['U'],['U'],Creature — Turtle,,['Turtle'],Rare,Hexproof\nCreatures your opponents control attack each combat if able.,GP2,5,7,,G18,M19 Gift Pack
+Immortal Phoenix,{4}{R}{R},6.0,['R'],['R'],Creature — Phoenix,,['Phoenix'],Rare,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Immortal Phoenix dies, return it to its owner's hand.",GP4,5,3,,G18,M19 Gift Pack
+Rampaging Brontodon,{5}{G}{G},7.0,['G'],['G'],Creature — Dinosaur,,['Dinosaur'],Rare,"Trample\nWhenever Rampaging Brontodon attacks, it gets +1/+1 until end of turn for each land you control.",GP5,7,7,,G18,M19 Gift Pack
+Vengeant Vampire,{4}{B}{B},6.0,['B'],['B'],Creature — Vampire,,['Vampire'],Rare,"Lifelink\nWhen Vengeant Vampire dies, destroy target creature an opponent controls and you gain 4 life.",GP3,4,4,,G18,M19 Gift Pack

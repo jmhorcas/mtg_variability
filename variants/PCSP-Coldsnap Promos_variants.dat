@@ -1,10 +1,16 @@
-CMC: {7.0}
-Colors: {'Green'}
-ColorIdentity: {'G'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Warrior', 'Elf'}
-Rarity: {'Rare'}
-Power: {'1+*'}
-Toughness: {'1+*'}
-Loyalty: set()
+name: ['Allosaurus Rider']
+mana_cost: ['{5}{G}{G}']
+cmc: [7.0]
+colors: ['G']
+color_identity: ['G']
+type: ['Creature — Elf Warrior']
+supertypes: []
+subtypes: ['Elf', 'Warrior']
+rarity: ['Rare']
+text: ["You may exile two green cards from your hand rather than pay this spell's mana cost.\nAllosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control."]
+number: ['101★']
+power: ['1+*']
+toughness: ['1+*']
+loyalty: []
+set: ['PCSP']
+set_name: ['Coldsnap Promos']

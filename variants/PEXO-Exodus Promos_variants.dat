@@ -1,10 +1,16 @@
-CMC: {4.0}
-Colors: {'Red'}
-ColorIdentity: {'R'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Dog'}
-Rarity: {'Rare'}
-Power: {'4'}
-Toughness: {'4'}
-Loyalty: set()
+name: ['Monstrous Hound']
+mana_cost: ['{3}{R}']
+cmc: [4.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Creature — Dog']
+supertypes: []
+subtypes: ['Dog']
+rarity: ['Rare']
+text: ["Monstrous Hound can't attack unless you control more lands than defending player.\nMonstrous Hound can't block unless you control more lands than attacking player."]
+number: ['89']
+power: ['4']
+toughness: ['4']
+loyalty: []
+set: ['PEXO']
+set_name: ['Exodus Promos']

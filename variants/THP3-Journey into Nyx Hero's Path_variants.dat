@@ -1,10 +1,16 @@
-CMC: set()
-Colors: set()
-ColorIdentity: set()
-Supertypes: set()
-Types: {'Hero', 'Artifact'}
-Subtypes: {'Equipment'}
-Rarity: {'Common'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['Spear of the General']
+mana_cost: []
+cmc: [0.0]
+colors: []
+color_identity: []
+type: ['Hero Artifact — Equipment']
+supertypes: []
+subtypes: ['Equipment']
+rarity: ['Common']
+text: ['Equipped creature gets +2/+0 and has first strike.\nEquip {2}']
+number: ['7a']
+power: []
+toughness: []
+loyalty: []
+set: ['THP3']
+set_name: ["Journey into Nyx Hero's Path"]

@@ -1,10 +1,16 @@
-CMC: {6.0}
-Colors: {'Red'}
-ColorIdentity: {'R'}
-Supertypes: {'Legendary'}
-Types: {'Creature'}
-Subtypes: {'Soldier', 'Warrior', 'Human'}
-Rarity: {'Rare'}
-Power: {'4'}
-Toughness: {'3'}
-Loyalty: set()
+name: ['Lu Bu, Master-at-Arms']
+mana_cost: ['{5}{R}']
+cmc: [6.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Legendary Creature — Human Soldier Warrior']
+supertypes: ['Legendary']
+subtypes: ['Human', 'Soldier', 'Warrior']
+rarity: ['Rare']
+text: ["Haste; horsemanship (This creature can't be blocked except by creatures with horsemanship.)"]
+number: ['115a']
+power: ['4']
+toughness: ['3']
+loyalty: []
+set: ['PPTK']
+set_name: ['Portal: Three Kingdoms Promos']

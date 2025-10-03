@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Breaker of Creation,{6}{C}{C},8.0,,,Creature — Eldrazi,,['Eldrazi'],Uncommon,"When you cast this spell, you gain 1 life for each colorless permanent you control.\nHexproof from each color\nAnnihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)",1,8,4,,MH3,Modern Horizons 3

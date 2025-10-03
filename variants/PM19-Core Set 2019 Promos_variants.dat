@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 10.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Tezzeret', 'Zombie', 'Bolas', 'Cat', 'Bear', 'Dragon', 'Equipment', 'Angel', 'Demon', 'Knight', 'Human', 'Cleric', 'Djinn', 'Merfolk', 'Ajani', 'Elder', 'Sarkhan', 'Liliana', 'Spirit', 'Dinosaur', 'Hydra', 'Shaman', 'Warrior', 'Wurm', 'Vivien', 'Soldier', 'Skeleton', 'Sphinx', 'Wizard', 'Elf', 'Artificer', 'Goblin', 'Aura'}
-Rarity: {'Rare', 'Common', 'Mythic', 'Uncommon'}
-Power: {'4', '7', '5', '1', '2', '0', '3', '6', '10'}
-Toughness: {'4', '7', '5', '1', '2', '0', '3', '6', '10'}
-Loyalty: {'3', '4', '7', '5'}
+name: ['Ajani, Adversary of Tyrants']
+mana_cost: ['{2}{W}{W}']
+cmc: [4.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Legendary Planeswalker — Ajani']
+supertypes: ['Legendary']
+subtypes: ['Ajani']
+rarity: ['Mythic']
+text: ['[+1]: Put a +1/+1 counter on each of up to two target creatures.\n[−2]: Return target creature card with mana value 2 or less from your graveyard to the battlefield.\n[−7]: You get an emblem with "At the beginning of your end step, create three 1/1 white Cat creature tokens with lifelink."']
+number: ['3s']
+power: []
+toughness: []
+loyalty: ['4']
+set: ['PM19']
+set_name: ['Core Set 2019 Promos']

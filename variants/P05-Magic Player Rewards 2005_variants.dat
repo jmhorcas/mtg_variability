@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Sorcery', 'Instant', 'Creature'}
-Subtypes: {'Atog'}
-Rarity: {'Rare'}
-Power: {'1'}
-Toughness: {'2'}
-Loyalty: set()
+name: ['Psychatog']
+mana_cost: ['{1}{U}{B}']
+cmc: [3.0]
+colors: ['B', 'U']
+color_identity: ['B', 'U']
+type: ['Creature — Atog']
+supertypes: []
+subtypes: ['Atog']
+rarity: ['Rare']
+text: ['Discard a card: Psychatog gets +1/+1 until end of turn.\nExile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.']
+number: ['1']
+power: ['1']
+toughness: ['2']
+loyalty: []
+set: ['P05']
+set_name: ['Magic Player Rewards 2005']

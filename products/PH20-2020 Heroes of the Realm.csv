@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Euroakus,{4}{G}{G},6.0,['G'],"['G', 'U']",Legendary Creature — Treefolk Wizard,['Legendary'],"['Treefolk', 'Wizard']",Mythic,"When Euroakus enters the battlefield, create a number of 1/1 blue Human Wizard creature tokens equal to the number of differently named lands you control.\n{4}{G}{U}: Draw a card for each Wizard you control. They each get +1/+1 until end of turn for each card in your hand.",1,6,6,,PH20,2020 Heroes of the Realm

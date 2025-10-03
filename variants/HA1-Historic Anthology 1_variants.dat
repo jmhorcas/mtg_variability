@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Beast', 'Warrior', 'Thopter', 'Elemental', 'Soldier', 'Elf', 'Knight', 'Monk', 'Kithkin', 'Goblin', 'Human', 'Cleric', 'Zombie', 'Specter', 'Shaman'}
-Rarity: {'Rare', 'Common', 'Uncommon'}
-Power: {'2', '0', '1'}
-Toughness: {'2', '1'}
-Loyalty: set()
+name: ['Burning-Tree Emissary', 'Captain Sisay', 'Cryptbreaker', 'Darksteel Reactor', 'Distant Melody', 'Elvish Visionary', 'Fauna Shaman', 'Goblin Matron', "Hidetsugu's Second Rite", 'Hypnotic Specter', 'Imperious Perfect', 'Kiln Fiend', 'Kinsbaile Cavalier', 'Mind Stone', 'Ornithopter', 'Phyrexian Arena', 'Serra Ascendant', 'Soul Warden', 'Tendrils of Corruption', 'Treasure Hunt']
+mana_cost: ['{0}', '{1}{B}{B}', '{1}{G}', '{1}{R}', '{1}{U}', '{2}', '{2}{G}', '{2}{G}{W}', '{2}{R}', '{3}{B}', '{3}{R}', '{3}{U}', '{3}{W}', '{4}', '{B}', '{R/G}{R/G}', '{W}']
+cmc: [0.0, 1.0, 2.0, 3.0, 4.0]
+colors: ['B', 'G', 'R', 'U', 'W']
+color_identity: ['B', 'G', 'R', 'U', 'W']
+type: ['Artifact', 'Artifact Creature — Thopter', 'Creature — Elemental Beast', 'Creature — Elf Shaman', 'Creature — Elf Warrior', 'Creature — Goblin', 'Creature — Human Cleric', 'Creature — Human Monk', 'Creature — Human Shaman', 'Creature — Kithkin Knight', 'Creature — Specter', 'Creature — Zombie', 'Enchantment', 'Instant', 'Legendary Creature — Human Soldier', 'Sorcery']
+supertypes: ['Legendary']
+subtypes: ['Beast', 'Cleric', 'Elemental', 'Elf', 'Goblin', 'Human', 'Kithkin', 'Knight', 'Monk', 'Shaman', 'Soldier', 'Specter', 'Thopter', 'Warrior', 'Zombie']
+rarity: ['Common', 'Rare', 'Uncommon']
+text: ['At the beginning of your upkeep, you draw a card and you lose 1 life.', 'Choose a creature type. Draw a card for each permanent you control of that type.', 'Flying', 'Flying\nWhenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.', "If target player has exactly 10 life, Hidetsugu's Second Rite deals 10 damage to that player.", 'Indestructible (Effects that say "destroy" don\'t destroy this artifact.)\nAt the beginning of your upkeep, you may put a charge counter on Darksteel Reactor.\nWhen Darksteel Reactor has twenty or more charge counters on it, you win the game.', 'Knight creatures you control have double strike.', 'Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nAs long as you have 30 or more life, Serra Ascendant gets +5/+5 and has flying.', 'Other Elves you control get +1/+1.\n{G}, {T}: Create a 1/1 green Elf Warrior creature token.', 'Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand.', 'Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.', 'When Burning-Tree Emissary enters the battlefield, add {R}{G}.', 'When Elvish Visionary enters the battlefield, draw a card.', 'When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle.', 'Whenever another creature enters the battlefield, you gain 1 life.', 'Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until end of turn.', '{1}{B}, {T}, Discard a card: Create a 2/2 black Zombie creature token.\nTap three untapped Zombies you control: You draw a card and you lose 1 life.', '{G}, {T}, Discard a creature card: Search your library for a creature card, reveal it, put it into your hand, then shuffle.', '{T}: Add {C}.\n{1}, {T}, Sacrifice Mind Stone: Draw a card.', '{T}: Search your library for a legendary card, reveal that card, put it into your hand, then shuffle.']
+number: ['1', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '2', '20', '3', '4', '5', '6', '7', '8', '9']
+power: ['0', '1', '2']
+toughness: ['1', '2']
+loyalty: []
+set: ['HA1']
+set_name: ['Historic Anthology 1']

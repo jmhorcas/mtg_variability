@@ -1,10 +1,16 @@
-CMC: {4.0, 6.0}
-Colors: {'White', 'Red', 'Green'}
-ColorIdentity: {'W', 'R', 'G'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Dragon', 'Knight', 'Human'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'4', '2'}
-Toughness: {'4', '2'}
-Loyalty: set()
+name: ['Dragon Broodmother']
+mana_cost: ['{2}{R}{R}{R}{G}']
+cmc: [6.0]
+colors: ['G', 'R']
+color_identity: ['G', 'R']
+type: ['Creature — Dragon']
+supertypes: []
+subtypes: ['Dragon']
+rarity: ['Mythic']
+text: ['Flying\nAt the beginning of each upkeep, create a 1/1 red and green Dragon creature token with flying and devour 2. (As the token enters the battlefield, you may sacrifice any number of creatures. It enters the battlefield with twice that many +1/+1 counters on it.)']
+number: ['53★']
+power: ['4']
+toughness: ['4']
+loyalty: []
+set: ['PARB']
+set_name: ['Alara Reborn Promos']

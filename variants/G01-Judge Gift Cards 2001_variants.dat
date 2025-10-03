@@ -1,10 +1,16 @@
-CMC: {2.0, 3.0}
-Colors: {'Red', 'Green'}
-ColorIdentity: {'R', 'G'}
-Supertypes: set()
-Types: {'Enchantment', 'Creature'}
-Subtypes: {'Elemental'}
-Rarity: {'Rare'}
-Power: {'6'}
-Toughness: {'1'}
-Loyalty: set()
+name: ['Ball Lightning']
+mana_cost: ['{R}{R}{R}']
+cmc: [3.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Creature — Elemental']
+supertypes: []
+subtypes: ['Elemental']
+rarity: ['Rare']
+text: ["Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nHaste (This creature can attack and {T} as soon as it comes under your control.)\nAt the beginning of the end step, sacrifice Ball Lightning."]
+number: ['1']
+power: ['6']
+toughness: ['1']
+loyalty: []
+set: ['G01']
+set_name: ['Judge Gift Cards 2001']

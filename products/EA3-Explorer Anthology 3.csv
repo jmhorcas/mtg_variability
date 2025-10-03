@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Cyclonic Rift,{1}{U},2.0,['U'],['U'],Instant,,,Rare,"Return target nonland permanent you don't control to its owner's hand.\nOverload {6}{U} (You may cast this spell for its overload cost. If you do, change ""target"" in its text to ""each."")",1,,,,EA3,Explorer Anthology 3

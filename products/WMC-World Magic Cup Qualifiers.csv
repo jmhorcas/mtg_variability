@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Vengevine,{2}{G}{G},4.0,['G'],['G'],Creature — Elemental,,['Elemental'],Mythic,"Haste\nWhenever you cast a spell, if it's the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield.",2013,4,3,,WMC,World Magic Cup Qualifiers

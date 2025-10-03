@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Creature'}
-Subtypes: {'Soldier', 'Elf', 'Scout', 'Wizard', 'Human', 'Cleric', 'Shaman'}
-Rarity: {'Mythic'}
-Power: {'2', '0'}
-Toughness: {'3', '2', '1'}
-Loyalty: set()
+name: ['Kytheon, Hero of Akros // Gideon, Battle-Forged']
+mana_cost: ['{W}']
+cmc: [1.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Legendary Creature — Human Soldier']
+supertypes: ['Legendary']
+subtypes: ['Human', 'Soldier']
+rarity: ['Mythic']
+text: ["At end of combat, if Kytheon, Hero of Akros and at least two other creatures attacked this combat, exile Kytheon, then return him to the battlefield transformed under his owner's control.\n{2}{W}: Kytheon gains indestructible until end of turn."]
+number: ['23']
+power: ['2']
+toughness: ['1']
+loyalty: []
+set: ['PS15']
+set_name: ['San Diego Comic-Con 2015']

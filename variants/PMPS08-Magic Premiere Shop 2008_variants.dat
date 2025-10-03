@@ -1,10 +1,16 @@
-CMC: {3.0}
-Colors: {'Red'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Basic', 'Legendary'}
-Types: {'Land', 'Creature'}
-Subtypes: {'Swamp', 'Mountain', 'Forest', 'Island', 'Spellshaper', 'Plains', 'Human'}
-Rarity: {'Common', 'Rare'}
-Power: {'2'}
-Toughness: {'2'}
-Loyalty: set()
+name: ['Plains']
+mana_cost: []
+cmc: [0.0]
+colors: []
+color_identity: ['W']
+type: ['Basic Land — Plains']
+supertypes: ['Basic']
+subtypes: ['Plains']
+rarity: ['Common']
+text: ['({T}: Add {W}.)']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['PMPS08']
+set_name: ['Magic Premiere Shop 2008']

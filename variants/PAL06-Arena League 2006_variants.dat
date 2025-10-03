@@ -1,10 +1,16 @@
-CMC: {2.0, 3.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Basic'}
-Types: {'Sorcery', 'Instant', 'Land', 'Creature'}
-Subtypes: {'Swamp', 'Druid', 'Snake', 'Mountain', 'Forest', 'Island', 'Elf', 'Wizard', 'Plains', 'Faerie'}
-Rarity: {'Rare'}
-Power: {'1'}
-Toughness: {'3', '1'}
-Loyalty: set()
+name: ['Plains']
+mana_cost: []
+cmc: [0.0]
+colors: []
+color_identity: ['W']
+type: ['Basic Land — Plains']
+supertypes: ['Basic']
+subtypes: ['Plains']
+rarity: ['Rare']
+text: ['({T}: Add {W}.)']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['PAL06']
+set_name: ['Arena League 2006']

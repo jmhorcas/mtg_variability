@@ -1,10 +1,16 @@
-CMC: {2.0}
-Colors: {'Blue'}
-ColorIdentity: {'U'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Spellshaper', 'Merfolk'}
-Rarity: {'Rare'}
-Power: {'1'}
-Toughness: {'1'}
-Loyalty: set()
+name: ['Overtaker']
+mana_cost: ['{1}{U}']
+cmc: [2.0]
+colors: ['U']
+color_identity: ['U']
+type: ['Creature — Merfolk Spellshaper']
+supertypes: []
+subtypes: ['Merfolk', 'Spellshaper']
+rarity: ['Rare']
+text: ['{3}{U}, {T}, Discard a card: Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.']
+number: ['89']
+power: ['1']
+toughness: ['1']
+loyalty: []
+set: ['PMMQ']
+set_name: ['Mercadian Masques Promos']

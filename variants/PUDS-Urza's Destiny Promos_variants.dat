@@ -1,10 +1,16 @@
-CMC: {4.0}
-Colors: {'White'}
-ColorIdentity: {'W'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Cleric', 'Human'}
-Rarity: {'Rare'}
-Power: {'2'}
-Toughness: {'2'}
-Loyalty: set()
+name: ['False Prophet']
+mana_cost: ['{2}{W}{W}']
+cmc: [4.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Human Cleric']
+supertypes: []
+subtypes: ['Cleric', 'Human']
+rarity: ['Rare']
+text: ['When False Prophet dies, exile all creatures.']
+number: ['6']
+power: ['2']
+toughness: ['2']
+loyalty: []
+set: ['PUDS']
+set_name: ["Urza's Destiny Promos"]

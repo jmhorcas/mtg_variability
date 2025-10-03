@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Snake', 'Elemental', 'Advisor', 'Lamia', 'Horse', 'Zombie', 'Cat', 'Horror', 'Equipment', 'Fish', 'Satyr', 'Demon', 'Harpy', 'God', 'Archon', 'Calix', 'Boar', 'Human', 'Merfolk', 'Dog', 'Kraken', 'Elspeth', 'Giant', 'Elder', 'Spider', 'Spirit', 'Ox', 'Hydra', 'Ashiok', 'Shaman', 'Warrior', 'Saga', 'Soldier', 'Phoenix', 'Sphinx', 'Wizard', 'Nymph', 'Artificer', 'Dryad', 'Aura'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'4', '7', '5', '1', '2', '0', '3', '6', '10'}
-Toughness: {'4', '5', '1', '2', '0', '3', '6'}
-Loyalty: {'4', '5'}
+name: ["Archon of Sun's Grace"]
+mana_cost: ['{2}{W}{W}']
+cmc: [4.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Archon']
+supertypes: []
+subtypes: ['Archon']
+rarity: ['Rare']
+text: ['Flying, lifelink\nPegasus creatures you control have lifelink.\nConstellation — Whenever an enchantment enters the battlefield under your control, create a 2/2 white Pegasus creature token with flying.']
+number: ['3p']
+power: ['3']
+toughness: ['4']
+loyalty: []
+set: ['PTHB']
+set_name: ['Theros Beyond Death Promos']

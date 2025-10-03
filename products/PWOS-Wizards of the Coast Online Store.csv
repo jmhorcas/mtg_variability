@@ -1,2 +1,2 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Serra Angel,5.0,['White'],['W'],None,['Creature'],['Angel'],Rare,PWOS,4,4,None,"Flying, vigilance"
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Serra Angel,{3}{W}{W},5.0,['W'],['W'],Creature — Angel,,['Angel'],Rare,"Flying, vigilance",1,4,4,,PWOS,Wizards of the Coast Online Store

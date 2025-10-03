@@ -1,10 +1,16 @@
-CMC: {4.0, 5.0}
-Colors: {'Black', 'Green'}
-ColorIdentity: {'G', 'B'}
-Supertypes: {'Legendary'}
-Types: {'Planeswalker'}
-Subtypes: {'Nissa', 'Liliana'}
-Rarity: {'Mythic'}
-Power: set()
-Toughness: set()
-Loyalty: {'2', '5'}
+name: ['Liliana Vess']
+mana_cost: ['{3}{B}{B}']
+cmc: [5.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Legendary Planeswalker — Liliana']
+supertypes: ['Legendary']
+subtypes: ['Liliana']
+rarity: ['Mythic']
+text: ['[+1]: Target player discards a card.\n[−2]: Search your library for a card, then shuffle and put that card on top.\n[−8]: Put all creature cards from all graveyards onto the battlefield under your control.']
+number: ['1']
+power: []
+toughness: []
+loyalty: ['5']
+set: ['PDP10']
+set_name: ['Duels of the Planeswalkers 2010 Promos']

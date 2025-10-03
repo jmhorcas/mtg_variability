@@ -1,10 +1,16 @@
-CMC: set()
-Colors: set()
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Basic'}
-Types: {'Land'}
-Subtypes: {'Swamp', 'Mountain', 'Island', 'Forest', 'Plains'}
-Rarity: {'Common'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['Island']
+mana_cost: []
+cmc: [0.0]
+colors: []
+color_identity: ['U']
+type: ['Basic Land — Island']
+supertypes: ['Basic']
+subtypes: ['Island']
+rarity: ['Common']
+text: ['({T}: Add {U}.)']
+number: ['A01']
+power: []
+toughness: []
+loyalty: []
+set: ['PRWK']
+set_name: ['GRN Ravnica Weekend']

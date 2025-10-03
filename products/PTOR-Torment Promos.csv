@@ -1,2 +1,3 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Laquatus's Champion,6.0,['Black'],['B'],None,['Creature'],"['Nightmare', 'Horror']",Rare,PTOR,6,3,None,"When Laquatus's Champion enters the battlefield, target player loses 6 life.\nWhen Laquatus's Champion leaves the battlefield, that player gains 6 life.\n{B}: Regenerate Laquatus's Champion."
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Laquatus's Champion,{4}{B}{B},6.0,['B'],['B'],Creature — Nightmare Horror,,"['Nightmare', 'Horror']",Rare,"When Laquatus's Champion enters the battlefield, target player loses 6 life.\nWhen Laquatus's Champion leaves the battlefield, that player gains 6 life.\n{B}: Regenerate Laquatus's Champion.",67†,6,3,,PTOR,Torment Promos
+Laquatus's Champion,{4}{B}{B},6.0,['B'],['B'],Creature — Nightmare Horror,,"['Nightmare', 'Horror']",Rare,"When Laquatus's Champion enters the battlefield, target player loses 6 life.\nWhen Laquatus's Champion leaves the battlefield, that player gains 6 life.\n{B}: Regenerate Laquatus's Champion.",67,6,3,,PTOR,Torment Promos

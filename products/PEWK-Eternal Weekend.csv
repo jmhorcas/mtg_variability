@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Gush,{4}{U},5.0,['U'],['U'],Instant,,,Rare,You may return two Islands you control to their owner's hand rather than pay this spell's mana cost.\nDraw two cards.,1,,,,PEWK,Eternal Weekend

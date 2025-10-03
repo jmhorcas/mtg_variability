@@ -1,10 +1,16 @@
-CMC: {3.0, 4.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Creature'}
-Subtypes: {'Druid', 'Giant', 'Wizard', 'Dryad', 'Bird', 'Warlock', 'Artificer', 'Human', 'Merfolk', 'Shaman'}
-Rarity: {'Mythic'}
-Power: {'3', '4', '2', '1'}
-Toughness: {'3', '4', '2'}
-Loyalty: set()
+name: ['Breena, the Demagogue']
+mana_cost: ['{1}{W}{B}']
+cmc: [3.0]
+colors: ['B', 'W']
+color_identity: ['B', 'W']
+type: ['Legendary Creature — Bird Warlock']
+supertypes: ['Legendary']
+subtypes: ['Bird', 'Warlock']
+rarity: ['Mythic']
+text: ['Flying\nWhenever a player attacks one of your opponents, if that opponent has more life than another of your opponents, that attacking player draws a card and you put two +1/+1 counters on a creature you control.']
+number: ['1']
+power: ['1']
+toughness: ['3']
+loyalty: []
+set: ['OC21']
+set_name: ['Commander 2021 Display Commanders']

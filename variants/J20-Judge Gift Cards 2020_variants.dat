@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Cleric', 'Wizard', 'Human'}
-Rarity: {'Rare'}
-Power: {'1'}
-Toughness: {'2', '1'}
-Loyalty: set()
+name: ['Arena Rector']
+mana_cost: ['{3}{W}']
+cmc: [4.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Human Cleric']
+supertypes: []
+subtypes: ['Cleric', 'Human']
+rarity: ['Rare']
+text: ['When Arena Rector dies, you may exile it. If you do, search your library for a planeswalker card, put it onto the battlefield, then shuffle.']
+number: ['1']
+power: ['1']
+toughness: ['2']
+loyalty: []
+set: ['J20']
+set_name: ['Judge Gift Cards 2020']

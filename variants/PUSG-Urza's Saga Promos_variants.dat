@@ -1,10 +1,16 @@
-CMC: {4.0}
-Colors: {'Red'}
-ColorIdentity: {'R'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Dragon'}
-Rarity: {'Rare'}
-Power: {'4'}
-Toughness: {'4'}
-Loyalty: set()
+name: ['Lightning Dragon']
+mana_cost: ['{2}{R}{R}']
+cmc: [4.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Creature — Dragon']
+supertypes: []
+subtypes: ['Dragon']
+rarity: ['Rare']
+text: ['Flying\nEcho {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\n{R}: Lightning Dragon gets +1/+0 until end of turn.']
+number: ['202']
+power: ['4']
+toughness: ['4']
+loyalty: []
+set: ['PUSG']
+set_name: ["Urza's Saga Promos"]

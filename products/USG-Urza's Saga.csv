@@ -1,351 +1,352 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Expunge,3.0,['Black'],['B'],None,['Instant'],None,Common,USG,None,None,None,"Destroy target nonartifact, nonblack creature. It can't be regenerated.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Exhume,2.0,['Black'],['B'],None,['Sorcery'],None,Common,USG,None,None,None,Each player puts a creature card from their graveyard onto the battlefield.
-Eastern Paladin,4.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie', 'Knight']",Rare,USG,3,3,None,"{B}{B}, {T}: Destroy target green creature."
-Duress,1.0,['Black'],['B'],None,['Sorcery'],None,Common,USG,None,None,None,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
-Discordant Dirge,5.0,['Black'],['B'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Discordant Dirge.\n{B}, Sacrifice Discordant Dirge: Look at target opponent's hand and choose up to X cards from it, where X is the number of verse counters on Discordant Dirge. That player discards those cards."
-Stroke of Genius,3.0,['Blue'],['U'],None,['Instant'],None,Rare,USG,None,None,None,Target player draws X cards.
-Show and Tell,3.0,['Blue'],['U'],None,['Sorcery'],None,Rare,USG,None,None,None,"Each player may put an artifact, creature, enchantment, or land card from their hand onto the battlefield."
-Power Taint,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant enchantment\nAt the beginning of the upkeep of enchanted enchantment's controller, that player loses 2 life unless they pay {2}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Power Sink,1.0,['Blue'],['U'],None,['Instant'],None,Common,USG,None,None,None,"Counter target spell unless its controller pays {X}. If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana."
-Peregrine Drake,5.0,['Blue'],['U'],None,['Creature'],['Drake'],Uncommon,USG,2,3,None,"Flying\nWhen Peregrine Drake enters the battlefield, untap up to five lands."
-Pendrell Flux,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\nEnchanted creature has ""At the beginning of your upkeep, sacrifice this creature unless you pay its mana cost."""
-Pendrell Drake,4.0,['Blue'],['U'],None,['Creature'],['Drake'],Common,USG,2,3,None,"Flying\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Worship,4.0,['White'],['W'],None,['Enchantment'],None,Rare,USG,None,None,None,"If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead."
-Diabolic Servitude,4.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"When Diabolic Servitude enters the battlefield, return target creature card from your graveyard to the battlefield.\nWhen the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner's hand.\nWhen Diabolic Servitude leaves the battlefield, exile the creature put onto the battlefield with Diabolic Servitude."
-Despondency,2.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\nEnchanted creature gets -2/-0.\nWhen Despondency is put into a graveyard from the battlefield, return Despondency to its owner's hand."
-Darkest Hour,1.0,['Black'],['B'],None,['Enchantment'],None,Rare,USG,None,None,None,All creatures are black.
-Dark Ritual,1.0,['Black'],['B'],None,['Instant'],None,Common,USG,None,None,None,Add {B}{B}{B}.
-Dark Hatchling,6.0,['Black'],['B'],None,['Creature'],['Horror'],Rare,USG,3,3,None,"Flying\nWhen Dark Hatchling enters the battlefield, destroy target nonblack creature. It can't be regenerated."
-Crazed Skirge,4.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Imp']",Uncommon,USG,2,2,None,"Flying, haste"
-Corrupt,6.0,['Black'],['B'],None,['Sorcery'],None,Common,USG,None,None,None,Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.
-Contamination,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, sacrifice Contamination unless you sacrifice a creature.\nIf a land is tapped for mana, it produces {B} instead of any other type and amount."
-Carrion Beetles,1.0,['Black'],['B'],None,['Creature'],['Insect'],Common,USG,1,1,None,"{2}{B}, {T}: Exile up to three target cards from a single graveyard."
-Cackling Fiend,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,USG,2,1,None,"When Cackling Fiend enters the battlefield, each opponent discards a card."
-Breach,3.0,['Black'],['B'],None,['Instant'],None,Common,USG,None,None,None,Target creature gets +2/+0 and gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)
-Blood Vassal,3.0,['Black'],['B'],None,['Creature'],['Thrull'],Common,USG,2,2,None,Sacrifice Blood Vassal: Add {B}{B}.
-Time Spiral,6.0,['Blue'],['U'],None,['Sorcery'],None,Rare,USG,None,None,None,"Exile Time Spiral. Each player shuffles their hand and graveyard into their library, then draws seven cards. You untap up to six lands."
-Waylay,3.0,['White'],['W'],None,['Instant'],None,Uncommon,USG,None,None,None,Create three 2/2 white Knight creature tokens. Exile them at the beginning of the next cleanup step.
-Zephid's Embrace,4.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,Enchant creature\nEnchanted creature gets +2/+2 and has flying and shroud. (It can't be the target of spells or abilities.)
-Befoul,4.0,['Black'],['B'],None,['Sorcery'],None,Common,USG,None,None,None,Destroy target land or nonblack creature. It can't be regenerated.
-Bereavement,2.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Whenever a green creature dies, its controller discards a card."
-Abyssal Horror,6.0,['Black'],['B'],None,['Creature'],['Horror'],Rare,USG,2,2,None,"Flying\nWhen Abyssal Horror enters the battlefield, target player discards two cards."
-Zephid,6.0,['Blue'],['U'],None,['Creature'],['Illusion'],Rare,USG,3,4,None,Flying\nShroud (This creature can't be the target of spells or abilities.)
-Spire Owl,2.0,['Blue'],['U'],None,['Creature'],['Bird'],Common,USG,1,1,None,"Flying\nWhen Spire Owl enters the battlefield, look at the top four cards of your library, then put them back in any order."
-Veiled Sentry,1.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"When an opponent casts a spell, if Veiled Sentry is an enchantment, Veiled Sentry becomes an Illusion creature with power and toughness each equal to that spell's mana value."
-Veiled Serpent,3.0,['Blue'],['U'],None,['Enchantment'],None,Common,USG,None,None,None,"When an opponent casts a spell, if Veiled Serpent is an enchantment, Veiled Serpent becomes a 4/4 Serpent creature with ""This creature can't attack unless defending player controls an Island.""\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Windfall,3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,USG,None,None,None,"Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way."
-Wizard Mentor,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,USG,2,2,None,{T}: Return Wizard Mentor and target creature you control to their owner's hand.
-Veil of Birds,1.0,['Blue'],['U'],None,['Enchantment'],None,Common,USG,None,None,None,"When an opponent casts a spell, if Veil of Birds is an enchantment, Veil of Birds becomes a 1/1 Bird creature with flying."
-Turnabout,4.0,['Blue'],['U'],None,['Instant'],None,Uncommon,USG,None,None,None,"Choose artifact, creature, or land. Tap all untapped permanents of the chosen type target player controls, or untap all tapped permanents of that type that player controls."
-Veiled Crocodile,3.0,['Blue'],['U'],None,['Enchantment'],None,Rare,USG,None,None,None,"When a player has no cards in hand, if Veiled Crocodile is an enchantment, Veiled Crocodile becomes a 4/4 Crocodile creature."
-Veiled Apparition,2.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"When an opponent casts a spell, if Veiled Apparition is an enchantment, Veiled Apparition becomes a 3/3 Illusion creature with flying and ""At the beginning of your upkeep, sacrifice Veiled Apparition unless you pay {1}{U}."""
-Tolarian Winds,2.0,['Blue'],['U'],None,['Instant'],None,Common,USG,None,None,None,"Discard all the cards in your hand, then draw that many cards."
-Voice of Law,4.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,USG,2,2,None,"Flying, protection from red"
-Voice of Grace,4.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,USG,2,2,None,"Flying, protection from black"
-Soul Sculptor,3.0,['White'],['W'],None,['Creature'],['Human'],Rare,USG,1,1,None,"{1}{W}, {T}: Target creature becomes an enchantment and loses all abilities until a player casts a creature spell."
-Songstitcher,1.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Uncommon,USG,1,1,None,{1}{W}: Prevent all combat damage that would be dealt this turn by target attacking creature with flying.
-Silent Attendant,3.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,USG,0,2,None,{T}: You gain 1 life.
-Presence of the Master,4.0,['White'],['W'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Whenever a player casts an enchantment spell, counter it."
-Planar Birth,2.0,['White'],['W'],None,['Sorcery'],None,Rare,USG,None,None,None,Return all basic land cards from all graveyards to the battlefield tapped under their owners' control.
-Pegasus Charger,3.0,['White'],['W'],None,['Creature'],['Pegasus'],Common,USG,2,1,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\nFirst strike (This creature deals combat damage before creatures without first strike.)
-Path of Peace,4.0,['White'],['W'],None,['Sorcery'],None,Common,USG,None,None,None,Destroy target creature. Its owner gains 4 life.
-Pariah,3.0,['White'],['W'],None,['Enchantment'],['Aura'],Rare,USG,None,None,None,Enchant creature\nAll damage that would be dealt to you is dealt to enchanted creature instead.
-Pacifism,2.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,Enchant creature\nEnchanted creature can't attack or block.
-Opal Titan,4.0,['White'],['W'],None,['Enchantment'],None,Rare,USG,None,None,None,"When an opponent casts a creature spell, if Opal Titan is an enchantment, Opal Titan becomes a 4/4 Giant creature with protection from each of that spell's colors."
-Opal Gargoyle,2.0,['White'],['W'],None,['Enchantment'],None,Common,USG,None,None,None,"When an opponent casts a creature spell, if Opal Gargoyle is an enchantment, Opal Gargoyle becomes a 2/2 Gargoyle creature with flying."
-Opal Caryatid,1.0,['White'],['W'],None,['Enchantment'],None,Common,USG,None,None,None,"When an opponent casts a creature spell, if Opal Caryatid is an enchantment, Opal Caryatid becomes a 2/2 Soldier creature."
-Opal Archangel,5.0,['White'],['W'],None,['Enchantment'],None,Rare,USG,None,None,None,"When an opponent casts a creature spell, if Opal Archangel is an enchantment, Opal Archangel becomes a 5/5 Angel creature with flying and vigilance."
-Opal Acrolith,3.0,['White'],['W'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Whenever an opponent casts a creature spell, if Opal Acrolith is an enchantment, Opal Acrolith becomes a 2/4 Soldier creature.\n{0}: Opal Acrolith becomes an enchantment."
-No Rest for the Wicked,2.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,USG,None,None,None,Sacrifice No Rest for the Wicked: Return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.
-Sandbar Serpent,5.0,['Blue'],['U'],None,['Creature'],['Serpent'],Uncommon,USG,3,4,None,"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Sandbar Merfolk,1.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Common,USG,1,1,None,"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Lingering Mirage,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,"Enchant land\nEnchanted land is an Island.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Stern Proctor,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Uncommon,USG,1,2,None,"When Stern Proctor enters the battlefield, return target artifact or enchantment to its owner's hand."
-Somnophore,4.0,['Blue'],['U'],None,['Creature'],['Illusion'],Rare,USG,2,2,None,"Flying\nWhenever Somnophore deals damage to a player, tap target creature that player controls. That creature doesn't untap during its controller's untap step for as long as Somnophore remains on the battlefield."
-Telepathy,1.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,USG,None,None,None,Your opponents play with their hands revealed.
-Sunder,5.0,['Blue'],['U'],None,['Instant'],None,Rare,USG,None,None,None,Return all lands to their owners' hands.
-Morphling,5.0,['Blue'],['U'],None,['Creature'],['Shapeshifter'],Rare,USG,3,3,None,{U}: Untap Morphling.\n{U}: Morphling gains flying until end of turn.\n{U}: Morphling gains shroud until end of turn. (It can't be the target of spells or abilities.)\n{1}: Morphling gets +1/-1 until end of turn.\n{1}: Morphling gets -1/+1 until end of turn.
-Rescind,3.0,['Blue'],['U'],None,['Instant'],None,Common,USG,None,None,None,"Return target permanent to its owner's hand.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Rewind,4.0,['Blue'],['U'],None,['Instant'],None,Common,USG,None,None,None,Counter target spell. Untap up to four lands.
-Recantation,5.0,['Blue'],['U'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Recantation.\n{U}, Sacrifice Recantation: Return up to X target permanents to their owners' hands, where X is the number of verse counters on Recantation."
-Exhaustion,3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Creatures and lands target opponent controls don't untap during their next untap step.
-Great Whale,7.0,['Blue'],['U'],None,['Creature'],['Whale'],Rare,USG,5,5,None,"When Great Whale enters the battlefield, untap up to seven lands."
-Gilded Drake,2.0,['Blue'],['U'],None,['Creature'],['Drake'],Rare,USG,3,3,None,"Flying\nWhen Gilded Drake enters the battlefield, exchange control of Gilded Drake and up to one target creature an opponent controls. If you don't or can't make an exchange, sacrifice Gilded Drake. This ability still resolves if its target becomes illegal."
-Energy Field,2.0,['Blue'],['U'],None,['Enchantment'],None,Rare,USG,None,None,None,"Prevent all damage that would be dealt to you by sources you don't control.\nWhen a card is put into your graveyard from anywhere, sacrifice Energy Field."
-"Barrin, Master Wizard",3.0,['Blue'],['U'],['Legendary'],['Creature'],"['Human', 'Wizard']",Rare,USG,1,1,None,"{2}, Sacrifice a permanent: Return target creature to its owner's hand."
-Enchantment Alteration,1.0,['Blue'],['U'],None,['Instant'],None,Uncommon,USG,None,None,None,Attach target Aura attached to a creature or land to another permanent of that type.
-Drifting Djinn,6.0,['Blue'],['U'],None,['Creature'],['Djinn'],Rare,USG,5,5,None,"Flying\nAt the beginning of your upkeep, sacrifice Drifting Djinn unless you pay {1}{U}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Douse,3.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,USG,None,None,None,{1}{U}: Counter target red spell.
-Disruptive Student,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,USG,1,1,None,{T}: Counter target spell unless its controller pays {1}.
-Curfew,1.0,['Blue'],['U'],None,['Instant'],None,Common,USG,None,None,None,Each player returns a creature they control to its owner's hand.
-Coral Merfolk,2.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Common,USG,2,1,None,None
-Confiscate,6.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,Enchant permanent\nYou control enchanted permanent.
-Cloak of Mists,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,Enchant creature\nEnchanted creature can't be blocked.
-Catalog,3.0,['Blue'],['U'],None,['Instant'],None,Common,USG,None,None,None,"Draw two cards, then discard a card."
-Lilting Refrain,2.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Lilting Refrain.\nSacrifice Lilting Refrain: Counter target spell unless its controller pays {X}, where X is the number of verse counters on Lilting Refrain."
-Launch,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\nEnchanted creature has flying.\nWhen Launch is put into a graveyard from the battlefield, return Launch to its owner's hand."
-Hibernation,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,USG,None,None,None,Return all green permanents to their owners' hands.
-Fog Bank,2.0,['Blue'],['U'],None,['Creature'],['Wall'],Uncommon,USG,0,2,None,"Defender, flying\nPrevent all combat damage that would be dealt to and dealt by Fog Bank."
-Imaginary Pet,2.0,['Blue'],['U'],None,['Creature'],['Illusion'],Rare,USG,4,4,None,"At the beginning of your upkeep, if you have a card in hand, return Imaginary Pet to its owner's hand."
-Horseshoe Crab,3.0,['Blue'],['U'],None,['Creature'],['Crab'],Common,USG,1,3,None,{U}: Untap Horseshoe Crab.
-Hermetic Study,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\nEnchanted creature has ""{T}: This creature deals 1 damage to any target."""
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,USG,None,None,None,({T}: Add {B}.)
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,USG,None,None,None,({T}: Add {B}.)
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,USG,None,None,None,({T}: Add {B}.)
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,USG,None,None,None,({T}: Add {R}.)
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,USG,None,None,None,({T}: Add {R}.)
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,USG,None,None,None,({T}: Add {R}.)
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,USG,None,None,None,({T}: Add {R}.)
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,USG,None,None,None,({T}: Add {G}.)
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,USG,None,None,None,({T}: Add {G}.)
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,USG,None,None,None,({T}: Add {G}.)
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,USG,None,None,None,({T}: Add {G}.)
-Bravado,2.0,['Red'],['R'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,Enchant creature\nEnchanted creature gets +1/+1 for each other creature you control.
-Crosswinds,2.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,USG,None,None,None,Creatures with flying get -2/-0.
-Gorilla Warrior,3.0,['Green'],['G'],None,['Creature'],"['Ape', 'Warrior']",Common,USG,3,2,None,None
-Brand,1.0,['Red'],['R'],None,['Instant'],None,Rare,USG,None,None,None,"Gain control of all permanents you own. (This effect lasts indefinitely.)\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Cradle Guard,3.0,['Green'],['G'],None,['Creature'],['Treefolk'],Uncommon,USG,4,4,None,"Trample\nEcho {1}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
-Greater Good,4.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards."
-Citanul Hierophants,4.0,['Green'],['G'],None,['Creature'],"['Human', 'Druid']",Rare,USG,3,2,None,"Creatures you control have ""{T}: Add {G}."""
-Greener Pastures,3.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of each player's upkeep, if that player controls more lands than each other player, the player creates a 1/1 green Saproling creature token."
-Bedlam,4.0,['Red'],['R'],None,['Enchantment'],None,Rare,USG,None,None,None,Creatures can't block.
-Citanul Centaurs,4.0,['Green'],['G'],None,['Creature'],['Centaur'],Rare,USG,6,3,None,"Shroud (This creature can't be the target of spells or abilities.)\nEcho {3}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
-Hawkeater Moth,4.0,['Green'],['G'],None,['Creature'],['Insect'],Uncommon,USG,1,2,None,Flying\nShroud (This creature can't be the target of spells or abilities.)
-Child of Gaea,6.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,USG,7,7,None,"Trample\nAt the beginning of your upkeep, sacrifice Child of Gaea unless you pay {G}{G}.\n{1}{G}: Regenerate Child of Gaea."
-Hidden Ancients,2.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"When an opponent casts an enchantment spell, if Hidden Ancients is an enchantment, Hidden Ancients becomes a 5/5 Treefolk creature."
-Cave Tiger,3.0,['Green'],['G'],None,['Creature'],['Cat'],Common,USG,2,2,None,"Whenever Cave Tiger becomes blocked by a creature, Cave Tiger gets +1/+1 until end of turn."
-Hidden Guerrillas,1.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"When an opponent casts an artifact spell, if Hidden Guerrillas is an enchantment, Hidden Guerrillas becomes a 5/3 Soldier creature with trample."
-Carpet of Flowers,1.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"At the beginning of each of your main phases, if you haven't added mana with this ability this turn, you may add X mana of any one color, where X is the number of Islands target opponent controls."
-Hidden Herd,1.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"When an opponent plays a nonbasic land, if Hidden Herd is an enchantment, Hidden Herd becomes a 3/3 Beast creature."
-Arc Lightning,3.0,['Red'],['R'],None,['Sorcery'],None,Common,USG,None,None,None,"Arc Lightning deals 3 damage divided as you choose among one, two, or three targets."
-Bull Hippo,4.0,['Green'],['G'],None,['Creature'],['Hippo'],Uncommon,USG,3,3,None,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
-Hidden Predators,1.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"When an opponent controls a creature with power 4 or greater, if Hidden Predators is an enchantment, Hidden Predators becomes a 4/4 Beast creature."
-Antagonism,4.0,['Red'],['R'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of each player's end step, Antagonism deals 2 damage to that player unless one of their opponents was dealt damage this turn."
-Blanchwood Treefolk,5.0,['Green'],['G'],None,['Creature'],['Treefolk'],Common,USG,4,5,None,None
-Hidden Spider,1.0,['Green'],['G'],None,['Enchantment'],None,Common,USG,None,None,None,"When an opponent casts a creature spell with flying, if Hidden Spider is an enchantment, Hidden Spider becomes a 3/5 Spider creature with reach. (It can block creatures with flying.)"
-Acidic Soil,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Acidic Soil deals damage to each player equal to the number of lands they control.
-Blanchwood Armor,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,Enchant creature\nEnchanted creature gets +1/+1 for each Forest you control.
-Hidden Stag,2.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"Whenever an opponent plays a land, if Hidden Stag is an enchantment, Hidden Stag becomes a 3/2 Elk Beast creature.\nWhenever you play a land, if Hidden Stag is a creature, Hidden Stag becomes an enchantment."
-Yawgmoth's Will,3.0,['Black'],['B'],None,['Sorcery'],None,Rare,USG,None,None,None,"Until end of turn, you may play lands and cast spells from your graveyard.\nIf a card would be put into your graveyard from anywhere this turn, exile that card instead."
-Argothian Wurm,4.0,['Green'],['G'],None,['Creature'],['Wurm'],Rare,USG,6,6,None,"Trample\nWhen Argothian Wurm enters the battlefield, any player may sacrifice a land. If a player does, put Argothian Wurm on top of its owner's library."
-Hush,4.0,['Green'],['G'],None,['Sorcery'],None,Common,USG,None,None,None,"Destroy all enchantments.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Yawgmoth's Edict,2.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Whenever an opponent casts a white spell, that player loses 1 life and you gain 1 life."
-Argothian Swine,4.0,['Green'],['G'],None,['Creature'],['Boar'],Common,USG,3,3,None,Trample
-Lull,2.0,['Green'],['G'],None,['Instant'],None,Common,USG,None,None,None,"Prevent all combat damage that would be dealt this turn.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Argothian Enchantress,2.0,['Green'],['G'],None,['Creature'],"['Human', 'Druid']",Rare,USG,0,1,None,"Shroud (This creature can't be the target of spells or abilities.)\nWhenever you cast an enchantment spell, draw a card."
-Midsummer Revel,5.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Midsummer Revel.\n{G}, Sacrifice Midsummer Revel: Create X 3/3 green Beast creature tokens, where X is the number of verse counters on Midsummer Revel."
-Witch Engine,6.0,['Black'],['B'],None,['Creature'],['Horror'],Rare,USG,4,4,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\n{T}: Add {B}{B}{B}{B}. Target opponent gains control of Witch Engine. (Activate only as an instant.)
-Argothian Elder,4.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Uncommon,USG,2,2,None,{T}: Untap two target lands.
-Pouncing Jaguar,1.0,['Green'],['G'],None,['Creature'],['Cat'],Common,USG,2,2,None,"Echo {G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
-Western Paladin,4.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie', 'Knight']",Rare,USG,3,3,None,"{B}{B}, {T}: Destroy target white creature."
-Anaconda,4.0,['Green'],['G'],None,['Creature'],['Snake'],Uncommon,USG,3,3,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
-Priest of Titania,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,USG,1,1,None,{T}: Add {G} for each Elf on the battlefield.
-Vile Requiem,4.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Vile Requiem.\n{1}{B}, Sacrifice Vile Requiem: Destroy up to X target nonblack creatures, where X is the number of verse counters on Vile Requiem. They can't be regenerated."
-Albino Troll,2.0,['Green'],['G'],None,['Creature'],['Troll'],Uncommon,USG,3,3,None,"Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\n{1}{G}: Regenerate Albino Troll."
-Rejuvenate,4.0,['Green'],['G'],None,['Sorcery'],None,Common,USG,None,None,None,"You gain 6 life.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Retaliation,3.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Creatures you control have ""Whenever this creature becomes blocked by a creature, this creature gets +1/+1 until end of turn."""
-Victimize,3.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,USG,None,None,None,"Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped."
-Acridian,2.0,['Green'],['G'],None,['Creature'],['Insect'],Common,USG,2,4,None,"Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
-Sporogenesis,4.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a fungus counter on target nontoken creature.\nWhenever a creature with a fungus counter on it dies, create a 1/1 green Saproling creature token for each fungus counter on that creature.\nWhen Sporogenesis leaves the battlefield, remove all fungus counters from all creatures."
-Spreading Algae,1.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,"Enchant Swamp\nWhen enchanted land becomes tapped, destroy it.\nWhen Spreading Algae is put into a graveyard from the battlefield, return Spreading Algae to its owner's hand."
-Vebulid,1.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Horror']",Rare,USG,0,0,None,"Vebulid enters the battlefield with a +1/+1 counter on it.\nAt the beginning of your upkeep, you may put a +1/+1 counter on Vebulid.\nWhen Vebulid attacks or blocks, destroy it at end of combat."
-Abundance,4.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"If you would draw a card, you may instead choose land or nonland and reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and put all other cards revealed this way on the bottom of your library in any order."
-Symbiosis,2.0,['Green'],['G'],None,['Instant'],None,Common,USG,None,None,None,Two target creatures each get +2/+2 until end of turn.
-Wildfire,6.0,['Red'],['R'],None,['Sorcery'],None,Rare,USG,None,None,None,Each player sacrifices four lands. Wildfire deals 4 damage to each creature.
-Titania's Boon,4.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Put a +1/+1 counter on each creature you control.
-Vug Lizard,3.0,['Red'],['R'],None,['Creature'],['Lizard'],Uncommon,USG,3,4,None,"Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)\nEcho {1}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
-Titania's Chosen,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Archer']",Uncommon,USG,1,1,None,"Whenever a player casts a green spell, put a +1/+1 counter on Titania's Chosen."
-Vampiric Embrace,4.0,['Black'],['B'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,"Enchant creature\nEnchanted creature gets +2/+2 and has flying.\nWhenever a creature dealt damage by enchanted creature this turn dies, put a +1/+1 counter on that creature."
-Elvish Herder,1.0,['Green'],['G'],None,['Creature'],['Elf'],Common,USG,1,1,None,{G}: Target creature gains trample until end of turn.
-Treefolk Seedlings,3.0,['Green'],['G'],None,['Creature'],['Treefolk'],Uncommon,USG,2,*,None,Treefolk Seedlings's toughness is equal to the number of Forests you control.
-Viashino Weaponsmith,4.0,['Red'],['R'],None,['Creature'],['Viashino'],Common,USG,2,2,None,"Whenever Viashino Weaponsmith becomes blocked by a creature, Viashino Weaponsmith gets +2/+2 until end of turn."
-Treetop Rangers,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Ranger']",Common,USG,2,2,None,Treetop Rangers can't be blocked except by creatures with flying.
-Unworthy Dead,2.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Skeleton']",Common,USG,1,1,None,{B}: Regenerate Unworthy Dead.
-Viashino Sandswimmer,4.0,['Red'],['R'],None,['Creature'],['Viashino'],Rare,USG,3,2,None,"{R}: Flip a coin. If you win the flip, return Viashino Sandswimmer to its owner's hand. If you lose the flip, sacrifice Viashino Sandswimmer."
-Venomous Fangs,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\nWhenever enchanted creature deals damage to a creature, destroy the other creature."
-Vernal Bloom,4.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,"Whenever a Forest is tapped for mana, its controller adds an additional {G}."
-Unnerve,4.0,['Black'],['B'],None,['Sorcery'],None,Common,USG,None,None,None,Each opponent discards two cards.
-Viashino Runner,4.0,['Red'],['R'],None,['Creature'],['Viashino'],Common,USG,3,2,None,Menace (This creature can't be blocked except by two or more creatures.)
-War Dance,1.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on War Dance.\nSacrifice War Dance: Target creature gets +X/+X until end of turn, where X is the number of verse counters on War Dance."
-Tainted Aether,4.0,['Black'],['B'],None,['Enchantment'],None,Rare,USG,None,None,None,"Whenever a creature enters the battlefield, its controller sacrifices a creature or land."
-Viashino Outrider,3.0,['Red'],['R'],None,['Creature'],['Viashino'],Common,USG,4,3,None,"Echo {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
-Whirlwind,4.0,['Green'],['G'],None,['Sorcery'],None,Rare,USG,None,None,None,Destroy all creatures with flying.
-Spined Fluke,3.0,['Black'],['B'],None,['Creature'],"['Worm', 'Horror']",Uncommon,USG,5,1,None,"When Spined Fluke enters the battlefield, sacrifice a creature.\n{B}: Regenerate Spined Fluke."
-Torch Song,3.0,['Red'],['R'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Torch Song.\n{2}{R}, Sacrifice Torch Song: It deals X damage to any target, where X is the number of verse counters on Torch Song."
-Sleeper Agent,1.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Minion']",Rare,USG,3,3,None,"When Sleeper Agent enters the battlefield, target opponent gains control of it.\nAt the beginning of your upkeep, Sleeper Agent deals 2 damage to you."
-Thundering Giant,5.0,['Red'],['R'],None,['Creature'],['Giant'],Uncommon,USG,4,3,None,Haste (This creature can attack and {T} as soon as it comes under your control.)
-Wild Dogs,1.0,['Green'],['G'],None,['Creature'],['Dog'],Common,USG,2,1,None,"At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Wild Dogs.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Skittering Skirge,2.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Imp']",Common,USG,3,2,None,"Flying\nWhen you cast a creature spell, sacrifice Skittering Skirge."
-Sulfuric Vapors,4.0,['Red'],['R'],None,['Enchantment'],None,Rare,USG,None,None,None,"If a red spell would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead."
-Winding Wurm,5.0,['Green'],['G'],None,['Creature'],['Wurm'],Common,USG,6,6,None,"Echo {4}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
-Skirge Familiar,5.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Imp']",Uncommon,USG,3,2,None,Flying\nDiscard a card: Add {B}.
-Steam Blast,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Steam Blast deals 2 damage to each creature and each player.
-Barrin's Codex,4.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a page counter on Barrin's Codex.\n{4}, {T}, Sacrifice Barrin's Codex: Draw X cards, where X is the number of page counters on Barrin's Codex."
-Sicken,1.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\nEnchanted creature gets -1/-1.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Sneak Attack,4.0,['Red'],['R'],None,['Enchantment'],None,Rare,USG,None,None,None,{R}: You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice the creature at the beginning of the next end step.
-Cathodion,3.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Uncommon,USG,3,3,None,"When Cathodion dies, add {C}{C}{C}."
-Sanguine Guard,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie', 'Knight']",Uncommon,USG,2,2,None,First strike\n{1}{B}: Regenerate Sanguine Guard.
-Shower of Sparks,1.0,['Red'],['R'],None,['Instant'],None,Common,USG,None,None,None,Shower of Sparks deals 1 damage to target creature and 1 damage to target player or planeswalker.
-Chimeric Staff,4.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,{X}: Chimeric Staff becomes an X/X Construct artifact creature until end of turn.
-Reprocess,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,USG,None,None,None,"Sacrifice any number of artifacts, creatures, and/or lands. Draw a card for each permanent sacrificed this way."
-Shiv's Embrace,4.0,['Red'],['R'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,Enchant creature\nEnchanted creature gets +2/+2 and has flying.\n{R}: Enchanted creature gets +1/+0 until end of turn.
-Citanul Flute,5.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"{X}, {T}: Search your library for a creature card with mana value X or less, reveal it, put it into your hand, then shuffle."
-Reclusive Wight,4.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Minion']",Uncommon,USG,4,4,None,"At the beginning of your upkeep, if you control another nonland permanent, sacrifice Reclusive Wight."
-Shivan Raptor,3.0,['Red'],['R'],None,['Creature'],['Dinosaur'],Uncommon,USG,3,1,None,"First strike, haste\nEcho {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
-Claws of Gix,0.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,"{1}, Sacrifice a permanent: You gain 1 life."
-Ravenous Skirge,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Imp']",Common,USG,1,1,None,"Flying\nWhenever Ravenous Skirge attacks, it gets +2/+0 until end of turn."
-Shivan Hellkite,7.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,USG,5,5,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{1}{R}: Shivan Hellkite deals 1 damage to any target.
-Copper Gnomes,2.0,None,None,None,"['Artifact', 'Creature']",['Gnome'],Rare,USG,1,1,None,"{4}, Sacrifice Copper Gnomes: You may put an artifact card from your hand onto the battlefield."
-Rain of Filth,1.0,['Black'],['B'],None,['Instant'],None,Uncommon,USG,None,None,None,"Until end of turn, lands you control gain ""Sacrifice this land: Add {B}."""
-Scrap,3.0,['Red'],['R'],None,['Instant'],None,Common,USG,None,None,None,"Destroy target artifact.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Crystal Chimes,3.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,"{3}, {T}, Sacrifice Crystal Chimes: Return all enchantment cards from your graveyard to your hand."
-Priest of Gix,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Human', 'Cleric', 'Minion']",Uncommon,USG,2,1,None,"When Priest of Gix enters the battlefield, add {B}{B}{B}."
-Scoria Wurm,5.0,['Red'],['R'],None,['Creature'],['Wurm'],Rare,USG,7,7,None,"At the beginning of your upkeep, flip a coin. If you lose the flip, return Scoria Wurm to its owner's hand."
-Dragon Blood,3.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,"{3}, {T}: Put a +1/+1 counter on target creature."
-Scald,2.0,['Red'],['R'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Whenever a player taps an Island for mana, Scald deals 1 damage to that player."
-Endoskeleton,2.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,"You may choose not to untap Endoskeleton during your untap step.\n{2}, {T}: Target creature gets +0/+3 for as long as Endoskeleton remains tapped."
-Goblin War Buggy,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,USG,2,2,None,"Haste\nEcho {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
-"Karn, Silver Golem",5.0,None,None,['Legendary'],"['Artifact', 'Creature']",['Golem'],Rare,USG,4,4,None,"Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.\n{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value until end of turn."
-Planar Void,1.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Whenever another card is put into a graveyard from anywhere, exile that card."
-Raze,1.0,['Red'],['R'],None,['Sorcery'],None,Common,USG,None,None,None,"As an additional cost to cast this spell, sacrifice a land.\nDestroy target land."
-Lifeline,5.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"Whenever a creature dies, if another creature is on the battlefield, return the first card to the battlefield under its owner's control at the beginning of the next end step."
-Retromancer,4.0,['Red'],['R'],None,['Creature'],"['Viashino', 'Shaman']",Common,USG,3,3,None,"Whenever Retromancer becomes the target of a spell or ability, Retromancer deals 3 damage to that spell or ability's controller."
-Lotus Blossom,2.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a petal counter on Lotus Blossom.\n{T}, Sacrifice Lotus Blossom: Add X mana of any one color, where X is the number of petal counters on Lotus Blossom."
-Phyrexian Ghoul,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie']",Common,USG,2,2,None,Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn.
-Rumbling Crescendo,5.0,['Red'],['R'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Rumbling Crescendo.\n{R}, Sacrifice Rumbling Crescendo: Destroy up to X target lands, where X is the number of verse counters on Rumbling Crescendo."
-Fluctuator,2.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,Cycling abilities you activate cost up to {2} less to activate.
-Pestilence,4.0,['Black'],['B'],None,['Enchantment'],None,Common,USG,None,None,None,"At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.\n{B}: Pestilence deals 1 damage to each creature and each player."
-Reflexes,1.0,['Red'],['R'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature has first strike. (It deals combat damage before creatures without first strike.)
-Hopping Automaton,3.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Uncommon,USG,2,2,None,{0}: Hopping Automaton gets -1/-1 and gains flying until end of turn.
-Persecute,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,USG,None,None,None,Choose a color. Target player reveals their hand and discards all cards of that color.
-Rain of Salt,6.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Destroy two target lands.
-Mishra's Helix,5.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"{X}, {T}: Tap X target lands."
-Parasitic Bond,4.0,['Black'],['B'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,"Enchant creature\nAt the beginning of the upkeep of enchanted creature's controller, Parasitic Bond deals 2 damage to that player."
-Outmaneuver,1.0,['Red'],['R'],None,['Instant'],None,Uncommon,USG,None,None,None,X target blocked creatures assign their combat damage this turn as though they weren't blocked.
-Mobile Fort,4.0,None,None,None,"['Artifact', 'Creature']",['Wall'],Uncommon,USG,0,6,None,Defender (This creature can't attack.)\n{3}: Mobile Fort gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate only once each turn.
-Order of Yawgmoth,4.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie', 'Knight']",Uncommon,USG,2,2,None,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever Order of Yawgmoth deals damage to a player, that player discards a card."
-Okk,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Rare,USG,4,4,None,Okk can't attack unless a creature with greater power also attacks.\nOkk can't block unless a creature with greater power also blocks.
-Metrognome,4.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"When a spell or ability an opponent controls causes you to discard Metrognome, create four 1/1 colorless Gnome artifact creature tokens.\n{4}, {T}: Create a 1/1 colorless Gnome artifact creature token."
-Oppression,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,USG,None,None,None,"Whenever a player casts a spell, that player discards a card."
-Lay Waste,4.0,['Red'],['R'],None,['Sorcery'],None,Common,USG,None,None,None,"Destroy target land.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Noetic Scales,4.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"At the beginning of each player's upkeep, return to its owner's hand each creature that player controls with power greater than the number of cards in their hand."
-Mana Leech,3.0,['Black'],['B'],None,['Creature'],['Leech'],Uncommon,USG,1,1,None,You may choose not to untap Mana Leech during your untap step.\n{T}: Tap target land. It doesn't untap during its controller's untap step for as long as Mana Leech remains tapped.
-Phyrexian Colossus,7.0,None,None,None,"['Artifact', 'Creature']","['Phyrexian', 'Golem']",Rare,USG,8,8,None,Phyrexian Colossus doesn't untap during your untap step.\nPay 8 life: Untap Phyrexian Colossus.\nPhyrexian Colossus can't be blocked except by three or more creatures.
-Lurking Evil,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,USG,None,None,None,"Pay half your life, rounded up: Lurking Evil becomes a 4/4 Phyrexian Horror creature with flying."
-Meltdown,1.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Destroy each artifact with mana value X or less.
-Phyrexian Processor,4.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"As Phyrexian Processor enters the battlefield, pay any amount of life.\n{4}, {T}: Create an X/X black Phyrexian Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield."
-Lightning Dragon,4.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,USG,4,4,None,"Flying\nEcho {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\n{R}: Lightning Dragon gets +1/+0 until end of turn."
-Purging Scythe,5.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, Purging Scythe deals 2 damage to the creature with the least toughness. If two or more creatures are tied for least toughness, you choose one of them."
-Guma,3.0,['Red'],['R'],None,['Creature'],['Cat'],Uncommon,USG,2,2,None,Protection from blue
-Temporal Aperture,2.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"{5}, {T}: Shuffle your library, then reveal the top card. Until end of turn, for as long as that card remains on top of your library, play with the top card of your library revealed and you may play that card without paying its mana cost. (If it has X in its mana cost, X is 0.)"
-Goblin Spelunkers,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Common,USG,2,2,None,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
-Smokestack,4.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a soot counter on Smokestack.\nAt the beginning of each player's upkeep, that player sacrifices a permanent for each soot counter on Smokestack."
-Ill-Gotten Gains,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,USG,None,None,None,"Exile Ill-Gotten Gains. Each player discards their hand, then returns up to three cards from their graveyard to their hand."
-Jagged Lightning,5.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Jagged Lightning deals 3 damage to each of two target creatures.
-Pit Trap,2.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,"{2}, {T}, Sacrifice Pit Trap: Destroy target attacking creature without flying. It can't be regenerated."
-Hollow Dogs,5.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie', 'Dog']",Common,USG,3,3,None,"Whenever Hollow Dogs attacks, it gets +2/+0 until end of turn."
-Heat Ray,1.0,['Red'],['R'],None,['Instant'],None,Common,USG,None,None,None,Heat Ray deals X damage to target creature.
-Grafted Skullcap,4.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"At the beginning of your draw step, draw an additional card.\nAt the beginning of your end step, discard your hand."
-Headlong Rush,2.0,['Red'],['R'],None,['Instant'],None,Common,USG,None,None,None,Attacking creatures gain first strike until end of turn.
-Thran Turbine,1.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,"At the beginning of your upkeep, you may add {C}{C}. You can't spend this mana to cast spells."
-Flesh Reaver,2.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Horror']",Uncommon,USG,4,4,None,"Whenever Flesh Reaver deals damage to a creature or opponent, Flesh Reaver deals that much damage to you."
-Goblin Raider,2.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Common,USG,2,2,None,Goblin Raider can't block.
-Umbilicus,4.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,"At the beginning of each player's upkeep, that player returns a permanent they control to its owner's hand unless they pay 2 life."
-Goblin Patrol,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,USG,2,1,None,"Echo {R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
-Urza's Armor,6.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,"If a source would deal damage to you, prevent 1 of that damage."
-Falter,2.0,['Red'],['R'],None,['Instant'],None,Common,USG,None,None,None,Creatures without flying can't block this turn.
-Fortitude,2.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\nSacrifice a Forest: Regenerate enchanted creature.\nWhen Fortitude is put into a graveyard from the battlefield, return Fortitude to its owner's hand."
-Voltaic Key,1.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,"{1}, {T}: Untap target artifact."
-Electryte,5.0,['Red'],['R'],None,['Creature'],"['Trilobite', 'Beast']",Rare,USG,3,3,None,"Whenever Electryte deals combat damage to defending player, it deals damage equal to its power to each blocking creature."
-Wall of Junk,2.0,None,None,None,"['Artifact', 'Creature']",['Wall'],Uncommon,USG,0,7,None,"Defender (This creature can't attack.)\nWhen Wall of Junk blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)"
-Gaea's Embrace,4.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,Enchant creature\nEnchanted creature gets +3/+3 and has trample.\n{G}: Regenerate enchanted creature.
-Whetstone,3.0,None,None,None,['Artifact'],None,Rare,USG,None,None,None,{3}: Each player mills two cards.
-Goblin Offensive,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Create X 1/1 red Goblin creature tokens.
-Wirecat,4.0,None,None,None,"['Artifact', 'Creature']",['Cat'],Uncommon,USG,4,3,None,Wirecat can't attack or block if an enchantment is on the battlefield.
-Goblin Matron,3.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,USG,1,1,None,"When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle."
-Worn Powerstone,3.0,None,None,None,['Artifact'],None,Uncommon,USG,None,None,None,Worn Powerstone enters the battlefield tapped.\n{T}: Add {C}{C}.
-Crater Hellion,6.0,['Red'],['R'],None,['Creature'],"['Hellion', 'Beast']",Rare,USG,6,6,None,"Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Crater Hellion enters the battlefield, it deals 4 damage to each other creature."
-Exploration,1.0,['Green'],['G'],None,['Enchantment'],None,Rare,USG,None,None,None,You may play an additional land on each of your turns.
-Blasted Landscape,0.0,None,None,None,['Land'],None,Uncommon,USG,None,None,None,"{T}: Add {C}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Bulwark,5.0,['Red'],['R'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, Bulwark deals X damage to target opponent, where X is the number of cards in your hand minus the number of cards in that player's hand."
-Goblin Lackey,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Uncommon,USG,1,1,None,"Whenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield."
-Drifting Meadow,0.0,None,['W'],None,['Land'],None,Common,USG,None,None,None,"Drifting Meadow enters the battlefield tapped.\n{T}: Add {W}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Gaea's Cradle,0.0,None,['G'],['Legendary'],['Land'],None,Rare,USG,None,None,None,{T}: Add {G} for each creature you control.
-Disorder,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,USG,None,None,None,Disorder deals 2 damage to each white creature and each player who controls a white creature.
-Gaea's Bounty,3.0,['Green'],['G'],None,['Sorcery'],None,Common,USG,None,None,None,"Search your library for up to two Forest cards, reveal those cards, put them into your hand, then shuffle."
-Phyrexian Tower,0.0,None,['B'],['Legendary'],['Land'],None,Rare,USG,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice a creature: Add {B}{B}."
-Endless Wurm,5.0,['Green'],['G'],None,['Creature'],['Wurm'],Rare,USG,9,9,None,"Trample\nAt the beginning of your upkeep, sacrifice Endless Wurm unless you sacrifice an enchantment."
-Polluted Mire,0.0,None,['B'],None,['Land'],None,Common,USG,None,None,None,"Polluted Mire enters the battlefield tapped.\n{T}: Add {B}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Destructive Urge,3.0,['Red'],['R'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,"Enchant creature\nWhenever enchanted creature deals combat damage to a player, that player sacrifices a land."
-Fertile Ground,2.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional one mana of any color."
-Remote Isle,0.0,None,['U'],None,['Land'],None,Common,USG,None,None,None,"Remote Isle enters the battlefield tapped.\n{T}: Add {U}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Fecundity,3.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Whenever a creature dies, that creature's controller may draw a card."
-Serra's Sanctum,0.0,None,['W'],['Legendary'],['Land'],None,Rare,USG,None,None,None,{T}: Add {W} for each enchantment you control.
-Shivan Gorge,0.0,None,['R'],['Legendary'],['Land'],None,Rare,USG,None,None,None,"{T}: Add {C}.\n{2}{R}, {T}: Shivan Gorge deals 1 damage to each opponent."
-Dromosaur,3.0,['Red'],['R'],None,['Creature'],['Dinosaur'],Common,USG,2,3,None,"Whenever Dromosaur blocks or becomes blocked, it gets +2/-2 until end of turn."
-Slippery Karst,0.0,None,['G'],None,['Land'],None,Common,USG,None,None,None,"Slippery Karst enters the battlefield tapped.\n{T}: Add {G}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Elvish Lyrist,1.0,['Green'],['G'],None,['Creature'],['Elf'],Common,USG,1,1,None,"{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment."
-Smoldering Crater,0.0,None,['R'],None,['Land'],None,Common,USG,None,None,None,"Smoldering Crater enters the battlefield tapped.\n{T}: Add {R}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Goblin Cadets,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Uncommon,USG,2,1,None,"Whenever Goblin Cadets blocks or becomes blocked, target opponent gains control of it. (This removes Goblin Cadets from combat.)"
-Thran Quarry,0.0,None,None,None,['Land'],None,Rare,USG,None,None,None,"At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry.\n{T}: Add one mana of any color."
-Gamble,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,USG,None,None,None,"Search your library for a card, put that card into your hand, discard a card at random, then shuffle."
-Tolarian Academy,0.0,None,['U'],['Legendary'],['Land'],None,Rare,USG,None,None,None,{T}: Add {U} for each artifact you control.
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,USG,None,None,None,({T}: Add {W}.)
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,USG,None,None,None,({T}: Add {W}.)
-Fire Ants,3.0,['Red'],['R'],None,['Creature'],['Insect'],Uncommon,USG,2,1,None,{T}: Fire Ants deals 1 damage to each other creature without flying.
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,USG,None,None,None,({T}: Add {W}.)
-Fiery Mantle,2.0,['Red'],['R'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\n{R}: Enchanted creature gets +1/+0 until end of turn.\nWhen Fiery Mantle is put into a graveyard from the battlefield, return Fiery Mantle to its owner's hand."
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,USG,None,None,None,({T}: Add {W}.)
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,USG,None,None,None,({T}: Add {U}.)
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,USG,None,None,None,({T}: Add {U}.)
-Fault Line,2.0,['Red'],['R'],None,['Instant'],None,Rare,USG,None,None,None,Fault Line deals X damage to each creature without flying and each player.
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,USG,None,None,None,({T}: Add {U}.)
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,USG,None,None,None,({T}: Add {U}.)
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,USG,None,None,None,({T}: Add {B}.)
-Disenchant,2.0,['White'],['W'],None,['Instant'],None,Common,USG,None,None,None,Destroy target artifact or enchantment.
-Elite Archers,6.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier', 'Archer']",Rare,USG,3,3,None,{T}: Elite Archers deals 3 damage to target attacking or blocking creature.
-Disciple of Grace,2.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,USG,1,2,None,"Protection from black\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Disciple of Law,2.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,USG,1,2,None,"Protection from red\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Defensive Formation,1.0,['White'],['W'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"Rather than the attacking player, you assign the combat damage of each creature attacking you. You can divide that creature's combat damage as you choose among any of the creatures blocking it."
-Congregate,4.0,['White'],['W'],None,['Instant'],None,Common,USG,None,None,None,Target player gains 2 life for each creature on the battlefield.
-Brilliant Halo,2.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,USG,None,None,None,"Enchant creature\nEnchanted creature gets +1/+2.\nWhen Brilliant Halo is put into a graveyard from the battlefield, return Brilliant Halo to its owner's hand."
-Clear,2.0,['White'],['W'],None,['Instant'],None,Uncommon,USG,None,None,None,"Destroy target enchantment.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Catastrophe,6.0,['White'],['W'],None,['Sorcery'],None,Rare,USG,None,None,None,Destroy all lands or all creatures. Creatures destroyed this way can't be regenerated.
-Bog Raiders,3.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,USG,2,2,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
-Absolute Grace,2.0,['White'],['W'],None,['Enchantment'],None,Uncommon,USG,None,None,None,All creatures have protection from black.
-Angelic Page,2.0,['White'],['W'],None,['Creature'],"['Angel', 'Spirit']",Common,USG,1,1,None,Flying\n{T}: Target attacking or blocking creature gets +1/+1 until end of turn.
-Angelic Chorus,5.0,['White'],['W'],None,['Enchantment'],None,Rare,USG,None,None,None,"Whenever a creature enters the battlefield under your control, you gain life equal to its toughness."
-Absolute Law,2.0,['White'],['W'],None,['Enchantment'],None,Uncommon,USG,None,None,None,All creatures have protection from red.
-Rune of Protection: Artifacts,2.0,['White'],['W'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"{W}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Remembrance,4.0,['White'],['W'],None,['Enchantment'],None,Rare,USG,None,None,None,"Whenever a nontoken creature you control dies, you may search your library for a card with the same name as that creature, reveal it, put it into your hand, then shuffle."
-Redeem,2.0,['White'],['W'],None,['Instant'],None,Uncommon,USG,None,None,None,Prevent all damage that would be dealt this turn to up to two target creatures.
-Monk Realist,2.0,['White'],['W'],None,['Creature'],"['Human', 'Monk', 'Cleric']",Common,USG,1,1,None,"When Monk Realist enters the battlefield, destroy target enchantment."
-Monk Idealist,3.0,['White'],['W'],None,['Creature'],"['Human', 'Monk', 'Cleric']",Uncommon,USG,2,2,None,"When Monk Idealist enters the battlefield, return target enchantment card from your graveyard to your hand."
-Intrepid Hero,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,USG,1,1,None,{T}: Destroy target creature with power 4 or greater.
-Humble,2.0,['White'],['W'],None,['Instant'],None,Uncommon,USG,None,None,None,"Until end of turn, target creature loses all abilities and has base power and toughness 0/1."
-Herald of Serra,4.0,['White'],['W'],None,['Creature'],['Angel'],Rare,USG,3,4,None,"Flying, vigilance\nEcho {2}{W}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
-Faith Healer,2.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Rare,USG,1,1,None,Sacrifice an enchantment: You gain life equal to the sacrificed enchantment's mana value.
-Academy Researchers,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Uncommon,USG,2,2,None,"When Academy Researchers enters the battlefield, you may put an Aura card from your hand onto the battlefield attached to Academy Researchers."
-Shimmering Barrier,2.0,['White'],['W'],None,['Creature'],['Wall'],Uncommon,USG,1,3,None,"Defender (This creature can't attack.)\nFirst strike\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Serra's Liturgy,4.0,['White'],['W'],None,['Enchantment'],None,Rare,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Serra's Liturgy.\n{W}, Sacrifice Serra's Liturgy: Destroy up to X target artifacts and/or enchantments, where X is the number of verse counters on Serra's Liturgy."
-Serra's Hymn,1.0,['White'],['W'],None,['Enchantment'],None,Uncommon,USG,None,None,None,"At the beginning of your upkeep, you may put a verse counter on Serra's Hymn.\nSacrifice Serra's Hymn: Prevent the next X damage that would be dealt this turn to any number of targets, divided as you choose, where X is the number of verse counters on Serra's Hymn."
-Healing Salve,1.0,['White'],['W'],None,['Instant'],None,Common,USG,None,None,None,Choose one —\n• Target player gains 3 life.\n• Prevent the next 3 damage that would be dealt to any target this turn.
-Serra's Embrace,4.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,USG,None,None,None,Enchant creature\nEnchanted creature gets +2/+2 and has flying and vigilance.
-Serra Zealot,1.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,USG,1,1,None,First strike
-Serra Avatar,7.0,['White'],['W'],None,['Creature'],['Avatar'],Rare,USG,*,*,None,"Serra Avatar's power and toughness are each equal to your life total.\nWhen Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library."
-Seasoned Marshal,4.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,USG,2,2,None,"Whenever Seasoned Marshal attacks, you may tap target creature."
-Sanctum Guardian,3.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Uncommon,USG,1,4,None,"Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to any target this turn, prevent that damage."
-Sanctum Custodian,3.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,USG,1,2,None,{T}: Prevent the next 2 damage that would be dealt to any target this turn.
-Rune of Protection: White,2.0,['White'],['W'],None,['Enchantment'],None,Common,USG,None,None,None,"{W}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Rune of Protection: Red,2.0,['White'],['W'],None,['Enchantment'],None,Common,USG,None,None,None,"{W}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Rune of Protection: Lands,2.0,['White'],['W'],None,['Enchantment'],None,Rare,USG,None,None,None,"{W}: The next time a land source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Rune of Protection: Green,2.0,['White'],['W'],None,['Enchantment'],None,Common,USG,None,None,None,"{W}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Rune of Protection: Blue,2.0,['White'],['W'],None,['Enchantment'],None,Common,USG,None,None,None,"{W}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Rune of Protection: Black,2.0,['White'],['W'],None,['Enchantment'],None,Common,USG,None,None,None,"{W}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Glorious Anthem,3.0,['White'],['W'],None,['Enchantment'],None,Rare,USG,None,None,None,Creatures you control get +1/+1.
-Looming Shade,3.0,['Black'],['B'],None,['Creature'],['Shade'],Common,USG,1,1,None,{B}: Looming Shade gets +1/+1 until end of turn.
-Back to Basics,3.0,['Blue'],['U'],None,['Enchantment'],None,Rare,USG,None,None,None,Nonbasic lands don't untap during their controllers' untap steps.
-Annul,1.0,['Blue'],['U'],None,['Instant'],None,Common,USG,None,None,None,Counter target artifact or enchantment spell.
-Arcane Laboratory,3.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,USG,None,None,None,Each player can't cast more than one spell each turn.
-Attunement,3.0,['Blue'],['U'],None,['Enchantment'],None,Rare,USG,None,None,None,"Return Attunement to its owner's hand: Draw three cards, then discard four cards."
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Voltaic Key,{1},1.0,,,Artifact,,,Uncommon,"{1}, {T}: Untap target artifact.",314,,,,USG,Urza's Saga
+Rune of Protection: Artifacts,{1}{W},2.0,['W'],['W'],Enchantment,,,Uncommon,"{W}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)",35,,,,USG,Urza's Saga
+Fault Line,{X}{R}{R},2.0,['R'],['R'],Instant,,,Rare,Fault Line deals X damage to each creature without flying and each player.,185,,,,USG,Urza's Saga
+Defensive Formation,{W},1.0,['W'],['W'],Enchantment,,,Uncommon,"Rather than the attacking player, you assign the combat damage of each creature attacking you. You can divide that creature's combat damage as you choose among any of the creatures blocking it.",9,,,,USG,Urza's Saga
+Presence of the Master,{3}{W},4.0,['W'],['W'],Enchantment,,,Uncommon,"Whenever a player casts an enchantment spell, counter it.",32,,,,USG,Urza's Saga
+Lotus Blossom,{2},2.0,,,Artifact,,,Rare,"At the beginning of your upkeep, you may put a petal counter on Lotus Blossom.\n{T}, Sacrifice Lotus Blossom: Add X mana of any one color, where X is the number of petal counters on Lotus Blossom.",300,,,,USG,Urza's Saga
+Reprocess,{2}{B}{B},4.0,['B'],['B'],Sorcery,,,Rare,"Sacrifice any number of artifacts, creatures, and/or lands. Draw a card for each permanent sacrificed this way.",154,,,,USG,Urza's Saga
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),343,,,,USG,Urza's Saga
+Fire Ants,{2}{R},3.0,['R'],['R'],Creature — Insect,,['Insect'],Uncommon,{T}: Fire Ants deals 1 damage to each other creature without flying.,187,2,1,,USG,Urza's Saga
+Disciple of Grace,{1}{W},2.0,['W'],['W'],Creature — Human Cleric,,"['Human', 'Cleric']",Common,"Protection from black\nCycling {2} ({2}, Discard this card: Draw a card.)",10,1,2,,USG,Urza's Saga
+Rain of Salt,{4}{R}{R},6.0,['R'],['R'],Sorcery,,,Uncommon,Destroy two target lands.,206,,,,USG,Urza's Saga
+Sleeper Agent,{B},1.0,['B'],['B'],Creature — Phyrexian Minion,,"['Phyrexian', 'Minion']",Rare,"When Sleeper Agent enters the battlefield, target opponent gains control of it.\nAt the beginning of your upkeep, Sleeper Agent deals 2 damage to you.",159,3,3,,USG,Urza's Saga
+Rune of Protection: Blue,{1}{W},2.0,['W'],['W'],Enchantment,,,Common,"{W}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)",37,,,,USG,Urza's Saga
+Skittering Skirge,{B}{B},2.0,['B'],['B'],Creature — Phyrexian Imp,,"['Phyrexian', 'Imp']",Common,"Flying\nWhen you cast a creature spell, sacrifice Skittering Skirge.",158,3,2,,USG,Urza's Saga
+Goblin Spelunkers,{2}{R},3.0,['R'],['R'],Creature — Goblin Warrior,,"['Goblin', 'Warrior']",Common,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.),195,2,2,,USG,Urza's Saga
+Vile Requiem,{2}{B}{B},4.0,['B'],['B'],Enchantment,,,Uncommon,"At the beginning of your upkeep, you may put a verse counter on Vile Requiem.\n{1}{B}, Sacrifice Vile Requiem: Destroy up to X target nonblack creatures, where X is the number of verse counters on Vile Requiem. They can't be regenerated.",167,,,,USG,Urza's Saga
+Rune of Protection: Green,{1}{W},2.0,['W'],['W'],Enchantment,,,Common,"{W}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)",38,,,,USG,Urza's Saga
+Windfall,{2}{U},3.0,['U'],['U'],Sorcery,,,Uncommon,"Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.",111,,,,USG,Urza's Saga
+Fiery Mantle,{1}{R},2.0,['R'],['R'],Enchantment — Aura,,['Aura'],Common,"Enchant creature\n{R}: Enchanted creature gets +1/+0 until end of turn.\nWhen Fiery Mantle is put into a graveyard from the battlefield, return Fiery Mantle to its owner's hand.",186,,,,USG,Urza's Saga
+Path of Peace,{3}{W},4.0,['W'],['W'],Sorcery,,,Common,Destroy target creature. Its owner gains 4 life.,29,,,,USG,Urza's Saga
+Dromosaur,{2}{R},3.0,['R'],['R'],Creature — Dinosaur,,['Dinosaur'],Common,"Whenever Dromosaur blocks or becomes blocked, it gets +2/-2 until end of turn.",182,2,3,,USG,Urza's Saga
+Blasted Landscape,,0.0,,,Land,,,Uncommon,"{T}: Add {C}.\nCycling {2} ({2}, Discard this card: Draw a card.)",319,,,,USG,Urza's Saga
+Tolarian Winds,{1}{U},2.0,['U'],['U'],Instant,,,Common,"Discard all the cards in your hand, then draw that many cards.",104,,,,USG,Urza's Saga
+Veiled Apparition,{1}{U},2.0,['U'],['U'],Enchantment,,,Uncommon,"When an opponent casts a spell, if Veiled Apparition is an enchantment, Veiled Apparition becomes a 3/3 Illusion creature with flying and ""At the beginning of your upkeep, sacrifice Veiled Apparition unless you pay {1}{U}.""",107,,,,USG,Urza's Saga
+Gamble,{R},1.0,['R'],['R'],Sorcery,,,Rare,"Search your library for a card, put that card into your hand, discard a card at random, then shuffle.",188,,,,USG,Urza's Saga
+Faith Healer,{1}{W},2.0,['W'],['W'],Creature — Human Cleric,,"['Human', 'Cleric']",Rare,Sacrifice an enchantment: You gain life equal to the sacrificed enchantment's mana value.,14,1,1,,USG,Urza's Saga
+Unworthy Dead,{1}{B},2.0,['B'],['B'],Creature — Phyrexian Skeleton,,"['Phyrexian', 'Skeleton']",Common,{B}: Regenerate Unworthy Dead.,163,1,1,,USG,Urza's Saga
+Serra's Sanctum,,0.0,,['W'],Legendary Land,['Legendary'],,Rare,{T}: Add {W} for each enchantment you control.,325,,,,USG,Urza's Saga
+Planar Birth,{1}{W},2.0,['W'],['W'],Sorcery,,,Rare,Return all basic land cards from all graveyards to the battlefield tapped under their owners' control.,31,,,,USG,Urza's Saga
+Whetstone,{3},3.0,,,Artifact,,,Rare,{3}: Each player mills two cards.,316,,,,USG,Urza's Saga
+Wizard Mentor,{2}{U},3.0,['U'],['U'],Creature — Human Wizard,,"['Human', 'Wizard']",Common,{T}: Return Wizard Mentor and target creature you control to their owner's hand.,112,2,2,,USG,Urza's Saga
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),348,,,,USG,Urza's Saga
+Ravenous Skirge,{2}{B},3.0,['B'],['B'],Creature — Phyrexian Imp,,"['Phyrexian', 'Imp']",Common,"Flying\nWhenever Ravenous Skirge attacks, it gets +2/+0 until end of turn.",152,1,1,,USG,Urza's Saga
+Remote Isle,,0.0,,['U'],Land,,,Common,"Remote Isle enters the battlefield tapped.\n{T}: Add {U}.\nCycling {2} ({2}, Discard this card: Draw a card.)",324,,,,USG,Urza's Saga
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),338,,,,USG,Urza's Saga
+Healing Salve,{W},1.0,['W'],['W'],Instant,,,Common,Choose one —\n• Target player gains 3 life.\n• Prevent the next 3 damage that would be dealt to any target this turn.,16,,,,USG,Urza's Saga
+Vampiric Embrace,{2}{B}{B},4.0,['B'],['B'],Enchantment — Aura,,['Aura'],Uncommon,"Enchant creature\nEnchanted creature gets +2/+2 and has flying.\nWhenever a creature dealt damage by enchanted creature this turn dies, put a +1/+1 counter on that creature.",164,,,,USG,Urza's Saga
+Umbilicus,{4},4.0,,,Artifact,,,Rare,"At the beginning of each player's upkeep, that player may pay 2 life. If they don't, they return a permanent they control to its owner's hand.",312,,,,USG,Urza's Saga
+Reclusive Wight,{3}{B},4.0,['B'],['B'],Creature — Zombie Minion,,"['Zombie', 'Minion']",Uncommon,"At the beginning of your upkeep, if you control another nonland permanent, sacrifice Reclusive Wight.",153,4,4,,USG,Urza's Saga
+Fluctuator,{2},2.0,,,Artifact,,,Rare,Cycling abilities you activate cost up to {2} less to activate.,295,,,,USG,Urza's Saga
+Veiled Sentry,{U},1.0,['U'],['U'],Enchantment,,,Uncommon,"When an opponent casts a spell, if Veiled Sentry is an enchantment, Veiled Sentry becomes an Illusion creature with power and toughness each equal to that spell's mana value.",109,,,,USG,Urza's Saga
+Retromancer,{2}{R}{R},4.0,['R'],['R'],Creature — Viashino Shaman,,"['Viashino', 'Shaman']",Common,"Whenever Retromancer becomes the target of a spell or ability, Retromancer deals 3 damage to that spell or ability's controller.",209,3,3,,USG,Urza's Saga
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),331,,,,USG,Urza's Saga
+Gaea's Cradle,,0.0,,['G'],Legendary Land,['Legendary'],,Rare,{T}: Add {G} for each creature you control.,321,,,,USG,Urza's Saga
+Monk Realist,{1}{W},2.0,['W'],['W'],Creature — Human Monk Cleric,,"['Human', 'Monk', 'Cleric']",Common,"When Monk Realist enters the battlefield, destroy target enchantment.",21,1,1,,USG,Urza's Saga
+Electryte,{3}{R}{R},5.0,['R'],['R'],Creature — Trilobite Beast,,"['Trilobite', 'Beast']",Rare,"Whenever Electryte deals combat damage to defending player, it deals damage equal to its power to each blocking creature.",183,3,3,,USG,Urza's Saga
+Mishra's Helix,{5},5.0,,,Artifact,,,Rare,"{X}, {T}: Tap X target lands.",302,,,,USG,Urza's Saga
+Lifeline,{5},5.0,,,Artifact,,,Rare,"Whenever a creature dies, if another creature is on the battlefield, return the first card to the battlefield under its owner's control at the beginning of the next end step.",299,,,,USG,Urza's Saga
+Wall of Junk,{2},2.0,,,Artifact Creature — Wall,,['Wall'],Uncommon,"Defender (This creature can't attack.)\nWhen Wall of Junk blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)",315,0,7,,USG,Urza's Saga
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),345,,,,USG,Urza's Saga
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),333,,,,USG,Urza's Saga
+Hopping Automaton,{3},3.0,,,Artifact Creature — Construct,,['Construct'],Uncommon,{0}: Hopping Automaton gets -1/-1 and gains flying until end of turn.,297,2,2,,USG,Urza's Saga
+Metrognome,{4},4.0,,,Artifact,,,Rare,"When a spell or ability an opponent controls causes you to discard Metrognome, create four 1/1 colorless Gnome artifact creature tokens.\n{4}, {T}: Create a 1/1 colorless Gnome artifact creature token.",301,,,,USG,Urza's Saga
+Grafted Skullcap,{4},4.0,,,Artifact,,,Rare,"At the beginning of your draw step, draw an additional card.\nAt the beginning of your end step, discard your hand.",296,,,,USG,Urza's Saga
+Urza's Armor,{6},6.0,,,Artifact,,,Uncommon,"If a source would deal damage to you, prevent 1 of that damage.",313,,,,USG,Urza's Saga
+Goblin Lackey,{R},1.0,['R'],['R'],Creature — Goblin,,['Goblin'],Uncommon,"Whenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.",190,1,1,,USG,Urza's Saga
+Phyrexian Colossus,{7},7.0,,,Artifact Creature — Phyrexian Golem,,"['Phyrexian', 'Golem']",Rare,Phyrexian Colossus doesn't untap during your untap step.\nPay 8 life: Untap Phyrexian Colossus.\nPhyrexian Colossus can't be blocked except by three or more creatures.,305,8,8,,USG,Urza's Saga
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),341,,,,USG,Urza's Saga
+Absolute Grace,{1}{W},2.0,['W'],['W'],Enchantment,,,Uncommon,All creatures have protection from black.,1,,,,USG,Urza's Saga
+Crater Hellion,{4}{R}{R},6.0,['R'],['R'],Creature — Hellion Beast,,"['Hellion', 'Beast']",Rare,"Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Crater Hellion enters the battlefield, it deals 4 damage to each other creature.",179,6,6,,USG,Urza's Saga
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),344,,,,USG,Urza's Saga
+Redeem,{1}{W},2.0,['W'],['W'],Instant,,,Uncommon,Prevent all damage that would be dealt this turn to up to two target creatures.,33,,,,USG,Urza's Saga
+Yawgmoth's Edict,{1}{B},2.0,['B'],['B'],Enchantment,,,Uncommon,"Whenever an opponent casts a white spell, that player loses 1 life and you gain 1 life.",170,,,,USG,Urza's Saga
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),337,,,,USG,Urza's Saga
+Bravado,{1}{R},2.0,['R'],['R'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nEnchanted creature gets +1/+1 for each other creature you control.,177,,,,USG,Urza's Saga
+Destructive Urge,{1}{R}{R},3.0,['R'],['R'],Enchantment — Aura,,['Aura'],Uncommon,"Enchant creature\nWhenever enchanted creature deals combat damage to a player, that player sacrifices a land.",180,,,,USG,Urza's Saga
+"Karn, Silver Golem",{5},5.0,,,Legendary Artifact Creature — Golem,['Legendary'],['Golem'],Rare,"Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.\n{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value until end of turn.",298,4,4,,USG,Urza's Saga
+Brand,{R},1.0,['R'],['R'],Instant,,,Rare,"Gain control of all permanents you own. (This effect lasts indefinitely.)\nCycling {2} ({2}, Discard this card: Draw a card.)",176,,,,USG,Urza's Saga
+Bedlam,{2}{R}{R},4.0,['R'],['R'],Enchantment,,,Rare,Creatures can't block.,175,,,,USG,Urza's Saga
+Disenchant,{1}{W},2.0,['W'],['W'],Instant,,,Common,Destroy target artifact or enchantment.,12,,,,USG,Urza's Saga
+Disciple of Law,{1}{W},2.0,['W'],['W'],Creature — Human Cleric,,"['Human', 'Cleric']",Common,"Protection from red\nCycling {2} ({2}, Discard this card: Draw a card.)",11,1,2,,USG,Urza's Saga
+Sicken,{B},1.0,['B'],['B'],Enchantment — Aura,,['Aura'],Common,"Enchant creature\nEnchanted creature gets -1/-1.\nCycling {2} ({2}, Discard this card: Draw a card.)",156,,,,USG,Urza's Saga
+Spined Fluke,{2}{B},3.0,['B'],['B'],Creature — Worm Horror,,"['Worm', 'Horror']",Uncommon,"When Spined Fluke enters the battlefield, sacrifice a creature.\n{B}: Regenerate Spined Fluke.",160,5,1,,USG,Urza's Saga
+Bulwark,{3}{R}{R},5.0,['R'],['R'],Enchantment,,,Rare,"At the beginning of your upkeep, Bulwark deals X damage to target opponent, where X is the number of cards in your hand minus the number of cards in that player's hand.",178,,,,USG,Urza's Saga
+Arc Lightning,{2}{R},3.0,['R'],['R'],Sorcery,,,Common,"Arc Lightning deals 3 damage divided as you choose among one, two, or three targets.",174,,,,USG,Urza's Saga
+Veil of Birds,{U},1.0,['U'],['U'],Enchantment,,,Common,"When an opponent casts a spell, if Veil of Birds is an enchantment, Veil of Birds becomes a 1/1 Bird creature with flying.",106,,,,USG,Urza's Saga
+Veiled Serpent,{2}{U},3.0,['U'],['U'],Enchantment,,,Common,"When an opponent casts a spell, if Veiled Serpent is an enchantment, Veiled Serpent becomes a 4/4 Serpent creature with ""This creature can't attack unless defending player controls an Island.""\nCycling {2} ({2}, Discard this card: Draw a card.)",110,,,,USG,Urza's Saga
+Witch Engine,{5}{B},6.0,['B'],['B'],Creature — Horror,,['Horror'],Rare,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\n{T}: Add {B}{B}{B}{B}. Target opponent gains control of Witch Engine. (Activate only as an instant.),169,4,4,,USG,Urza's Saga
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),342,,,,USG,Urza's Saga
+Sanguine Guard,{1}{B}{B},3.0,['B'],['B'],Creature — Phyrexian Zombie Knight,,"['Phyrexian', 'Zombie', 'Knight']",Uncommon,First strike\n{1}{B}: Regenerate Sanguine Guard.,155,2,2,,USG,Urza's Saga
+Time Spiral,{4}{U}{U},6.0,['U'],['U'],Sorcery,,,Rare,"Exile Time Spiral. Each player shuffles their hand and graveyard into their library, then draws seven cards. You untap up to six lands.",103,,,,USG,Urza's Saga
+Tolarian Academy,,0.0,,['U'],Legendary Land,['Legendary'],,Rare,{T}: Add {U} for each artifact you control.,330,,,,USG,Urza's Saga
+Telepathy,{U},1.0,['U'],['U'],Enchantment,,,Uncommon,Your opponents play with their hands revealed.,102,,,,USG,Urza's Saga
+Goblin Matron,{2}{R},3.0,['R'],['R'],Creature — Goblin,,['Goblin'],Common,"When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle.",191,1,1,,USG,Urza's Saga
+Rune of Protection: Black,{1}{W},2.0,['W'],['W'],Enchantment,,,Common,"{W}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)",36,,,,USG,Urza's Saga
+Brilliant Halo,{1}{W},2.0,['W'],['W'],Enchantment — Aura,,['Aura'],Common,"Enchant creature\nEnchanted creature gets +1/+2.\nWhen Brilliant Halo is put into a graveyard from the battlefield, return Brilliant Halo to its owner's hand.",5,,,,USG,Urza's Saga
+Rune of Protection: Red,{1}{W},2.0,['W'],['W'],Enchantment,,,Common,"{W}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)",40,,,,USG,Urza's Saga
+Phyrexian Tower,,0.0,,['B'],Legendary Land,['Legendary'],,Rare,"{T}: Add {C}.\n{T}, Sacrifice a creature: Add {B}{B}.",322,,,,USG,Urza's Saga
+Pegasus Charger,{2}{W},3.0,['W'],['W'],Creature — Pegasus,,['Pegasus'],Common,Flying (This creature can't be blocked except by creatures with flying or reach.)\nFirst strike (This creature deals combat damage before creatures without first strike.),30,2,1,,USG,Urza's Saga
+Vebulid,{B},1.0,['B'],['B'],Creature — Phyrexian Horror,,"['Phyrexian', 'Horror']",Rare,"Vebulid enters the battlefield with a +1/+1 counter on it.\nAt the beginning of your upkeep, you may put a +1/+1 counter on Vebulid.\nWhen Vebulid attacks or blocks, destroy it at end of combat.",165,0,0,,USG,Urza's Saga
+Veiled Crocodile,{2}{U},3.0,['U'],['U'],Enchantment,,,Rare,"When a player has no cards in hand, if Veiled Crocodile is an enchantment, Veiled Crocodile becomes a 4/4 Crocodile creature.",108,,,,USG,Urza's Saga
+Unnerve,{3}{B},4.0,['B'],['B'],Sorcery,,,Common,Each opponent discards two cards.,162,,,,USG,Urza's Saga
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),350,,,,USG,Urza's Saga
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),336,,,,USG,Urza's Saga
+Humble,{1}{W},2.0,['W'],['W'],Instant,,,Uncommon,"Until end of turn, target creature loses all abilities and has base power and toughness 0/1.",18,,,,USG,Urza's Saga
+Opal Archangel,{4}{W},5.0,['W'],['W'],Enchantment,,,Rare,"When an opponent casts a creature spell, if Opal Archangel is an enchantment, Opal Archangel becomes a 5/5 Angel creature with flying and vigilance.",23,,,,USG,Urza's Saga
+Tainted Aether,{2}{B}{B},4.0,['B'],['B'],Enchantment,,,Rare,"Whenever a creature enters the battlefield, its controller sacrifices a creature or land.",161,,,,USG,Urza's Saga
+Sunder,{3}{U}{U},5.0,['U'],['U'],Instant,,,Rare,Return all lands to their owners' hands.,101,,,,USG,Urza's Saga
+Pacifism,{1}{W},2.0,['W'],['W'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nEnchanted creature can't attack or block.,27,,,,USG,Urza's Saga
+Falter,{1}{R},2.0,['R'],['R'],Instant,,,Common,Creatures without flying can't block this turn.,184,,,,USG,Urza's Saga
+Slippery Karst,,0.0,,['G'],Land,,,Common,"Slippery Karst enters the battlefield tapped.\n{T}: Add {G}.\nCycling {2} ({2}, Discard this card: Draw a card.)",327,,,,USG,Urza's Saga
+Thran Quarry,,0.0,,,Land,,,Rare,"At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry.\n{T}: Add one mana of any color.",329,,,,USG,Urza's Saga
+Turnabout,{2}{U}{U},4.0,['U'],['U'],Instant,,,Uncommon,"Choose artifact, creature, or land. Tap all untapped permanents of the chosen type target player controls, or untap all tapped permanents of that type that player controls.",105,,,,USG,Urza's Saga
+Glorious Anthem,{1}{W}{W},3.0,['W'],['W'],Enchantment,,,Rare,Creatures you control get +1/+1.,15,,,,USG,Urza's Saga
+Mobile Fort,{4},4.0,,,Artifact Creature — Wall,,['Wall'],Uncommon,Defender (This creature can't attack.)\n{3}: Mobile Fort gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate only once each turn.,303,0,6,,USG,Urza's Saga
+Polluted Mire,,0.0,,['B'],Land,,,Common,"Polluted Mire enters the battlefield tapped.\n{T}: Add {B}.\nCycling {2} ({2}, Discard this card: Draw a card.)",323,,,,USG,Urza's Saga
+Thran Turbine,{1},1.0,,,Artifact,,,Uncommon,"At the beginning of your upkeep, you may add {C}{C}. You can't spend this mana to cast spells.",311,,,,USG,Urza's Saga
+Catastrophe,{4}{W}{W},6.0,['W'],['W'],Sorcery,,,Rare,Destroy all lands or all creatures. Creatures destroyed this way can't be regenerated.,6,,,,USG,Urza's Saga
+Acidic Soil,{2}{R},3.0,['R'],['R'],Sorcery,,,Uncommon,Acidic Soil deals damage to each player equal to the number of lands they control.,172,,,,USG,Urza's Saga
+Yawgmoth's Will,{2}{B},3.0,['B'],['B'],Sorcery,,,Rare,"Until end of turn, you may play lands and cast spells from your graveyard.\nIf a card would be put into your graveyard from anywhere this turn, exile that card instead.",171,,,,USG,Urza's Saga
+Clear,{1}{W},2.0,['W'],['W'],Instant,,,Uncommon,"Destroy target enchantment.\nCycling {2} ({2}, Discard this card: Draw a card.)",7,,,,USG,Urza's Saga
+Intrepid Hero,{2}{W},3.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Rare,{T}: Destroy target creature with power 4 or greater.,19,1,1,,USG,Urza's Saga
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),334,,,,USG,Urza's Saga
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),349,,,,USG,Urza's Saga
+Goblin Cadets,{R},1.0,['R'],['R'],Creature — Goblin,,['Goblin'],Uncommon,"Whenever Goblin Cadets blocks or becomes blocked, target opponent gains control of it. (This removes Goblin Cadets from combat.)",189,2,1,,USG,Urza's Saga
+Goblin Raider,{1}{R},2.0,['R'],['R'],Creature — Goblin Warrior,,"['Goblin', 'Warrior']",Common,Goblin Raider can't block.,194,2,2,,USG,Urza's Saga
+Shivan Gorge,,0.0,,['R'],Legendary Land,['Legendary'],,Rare,"{T}: Add {C}.\n{2}{R}, {T}: Shivan Gorge deals 1 damage to each opponent.",326,,,,USG,Urza's Saga
+Herald of Serra,{2}{W}{W},4.0,['W'],['W'],Creature — Angel,,['Angel'],Rare,"Flying, vigilance\nEcho {2}{W}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",17,3,4,,USG,Urza's Saga
+Opal Acrolith,{2}{W},3.0,['W'],['W'],Enchantment,,,Uncommon,"Whenever an opponent casts a creature spell, if Opal Acrolith is an enchantment, Opal Acrolith becomes a 2/4 Soldier creature.\n{0}: Opal Acrolith becomes an enchantment.",22,,,,USG,Urza's Saga
+Angelic Page,{1}{W},2.0,['W'],['W'],Creature — Angel Spirit,,"['Angel', 'Spirit']",Common,Flying\n{T}: Target attacking or blocking creature gets +1/+1 until end of turn.,4,1,1,,USG,Urza's Saga
+Disorder,{1}{R},2.0,['R'],['R'],Sorcery,,,Uncommon,Disorder deals 2 damage to each white creature and each player who controls a white creature.,181,,,,USG,Urza's Saga
+Pariah,{2}{W},3.0,['W'],['W'],Enchantment — Aura,,['Aura'],Rare,Enchant creature\nAll damage that would be dealt to you is dealt to enchanted creature instead.,28,,,,USG,Urza's Saga
+Victimize,{2}{B},3.0,['B'],['B'],Sorcery,,,Uncommon,"Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped.",166,,,,USG,Urza's Saga
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),340,,,,USG,Urza's Saga
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),347,,,,USG,Urza's Saga
+Goblin Offensive,{X}{1}{R}{R},3.0,['R'],['R'],Sorcery,,,Uncommon,Create X 1/1 red Goblin creature tokens.,192,,,,USG,Urza's Saga
+Elite Archers,{5}{W},6.0,['W'],['W'],Creature — Human Soldier Archer,,"['Human', 'Soldier', 'Archer']",Rare,{T}: Elite Archers deals 3 damage to target attacking or blocking creature.,13,3,3,,USG,Urza's Saga
+Temporal Aperture,{2},2.0,,,Artifact,,,Rare,"{5}, {T}: Shuffle your library, then reveal the top card. Until end of turn, for as long as that card remains on top of your library, play with the top card of your library revealed and you may play that card without paying its mana cost. (If it has X in its mana cost, X is 0.)",310,,,,USG,Urza's Saga
+Drifting Meadow,,0.0,,['W'],Land,,,Common,"Drifting Meadow enters the battlefield tapped.\n{T}: Add {W}.\nCycling {2} ({2}, Discard this card: Draw a card.)",320,,,,USG,Urza's Saga
+Goblin Patrol,{R},1.0,['R'],['R'],Creature — Goblin,,['Goblin'],Common,"Echo {R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",193,2,1,,USG,Urza's Saga
+Raze,{R},1.0,['R'],['R'],Sorcery,,,Common,"As an additional cost to cast this spell, sacrifice a land.\nDestroy target land.",207,,,,USG,Urza's Saga
+Smoldering Crater,,0.0,,['R'],Land,,,Common,"Smoldering Crater enters the battlefield tapped.\n{T}: Add {R}.\nCycling {2} ({2}, Discard this card: Draw a card.)",328,,,,USG,Urza's Saga
+Opal Gargoyle,{1}{W},2.0,['W'],['W'],Enchantment,,,Common,"When an opponent casts a creature spell, if Opal Gargoyle is an enchantment, Opal Gargoyle becomes a 2/2 Gargoyle creature with flying.",25,,,,USG,Urza's Saga
+Worn Powerstone,{3},3.0,,,Artifact,,,Uncommon,Worn Powerstone enters the battlefield tapped.\n{T}: Add {C}{C}.,318,,,,USG,Urza's Saga
+Antagonism,{3}{R},4.0,['R'],['R'],Enchantment,,,Rare,"At the beginning of each player's end step, Antagonism deals 2 damage to that player unless one of their opponents was dealt damage this turn.",173,,,,USG,Urza's Saga
+Wirecat,{4},4.0,,,Artifact Creature — Cat,,['Cat'],Uncommon,Wirecat can't attack or block if an enchantment is on the battlefield.,317,4,3,,USG,Urza's Saga
+Opal Titan,{2}{W}{W},4.0,['W'],['W'],Enchantment,,,Rare,"When an opponent casts a creature spell, if Opal Titan is an enchantment, Opal Titan becomes a 4/4 Giant creature with protection from each of that spell's colors.",26,,,,USG,Urza's Saga
+Monk Idealist,{2}{W},3.0,['W'],['W'],Creature — Human Monk Cleric,,"['Human', 'Monk', 'Cleric']",Uncommon,"When Monk Idealist enters the battlefield, return target enchantment card from your graveyard to your hand.",20,2,2,,USG,Urza's Saga
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),332,,,,USG,Urza's Saga
+Noetic Scales,{4},4.0,,,Artifact,,,Rare,"At the beginning of each player's upkeep, return to its owner's hand each creature that player controls with power greater than the number of cards in their hand.",304,,,,USG,Urza's Saga
+Remembrance,{3}{W},4.0,['W'],['W'],Enchantment,,,Rare,"Whenever a nontoken creature you control dies, you may search your library for a card with the same name as that creature, reveal it, put it into your hand, then shuffle.",34,,,,USG,Urza's Saga
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),339,,,,USG,Urza's Saga
+Congregate,{3}{W},4.0,['W'],['W'],Instant,,,Common,Target player gains 2 life for each creature on the battlefield.,8,,,,USG,Urza's Saga
+Rune of Protection: Lands,{1}{W},2.0,['W'],['W'],Enchantment,,,Rare,"{W}: The next time a land source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)",39,,,,USG,Urza's Saga
+Skirge Familiar,{4}{B},5.0,['B'],['B'],Creature — Phyrexian Imp,,"['Phyrexian', 'Imp']",Uncommon,Flying\nDiscard a card: Add {B}.,157,3,2,,USG,Urza's Saga
+Reflexes,{R},1.0,['R'],['R'],Enchantment — Aura,,['Aura'],Common,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature has first strike. (It deals combat damage before creatures without first strike.),208,,,,USG,Urza's Saga
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),346,,,,USG,Urza's Saga
+Western Paladin,{2}{B}{B},4.0,['B'],['B'],Creature — Phyrexian Zombie Knight,,"['Phyrexian', 'Zombie', 'Knight']",Rare,"{B}{B}, {T}: Destroy target white creature.",168,3,3,,USG,Urza's Saga
+Opal Caryatid,{W},1.0,['W'],['W'],Enchantment,,,Common,"When an opponent casts a creature spell, if Opal Caryatid is an enchantment, Opal Caryatid becomes a 2/2 Soldier creature.",24,,,,USG,Urza's Saga
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),335,,,,USG,Urza's Saga
+Priest of Titania,{1}{G},2.0,['G'],['G'],Creature — Elf Druid,,"['Elf', 'Druid']",Common,{T}: Add {G} for each Elf on the battlefield.,270,1,1,,USG,Urza's Saga
+Rescind,{1}{U}{U},3.0,['U'],['U'],Instant,,,Common,"Return target permanent to its owner's hand.\nCycling {2} ({2}, Discard this card: Draw a card.)",92,,,,USG,Urza's Saga
+Shower of Sparks,{R},1.0,['R'],['R'],Instant,,,Common,Shower of Sparks deals 1 damage to target creature and 1 damage to target player or planeswalker.,217,,,,USG,Urza's Saga
+Shiv's Embrace,{2}{R}{R},4.0,['R'],['R'],Enchantment — Aura,,['Aura'],Uncommon,Enchant creature\nEnchanted creature gets +2/+2 and has flying.\n{R}: Enchanted creature gets +1/+0 until end of turn.,216,,,,USG,Urza's Saga
+Sneak Attack,{3}{R},4.0,['R'],['R'],Enchantment,,,Rare,{R}: You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice the creature at the beginning of the next end step.,218,,,,USG,Urza's Saga
+Elvish Lyrist,{G},1.0,['G'],['G'],Creature — Elf,,['Elf'],Common,"{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.",248,1,1,,USG,Urza's Saga
+Hidden Ancients,{1}{G},2.0,['G'],['G'],Enchantment,,,Uncommon,"When an opponent casts an enchantment spell, if Hidden Ancients is an enchantment, Hidden Ancients becomes a 5/5 Treefolk creature.",260,,,,USG,Urza's Saga
+Carrion Beetles,{B},1.0,['B'],['B'],Creature — Insect,,['Insect'],Common,"{2}{B}, {T}: Exile up to three target cards from a single graveyard.",122,1,1,,USG,Urza's Saga
+Fecundity,{2}{G},3.0,['G'],['G'],Enchantment,,,Uncommon,"Whenever a creature dies, that creature's controller may draw a card.",251,,,,USG,Urza's Saga
+Shivan Raptor,{2}{R},3.0,['R'],['R'],Creature — Dinosaur,,['Dinosaur'],Uncommon,"First strike, haste\nEcho {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",215,3,1,,USG,Urza's Saga
+Argothian Wurm,{3}{G},4.0,['G'],['G'],Creature — Wurm,,['Wurm'],Rare,"Trample\nWhen Argothian Wurm enters the battlefield, any player may sacrifice a land. If a player does, put Argothian Wurm on top of its owner's library.",236,6,6,,USG,Urza's Saga
+Shivan Hellkite,{5}{R}{R},7.0,['R'],['R'],Creature — Dragon,,['Dragon'],Rare,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{1}{R}: Shivan Hellkite deals 1 damage to any target.,214,5,5,,USG,Urza's Saga
+Scrap,{2}{R},3.0,['R'],['R'],Instant,,,Common,"Destroy target artifact.\nCycling {2} ({2}, Discard this card: Draw a card.)",213,,,,USG,Urza's Saga
+Scoria Wurm,{4}{R},5.0,['R'],['R'],Creature — Wurm,,['Wurm'],Rare,"At the beginning of your upkeep, flip a coin. If you lose the flip, return Scoria Wurm to its owner's hand.",212,7,7,,USG,Urza's Saga
+Blood Vassal,{2}{B},3.0,['B'],['B'],Creature — Thrull,,['Thrull'],Common,Sacrifice Blood Vassal: Add {B}{B}.,118,2,2,,USG,Urza's Saga
+Scald,{1}{R},2.0,['R'],['R'],Enchantment,,,Uncommon,"Whenever a player taps an Island for mana, Scald deals 1 damage to that player.",211,,,,USG,Urza's Saga
+Jagged Lightning,{3}{R}{R},5.0,['R'],['R'],Sorcery,,,Uncommon,Jagged Lightning deals 3 damage to each of two target creatures.,200,,,,USG,Urza's Saga
+Blanchwood Armor,{2}{G},3.0,['G'],['G'],Enchantment — Aura,,['Aura'],Uncommon,Enchant creature\nEnchanted creature gets +1/+1 for each Forest you control.,237,,,,USG,Urza's Saga
+Rumbling Crescendo,{3}{R}{R},5.0,['R'],['R'],Enchantment,,,Rare,"At the beginning of your upkeep, you may put a verse counter on Rumbling Crescendo.\n{R}, Sacrifice Rumbling Crescendo: Destroy up to X target lands, where X is the number of verse counters on Rumbling Crescendo.",210,,,,USG,Urza's Saga
+Back to Basics,{2}{U},3.0,['U'],['U'],Enchantment,,,Rare,Nonbasic lands don't untap during their controllers' untap steps.,62,,,,USG,Urza's Saga
+Disruptive Student,{2}{U},3.0,['U'],['U'],Creature — Human Wizard,,"['Human', 'Wizard']",Common,{T}: Counter target spell unless its controller pays {1}.,69,1,1,,USG,Urza's Saga
+Arcane Laboratory,{2}{U},3.0,['U'],['U'],Enchantment,,,Uncommon,Each player can't cast more than one spell each turn.,60,,,,USG,Urza's Saga
+Befoul,{2}{B}{B},4.0,['B'],['B'],Sorcery,,,Common,Destroy target land or nonblack creature. It can't be regenerated.,116,,,,USG,Urza's Saga
+Vug Lizard,{1}{R}{R},3.0,['R'],['R'],Creature — Lizard,,['Lizard'],Uncommon,"Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)\nEcho {1}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",227,3,4,,USG,Urza's Saga
+Exploration,{G},1.0,['G'],['G'],Enchantment,,,Rare,You may play an additional land on each of your turns.,250,,,,USG,Urza's Saga
+Thundering Giant,{3}{R}{R},5.0,['R'],['R'],Creature — Giant,,['Giant'],Uncommon,Haste (This creature can attack and {T} as soon as it comes under your control.),221,4,3,,USG,Urza's Saga
+Enchantment Alteration,{U},1.0,['U'],['U'],Instant,,,Uncommon,Attach target Aura attached to a creature or land to another permanent of that type.,72,,,,USG,Urza's Saga
+Exhume,{1}{B},2.0,['B'],['B'],Sorcery,,,Common,Each player puts a creature card from their graveyard onto the battlefield.,134,,,,USG,Urza's Saga
+Gilded Drake,{1}{U},2.0,['U'],['U'],Creature — Drake,,['Drake'],Rare,"Flying\nWhen Gilded Drake enters the battlefield, exchange control of Gilded Drake and up to one target creature an opponent controls. If you don't or can't make an exchange, sacrifice Gilded Drake. This ability still resolves if its target becomes illegal.",76,3,3,,USG,Urza's Saga
+Phyrexian Ghoul,{2}{B},3.0,['B'],['B'],Creature — Phyrexian Zombie,,"['Phyrexian', 'Zombie']",Common,Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn.,148,2,2,,USG,Urza's Saga
+Hidden Stag,{1}{G},2.0,['G'],['G'],Enchantment,,,Rare,"Whenever an opponent plays a land, if Hidden Stag is an enchantment, Hidden Stag becomes a 3/2 Elk Beast creature.\nWhenever you play a land, if Hidden Stag is a creature, Hidden Stag becomes an enchantment.",265,,,,USG,Urza's Saga
+Citanul Centaurs,{3}{G},4.0,['G'],['G'],Creature — Centaur,,['Centaur'],Rare,"Shroud (This creature can't be the target of spells or abilities.)\nEcho {3}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",243,6,3,,USG,Urza's Saga
+Persecute,{2}{B}{B},4.0,['B'],['B'],Sorcery,,,Rare,Choose a color. Target player reveals their hand and discards all cards of that color.,146,,,,USG,Urza's Saga
+Waylay,{2}{W},3.0,['W'],['W'],Instant,,,Uncommon,Create three 2/2 white Knight creature tokens. Exile them at the beginning of the next cleanup step.,56,,,,USG,Urza's Saga
+Endless Wurm,{3}{G}{G},5.0,['G'],['G'],Creature — Wurm,,['Wurm'],Rare,"Trample\nAt the beginning of your upkeep, sacrifice Endless Wurm unless you sacrifice an enchantment.",249,9,9,,USG,Urza's Saga
+Looming Shade,{2}{B},3.0,['B'],['B'],Creature — Shade,,['Shade'],Common,{B}: Looming Shade gets +1/+1 until end of turn.,139,1,1,,USG,Urza's Saga
+No Rest for the Wicked,{1}{B},2.0,['B'],['B'],Enchantment,,,Uncommon,Sacrifice No Rest for the Wicked: Return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.,142,,,,USG,Urza's Saga
+Cave Tiger,{2}{G},3.0,['G'],['G'],Creature — Cat,,['Cat'],Common,"Whenever Cave Tiger becomes blocked by a creature, Cave Tiger gets +1/+1 until end of turn.",241,2,2,,USG,Urza's Saga
+Gaea's Bounty,{2}{G},3.0,['G'],['G'],Sorcery,,,Common,"Search your library for up to two Forest cards, reveal those cards, put them into your hand, then shuffle.",254,,,,USG,Urza's Saga
+Stroke of Genius,{X}{2}{U},3.0,['U'],['U'],Instant,,,Rare,Target player draws X cards.,100,,,,USG,Urza's Saga
+Breach,{2}{B},3.0,['B'],['B'],Instant,,,Common,Target creature gets +2/+0 and gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.),120,,,,USG,Urza's Saga
+Midsummer Revel,{3}{G}{G},5.0,['G'],['G'],Enchantment,,,Rare,"At the beginning of your upkeep, you may put a verse counter on Midsummer Revel.\n{G}, Sacrifice Midsummer Revel: Create X 3/3 green Beast creature tokens, where X is the number of verse counters on Midsummer Revel.",268,,,,USG,Urza's Saga
+Hidden Predators,{G},1.0,['G'],['G'],Enchantment,,,Rare,"When an opponent controls a creature with power 4 or greater, if Hidden Predators is an enchantment, Hidden Predators becomes a 4/4 Beast creature.",263,,,,USG,Urza's Saga
+Duress,{B},1.0,['B'],['B'],Sorcery,,,Common,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",132,,,,USG,Urza's Saga
+Horseshoe Crab,{2}{U},3.0,['U'],['U'],Creature — Crab,,['Crab'],Common,{U}: Untap Horseshoe Crab.,80,1,3,,USG,Urza's Saga
+Contamination,{2}{B},3.0,['B'],['B'],Enchantment,,,Rare,"At the beginning of your upkeep, sacrifice Contamination unless you sacrifice a creature.\nIf a land is tapped for mana, it produces {B} instead of any other type and amount.",123,,,,USG,Urza's Saga
+Attunement,{2}{U},3.0,['U'],['U'],Enchantment,,,Rare,"Return Attunement to its owner's hand: Draw three cards, then discard four cards.",61,,,,USG,Urza's Saga
+Power Sink,{X}{U},1.0,['U'],['U'],Instant,,,Common,"Counter target spell unless its controller pays {X}. If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana.",89,,,,USG,Urza's Saga
+Lightning Dragon,{2}{R}{R},4.0,['R'],['R'],Creature — Dragon,,['Dragon'],Rare,"Flying\nEcho {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\n{R}: Lightning Dragon gets +1/+0 until end of turn.",202,4,4,,USG,Urza's Saga
+Cackling Fiend,{2}{B}{B},4.0,['B'],['B'],Creature — Zombie,,['Zombie'],Common,"When Cackling Fiend enters the battlefield, each opponent discards a card.",121,2,1,,USG,Urza's Saga
+Cradle Guard,{1}{G}{G},3.0,['G'],['G'],Creature — Treefolk,,['Treefolk'],Uncommon,"Trample\nEcho {1}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",245,4,4,,USG,Urza's Saga
+Dragon Blood,{3},3.0,,,Artifact,,,Uncommon,"{3}, {T}: Put a +1/+1 counter on target creature.",293,,,,USG,Urza's Saga
+Eastern Paladin,{2}{B}{B},4.0,['B'],['B'],Creature — Phyrexian Zombie Knight,,"['Phyrexian', 'Zombie', 'Knight']",Rare,"{B}{B}, {T}: Destroy target green creature.",133,3,3,,USG,Urza's Saga
+Lay Waste,{3}{R},4.0,['R'],['R'],Sorcery,,,Common,"Destroy target land.\nCycling {2} ({2}, Discard this card: Draw a card.)",201,,,,USG,Urza's Saga
+Venomous Fangs,{2}{G},3.0,['G'],['G'],Enchantment — Aura,,['Aura'],Common,"Enchant creature\nWhenever enchanted creature deals damage to a creature, destroy the other creature.",280,,,,USG,Urza's Saga
+Diabolic Servitude,{3}{B},4.0,['B'],['B'],Enchantment,,,Uncommon,"When Diabolic Servitude enters the battlefield, return target creature card from your graveyard to the battlefield.\nWhen the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner's hand.\nWhen Diabolic Servitude leaves the battlefield, exile the creature put onto the battlefield with Diabolic Servitude.",130,,,,USG,Urza's Saga
+Titania's Boon,{3}{G},4.0,['G'],['G'],Sorcery,,,Uncommon,Put a +1/+1 counter on each creature you control.,276,,,,USG,Urza's Saga
+Zephid's Embrace,{2}{U}{U},4.0,['U'],['U'],Enchantment — Aura,,['Aura'],Uncommon,Enchant creature\nEnchanted creature gets +2/+2 and has flying and shroud. (It can't be the target of spells or abilities.),114,,,,USG,Urza's Saga
+Hibernation,{2}{U},3.0,['U'],['U'],Instant,,,Uncommon,Return all green permanents to their owners' hands.,79,,,,USG,Urza's Saga
+Peregrine Drake,{4}{U},5.0,['U'],['U'],Creature — Drake,,['Drake'],Uncommon,"Flying\nWhen Peregrine Drake enters the battlefield, untap up to five lands.",88,2,3,,USG,Urza's Saga
+Treetop Rangers,{2}{G},3.0,['G'],['G'],Creature — Elf Ranger,,"['Elf', 'Ranger']",Common,Treetop Rangers can't be blocked except by creatures with flying.,279,2,2,,USG,Urza's Saga
+War Dance,{G},1.0,['G'],['G'],Enchantment,,,Uncommon,"At the beginning of your upkeep, you may put a verse counter on War Dance.\nSacrifice War Dance: Target creature gets +X/+X until end of turn, where X is the number of verse counters on War Dance.",282,,,,USG,Urza's Saga
+Chimeric Staff,{4},4.0,,,Artifact,,,Rare,{X}: Chimeric Staff becomes an X/X Construct artifact creature until end of turn.,288,,,,USG,Urza's Saga
+Exhaustion,{2}{U},3.0,['U'],['U'],Sorcery,,,Uncommon,Creatures and lands target opponent controls don't untap during their next untap step.,74,,,,USG,Urza's Saga
+Headlong Rush,{1}{R},2.0,['R'],['R'],Instant,,,Common,Attacking creatures gain first strike until end of turn.,198,,,,USG,Urza's Saga
+Somnophore,{2}{U}{U},4.0,['U'],['U'],Creature — Illusion,,['Illusion'],Rare,"Flying\nWhenever Somnophore deals damage to a player, tap target creature that player controls. That creature doesn't untap during its controller's untap step for as long as Somnophore remains on the battlefield.",97,2,2,,USG,Urza's Saga
+Cathodion,{3},3.0,,,Artifact Creature — Construct,,['Construct'],Uncommon,"When Cathodion dies, add {C}{C}{C}.",287,3,3,,USG,Urza's Saga
+Claws of Gix,{0},0.0,,,Artifact,,,Uncommon,"{1}, Sacrifice a permanent: You gain 1 life.",290,,,,USG,Urza's Saga
+Discordant Dirge,{3}{B}{B},5.0,['B'],['B'],Enchantment,,,Rare,"At the beginning of your upkeep, you may put a verse counter on Discordant Dirge.\n{B}, Sacrifice Discordant Dirge: Look at target opponent's hand and choose up to X cards from it, where X is the number of verse counters on Discordant Dirge. That player discards those cards.",131,,,,USG,Urza's Saga
+Lilting Refrain,{1}{U},2.0,['U'],['U'],Enchantment,,,Uncommon,"At the beginning of your upkeep, you may put a verse counter on Lilting Refrain.\nSacrifice Lilting Refrain: Counter target spell unless its controller pays {X}, where X is the number of verse counters on Lilting Refrain.",83,,,,USG,Urza's Saga
+Barrin's Codex,{4},4.0,,,Artifact,,,Rare,"At the beginning of your upkeep, you may put a page counter on Barrin's Codex.\n{4}, {T}, Sacrifice Barrin's Codex: Draw X cards, where X is the number of page counters on Barrin's Codex.",286,,,,USG,Urza's Saga
+Albino Troll,{1}{G},2.0,['G'],['G'],Creature — Troll,,['Troll'],Uncommon,"Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\n{1}{G}: Regenerate Albino Troll.",231,3,3,,USG,Urza's Saga
+Launch,{1}{U},2.0,['U'],['U'],Enchantment — Aura,,['Aura'],Common,"Enchant creature\nEnchanted creature has flying.\nWhen Launch is put into a graveyard from the battlefield, return Launch to its owner's hand.",82,,,,USG,Urza's Saga
+Rejuvenate,{3}{G},4.0,['G'],['G'],Sorcery,,,Common,"You gain 6 life.\nCycling {2} ({2}, Discard this card: Draw a card.)",271,,,,USG,Urza's Saga
+Symbiosis,{1}{G},2.0,['G'],['G'],Instant,,,Common,Two target creatures each get +2/+2 until end of turn.,275,,,,USG,Urza's Saga
+Hermetic Study,{1}{U},2.0,['U'],['U'],Enchantment — Aura,,['Aura'],Common,"Enchant creature\nEnchanted creature has ""{T}: This creature deals 1 damage to any target.""",78,,,,USG,Urza's Saga
+Titania's Chosen,{2}{G},3.0,['G'],['G'],Creature — Elf Archer,,"['Elf', 'Archer']",Uncommon,"Whenever a player casts a green spell, put a +1/+1 counter on Titania's Chosen.",277,1,1,,USG,Urza's Saga
+Hidden Herd,{G},1.0,['G'],['G'],Enchantment,,,Rare,"When an opponent plays a nonbasic land, if Hidden Herd is an enchantment, Hidden Herd becomes a 3/3 Beast creature.",262,,,,USG,Urza's Saga
+Recantation,{3}{U}{U},5.0,['U'],['U'],Enchantment,,,Rare,"At the beginning of your upkeep, you may put a verse counter on Recantation.\n{U}, Sacrifice Recantation: Return up to X target permanents to their owners' hands, where X is the number of verse counters on Recantation.",91,,,,USG,Urza's Saga
+Lurking Evil,{B}{B}{B},3.0,['B'],['B'],Enchantment,,,Rare,"Pay half your life, rounded up: Lurking Evil becomes a 4/4 Phyrexian Horror creature with flying.",140,,,,USG,Urza's Saga
+Sulfuric Vapors,{3}{R},4.0,['R'],['R'],Enchantment,,,Rare,"If a red spell would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.",220,,,,USG,Urza's Saga
+Greater Good,{2}{G}{G},4.0,['G'],['G'],Enchantment,,,Rare,"Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards.",257,,,,USG,Urza's Saga
+Gorilla Warrior,{2}{G},3.0,['G'],['G'],Creature — Ape Warrior,,"['Ape', 'Warrior']",Common,,256,3,2,,USG,Urza's Saga
+Academy Researchers,{1}{U}{U},3.0,['U'],['U'],Creature — Human Wizard,,"['Human', 'Wizard']",Uncommon,"When Academy Researchers enters the battlefield, you may put an Aura card from your hand onto the battlefield attached to Academy Researchers.",58,2,2,,USG,Urza's Saga
+Heat Ray,{X}{R},1.0,['R'],['R'],Instant,,,Common,Heat Ray deals X damage to target creature.,199,,,,USG,Urza's Saga
+Viashino Runner,{3}{R},4.0,['R'],['R'],Creature — Viashino,,['Viashino'],Common,Menace (This creature can't be blocked except by two or more creatures.),224,3,2,,USG,Urza's Saga
+Bull Hippo,{3}{G},4.0,['G'],['G'],Creature — Hippo,,['Hippo'],Uncommon,Islandwalk (This creature can't be blocked as long as defending player controls an Island.),239,3,3,,USG,Urza's Saga
+Voice of Grace,{3}{W},4.0,['W'],['W'],Creature — Angel,,['Angel'],Uncommon,"Flying, protection from black",54,2,2,,USG,Urza's Saga
+Drifting Djinn,{4}{U}{U},6.0,['U'],['U'],Creature — Djinn,,['Djinn'],Rare,"Flying\nAt the beginning of your upkeep, sacrifice Drifting Djinn unless you pay {1}{U}.\nCycling {2} ({2}, Discard this card: Draw a card.)",71,5,5,,USG,Urza's Saga
+Serra's Hymn,{W},1.0,['W'],['W'],Enchantment,,,Uncommon,"At the beginning of your upkeep, you may put a verse counter on Serra's Hymn.\nSacrifice Serra's Hymn: Prevent the next X damage that would be dealt this turn to any number of targets, divided as you choose, where X is the number of verse counters on Serra's Hymn.",48,,,,USG,Urza's Saga
+Order of Yawgmoth,{2}{B}{B},4.0,['B'],['B'],Creature — Phyrexian Zombie Knight,,"['Phyrexian', 'Zombie', 'Knight']",Uncommon,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever Order of Yawgmoth deals damage to a player, that player discards a card.",144,2,2,,USG,Urza's Saga
+Douse,{2}{U},3.0,['U'],['U'],Enchantment,,,Uncommon,{1}{U}: Counter target red spell.,70,,,,USG,Urza's Saga
+Steam Blast,{2}{R},3.0,['R'],['R'],Sorcery,,,Uncommon,Steam Blast deals 2 damage to each creature and each player.,219,,,,USG,Urza's Saga
+Argothian Enchantress,{1}{G},2.0,['G'],['G'],Creature — Human Druid,,"['Human', 'Druid']",Rare,"Shroud (This creature can't be the target of spells or abilities.)\nWhenever you cast an enchantment spell, draw a card.",234,0,1,,USG,Urza's Saga
+Sandbar Serpent,{4}{U},5.0,['U'],['U'],Creature — Serpent,,['Serpent'],Uncommon,"Cycling {2} ({2}, Discard this card: Draw a card.)",95,3,4,,USG,Urza's Saga
+Oppression,{1}{B}{B},3.0,['B'],['B'],Enchantment,,,Rare,"Whenever a player casts a spell, that player discards a card.",143,,,,USG,Urza's Saga
+Great Whale,{5}{U}{U},7.0,['U'],['U'],Creature — Whale,,['Whale'],Rare,"When Great Whale enters the battlefield, untap up to seven lands.",77,5,5,,USG,Urza's Saga
+Sanctum Guardian,{1}{W}{W},3.0,['W'],['W'],Creature — Human Cleric,,"['Human', 'Cleric']",Uncommon,"Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to any target this turn, prevent that damage.",43,1,4,,USG,Urza's Saga
+Hawkeater Moth,{3}{G},4.0,['G'],['G'],Creature — Insect,,['Insect'],Uncommon,Flying\nShroud (This creature can't be the target of spells or abilities.),259,1,2,,USG,Urza's Saga
+Greener Pastures,{2}{G},3.0,['G'],['G'],Enchantment,,,Rare,"At the beginning of each player's upkeep, if that player controls more lands than each other player, the player creates a 1/1 green Saproling creature token.",258,,,,USG,Urza's Saga
+Shimmering Barrier,{1}{W},2.0,['W'],['W'],Creature — Wall,,['Wall'],Uncommon,"Defender (This creature can't attack.)\nFirst strike\nCycling {2} ({2}, Discard this card: Draw a card.)",50,1,3,,USG,Urza's Saga
+Confiscate,{4}{U}{U},6.0,['U'],['U'],Enchantment — Aura,,['Aura'],Uncommon,Enchant permanent\nYou control enchanted permanent.,66,,,,USG,Urza's Saga
+Bog Raiders,{2}{B},3.0,['B'],['B'],Creature — Zombie,,['Zombie'],Common,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),119,2,2,,USG,Urza's Saga
+Viashino Sandswimmer,{2}{R}{R},4.0,['R'],['R'],Creature — Viashino,,['Viashino'],Rare,"{R}: Flip a coin. If you win the flip, return Viashino Sandswimmer to its owner's hand. If you lose the flip, sacrifice Viashino Sandswimmer.",225,3,2,,USG,Urza's Saga
+Pendrell Flux,{1}{U},2.0,['U'],['U'],Enchantment — Aura,,['Aura'],Common,"Enchant creature\nEnchanted creature has ""At the beginning of your upkeep, sacrifice this creature unless you pay its mana cost.""",87,,,,USG,Urza's Saga
+Copper Gnomes,{2},2.0,,,Artifact Creature — Gnome,,['Gnome'],Rare,"{4}, Sacrifice Copper Gnomes: You may put an artifact card from your hand onto the battlefield.",291,1,1,,USG,Urza's Saga
+Outmaneuver,{X}{R},1.0,['R'],['R'],Instant,,,Uncommon,X target blocked creatures assign their combat damage this turn as though they weren't blocked.,205,,,,USG,Urza's Saga
+Worship,{3}{W},4.0,['W'],['W'],Enchantment,,,Rare,"If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.",57,,,,USG,Urza's Saga
+Cloak of Mists,{1}{U},2.0,['U'],['U'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nEnchanted creature can't be blocked.,65,,,,USG,Urza's Saga
+Hidden Guerrillas,{G},1.0,['G'],['G'],Enchantment,,,Uncommon,"When an opponent casts an artifact spell, if Hidden Guerrillas is an enchantment, Hidden Guerrillas becomes a 5/3 Soldier creature with trample.",261,,,,USG,Urza's Saga
+Planar Void,{B},1.0,['B'],['B'],Enchantment,,,Uncommon,"Whenever another card is put into a graveyard from anywhere, exile that card.",149,,,,USG,Urza's Saga
+Crazed Skirge,{3}{B},4.0,['B'],['B'],Creature — Phyrexian Imp,,"['Phyrexian', 'Imp']",Uncommon,"Flying, haste",125,2,2,,USG,Urza's Saga
+Serra's Liturgy,{2}{W}{W},4.0,['W'],['W'],Enchantment,,,Rare,"At the beginning of your upkeep, you may put a verse counter on Serra's Liturgy.\n{W}, Sacrifice Serra's Liturgy: Destroy up to X target artifacts and/or enchantments, where X is the number of verse counters on Serra's Liturgy.",49,,,,USG,Urza's Saga
+Hollow Dogs,{4}{B},5.0,['B'],['B'],Creature — Phyrexian Zombie Dog,,"['Phyrexian', 'Zombie', 'Dog']",Common,"Whenever Hollow Dogs attacks, it gets +2/+0 until end of turn.",137,3,3,,USG,Urza's Saga
+Soul Sculptor,{2}{W},3.0,['W'],['W'],Creature — Human,,['Human'],Rare,"{1}{W}, {T}: Target creature becomes an enchantment and loses all abilities until a player casts a creature spell.",53,1,1,,USG,Urza's Saga
+Argothian Swine,{3}{G},4.0,['G'],['G'],Creature — Boar,,['Boar'],Common,Trample,235,3,3,,USG,Urza's Saga
+Phyrexian Processor,{4},4.0,,,Artifact,,,Rare,"As Phyrexian Processor enters the battlefield, pay any amount of life.\n{4}, {T}: Create an X/X black Phyrexian Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield.",306,,,,USG,Urza's Saga
+Purging Scythe,{5},5.0,,,Artifact,,,Rare,"At the beginning of your upkeep, Purging Scythe deals 2 damage to the creature with the least toughness. If two or more creatures are tied for least toughness, you choose one of them.",308,,,,USG,Urza's Saga
+Meltdown,{X}{R},1.0,['R'],['R'],Sorcery,,,Uncommon,Destroy each artifact with mana value X or less.,203,,,,USG,Urza's Saga
+Rewind,{2}{U}{U},4.0,['U'],['U'],Instant,,,Common,Counter target spell. Untap up to four lands.,93,,,,USG,Urza's Saga
+Citanul Hierophants,{3}{G},4.0,['G'],['G'],Creature — Human Druid,,"['Human', 'Druid']",Rare,"Creatures you control have ""{T}: Add {G}.""",244,3,2,,USG,Urza's Saga
+Catalog,{2}{U},3.0,['U'],['U'],Instant,,,Common,"Draw two cards, then discard a card.",64,,,,USG,Urza's Saga
+Viashino Weaponsmith,{3}{R},4.0,['R'],['R'],Creature — Viashino,,['Viashino'],Common,"Whenever Viashino Weaponsmith becomes blocked by a creature, Viashino Weaponsmith gets +2/+2 until end of turn.",226,2,2,,USG,Urza's Saga
+Parasitic Bond,{3}{B},4.0,['B'],['B'],Enchantment — Aura,,['Aura'],Uncommon,"Enchant creature\nAt the beginning of the upkeep of enchanted creature's controller, Parasitic Bond deals 2 damage to that player.",145,,,,USG,Urza's Saga
+Fortitude,{1}{G},2.0,['G'],['G'],Enchantment — Aura,,['Aura'],Common,"Enchant creature\nSacrifice a Forest: Regenerate enchanted creature.\nWhen Fortitude is put into a graveyard from the battlefield, return Fortitude to its owner's hand.",253,,,,USG,Urza's Saga
+Pendrell Drake,{3}{U},4.0,['U'],['U'],Creature — Drake,,['Drake'],Common,"Flying\nCycling {2} ({2}, Discard this card: Draw a card.)",86,2,3,,USG,Urza's Saga
+Flesh Reaver,{1}{B},2.0,['B'],['B'],Creature — Phyrexian Horror,,"['Phyrexian', 'Horror']",Uncommon,"Whenever Flesh Reaver deals damage to a creature or opponent, Flesh Reaver deals that much damage to you.",136,4,4,,USG,Urza's Saga
+Ill-Gotten Gains,{2}{B}{B},4.0,['B'],['B'],Sorcery,,,Rare,"Exile Ill-Gotten Gains. Each player discards their hand, then returns up to three cards from their graveyard to their hand.",138,,,,USG,Urza's Saga
+Power Taint,{1}{U},2.0,['U'],['U'],Enchantment — Aura,,['Aura'],Common,"Enchant enchantment\nAt the beginning of the upkeep of enchanted enchantment's controller, that player loses 2 life unless they pay {2}.\nCycling {2} ({2}, Discard this card: Draw a card.)",90,,,,USG,Urza's Saga
+Abundance,{2}{G}{G},4.0,['G'],['G'],Enchantment,,,Rare,"If you would draw a card, you may instead choose land or nonland and reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and put all other cards revealed this way on the bottom of your library in any order.",229,,,,USG,Urza's Saga
+Crosswinds,{1}{G},2.0,['G'],['G'],Enchantment,,,Uncommon,Creatures with flying get -2/-0.,246,,,,USG,Urza's Saga
+Expunge,{2}{B},3.0,['B'],['B'],Instant,,,Common,"Destroy target nonartifact, nonblack creature. It can't be regenerated.\nCycling {2} ({2}, Discard this card: Draw a card.)",135,,,,USG,Urza's Saga
+Morphling,{3}{U}{U},5.0,['U'],['U'],Creature — Shapeshifter,,['Shapeshifter'],Rare,{U}: Untap Morphling.\n{U}: Morphling gains flying until end of turn.\n{U}: Morphling gains shroud until end of turn. (It can't be the target of spells or abilities.)\n{1}: Morphling gets +1/-1 until end of turn.\n{1}: Morphling gets -1/+1 until end of turn.,85,3,3,,USG,Urza's Saga
+Carpet of Flowers,{G},1.0,['G'],['G'],Enchantment,,,Uncommon,"At the beginning of each of your main phases, if you haven't added mana with this ability this turn, you may add X mana of any one color, where X is the number of Islands target opponent controls.",240,,,,USG,Urza's Saga
+Guma,{2}{R},3.0,['R'],['R'],Creature — Cat,,['Cat'],Uncommon,Protection from blue,197,2,2,,USG,Urza's Saga
+Bereavement,{1}{B},2.0,['B'],['B'],Enchantment,,,Uncommon,"Whenever a green creature dies, its controller discards a card.",117,,,,USG,Urza's Saga
+Smokestack,{4},4.0,,,Artifact,,,Rare,"At the beginning of your upkeep, you may put a soot counter on Smokestack.\nAt the beginning of each player's upkeep, that player sacrifices a permanent for each soot counter on Smokestack.",309,,,,USG,Urza's Saga
+Fog Bank,{1}{U},2.0,['U'],['U'],Creature — Wall,,['Wall'],Uncommon,"Defender, flying\nPrevent all combat damage that would be dealt to and dealt by Fog Bank.",75,0,2,,USG,Urza's Saga
+Hush,{3}{G},4.0,['G'],['G'],Sorcery,,,Common,"Destroy all enchantments.\nCycling {2} ({2}, Discard this card: Draw a card.)",266,,,,USG,Urza's Saga
+Dark Ritual,{B},1.0,['B'],['B'],Instant,,,Common,Add {B}{B}{B}.,127,,,,USG,Urza's Saga
+Serra Zealot,{W},1.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Common,First strike,46,1,1,,USG,Urza's Saga
+Dark Hatchling,{4}{B}{B},6.0,['B'],['B'],Creature — Horror,,['Horror'],Rare,"Flying\nWhen Dark Hatchling enters the battlefield, destroy target nonblack creature. It can't be regenerated.",126,3,3,,USG,Urza's Saga
+Gaea's Embrace,{2}{G}{G},4.0,['G'],['G'],Enchantment — Aura,,['Aura'],Uncommon,Enchant creature\nEnchanted creature gets +3/+3 and has trample.\n{G}: Regenerate enchanted creature.,255,,,,USG,Urza's Saga
+Seasoned Marshal,{2}{W}{W},4.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Uncommon,"Whenever Seasoned Marshal attacks, you may tap target creature.",44,2,2,,USG,Urza's Saga
+Darkest Hour,{B},1.0,['B'],['B'],Enchantment,,,Rare,All creatures are black.,128,,,,USG,Urza's Saga
+Silent Attendant,{2}{W},3.0,['W'],['W'],Creature — Human Cleric,,"['Human', 'Cleric']",Common,{T}: You gain 1 life.,51,0,2,,USG,Urza's Saga
+Pit Trap,{2},2.0,,,Artifact,,,Uncommon,"{2}, {T}, Sacrifice Pit Trap: Destroy target attacking creature without flying. It can't be regenerated.",307,,,,USG,Urza's Saga
+Elvish Herder,{G},1.0,['G'],['G'],Creature — Elf,,['Elf'],Common,{G}: Target creature gains trample until end of turn.,247,1,1,,USG,Urza's Saga
+Okk,{1}{R},2.0,['R'],['R'],Creature — Goblin,,['Goblin'],Rare,Okk can't attack unless a creature with greater power also attacks.\nOkk can't block unless a creature with greater power also blocks.,204,4,4,,USG,Urza's Saga
+Fertile Ground,{1}{G},2.0,['G'],['G'],Enchantment — Aura,,['Aura'],Common,"Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.",252,,,,USG,Urza's Saga
+Absolute Law,{1}{W},2.0,['W'],['W'],Enchantment,,,Uncommon,All creatures have protection from red.,2,,,,USG,Urza's Saga
+Hidden Spider,{G},1.0,['G'],['G'],Enchantment,,,Common,"When an opponent casts a creature spell with flying, if Hidden Spider is an enchantment, Hidden Spider becomes a 3/5 Spider creature with reach. (It can block creatures with flying.)",264,,,,USG,Urza's Saga
+Priest of Gix,{2}{B},3.0,['B'],['B'],Creature — Phyrexian Human Cleric Minion,,"['Phyrexian', 'Human', 'Cleric', 'Minion']",Uncommon,"When Priest of Gix enters the battlefield, add {B}{B}{B}.",150,2,1,,USG,Urza's Saga
+Sandbar Merfolk,{U},1.0,['U'],['U'],Creature — Merfolk,,['Merfolk'],Common,"Cycling {2} ({2}, Discard this card: Draw a card.)",94,1,1,,USG,Urza's Saga
+Wildfire,{4}{R}{R},6.0,['R'],['R'],Sorcery,,,Rare,Each player sacrifices four lands. Wildfire deals 4 damage to each creature.,228,,,,USG,Urza's Saga
+Treefolk Seedlings,{2}{G},3.0,['G'],['G'],Creature — Treefolk,,['Treefolk'],Uncommon,Treefolk Seedlings's toughness is equal to the number of Forests you control.,278,2,*,,USG,Urza's Saga
+Lingering Mirage,{1}{U},2.0,['U'],['U'],Enchantment — Aura,,['Aura'],Uncommon,"Enchant land\nEnchanted land is an Island.\nCycling {2} ({2}, Discard this card: Draw a card.)",84,,,,USG,Urza's Saga
+Viashino Outrider,{2}{R},3.0,['R'],['R'],Creature — Viashino,,['Viashino'],Common,"Echo {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",223,4,3,,USG,Urza's Saga
+Lull,{1}{G},2.0,['G'],['G'],Instant,,,Common,"Prevent all combat damage that would be dealt this turn.\nCycling {2} ({2}, Discard this card: Draw a card.)",267,,,,USG,Urza's Saga
+Goblin War Buggy,{1}{R},2.0,['R'],['R'],Creature — Goblin,,['Goblin'],Common,"Haste\nEcho {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",196,2,2,,USG,Urza's Saga
+Corrupt,{5}{B},6.0,['B'],['B'],Sorcery,,,Common,Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.,124,,,,USG,Urza's Saga
+Winding Wurm,{4}{G},5.0,['G'],['G'],Creature — Wurm,,['Wurm'],Common,"Echo {4}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",285,6,6,,USG,Urza's Saga
+Pouncing Jaguar,{G},1.0,['G'],['G'],Creature — Cat,,['Cat'],Common,"Echo {G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",269,2,2,,USG,Urza's Saga
+Wild Dogs,{G},1.0,['G'],['G'],Creature — Dog,,['Dog'],Common,"At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Wild Dogs.\nCycling {2} ({2}, Discard this card: Draw a card.)",284,2,1,,USG,Urza's Saga
+Blanchwood Treefolk,{4}{G},5.0,['G'],['G'],Creature — Treefolk,,['Treefolk'],Common,,238,4,5,,USG,Urza's Saga
+Whirlwind,{2}{G}{G},4.0,['G'],['G'],Sorcery,,,Rare,Destroy all creatures with flying.,283,,,,USG,Urza's Saga
+Curfew,{U},1.0,['U'],['U'],Instant,,,Common,Each player returns a creature they control to its owner's hand.,68,,,,USG,Urza's Saga
+Despondency,{1}{B},2.0,['B'],['B'],Enchantment — Aura,,['Aura'],Common,"Enchant creature\nEnchanted creature gets -2/-0.\nWhen Despondency is put into a graveyard from the battlefield, return Despondency to its owner's hand.",129,,,,USG,Urza's Saga
+Vernal Bloom,{3}{G},4.0,['G'],['G'],Enchantment,,,Rare,"Whenever a Forest is tapped for mana, its controller adds an additional {G}.",281,,,,USG,Urza's Saga
+Anaconda,{3}{G},4.0,['G'],['G'],Creature — Snake,,['Snake'],Uncommon,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),232,3,3,,USG,Urza's Saga
+Voice of Law,{3}{W},4.0,['W'],['W'],Creature — Angel,,['Angel'],Uncommon,"Flying, protection from red",55,2,2,,USG,Urza's Saga
+Coral Merfolk,{1}{U},2.0,['U'],['U'],Creature — Merfolk,,['Merfolk'],Common,,67,2,1,,USG,Urza's Saga
+Pestilence,{2}{B}{B},4.0,['B'],['B'],Enchantment,,,Common,"At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.\n{B}: Pestilence deals 1 damage to each creature and each player.",147,,,,USG,Urza's Saga
+Spire Owl,{1}{U},2.0,['U'],['U'],Creature — Bird,,['Bird'],Common,"Flying\nWhen Spire Owl enters the battlefield, look at the top four cards of your library, then put them back in any order.",98,1,1,,USG,Urza's Saga
+Endoskeleton,{2},2.0,,,Artifact,,,Uncommon,"You may choose not to untap Endoskeleton during your untap step.\n{2}, {T}: Target creature gets +0/+3 for as long as Endoskeleton remains tapped.",294,,,,USG,Urza's Saga
+Citanul Flute,{5},5.0,,,Artifact,,,Rare,"{X}, {T}: Search your library for a creature card with mana value X or less, reveal it, put it into your hand, then shuffle.",289,,,,USG,Urza's Saga
+Energy Field,{1}{U},2.0,['U'],['U'],Enchantment,,,Rare,"Prevent all damage that would be dealt to you by sources you don't control.\nWhen a card is put into your graveyard from anywhere, sacrifice Energy Field.",73,,,,USG,Urza's Saga
+Bog Raiders,{2}{B},3.0,['B'],['B'],Creature — Zombie,,['Zombie'],Common,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),119s,2,2,,USG,Urza's Saga
+Argothian Elder,{3}{G},4.0,['G'],['G'],Creature — Elf Druid,,"['Elf', 'Druid']",Uncommon,{T}: Untap two target lands.,233,2,2,,USG,Urza's Saga
+Sporogenesis,{3}{G},4.0,['G'],['G'],Enchantment,,,Rare,"At the beginning of your upkeep, you may put a fungus counter on target nontoken creature.\nWhenever a creature with a fungus counter on it dies, create a 1/1 green Saproling creature token for each fungus counter on that creature.\nWhen Sporogenesis leaves the battlefield, remove all fungus counters from all creatures.",273,,,,USG,Urza's Saga
+Serra's Embrace,{2}{W}{W},4.0,['W'],['W'],Enchantment — Aura,,['Aura'],Uncommon,Enchant creature\nEnchanted creature gets +2/+2 and has flying and vigilance.,47,,,,USG,Urza's Saga
+Serra Avatar,{4}{W}{W}{W},7.0,['W'],['W'],Creature — Avatar,,['Avatar'],Rare,"Serra Avatar's power and toughness are each equal to your life total.\nWhen Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.",45,*,*,,USG,Urza's Saga
+Retaliation,{2}{G},3.0,['G'],['G'],Enchantment,,,Uncommon,"Creatures you control have ""Whenever this creature becomes blocked by a creature, this creature gets +1/+1 until end of turn.""",272,,,,USG,Urza's Saga
+Sanctum Custodian,{2}{W},3.0,['W'],['W'],Creature — Human Cleric,,"['Human', 'Cleric']",Common,{T}: Prevent the next 2 damage that would be dealt to any target this turn.,42,1,2,,USG,Urza's Saga
+Zephid,{4}{U}{U},6.0,['U'],['U'],Creature — Illusion,,['Illusion'],Rare,Flying\nShroud (This creature can't be the target of spells or abilities.),113,3,4,,USG,Urza's Saga
+Acridian,{1}{G},2.0,['G'],['G'],Creature — Insect,,['Insect'],Common,"Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",230,2,4,,USG,Urza's Saga
+Rain of Filth,{B},1.0,['B'],['B'],Instant,,,Uncommon,"Until end of turn, lands you control gain ""Sacrifice this land: Add {B}.""",151,,,,USG,Urza's Saga
+Mana Leech,{2}{B},3.0,['B'],['B'],Creature — Leech,,['Leech'],Uncommon,You may choose not to untap Mana Leech during your untap step.\n{T}: Tap target land. It doesn't untap during its controller's untap step for as long as Mana Leech remains tapped.,141,1,1,,USG,Urza's Saga
+Stern Proctor,{U}{U},2.0,['U'],['U'],Creature — Human Wizard,,"['Human', 'Wizard']",Uncommon,"When Stern Proctor enters the battlefield, return target artifact or enchantment to its owner's hand.",99,1,2,,USG,Urza's Saga
+Spreading Algae,{G},1.0,['G'],['G'],Enchantment — Aura,,['Aura'],Uncommon,"Enchant Swamp\nWhen enchanted land becomes tapped, destroy it.\nWhen Spreading Algae is put into a graveyard from the battlefield, return Spreading Algae to its owner's hand.",274,,,,USG,Urza's Saga
+Abyssal Horror,{4}{B}{B},6.0,['B'],['B'],Creature — Horror,,['Horror'],Rare,"Flying\nWhen Abyssal Horror enters the battlefield, target player discards two cards.",115,2,2,,USG,Urza's Saga
+Child of Gaea,{3}{G}{G}{G},6.0,['G'],['G'],Creature — Elemental,,['Elemental'],Rare,"Trample\nAt the beginning of your upkeep, sacrifice Child of Gaea unless you pay {G}{G}.\n{1}{G}: Regenerate Child of Gaea.",242,7,7,,USG,Urza's Saga
+Rune of Protection: White,{1}{W},2.0,['W'],['W'],Enchantment,,,Common,"{W}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)",41,,,,USG,Urza's Saga
+Show and Tell,{2}{U},3.0,['U'],['U'],Sorcery,,,Rare,"Each player may put an artifact, creature, enchantment, or land card from their hand onto the battlefield.",96,,,,USG,Urza's Saga
+"Barrin, Master Wizard",{1}{U}{U},3.0,['U'],['U'],Legendary Creature — Human Wizard,['Legendary'],"['Human', 'Wizard']",Rare,"{2}, Sacrifice a permanent: Return target creature to its owner's hand.",63,1,1,,USG,Urza's Saga
+Annul,{U},1.0,['U'],['U'],Instant,,,Common,Counter target artifact or enchantment spell.,59,,,,USG,Urza's Saga
+Angelic Chorus,{3}{W}{W},5.0,['W'],['W'],Enchantment,,,Rare,"Whenever a creature enters the battlefield under your control, you gain life equal to its toughness.",3,,,,USG,Urza's Saga
+Songstitcher,{W},1.0,['W'],['W'],Creature — Human Cleric,,"['Human', 'Cleric']",Uncommon,{1}{W}: Prevent all combat damage that would be dealt this turn by target attacking creature with flying.,52,1,1,,USG,Urza's Saga
+Crystal Chimes,{3},3.0,,,Artifact,,,Uncommon,"{3}, {T}, Sacrifice Crystal Chimes: Return all enchantment cards from your graveyard to your hand.",292,,,,USG,Urza's Saga
+Torch Song,{2}{R},3.0,['R'],['R'],Enchantment,,,Uncommon,"At the beginning of your upkeep, you may put a verse counter on Torch Song.\n{2}{R}, Sacrifice Torch Song: It deals X damage to any target, where X is the number of verse counters on Torch Song.",222,,,,USG,Urza's Saga
+Imaginary Pet,{1}{U},2.0,['U'],['U'],Creature — Illusion,,['Illusion'],Rare,"At the beginning of your upkeep, if you have a card in hand, return Imaginary Pet to its owner's hand.",81,4,4,,USG,Urza's Saga

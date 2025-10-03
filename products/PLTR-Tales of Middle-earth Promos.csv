@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+The Battle of Bywater,{1}{W}{W},3.0,['W'],['W'],Sorcery,,,Rare,"Destroy all creatures with power 3 or greater. Then create a Food token for each creature you control. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",2s,,,,PLTR,Tales of Middle-earth Promos

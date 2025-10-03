@@ -1,296 +1,296 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Jump,1.0,['Blue'],['U'],None,['Instant'],None,Common,LEA,None,None,None,Target creature gains flying until end of turn.
-Invisibility,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,LEA,None,None,None,Enchant creature\nEnchanted creature can't be blocked except by Walls.
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,LEA,None,None,None,({T}: Add {G}.)
-Flight,1.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,LEA,None,None,None,Enchant creature\nEnchanted creature has flying.
-Feedback,3.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,"Enchant enchantment\nAt the beginning of the upkeep of enchanted enchantment's controller, Feedback deals 1 damage to that player."
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,LEA,None,None,None,({T}: Add {G}.)
-Drain Power,2.0,['Blue'],['U'],None,['Sorcery'],None,Rare,LEA,None,None,None,Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way.
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,LEA,None,None,None,({T}: Add {R}.)
-Creature Bond,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,LEA,None,None,None,"Enchant creature\nWhen enchanted creature dies, Creature Bond deals damage equal to that creature's toughness to the creature's controller."
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,LEA,None,None,None,({T}: Add {R}.)
-Counterspell,2.0,['Blue'],['U'],None,['Instant'],None,Uncommon,LEA,None,None,None,Counter target spell.
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,LEA,None,None,None,({T}: Add {B}.)
-Copy Artifact,2.0,['Blue'],['U'],None,['Enchantment'],None,Rare,LEA,None,None,None,"You may have Copy Artifact enter the battlefield as a copy of any artifact on the battlefield, except it's an enchantment in addition to its other types."
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,LEA,None,None,None,({T}: Add {B}.)
-Control Magic,4.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,Enchant creature\nYou control enchanted creature.
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,LEA,None,None,None,({T}: Add {U}.)
-Clone,4.0,['Blue'],['U'],None,['Creature'],['Shapeshifter'],Uncommon,LEA,0,0,None,You may have Clone enter the battlefield as a copy of any creature on the battlefield.
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,LEA,None,None,None,({T}: Add {U}.)
-Braingeyser,2.0,['Blue'],['U'],None,['Sorcery'],None,Rare,LEA,None,None,None,Target player draws X cards.
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,LEA,None,None,None,({T}: Add {W}.)
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,LEA,None,None,None,({T}: Add {W}.)
-Blue Elemental Blast,1.0,['Blue'],['U'],None,['Instant'],None,Common,LEA,None,None,None,Choose one —\n• Counter target red spell.\n• Destroy target red permanent.
-Underground Sea,0.0,None,"['B', 'U']",None,['Land'],"['Island', 'Swamp']",Rare,LEA,None,None,None,({T}: Add {U} or {B}.)
-Animate Artifact,4.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,"Enchant artifact\nAs long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its mana value."
-Tundra,0.0,None,"['U', 'W']",None,['Land'],"['Plains', 'Island']",Rare,LEA,None,None,None,({T}: Add {W} or {U}.)
-Ancestral Recall,1.0,['Blue'],['U'],None,['Instant'],None,Rare,LEA,None,None,None,Target player draws three cards.
-Tropical Island,0.0,None,"['G', 'U']",None,['Land'],"['Forest', 'Island']",Rare,LEA,None,None,None,({T}: Add {G} or {U}.)
-Air Elemental,5.0,['Blue'],['U'],None,['Creature'],['Elemental'],Uncommon,LEA,4,4,None,Flying
-Taiga,0.0,None,"['G', 'R']",None,['Land'],"['Mountain', 'Forest']",Rare,LEA,None,None,None,({T}: Add {R} or {G}.)
-Scrubland,0.0,None,"['B', 'W']",None,['Land'],"['Plains', 'Swamp']",Rare,LEA,None,None,None,({T}: Add {W} or {B}.)
-Savannah,0.0,None,"['G', 'W']",None,['Land'],"['Forest', 'Plains']",Rare,LEA,None,None,None,({T}: Add {G} or {W}.)
-Wrath of God,4.0,['White'],['W'],None,['Sorcery'],None,Rare,LEA,None,None,None,Destroy all creatures. They can't be regenerated.
-Plateau,0.0,None,"['R', 'W']",None,['Land'],"['Mountain', 'Plains']",Rare,LEA,None,None,None,({T}: Add {R} or {W}.)
-Bayou,0.0,None,"['B', 'G']",None,['Land'],"['Swamp', 'Forest']",Rare,LEA,None,None,None,({T}: Add {B} or {G}.)
-White Ward,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,Enchant creature\nEnchanted creature has protection from white. This effect doesn't remove White Ward.
-Badlands,0.0,None,"['B', 'R']",None,['Land'],"['Swamp', 'Mountain']",Rare,LEA,None,None,None,({T}: Add {B} or {R}.)
-White Knight,2.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Uncommon,LEA,2,2,None,"First strike (This creature deals combat damage before creatures without first strike.)\nProtection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)"
-Wooden Sphere,1.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,"Whenever a player casts a green spell, you may pay {1}. If you do, you gain 1 life."
-Wall of Swords,4.0,['White'],['W'],None,['Creature'],['Wall'],Uncommon,LEA,3,5,None,Defender (This creature can't attack.)\nFlying
-Winter Orb,2.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"As long as Winter Orb is untapped, players can't untap more than one land during their untap steps."
-Veteran Bodyguard,5.0,['White'],['W'],None,['Creature'],['Human'],Rare,LEA,2,5,None,"As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead."
-Time Vault,2.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"Time Vault enters the battlefield tapped.\nTime Vault doesn't untap during your untap step.\nIf you would begin your turn while Time Vault is tapped, you may skip that turn instead. If you do, untap Time Vault.\n{T}: Take an extra turn after this one."
-Swords to Plowshares,1.0,['White'],['W'],None,['Instant'],None,Uncommon,LEA,None,None,None,Exile target creature. Its controller gains life equal to its power.
-Serra Angel,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,LEA,4,4,None,"Flying, vigilance"
-Throne of Bone,1.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,"Whenever a player casts a black spell, you may pay {1}. If you do, you gain 1 life."
-Savannah Lions,1.0,['White'],['W'],None,['Creature'],['Cat'],Rare,LEA,2,1,None,None
-The Hive,5.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"{5}, {T}: Create a 1/1 colorless Insect artifact creature token with flying named Wasp. (It can't be blocked except by creatures with flying or reach.)"
-Samite Healer,2.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Common,LEA,1,1,None,{T}: Prevent the next 1 damage that would be dealt to any target this turn.
-Sunglasses of Urza,3.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,You may spend white mana as though it were red mana.
-Righteousness,1.0,['White'],['W'],None,['Instant'],None,Rare,LEA,None,None,None,Target blocking creature gets +7/+7 until end of turn.
-Soul Net,1.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,"Whenever a creature dies, you may pay {1}. If you do, you gain 1 life."
-Reverse Damage,3.0,['White'],['W'],None,['Instant'],None,Rare,LEA,None,None,None,"The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way."
-Sol Ring,1.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,{T}: Add {C}{C}.
-Resurrection,4.0,['White'],['W'],None,['Sorcery'],None,Uncommon,LEA,None,None,None,Return target creature card from your graveyard to the battlefield.
-Rod of Ruin,4.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,"{3}, {T}: Rod of Ruin deals 1 damage to any target."
-Red Ward,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,Enchant creature\nEnchanted creature has protection from red. This effect doesn't remove Red Ward.
-Power Surge,2.0,['Red'],['R'],None,['Enchantment'],None,Rare,LEA,None,None,None,"At the beginning of each player's upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands they controlled at the beginning of this turn."
-Obsianus Golem,6.0,None,None,None,"['Artifact', 'Creature']",['Golem'],Uncommon,LEA,4,6,None,None
-Orcish Oriflamme,4.0,['Red'],['R'],None,['Enchantment'],None,Uncommon,LEA,None,None,None,Attacking creatures you control get +1/+0.
-Purelace,1.0,['White'],['W'],None,['Instant'],None,Rare,LEA,None,None,None,Target spell or permanent becomes white. (Mana symbols on that permanent remain unchanged.)
-Orcish Artillery,3.0,['Red'],['R'],None,['Creature'],"['Orc', 'Warrior']",Uncommon,LEA,1,3,None,{T}: Orcish Artillery deals 2 damage to any target and 3 damage to you.
-Nevinyrral's Disk,4.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"Nevinyrral's Disk enters the battlefield tapped.\n{1}, {T}: Destroy all artifacts, creatures, and enchantments."
-Personal Incarnation,6.0,['White'],['W'],None,['Creature'],"['Avatar', 'Incarnation']",Rare,LEA,6,6,None,"{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Only Personal Incarnation's owner may activate this ability.\nWhen Personal Incarnation dies, its owner loses half their life, rounded up."
-Mox Sapphire,0.0,None,['U'],None,['Artifact'],None,Rare,LEA,None,None,None,{T}: Add {U}.
-Pearled Unicorn,3.0,['White'],['W'],None,['Creature'],['Unicorn'],Common,LEA,2,2,None,None
-Mox Ruby,0.0,None,['R'],None,['Artifact'],None,Rare,LEA,None,None,None,{T}: Add {R}.
-Northern Paladin,4.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Rare,LEA,3,3,None,"{W}{W}, {T}: Destroy target black permanent."
-Mox Pearl,0.0,None,['W'],None,['Artifact'],None,Rare,LEA,None,None,None,{T}: Add {W}.
-Mesa Pegasus,2.0,['White'],['W'],None,['Creature'],['Pegasus'],Common,LEA,1,1,None,"Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
-Mox Jet,0.0,None,['B'],None,['Artifact'],None,Rare,LEA,None,None,None,{T}: Add {B}.
-Lance,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,Enchant creature\nEnchanted creature has first strike.
-Mox Emerald,0.0,None,['G'],None,['Artifact'],None,Rare,LEA,None,None,None,{T}: Add {G}.
-Karma,4.0,['White'],['W'],None,['Enchantment'],None,Uncommon,LEA,None,None,None,"At the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps they control."
-Mons's Goblin Raiders,1.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,LEA,1,1,None,None
-Meekstone,1.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,Creatures with power 3 or greater don't untap during their controllers' untap steps.
-Island Sanctuary,2.0,['White'],['W'],None,['Enchantment'],None,Rare,LEA,None,None,None,"If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk."
-Manabarbs,4.0,['Red'],['R'],None,['Enchantment'],None,Rare,LEA,None,None,None,"Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player."
-Mana Vault,1.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"Mana Vault doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault.\nAt the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you.\n{T}: Add {C}{C}{C}."
-Holy Strength,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,LEA,None,None,None,Enchant creature\nEnchanted creature gets +1/+2.
-Mana Flare,3.0,['Red'],['R'],None,['Enchantment'],None,Rare,LEA,None,None,None,"Whenever a player taps a land for mana, that player adds one mana of any type that land produced."
-Living Wall,4.0,None,None,None,"['Artifact', 'Creature']",['Wall'],Uncommon,LEA,0,6,None,Defender (This creature can't attack.)\n{1}: Regenerate Living Wall.
-Holy Armor,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,LEA,None,None,None,Enchant creature\nEnchanted creature gets +0/+2.\n{W}: Enchanted creature gets +0/+1 until end of turn.
-Lightning Bolt,1.0,['Red'],['R'],None,['Instant'],None,Common,LEA,None,None,None,Lightning Bolt deals 3 damage to any target.
-Library of Leng,1.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,"You have no maximum hand size.\nIf an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard."
-Healing Salve,1.0,['White'],['W'],None,['Instant'],None,Common,LEA,None,None,None,Choose one —\n• Target player gains 3 life.\n• Prevent the next 3 damage that would be dealt to any target this turn.
-Kormus Bell,4.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,All Swamps are 1/1 black creatures that are still lands.
-Guardian Angel,1.0,['White'],['W'],None,['Instant'],None,Common,LEA,None,None,None,"Prevent the next X damage that would be dealt to any target this turn. Until end of turn, you may pay {1} any time you could cast an instant. If you do, prevent the next 1 damage that would be dealt to that permanent or player this turn."
-Keldon Warlord,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Barbarian']",Uncommon,LEA,*,*,None,Keldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
-Juggernaut,4.0,None,None,None,"['Artifact', 'Creature']",['Juggernaut'],Uncommon,LEA,5,3,None,Juggernaut attacks each combat if able.\nJuggernaut can't be blocked by Walls.
-Green Ward,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,Enchant creature\nEnchanted creature has protection from green. This effect doesn't remove Green Ward.
-Ironclaw Orcs,2.0,['Red'],['R'],None,['Creature'],['Orc'],Common,LEA,2,2,None,Ironclaw Orcs can't block creatures with power 2 or greater.
-Jayemdae Tome,4.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"{4}, {T}: Draw a card."
-Farmstead,3.0,['White'],['W'],None,['Enchantment'],['Aura'],Rare,LEA,None,None,None,"Enchant land\nEnchanted land has ""At the beginning of your upkeep, you may pay {W}{W}. If you do, you gain 1 life."""
-Jade Statue,4.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,{2}: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate only during combat.
-Disenchant,2.0,['White'],['W'],None,['Instant'],None,Common,LEA,None,None,None,Destroy target artifact or enchantment.
-Jade Monolith,4.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"{1}: The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead."
-Death Ward,1.0,['White'],['W'],None,['Instant'],None,Common,LEA,None,None,None,Regenerate target creature.
-Ivory Cup,1.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,"Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life."
-Armageddon,4.0,['White'],['W'],None,['Sorcery'],None,Rare,LEA,None,None,None,Destroy all lands.
-Iron Star,1.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,"Whenever a player casts a red spell, you may pay {1}. If you do, you gain 1 life."
-Black Ward,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,Enchant creature\nEnchanted creature has protection from black. This effect doesn't remove Black Ward.
-Hurloon Minotaur,3.0,['Red'],['R'],None,['Creature'],['Minotaur'],Common,LEA,2,3,None,None
-Illusionary Mask,2.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"{X}: You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on {X}. If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate only as a sorcery."
-Animate Wall,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Rare,LEA,None,None,None,Enchant Wall\nEnchanted Wall can attack as though it didn't have defender.
-Hill Giant,4.0,['Red'],['R'],None,['Creature'],['Giant'],Common,LEA,3,3,None,None
-Icy Manipulator,4.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,"{1}, {T}: Tap target artifact, creature, or land."
-Gray Ogre,3.0,['Red'],['R'],None,['Creature'],['Ogre'],Common,LEA,2,2,None,None
-Howling Mine,2.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card."
-Benalish Hero,1.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,LEA,1,1,None,"Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
-Helm of Chatzuk,1.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"{1}, {T}: Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
-Goblin King,3.0,['Red'],['R'],None,['Creature'],['Goblin'],Rare,LEA,2,2,None,Other Goblins get +1/+1 and have mountainwalk.
-Glasses of Urza,1.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,{T}: Look at target player's hand.
-Granite Gargoyle,3.0,['Red'],['R'],None,['Creature'],['Gargoyle'],Rare,LEA,2,2,None,Flying\n{R}: Granite Gargoyle gets +0/+1 until end of turn.
-Gauntlet of Might,4.0,None,['R'],None,['Artifact'],None,Rare,LEA,None,None,None,"Red creatures get +1/+1.\nWhenever a Mountain is tapped for mana, its controller adds an additional {R}."
-Crusade,2.0,['White'],['W'],None,['Enchantment'],None,Rare,LEA,None,None,None,White creatures get +1/+1.
-Forcefield,3.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"{1}: The next time an unblocked creature of your choice would deal combat damage to you this turn, prevent all but 1 of that damage."
-Conversion,4.0,['White'],['W'],None,['Enchantment'],None,Uncommon,LEA,None,None,None,"At the beginning of your upkeep, sacrifice Conversion unless you pay {W}{W}.\nAll Mountains are Plains."
-Disrupting Scepter,3.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"{3}, {T}: Target player discards a card. Activate only during your turn."
-Consecrate Land,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,Enchant land\nEnchanted land has indestructible and can't be enchanted by other Auras.
-Dingus Egg,4.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller."
-Circle of Protection: White,2.0,['White'],['W'],None,['Enchantment'],None,Common,LEA,None,None,None,"{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage."
-Goblin Balloon Brigade,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Uncommon,LEA,1,1,None,{R}: Goblin Balloon Brigade gains flying until end of turn.
-Cyclopean Tomb,4.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"{2}, {T}: Put a mire counter on target non-Swamp land. That land is a Swamp for as long as it has a mire counter on it. Activate only during your upkeep.\nWhen Cyclopean Tomb is put into a graveyard from the battlefield, at the beginning of each of your upkeeps for the rest of the game, remove all mire counters from a land that a mire counter was put onto with Cyclopean Tomb but that a mire counter has not been removed from with Cyclopean Tomb."
-Circle of Protection: Red,2.0,['White'],['W'],None,['Enchantment'],None,Common,LEA,None,None,None,"{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage."
-Crystal Rod,1.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,"Whenever a player casts a blue spell, you may pay {1}. If you do, you gain 1 life."
-Circle of Protection: Green,2.0,['White'],['W'],None,['Enchantment'],None,Common,LEA,None,None,None,"{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage."
-Copper Tablet,2.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,"At the beginning of each player's upkeep, Copper Tablet deals 1 damage to that player."
-Circle of Protection: Blue,2.0,['White'],['W'],None,['Enchantment'],None,Common,LEA,None,None,None,"{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage."
-Castle,4.0,['White'],['W'],None,['Enchantment'],None,Uncommon,LEA,None,None,None,Untapped creatures you control get +0/+2.
-Conservator,4.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,"{3}, {T}: Prevent the next 2 damage that would be dealt to you this turn."
-Blue Ward,1.0,['White'],['W'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,Enchant creature\nEnchanted creature has protection from blue. This effect doesn't remove Blue Ward.
-Clockwork Beast,6.0,None,None,None,"['Artifact', 'Creature']",['Beast'],Rare,LEA,0,4,None,"Clockwork Beast enters the battlefield with seven +1/+0 counters on it.\nAt end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.\n{X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate only during your upkeep."
-Blessing,2.0,['White'],['W'],None,['Enchantment'],['Aura'],Rare,LEA,None,None,None,Enchant creature\n{W}: Enchanted creature gets +1/+1 until end of turn.
-Chaos Orb,2.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"{1}, {T}: If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least once during the flip, destroy all nontoken permanents it touches. Then destroy Chaos Orb."
-Blaze of Glory,1.0,['White'],['W'],None,['Instant'],None,Rare,LEA,None,None,None,Cast this spell only during combat before blockers are declared.\nTarget creature defending player controls can block any number of creatures this turn. It blocks each attacking creature this turn if able.
-Celestial Prism,3.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,"{2}, {T}: Add one mana of any color."
-Black Vise,1.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,"As Black Vise enters the battlefield, choose an opponent.\nAt the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4."
-Balance,2.0,['White'],['W'],None,['Sorcery'],None,Rare,LEA,None,None,None,"Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way."
-Black Lotus,0.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"{T}, Sacrifice Black Lotus: Add three mana of any one color."
-Basalt Monolith,3.0,None,None,None,['Artifact'],None,Uncommon,LEA,None,None,None,Basalt Monolith doesn't untap during your untap step.\n{T}: Add {C}{C}{C}.\n{3}: Untap Basalt Monolith.
-Ankh of Mishra,2.0,None,None,None,['Artifact'],None,Rare,LEA,None,None,None,"Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller."
-Wild Growth,1.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,LEA,None,None,None,"Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional {G}."
-Web,1.0,['Green'],['G'],None,['Enchantment'],['Aura'],Rare,LEA,None,None,None,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature gets +0/+2 and has reach. (It can block creatures with flying.)
-War Mammoth,4.0,['Green'],['G'],None,['Creature'],['Elephant'],Common,LEA,3,3,None,Trample
-Wanderlust,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,"Enchant creature\nAt the beginning of the upkeep of enchanted creature's controller, Wanderlust deals 1 damage to that player."
-Wall of Wood,1.0,['Green'],['G'],None,['Creature'],['Wall'],Common,LEA,0,3,None,Defender (This creature can't attack.)
-Wall of Ice,3.0,['Green'],['G'],None,['Creature'],['Wall'],Uncommon,LEA,0,7,None,Defender (This creature can't attack.)
-Wall of Brambles,3.0,['Green'],['G'],None,['Creature'],"['Plant', 'Wall']",Uncommon,LEA,2,3,None,Defender (This creature can't attack.)\n{G}: Regenerate Wall of Brambles.
-Verduran Enchantress,3.0,['Green'],['G'],None,['Creature'],"['Human', 'Druid']",Rare,LEA,0,2,None,"Whenever you cast an enchantment spell, you may draw a card."
-Tsunami,4.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,LEA,None,None,None,Destroy all Islands.
-Phantasmal Forces,4.0,['Blue'],['U'],None,['Creature'],['Illusion'],Uncommon,LEA,4,1,None,"Flying\nAt the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}."
-Flashfires,4.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,LEA,None,None,None,Destroy all Plains.
-Fungusaur,4.0,['Green'],['G'],None,['Creature'],"['Fungus', 'Dinosaur']",Rare,LEA,2,2,None,"Whenever Fungusaur is dealt damage, put a +1/+1 counter on it."
-Gloom,3.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,LEA,None,None,None,White spells cost {3} more to cast.\nActivated abilities of white enchantments cost {3} more to activate.
-Firebreathing,1.0,['Red'],['R'],None,['Enchantment'],['Aura'],Common,LEA,None,None,None,Enchant creature\n{R}: Enchanted creature gets +1/+0 until end of turn.
-Force of Nature,6.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,LEA,8,8,None,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nAt the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}."
-Frozen Shade,3.0,['Black'],['B'],None,['Creature'],['Shade'],Common,LEA,0,1,None,{B}: Frozen Shade gets +1/+1 until end of turn.
-Fireball,1.0,['Red'],['R'],None,['Sorcery'],None,Common,LEA,None,None,None,"This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets."
-Drudge Skeletons,2.0,['Black'],['B'],None,['Creature'],['Skeleton'],Common,LEA,1,1,None,"{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
-Fire Elemental,5.0,['Red'],['R'],None,['Creature'],['Elemental'],Uncommon,LEA,5,4,None,None
-Fog,1.0,['Green'],['G'],None,['Instant'],None,Common,LEA,None,None,None,Prevent all combat damage that would be dealt this turn.
-Fear,2.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,LEA,None,None,None,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
-False Orders,1.0,['Red'],['R'],None,['Instant'],None,Common,LEA,None,None,None,Cast this spell only during the declare blockers step.\nRemove target creature defending player controls from combat. Creatures it was blocking that had become blocked by only that creature this combat become unblocked. You may have it block an attacking creature of your choice.
-Fastbond,1.0,['Green'],['G'],None,['Enchantment'],None,Rare,LEA,None,None,None,"You may play any number of lands on each of your turns.\nWhenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you."
-Evil Presence,1.0,['Black'],['B'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,Enchant land\nEnchanted land is a Swamp.
-Earthquake,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,LEA,None,None,None,Earthquake deals X damage to each creature without flying and each player.
-Elvish Archers,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Archer']",Rare,LEA,2,1,None,First strike
-Earthbind,1.0,['Red'],['R'],None,['Enchantment'],['Aura'],Common,LEA,None,None,None,"Enchant creature\nWhen Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains ""Enchanted creature loses flying."""
-Craw Wurm,6.0,['Green'],['G'],None,['Creature'],['Wurm'],Common,LEA,6,4,None,None
-Demonic Attorney,3.0,['Black'],['B'],None,['Sorcery'],None,Rare,LEA,None,None,None,Remove Demonic Attorney from your deck before playing if you're not playing for ante.\nEach player antes the top card of their library.
-Cockatrice,5.0,['Green'],['G'],None,['Creature'],['Cockatrice'],Rare,LEA,2,4,None,"Flying\nWhenever Cockatrice blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat."
-Channel,2.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,LEA,None,None,None,"Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {C}."
-Merfolk of the Pearl Trident,1.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Common,LEA,1,1,None,None
-Earth Elemental,5.0,['Red'],['R'],None,['Creature'],['Elemental'],Uncommon,LEA,4,5,None,None
-Camouflage,1.0,['Green'],['G'],None,['Instant'],None,Uncommon,LEA,None,None,None,"Cast this spell only during your declare attackers step.\nThis turn, instead of declaring blockers, each defending player chooses any number of creatures they control and divides them into a number of piles equal to the number of attacking creatures for whom that player is the defending player. Creatures those players control that can block additional creatures may likewise be put into additional piles. Assign each pile to a different one of those attacking creatures at random. Each creature in a pile that can block the creature that pile is assigned to does so. (Piles can be empty.)"
-Deathlace,1.0,['Black'],['B'],None,['Instant'],None,Rare,LEA,None,None,None,Target spell or permanent becomes black. (Mana symbols on that permanent remain unchanged.)
-Dwarven Warriors,3.0,['Red'],['R'],None,['Creature'],"['Dwarf', 'Warrior']",Common,LEA,1,1,None,{T}: Target creature with power 2 or less can't be blocked this turn.
-Birds of Paradise,1.0,['Green'],['G'],None,['Creature'],['Bird'],Rare,LEA,0,1,None,Flying\n{T}: Add one mana of any color.
-Drain Life,2.0,['Black'],['B'],None,['Sorcery'],None,Common,LEA,None,None,None,"Spend only black mana on X.\nDrain Life deals X damage to any target. You gain life equal to the damage dealt, but not more life than the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness."
-Dwarven Demolition Team,3.0,['Red'],['R'],None,['Creature'],['Dwarf'],Uncommon,LEA,1,1,None,{T}: Destroy target Wall.
-Berserk,1.0,['Green'],['G'],None,['Instant'],None,Uncommon,LEA,None,None,None,"Cast this spell only before the combat damage step.\nTarget creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn."
-Mana Short,3.0,['Blue'],['U'],None,['Instant'],None,Rare,LEA,None,None,None,Tap all lands target player controls and that player loses all unspent mana.
-Dragon Whelp,4.0,['Red'],['R'],None,['Creature'],['Dragon'],Uncommon,LEA,2,3,None,"Flying\n{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step."
-Aspect of Wolf,2.0,['Green'],['G'],None,['Enchantment'],['Aura'],Rare,LEA,None,None,None,"Enchant creature\nEnchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up."
-Demonic Tutor,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,LEA,None,None,None,"Search your library for a card, put that card into your hand, then shuffle."
-Disintegrate,1.0,['Red'],['R'],None,['Sorcery'],None,Common,LEA,None,None,None,"Disintegrate deals X damage to any target. If it's a creature, it can't be regenerated this turn, and if it would die this turn, exile it instead."
-Wheel of Fortune,3.0,['Red'],['R'],None,['Sorcery'],None,Rare,LEA,None,None,None,"Each player discards their hand, then draws seven cards."
-Mahamoti Djinn,6.0,['Blue'],['U'],None,['Creature'],['Djinn'],Rare,LEA,5,6,None,Flying (This creature can't be blocked except by creatures with flying or reach.)
-Hypnotic Specter,3.0,['Black'],['B'],None,['Creature'],['Specter'],Uncommon,LEA,2,2,None,"Flying\nWhenever Hypnotic Specter deals damage to an opponent, that player discards a card at random."
-Wall of Stone,3.0,['Red'],['R'],None,['Creature'],['Wall'],Uncommon,LEA,0,8,None,Defender (This creature can't attack.)
-Demonic Hordes,6.0,['Black'],['B'],None,['Creature'],['Demon'],Rare,LEA,5,5,None,"{T}: Destroy target land.\nAt the beginning of your upkeep, unless you pay {B}{B}{B}, tap Demonic Hordes and sacrifice a land of an opponent's choice."
-Chaoslace,1.0,['Red'],['R'],None,['Instant'],None,Rare,LEA,None,None,None,Target spell or permanent becomes red. (Its mana symbols remain unchanged.)
-Wall of Fire,3.0,['Red'],['R'],None,['Creature'],['Wall'],Uncommon,LEA,0,5,None,Defender (This creature can't attack.)\n{R}: Wall of Fire gets +1/+0 until end of turn.
-Deathgrip,2.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,LEA,None,None,None,{B}{B}: Counter target green spell.
-Burrowing,1.0,['Red'],['R'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,Enchant creature\nEnchanted creature has mountainwalk. (It can't be blocked as long as defending player controls a Mountain.)
-Darkpact,3.0,['Black'],['B'],None,['Sorcery'],None,Rare,LEA,None,None,None,Remove Darkpact from your deck before playing if you're not playing for ante.\nYou own target card in the ante. Exchange that card with the top card of your library.
-Dark Ritual,1.0,['Black'],['B'],None,['Instant'],None,Common,LEA,None,None,None,Add {B}{B}{B}.
-Zombie Master,3.0,['Black'],['B'],None,['Creature'],['Zombie'],Rare,LEA,2,3,None,"Other Zombie creatures have swampwalk. (They can't be blocked as long as defending player controls a Swamp.)\nOther Zombies have ""{B}: Regenerate this permanent."""
-Cursed Land,4.0,['Black'],['B'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,"Enchant land\nAt the beginning of the upkeep of enchanted land's controller, Cursed Land deals 1 damage to that player."
-Word of Command,2.0,['Black'],['B'],None,['Instant'],None,Rare,LEA,None,None,None,"Look at target opponent's hand and choose a card from it. You control that player until Word of Command finishes resolving. The player plays that card if able. While doing so, the player can activate mana abilities only if they're from lands that player controls and only if mana they produce is spent to activate other mana abilities of lands the player controls and/or to play that card. If the chosen card is cast as a spell, you control the player while that spell is resolving."
-Uthden Troll,3.0,['Red'],['R'],None,['Creature'],['Troll'],Uncommon,LEA,2,2,None,{R}: Regenerate Uthden Troll.
-Contract from Below,1.0,['Black'],['B'],None,['Sorcery'],None,Rare,LEA,None,None,None,"Remove Contract from Below from your deck before playing if you're not playing for ante.\nDiscard your hand, ante the top card of your library, then draw seven cards."
-Will-o'-the-Wisp,1.0,['Black'],['B'],None,['Creature'],['Spirit'],Rare,LEA,0,1,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\n{B}: Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
-Bog Wraith,4.0,['Black'],['B'],None,['Creature'],['Wraith'],Uncommon,LEA,3,3,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
-Weakness,1.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,LEA,None,None,None,Enchant creature\nEnchanted creature gets -2/-1.
-Two-Headed Giant of Foriys,5.0,['Red'],['R'],None,['Creature'],['Giant'],Rare,LEA,4,4,None,Trample\nTwo-Headed Giant of Foriys can block an additional creature each combat.
-Black Knight,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Knight']",Uncommon,LEA,2,2,None,"First strike (This creature deals combat damage before creatures without first strike.)\nProtection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)"
-Warp Artifact,2.0,['Black'],['B'],None,['Enchantment'],['Aura'],Rare,LEA,None,None,None,"Enchant artifact\nAt the beginning of the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to that player."
-Tunnel,1.0,['Red'],['R'],None,['Instant'],None,Uncommon,LEA,None,None,None,Destroy target Wall. It can't be regenerated.
-Bad Moon,2.0,['Black'],['B'],None,['Enchantment'],None,Rare,LEA,None,None,None,Black creatures get +1/+1.
-Wall of Bone,3.0,['Black'],['B'],None,['Creature'],"['Skeleton', 'Wall']",Uncommon,LEA,1,4,None,"Defender (This creature can't attack.)\n{B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
-Stone Rain,3.0,['Red'],['R'],None,['Sorcery'],None,Common,LEA,None,None,None,Destroy target land.
-Animate Dead,2.0,['Black'],['B'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,"Enchant creature card in a graveyard\nWhen Animate Dead enters the battlefield, if it's on the battlefield, it loses ""enchant creature card in a graveyard"" and gains ""enchant creature put onto the battlefield with Animate Dead."" Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0."
-Sinkhole,2.0,['Black'],['B'],None,['Sorcery'],None,Common,LEA,None,None,None,Destroy target land.
-Stone Giant,4.0,['Red'],['R'],None,['Creature'],['Giant'],Uncommon,LEA,3,4,None,{T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.
-Water Elemental,5.0,['Blue'],['U'],None,['Creature'],['Elemental'],Uncommon,LEA,5,4,None,None
-Unholy Strength,1.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,LEA,None,None,None,Enchant creature\nEnchanted creature gets +2/+1.
-Smoke,2.0,['Red'],['R'],None,['Enchantment'],None,Rare,LEA,None,None,None,Players can't untap more than one creature during their untap steps.
-Wall of Water,3.0,['Blue'],['U'],None,['Creature'],['Wall'],Uncommon,LEA,0,5,None,Defender (This creature can't attack.)\n{U}: Wall of Water gets +1/+0 until end of turn.
-Terror,2.0,['Black'],['B'],None,['Instant'],None,Common,LEA,None,None,None,"Destroy target nonartifact, nonblack creature. It can't be regenerated."
-Shivan Dragon,6.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,LEA,5,5,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.
-Wall of Air,3.0,['Blue'],['U'],None,['Creature'],['Wall'],Uncommon,LEA,1,5,None,"Defender, flying (This creature can't attack, and it can block creatures with flying.)"
-Shatter,2.0,['Red'],['R'],None,['Instant'],None,Common,LEA,None,None,None,Destroy target artifact.
-Volcanic Eruption,3.0,['Blue'],['U'],None,['Sorcery'],None,Rare,LEA,None,None,None,Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains put into a graveyard this way.
-Sedge Troll,3.0,['Red'],"['B', 'R']",None,['Creature'],['Troll'],Rare,LEA,2,2,None,Sedge Troll gets +1/+1 as long as you control a Swamp.\n{B}: Regenerate Sedge Troll.
-Psionic Blast,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,LEA,None,None,None,Psionic Blast deals 4 damage to any target and 2 damage to you.
-Rock Hydra,2.0,['Red'],['R'],None,['Creature'],['Hydra'],Rare,LEA,0,0,None,"Rock Hydra enters the battlefield with X +1/+1 counters on it.\nFor each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage.\n{R}: Prevent the next 1 damage that would be dealt to Rock Hydra this turn.\n{R}{R}{R}: Put a +1/+1 counter on Rock Hydra. Activate only during your upkeep."
-Timetwister,3.0,['Blue'],['U'],None,['Sorcery'],None,Rare,LEA,None,None,None,"Each player shuffles their hand and graveyard into their library, then draws seven cards. (Then put Timetwister into its owner's graveyard.)"
-Unsummon,1.0,['Blue'],['U'],None,['Instant'],None,Common,LEA,None,None,None,Return target creature to its owner's hand.
-Scavenging Ghoul,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Uncommon,LEA,2,2,None,"At the beginning of each end step, put a corpse counter on Scavenging Ghoul for each creature that died this turn.\nRemove a corpse counter from Scavenging Ghoul: Regenerate Scavenging Ghoul."
-Natural Selection,1.0,['Green'],['G'],None,['Instant'],None,Rare,LEA,None,None,None,"Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle."
-Vesuvan Doppelganger,5.0,['Blue'],['U'],None,['Creature'],['Shapeshifter'],Rare,LEA,0,0,None,"You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield, except it doesn't copy that creature's color and it has ""At the beginning of your upkeep, you may have this creature become a copy of target creature, except it doesn't copy that creature's color and it has this ability."""
-Simulacrum,2.0,['Black'],['B'],None,['Instant'],None,Uncommon,LEA,None,None,None,You gain life equal to the damage dealt to you this turn. Simulacrum deals damage to target creature you control equal to the damage dealt to you this turn.
-Roc of Kher Ridges,4.0,['Red'],['R'],None,['Creature'],['Bird'],Rare,LEA,3,3,None,Flying
-Sengir Vampire,5.0,['Black'],['B'],None,['Creature'],['Vampire'],Uncommon,LEA,4,4,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire."
-Red Elemental Blast,1.0,['Red'],['R'],None,['Instant'],None,Common,LEA,None,None,None,Choose one —\n• Counter target blue spell.\n• Destroy target blue permanent.
-Twiddle,1.0,['Blue'],['U'],None,['Instant'],None,Common,LEA,None,None,None,"You may tap or untap target artifact, creature, or land."
-Raging River,2.0,['Red'],['R'],None,['Enchantment'],None,Rare,LEA,None,None,None,"Whenever one or more creatures you control attack, each defending player divides all creatures without flying they control into a ""left"" pile and a ""right"" pile. Then, for each attacking creature you control, choose ""left"" or ""right."" That creature can't be blocked this combat except by creatures with flying and creatures in a pile with the chosen label."
-Scathe Zombies,3.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,LEA,2,2,None,None
-Time Walk,2.0,['Blue'],['U'],None,['Sorcery'],None,Rare,LEA,None,None,None,Take an extra turn after this one.
-Regrowth,2.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,LEA,None,None,None,Return target card from your graveyard to your hand.
-Thoughtlace,1.0,['Blue'],['U'],None,['Instant'],None,Rare,LEA,None,None,None,Target spell or permanent becomes blue. (Mana symbols on that permanent remain unchanged.)
-Sacrifice,1.0,['Black'],['B'],None,['Instant'],None,Uncommon,LEA,None,None,None,"As an additional cost to cast this spell, sacrifice a creature.\nAdd an amount of {B} equal to the sacrificed creature's mana value."
-Steal Artifact,4.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,Enchant artifact\nYou control enchanted artifact.
-Lure,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,Enchant creature\nAll creatures able to block enchanted creature do so.
-Sleight of Mind,1.0,['Blue'],['U'],None,['Instant'],None,Rare,LEA,None,None,None,"Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change ""target black spell"" to ""target blue spell."" This effect lasts indefinitely.)"
-Llanowar Elves,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,LEA,1,1,None,{T}: Add {G}.
-Stasis,2.0,['Blue'],['U'],None,['Enchantment'],None,Rare,LEA,None,None,None,"Players skip their untap steps.\nAt the beginning of your upkeep, sacrifice Stasis unless you pay {U}."
-Royal Assassin,3.0,['Black'],['B'],None,['Creature'],"['Human', 'Assassin']",Rare,LEA,1,1,None,{T}: Destroy target tapped creature.
-Spell Blast,1.0,['Blue'],['U'],None,['Instant'],None,Common,LEA,None,None,None,"Counter target spell with mana value X. (For example, if that spell's mana cost is {3}{U}{U}, X is 5.)"
-Raise Dead,1.0,['Black'],['B'],None,['Sorcery'],None,Common,LEA,None,None,None,Return target creature card from your graveyard to your hand.
-Lifelace,1.0,['Green'],['G'],None,['Instant'],None,Rare,LEA,None,None,None,Target spell or permanent becomes green. (Mana symbols on that permanent remain unchanged.)
-Psychic Venom,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,LEA,None,None,None,"Enchant land\nWhenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that land's controller."
-Plague Rats,3.0,['Black'],['B'],None,['Creature'],['Rat'],Common,LEA,*,*,None,Plague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield.
-Tranquility,3.0,['Green'],['G'],None,['Sorcery'],None,Common,LEA,None,None,None,Destroy all enchantments.
-Prodigal Sorcerer,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,LEA,1,1,None,{T}: Prodigal Sorcerer deals 1 damage to any target.
-Pestilence,4.0,['Black'],['B'],None,['Enchantment'],None,Common,LEA,None,None,None,"At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.\n{B}: Pestilence deals 1 damage to each creature and each player."
-Timber Wolves,1.0,['Green'],['G'],None,['Creature'],['Wolf'],Rare,LEA,1,1,None,"Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)"
-Siren's Call,1.0,['Blue'],['U'],None,['Instant'],None,Uncommon,LEA,None,None,None,"Cast this spell only during an opponent's turn, before attackers are declared.\nCreatures the active player controls attack this turn if able.\nAt the beginning of the next end step, destroy all non-Wall creatures that player controls that didn't attack this turn. Ignore this effect for each creature the player didn't control continuously since the beginning of the turn."
-Thicket Basilisk,5.0,['Green'],['G'],None,['Creature'],['Basilisk'],Uncommon,LEA,2,4,None,"Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat."
-Sea Serpent,6.0,['Blue'],['U'],None,['Creature'],['Serpent'],Common,LEA,5,5,None,"Sea Serpent can't attack unless defending player controls an Island.\nWhen you control no Islands, sacrifice Sea Serpent."
-Stream of Life,1.0,['Green'],['G'],None,['Sorcery'],None,Common,LEA,None,None,None,Target player gains X life.
-Paralyze,1.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,LEA,None,None,None,"Enchant creature\nWhen Paralyze enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.\nAt the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If the player does, untap the creature."
-Living Lands,4.0,['Green'],['G'],None,['Enchantment'],None,Rare,LEA,None,None,None,All Forests are 1/1 creatures that are still lands.
-Power Sink,1.0,['Blue'],['U'],None,['Instant'],None,Common,LEA,None,None,None,"Counter target spell unless its controller pays {X}. If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana."
-Ice Storm,3.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,LEA,None,None,None,Destroy target land.
-Power Leak,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,LEA,None,None,None,"Enchant enchantment\nAt the beginning of the upkeep of enchanted enchantment's controller, that player may pay any amount of mana. Power Leak deals 2 damage to that player. Prevent X of that damage, where X is the amount of mana that player paid this way."
-Living Artifact,1.0,['Green'],['G'],None,['Enchantment'],['Aura'],Rare,LEA,None,None,None,"Enchant artifact\nWhenever you're dealt damage, put that many vitality counters on Living Artifact.\nAt the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life."
-Ironroot Treefolk,5.0,['Green'],['G'],None,['Creature'],['Treefolk'],Common,LEA,3,5,None,None
-Pirate Ship,5.0,['Blue'],['U'],None,['Creature'],"['Human', 'Pirate']",Rare,LEA,4,3,None,"Pirate Ship can't attack unless defending player controls an Island.\n{T}: Pirate Ship deals 1 damage to any target.\nWhen you control no Islands, sacrifice Pirate Ship."
-Fork,2.0,['Red'],['R'],None,['Instant'],None,Rare,LEA,None,None,None,"Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy."
-Instill Energy,1.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,LEA,None,None,None,Enchant creature\nEnchanted creature can attack as though it had haste.\n{0}: Untap enchanted creature. Activate only during your turn and only once each turn.
-Nightmare,6.0,['Black'],['B'],None,['Creature'],"['Nightmare', 'Horse']",Rare,LEA,*,*,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\nNightmare's power and toughness are each equal to the number of Swamps you control.
-Regeneration,2.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,LEA,None,None,None,"Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\n{G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
-Nettling Imp,3.0,['Black'],['B'],None,['Creature'],['Imp'],Uncommon,LEA,1,1,None,"{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate only during an opponent's turn, before attackers are declared."
-Scryb Sprites,1.0,['Green'],['G'],None,['Creature'],['Faerie'],Common,LEA,1,1,None,Flying
-Phantasmal Terrain,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,LEA,None,None,None,"Enchant land\nAs Phantasmal Terrain enters the battlefield, choose a basic land type.\nEnchanted land is the chosen type."
-Howl from Beyond,1.0,['Black'],['B'],None,['Instant'],None,Common,LEA,None,None,None,Target creature gets +X/+0 until end of turn.
-Shanodin Dryads,1.0,['Green'],['G'],None,['Creature'],"['Nymph', 'Dryad']",Common,LEA,1,1,None,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
-Lord of Atlantis,2.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Rare,LEA,2,2,None,Other Merfolk get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)
-Lifeforce,2.0,['Green'],['G'],None,['Enchantment'],None,Uncommon,LEA,None,None,None,{G}{G}: Counter target black spell.
-Lich,4.0,['Black'],['B'],None,['Enchantment'],None,Rare,LEA,None,None,None,"As Lich enters the battlefield, you lose life equal to your life total.\nYou don't lose the game for having 0 or less life.\nIf you would gain life, draw that many cards instead.\nWhenever you're dealt damage, sacrifice that many nontoken permanents. If you can't, you lose the game.\nWhen Lich is put into a graveyard from the battlefield, you lose the game."
-Ley Druid,3.0,['Green'],['G'],None,['Creature'],"['Human', 'Druid']",Uncommon,LEA,1,1,None,{T}: Untap target land.
-Lifetap,2.0,['Blue'],['U'],None,['Enchantment'],None,Uncommon,LEA,None,None,None,"Whenever a Forest an opponent controls becomes tapped, you gain 1 life."
-Kudzu,3.0,['Green'],['G'],None,['Enchantment'],['Aura'],Rare,LEA,None,None,None,"Enchant land\nWhen enchanted land becomes tapped, destroy it. That land's controller may attach Kudzu to a land of their choice."
-Phantom Monster,4.0,['Blue'],['U'],None,['Creature'],['Illusion'],Uncommon,LEA,3,3,None,Flying
-Hurricane,1.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,LEA,None,None,None,Hurricane deals X damage to each creature with flying and each player.
-Magical Hack,1.0,['Blue'],['U'],None,['Instant'],None,Rare,LEA,None,None,None,"Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change ""swampwalk"" to ""plainswalk."" This effect lasts indefinitely.)"
-Grizzly Bears,2.0,['Green'],['G'],None,['Creature'],['Bear'],Common,LEA,2,2,None,None
-Mind Twist,1.0,['Black'],['B'],None,['Sorcery'],None,Rare,LEA,None,None,None,Target player discards X cards at random.
-Nether Shadow,2.0,['Black'],['B'],None,['Creature'],['Spirit'],Rare,LEA,1,1,None,"Haste\nAt the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield."
-Giant Spider,4.0,['Green'],['G'],None,['Creature'],['Spider'],Common,LEA,2,4,None,Reach (This creature can block creatures with flying.)
-Lord of the Pit,7.0,['Black'],['B'],None,['Creature'],['Demon'],Rare,LEA,7,7,None,"Flying, trample\nAt the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you."
-Giant Growth,1.0,['Green'],['G'],None,['Instant'],None,Common,LEA,None,None,None,Target creature gets +3/+3 until end of turn.
-Gaea's Liege,6.0,['Green'],['G'],None,['Creature'],['Avatar'],Rare,LEA,*,*,None,"As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.\n{T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield."
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Simulacrum,{1}{B},2.0,['B'],['B'],Instant,,,Uncommon,You gain life equal to the damage dealt to you this turn. Simulacrum deals damage to target creature you control equal to the damage dealt to you this turn.,128,,,,LEA,Limited Edition Alpha
+Island Sanctuary,{1}{W},2.0,['W'],['W'],Enchantment,,,Rare,"If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.",25,,,,LEA,Limited Edition Alpha
+Ice Storm,{2}{G},3.0,['G'],['G'],Sorcery,,,Uncommon,Destroy target land.,201,,,,LEA,Limited Edition Alpha
+Death Ward,{W},1.0,['W'],['W'],Instant,,,Common,Regenerate target creature.,17,,,,LEA,Limited Edition Alpha
+Thicket Basilisk,{3}{G}{G},5.0,['G'],['G'],Creature — Basilisk,,['Basilisk'],Uncommon,"Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.",218,2,4,,LEA,Limited Edition Alpha
+Grizzly Bears,{1}{G},2.0,['G'],['G'],Creature — Bear,,['Bear'],Common,,199,2,2,,LEA,Limited Edition Alpha
+Sinkhole,{B}{B},2.0,['B'],['B'],Sorcery,,,Common,Destroy target land.,129,,,,LEA,Limited Edition Alpha
+Phantasmal Terrain,{U}{U},2.0,['U'],['U'],Enchantment — Aura,,['Aura'],Common,"Enchant land\nAs Phantasmal Terrain enters the battlefield, choose a basic land type.\nEnchanted land is the chosen type.",68,,,,LEA,Limited Edition Alpha
+Regeneration,{1}{G},2.0,['G'],['G'],Enchantment — Aura,,['Aura'],Common,"Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\n{G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",213,,,,LEA,Limited Edition Alpha
+Wall of Air,{1}{U}{U},3.0,['U'],['U'],Creature — Wall,,['Wall'],Uncommon,"Defender, flying (This creature can't attack, and it can block creatures with flying.)",89,1,5,,LEA,Limited Edition Alpha
+Power Surge,{R}{R},2.0,['R'],['R'],Enchantment,,,Rare,"At the beginning of each player's upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands they controlled at the beginning of this turn.",167,,,,LEA,Limited Edition Alpha
+Shivan Dragon,{4}{R}{R},6.0,['R'],['R'],Creature — Dragon,,['Dragon'],Rare,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.,174,5,5,,LEA,Limited Edition Alpha
+White Ward,{W},1.0,['W'],['W'],Enchantment — Aura,,['Aura'],Uncommon,Enchant creature\nEnchanted creature has protection from white. This effect doesn't remove White Ward.,44,,,,LEA,Limited Edition Alpha
+Earth Elemental,{3}{R}{R},5.0,['R'],['R'],Creature — Elemental,,['Elemental'],Uncommon,,144,4,5,,LEA,Limited Edition Alpha
+Wall of Bone,{2}{B},3.0,['B'],['B'],Creature — Skeleton Wall,,"['Skeleton', 'Wall']",Uncommon,"Defender (This creature can't attack.)\n{B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",132,1,4,,LEA,Limited Edition Alpha
+Power Sink,{X}{U},1.0,['U'],['U'],Instant,,,Common,"Counter target spell unless its controller pays {X}. If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana.",72,,,,LEA,Limited Edition Alpha
+Will-o'-the-Wisp,{B},1.0,['B'],['B'],Creature — Spirit,,['Spirit'],Rare,"Flying (This creature can't be blocked except by creatures with flying or reach.)\n{B}: Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",135,0,1,,LEA,Limited Edition Alpha
+Zombie Master,{1}{B}{B},3.0,['B'],['B'],Creature — Zombie,,['Zombie'],Rare,"Other Zombie creatures have swampwalk. (They can't be blocked as long as defending player controls a Swamp.)\nOther Zombies have ""{B}: Regenerate this permanent.""",137,2,3,,LEA,Limited Edition Alpha
+Word of Command,{B}{B},2.0,['B'],['B'],Instant,,,Rare,"Look at target opponent's hand and choose a card from it. You control that player until Word of Command finishes resolving. The player plays that card if able. While doing so, the player can activate mana abilities only if they're from lands that player controls and only if mana they produce is spent to activate other mana abilities of lands the player controls and/or to play that card. If the chosen card is cast as a spell, you control the player while that spell is resolving.",136,,,,LEA,Limited Edition Alpha
+Keldon Warlord,{2}{R}{R},4.0,['R'],['R'],Creature — Human Barbarian,,"['Human', 'Barbarian']",Uncommon,Keldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.,160,*,*,,LEA,Limited Edition Alpha
+Warp Artifact,{B}{B},2.0,['B'],['B'],Enchantment — Aura,,['Aura'],Rare,"Enchant artifact\nAt the beginning of the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to that player.",133,,,,LEA,Limited Edition Alpha
+Scryb Sprites,{G},1.0,['G'],['G'],Creature — Faerie,,['Faerie'],Common,Flying,215,1,1,,LEA,Limited Edition Alpha
+Sacrifice,{B},1.0,['B'],['B'],Instant,,,Uncommon,"As an additional cost to cast this spell, sacrifice a creature.\nAdd an amount of {B} equal to the sacrificed creature's mana value.",124,,,,LEA,Limited Edition Alpha
+Demonic Hordes,{3}{B}{B}{B},6.0,['B'],['B'],Creature — Demon,,['Demon'],Rare,"{T}: Destroy target land.\nAt the beginning of your upkeep, unless you pay {B}{B}{B}, tap Demonic Hordes and sacrifice a land of an opponent's choice.",103,5,5,,LEA,Limited Edition Alpha
+Demonic Attorney,{1}{B}{B},3.0,['B'],['B'],Sorcery,,,Rare,Remove Demonic Attorney from your deck before playing if you're not playing for ante.\nEach player antes the top card of their library.,102,,,,LEA,Limited Edition Alpha
+Burrowing,{R},1.0,['R'],['R'],Enchantment — Aura,,['Aura'],Uncommon,Enchant creature\nEnchanted creature has mountainwalk. (It can't be blocked as long as defending player controls a Mountain.),138,,,,LEA,Limited Edition Alpha
+Fireball,{X}{R},1.0,['R'],['R'],Sorcery,,,Common,"This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets.",149,,,,LEA,Limited Edition Alpha
+Gloom,{2}{B},3.0,['B'],['B'],Enchantment,,,Uncommon,White spells cost {3} more to cast.\nActivated abilities of white enchantments cost {3} more to activate.,110,,,,LEA,Limited Edition Alpha
+Goblin King,{1}{R}{R},3.0,['R'],['R'],Creature — Goblin,,['Goblin'],Rare,Other Goblins get +1/+1 and have mountainwalk.,154,2,2,,LEA,Limited Edition Alpha
+Dragon Whelp,{2}{R}{R},4.0,['R'],['R'],Creature — Dragon,,['Dragon'],Uncommon,"Flying\n{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.",141,2,3,,LEA,Limited Edition Alpha
+Demonic Tutor,{1}{B},2.0,['B'],['B'],Sorcery,,,Uncommon,"Search your library for a card, put that card into your hand, then shuffle.",104,,,,LEA,Limited Edition Alpha
+Flight,{U},1.0,['U'],['U'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nEnchanted creature has flying.,58,,,,LEA,Limited Edition Alpha
+Ley Druid,{2}{G},3.0,['G'],['G'],Creature — Human Druid,,"['Human', 'Druid']",Uncommon,{T}: Untap target land.,205,1,1,,LEA,Limited Edition Alpha
+Farmstead,{W}{W}{W},3.0,['W'],['W'],Enchantment — Aura,,['Aura'],Rare,"Enchant land\nEnchanted land has ""At the beginning of your upkeep, you may pay {W}{W}. If you do, you gain 1 life.""",19,,,,LEA,Limited Edition Alpha
+Orcish Oriflamme,{3}{R},4.0,['R'],['R'],Enchantment,,,Uncommon,Attacking creatures you control get +1/+0.,166,,,,LEA,Limited Edition Alpha
+Black Knight,{B}{B},2.0,['B'],['B'],Creature — Human Knight,,"['Human', 'Knight']",Uncommon,"First strike (This creature deals combat damage before creatures without first strike.)\nProtection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)",94,2,2,,LEA,Limited Edition Alpha
+Deathlace,{B},1.0,['B'],['B'],Instant,,,Rare,Target spell or permanent becomes black. (Mana symbols on that permanent remain unchanged.),101,,,,LEA,Limited Edition Alpha
+Uthden Troll,{2}{R},3.0,['R'],['R'],Creature — Troll,,['Troll'],Uncommon,{R}: Regenerate Uthden Troll.,180,2,2,,LEA,Limited Edition Alpha
+Lifeforce,{G}{G},2.0,['G'],['G'],Enchantment,,,Uncommon,{G}{G}: Counter target black spell.,206,,,,LEA,Limited Edition Alpha
+Chaoslace,{R},1.0,['R'],['R'],Instant,,,Rare,Target spell or permanent becomes red. (Its mana symbols remain unchanged.),139,,,,LEA,Limited Edition Alpha
+Merfolk of the Pearl Trident,{U},1.0,['U'],['U'],Creature — Merfolk,,['Merfolk'],Common,,66,1,1,,LEA,Limited Edition Alpha
+Ironroot Treefolk,{4}{G},5.0,['G'],['G'],Creature — Treefolk,,['Treefolk'],Common,,203,3,5,,LEA,Limited Edition Alpha
+Animate Wall,{W},1.0,['W'],['W'],Enchantment — Aura,,['Aura'],Rare,Enchant Wall\nEnchanted Wall can attack as though it didn't have defender.,1,,,,LEA,Limited Edition Alpha
+Regrowth,{1}{G},2.0,['G'],['G'],Sorcery,,,Uncommon,Return target card from your graveyard to your hand.,214,,,,LEA,Limited Edition Alpha
+Stasis,{1}{U},2.0,['U'],['U'],Enchantment,,,Rare,"Players skip their untap steps.\nAt the beginning of your upkeep, sacrifice Stasis unless you pay {U}.",80,,,,LEA,Limited Edition Alpha
+Nightmare,{5}{B},6.0,['B'],['B'],Creature — Nightmare Horse,,"['Nightmare', 'Horse']",Rare,Flying (This creature can't be blocked except by creatures with flying or reach.)\nNightmare's power and toughness are each equal to the number of Swamps you control.,118,*,*,,LEA,Limited Edition Alpha
+Dark Ritual,{B},1.0,['B'],['B'],Instant,,,Common,Add {B}{B}{B}.,98,,,,LEA,Limited Edition Alpha
+Mahamoti Djinn,{4}{U}{U},6.0,['U'],['U'],Creature — Djinn,,['Djinn'],Rare,Flying (This creature can't be blocked except by creatures with flying or reach.),64,5,6,,LEA,Limited Edition Alpha
+Circle of Protection: Red,{1}{W},2.0,['W'],['W'],Enchantment,,,Common,"{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.",12,,,,LEA,Limited Edition Alpha
+Roc of Kher Ridges,{3}{R},4.0,['R'],['R'],Creature — Bird,,['Bird'],Rare,Flying,170,3,3,,LEA,Limited Edition Alpha
+Howl from Beyond,{X}{B},1.0,['B'],['B'],Instant,,,Common,Target creature gets +X/+0 until end of turn.,111,,,,LEA,Limited Edition Alpha
+Smoke,{R}{R},2.0,['R'],['R'],Enchantment,,,Rare,Players can't untap more than one creature during their untap steps.,175,,,,LEA,Limited Edition Alpha
+Timber Wolves,{G},1.0,['G'],['G'],Creature — Wolf,,['Wolf'],Rare,"Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",219,1,1,,LEA,Limited Edition Alpha
+Two-Headed Giant of Foriys,{4}{R},5.0,['R'],['R'],Creature — Giant,,['Giant'],Rare,Trample\nTwo-Headed Giant of Foriys can block an additional creature each combat.,179,4,4,,LEA,Limited Edition Alpha
+Northern Paladin,{2}{W}{W},4.0,['W'],['W'],Creature — Human Knight,,"['Human', 'Knight']",Rare,"{W}{W}, {T}: Destroy target black permanent.",29,3,3,,LEA,Limited Edition Alpha
+Disenchant,{1}{W},2.0,['W'],['W'],Instant,,,Common,Destroy target artifact or enchantment.,18,,,,LEA,Limited Edition Alpha
+Tranquility,{2}{G},3.0,['G'],['G'],Sorcery,,,Common,Destroy all enchantments.,220,,,,LEA,Limited Edition Alpha
+Tsunami,{3}{G},4.0,['G'],['G'],Sorcery,,,Uncommon,Destroy all Islands.,221,,,,LEA,Limited Edition Alpha
+Manabarbs,{3}{R},4.0,['R'],['R'],Enchantment,,,Rare,"Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.",163,,,,LEA,Limited Edition Alpha
+Channel,{G}{G},2.0,['G'],['G'],Sorcery,,,Uncommon,"Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {C}.",188,,,,LEA,Limited Edition Alpha
+Time Walk,{1}{U},2.0,['U'],['U'],Sorcery,,,Rare,Take an extra turn after this one.,83,,,,LEA,Limited Edition Alpha
+Wall of Fire,{1}{R}{R},3.0,['R'],['R'],Creature — Wall,,['Wall'],Uncommon,Defender (This creature can't attack.)\n{R}: Wall of Fire gets +1/+0 until end of turn.,181,0,5,,LEA,Limited Edition Alpha
+Verduran Enchantress,{1}{G}{G},3.0,['G'],['G'],Creature — Human Druid,,"['Human', 'Druid']",Rare,"Whenever you cast an enchantment spell, you may draw a card.",222,0,2,,LEA,Limited Edition Alpha
+Consecrate Land,{W},1.0,['W'],['W'],Enchantment — Aura,,['Aura'],Uncommon,Enchant land\nEnchanted land has indestructible and can't be enchanted by other Auras.,14,,,,LEA,Limited Edition Alpha
+Wall of Stone,{1}{R}{R},3.0,['R'],['R'],Creature — Wall,,['Wall'],Uncommon,Defender (This creature can't attack.),182,0,8,,LEA,Limited Edition Alpha
+Cockatrice,{3}{G}{G},5.0,['G'],['G'],Creature — Cockatrice,,['Cockatrice'],Rare,"Flying\nWhenever Cockatrice blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.",189,2,4,,LEA,Limited Edition Alpha
+Giant Growth,{G},1.0,['G'],['G'],Instant,,,Common,Target creature gets +3/+3 until end of turn.,197,,,,LEA,Limited Edition Alpha
+Wall of Brambles,{2}{G},3.0,['G'],['G'],Creature — Plant Wall,,"['Plant', 'Wall']",Uncommon,Defender (This creature can't attack.)\n{G}: Regenerate Wall of Brambles.,223,2,3,,LEA,Limited Edition Alpha
+Wall of Ice,{2}{G},3.0,['G'],['G'],Creature — Wall,,['Wall'],Uncommon,Defender (This creature can't attack.),224,0,7,,LEA,Limited Edition Alpha
+Gaea's Liege,{3}{G}{G}{G},6.0,['G'],['G'],Creature — Avatar,,['Avatar'],Rare,"As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.\n{T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.",196,*,*,,LEA,Limited Edition Alpha
+Wall of Wood,{G},1.0,['G'],['G'],Creature — Wall,,['Wall'],Common,Defender (This creature can't attack.),225,0,3,,LEA,Limited Edition Alpha
+Frozen Shade,{2}{B},3.0,['B'],['B'],Creature — Shade,,['Shade'],Common,{B}: Frozen Shade gets +1/+1 until end of turn.,109,0,1,,LEA,Limited Edition Alpha
+Feedback,{2}{U},3.0,['U'],['U'],Enchantment — Aura,,['Aura'],Uncommon,"Enchant enchantment\nAt the beginning of the upkeep of enchanted enchantment's controller, Feedback deals 1 damage to that player.",57,,,,LEA,Limited Edition Alpha
+Birds of Paradise,{G},1.0,['G'],['G'],Creature — Bird,,['Bird'],Rare,Flying\n{T}: Add one mana of any color.,186,0,1,,LEA,Limited Edition Alpha
+Wanderlust,{2}{G},3.0,['G'],['G'],Enchantment — Aura,,['Aura'],Uncommon,"Enchant creature\nAt the beginning of the upkeep of enchanted creature's controller, Wanderlust deals 1 damage to that player.",226,,,,LEA,Limited Edition Alpha
+Aspect of Wolf,{1}{G},2.0,['G'],['G'],Enchantment — Aura,,['Aura'],Rare,"Enchant creature\nEnchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.",184,,,,LEA,Limited Edition Alpha
+War Mammoth,{3}{G},4.0,['G'],['G'],Creature — Elephant,,['Elephant'],Common,Trample,227,3,3,,LEA,Limited Edition Alpha
+Braingeyser,{X}{U}{U},2.0,['U'],['U'],Sorcery,,,Rare,Target player draws X cards.,50,,,,LEA,Limited Edition Alpha
+Resurrection,{2}{W}{W},4.0,['W'],['W'],Sorcery,,,Uncommon,Return target creature card from your graveyard to the battlefield.,34,,,,LEA,Limited Edition Alpha
+Sedge Troll,{2}{R},3.0,['R'],"['B', 'R']",Creature — Troll,,['Troll'],Rare,Sedge Troll gets +1/+1 as long as you control a Swamp.\n{B}: Regenerate Sedge Troll.,172,2,2,,LEA,Limited Edition Alpha
+Camouflage,{G},1.0,['G'],['G'],Instant,,,Uncommon,"Cast this spell only during your declare attackers step.\nThis turn, instead of declaring blockers, each defending player chooses any number of creatures they control and divides them into a number of piles equal to the number of attacking creatures for whom that player is the defending player. Creatures those players control that can block additional creatures may likewise be put into additional piles. Assign each pile to a different one of those attacking creatures at random. Each creature in a pile that can block the creature that pile is assigned to does so. (Piles can be empty.)",187,,,,LEA,Limited Edition Alpha
+Castle,{3}{W},4.0,['W'],['W'],Enchantment,,,Uncommon,Untapped creatures you control get +0/+2.,9,,,,LEA,Limited Edition Alpha
+Red Elemental Blast,{R},1.0,['R'],['R'],Instant,,,Common,Choose one —\n• Counter target blue spell.\n• Destroy target blue permanent.,169,,,,LEA,Limited Edition Alpha
+Siren's Call,{U},1.0,['U'],['U'],Instant,,,Uncommon,"Cast this spell only during an opponent's turn, before attackers are declared.\nCreatures the active player controls attack this turn if able.\nAt the beginning of the next end step, destroy all non-Wall creatures that player controls that didn't attack this turn. Ignore this effect for each creature the player didn't control continuously since the beginning of the turn.",77,,,,LEA,Limited Edition Alpha
+Berserk,{G},1.0,['G'],['G'],Instant,,,Uncommon,"Cast this spell only before the combat damage step.\nTarget creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn.",185,,,,LEA,Limited Edition Alpha
+Web,{G},1.0,['G'],['G'],Enchantment — Aura,,['Aura'],Rare,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature gets +0/+2 and has reach. (It can block creatures with flying.),228,,,,LEA,Limited Edition Alpha
+Blaze of Glory,{W},1.0,['W'],['W'],Instant,,,Rare,Cast this spell only during combat before blockers are declared.\nTarget creature defending player controls can block any number of creatures this turn. It blocks each attacking creature this turn if able.,6,,,,LEA,Limited Edition Alpha
+Giant Spider,{3}{G},4.0,['G'],['G'],Creature — Spider,,['Spider'],Common,Reach (This creature can block creatures with flying.),198,2,4,,LEA,Limited Edition Alpha
+Wild Growth,{G},1.0,['G'],['G'],Enchantment — Aura,,['Aura'],Common,"Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional {G}.",229,,,,LEA,Limited Edition Alpha
+Unsummon,{U},1.0,['U'],['U'],Instant,,,Common,Return target creature to its owner's hand.,86,,,,LEA,Limited Edition Alpha
+Ankh of Mishra,{2},2.0,,,Artifact,,,Rare,"Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.",230,,,,LEA,Limited Edition Alpha
+Basalt Monolith,{3},3.0,,,Artifact,,,Uncommon,Basalt Monolith doesn't untap during your untap step.\n{T}: Add {C}{C}{C}.\n{3}: Untap Basalt Monolith.,231,,,,LEA,Limited Edition Alpha
+Black Lotus,{0},0.0,,,Artifact,,,Rare,"{T}, Sacrifice Black Lotus: Add three mana of any one color.",232,,,,LEA,Limited Edition Alpha
+Black Vise,{1},1.0,,,Artifact,,,Uncommon,"As Black Vise enters the battlefield, choose an opponent.\nAt the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4.",233,,,,LEA,Limited Edition Alpha
+Celestial Prism,{3},3.0,,,Artifact,,,Uncommon,"{2}, {T}: Add one mana of any color.",234,,,,LEA,Limited Edition Alpha
+Tunnel,{R},1.0,['R'],['R'],Instant,,,Uncommon,Destroy target Wall. It can't be regenerated.,178,,,,LEA,Limited Edition Alpha
+Chaos Orb,{2},2.0,,,Artifact,,,Rare,"{1}, {T}: If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least once during the flip, destroy all nontoken permanents it touches. Then destroy Chaos Orb.",235,,,,LEA,Limited Edition Alpha
+Clockwork Beast,{6},6.0,,,Artifact Creature — Beast,,['Beast'],Rare,"Clockwork Beast enters the battlefield with seven +1/+0 counters on it.\nAt end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.\n{X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate only during your upkeep.",236,0,4,,LEA,Limited Edition Alpha
+Raging River,{R}{R},2.0,['R'],['R'],Enchantment,,,Rare,"Whenever one or more creatures you control attack, each defending player divides all creatures without flying they control into a ""left"" pile and a ""right"" pile. Then, for each attacking creature you control, choose ""left"" or ""right."" That creature can't be blocked this combat except by creatures with flying and creatures in a pile with the chosen label.",168,,,,LEA,Limited Edition Alpha
+Contract from Below,{B},1.0,['B'],['B'],Sorcery,,,Rare,"Remove Contract from Below from your deck before playing if you're not playing for ante.\nDiscard your hand, ante the top card of your library, then draw seven cards.",96,,,,LEA,Limited Edition Alpha
+Conservator,{4},4.0,,,Artifact,,,Uncommon,"{3}, {T}: Prevent the next 2 damage that would be dealt to you this turn.",237,,,,LEA,Limited Edition Alpha
+Stone Rain,{2}{R},3.0,['R'],['R'],Sorcery,,,Common,Destroy target land.,177,,,,LEA,Limited Edition Alpha
+Copper Tablet,{2},2.0,,,Artifact,,,Uncommon,"At the beginning of each player's upkeep, Copper Tablet deals 1 damage to that player.",238,,,,LEA,Limited Edition Alpha
+Prodigal Sorcerer,{2}{U},3.0,['U'],['U'],Creature — Human Wizard,,"['Human', 'Wizard']",Common,{T}: Prodigal Sorcerer deals 1 damage to any target.,73,1,1,,LEA,Limited Edition Alpha
+Crystal Rod,{1},1.0,,,Artifact,,,Uncommon,"Whenever a player casts a blue spell, you may pay {1}. If you do, you gain 1 life.",239,,,,LEA,Limited Edition Alpha
+Cyclopean Tomb,{4},4.0,,,Artifact,,,Rare,"{2}, {T}: Put a mire counter on target non-Swamp land. That land is a Swamp for as long as it has a mire counter on it. Activate only during your upkeep.\nWhen Cyclopean Tomb is put into a graveyard from the battlefield, at the beginning of each of your upkeeps for the rest of the game, remove all mire counters from a land that a mire counter was put onto with Cyclopean Tomb but that a mire counter has not been removed from with Cyclopean Tomb.",240,,,,LEA,Limited Edition Alpha
+Lifetap,{U}{U},2.0,['U'],['U'],Enchantment,,,Uncommon,"Whenever a Forest an opponent controls becomes tapped, you gain 1 life.",61,,,,LEA,Limited Edition Alpha
+Dingus Egg,{4},4.0,,,Artifact,,,Rare,"Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.",241,,,,LEA,Limited Edition Alpha
+Stone Giant,{2}{R}{R},4.0,['R'],['R'],Creature — Giant,,['Giant'],Uncommon,{T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.,176,3,4,,LEA,Limited Edition Alpha
+Steal Artifact,{2}{U}{U},4.0,['U'],['U'],Enchantment — Aura,,['Aura'],Uncommon,Enchant artifact\nYou control enchanted artifact.,81,,,,LEA,Limited Edition Alpha
+Lich,{B}{B}{B}{B},4.0,['B'],['B'],Enchantment,,,Rare,"As Lich enters the battlefield, you lose life equal to your life total.\nYou don't lose the game for having 0 or less life.\nIf you would gain life, draw that many cards instead.\nWhenever you're dealt damage, sacrifice that many nontoken permanents. If you can't, you lose the game.\nWhen Lich is put into a graveyard from the battlefield, you lose the game.",113,,,,LEA,Limited Edition Alpha
+Orcish Artillery,{1}{R}{R},3.0,['R'],['R'],Creature — Orc Warrior,,"['Orc', 'Warrior']",Uncommon,{T}: Orcish Artillery deals 2 damage to any target and 3 damage to you.,165,1,3,,LEA,Limited Edition Alpha
+Benalish Hero,{W},1.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Common,"Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",4,1,1,,LEA,Limited Edition Alpha
+Living Artifact,{G},1.0,['G'],['G'],Enchantment — Aura,,['Aura'],Rare,"Enchant artifact\nWhenever you're dealt damage, put that many vitality counters on Living Artifact.\nAt the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life.",208,,,,LEA,Limited Edition Alpha
+Twiddle,{U},1.0,['U'],['U'],Instant,,,Common,"You may tap or untap target artifact, creature, or land.",85,,,,LEA,Limited Edition Alpha
+Natural Selection,{G},1.0,['G'],['G'],Instant,,,Rare,"Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle.",212,,,,LEA,Limited Edition Alpha
+Disrupting Scepter,{3},3.0,,,Artifact,,,Rare,"{3}, {T}: Target player discards a card. Activate only during your turn.",242,,,,LEA,Limited Edition Alpha
+Forcefield,{3},3.0,,,Artifact,,,Rare,"{1}: The next time an unblocked creature of your choice would deal combat damage to you this turn, prevent all but 1 of that damage.",243,,,,LEA,Limited Edition Alpha
+Nether Shadow,{B}{B},2.0,['B'],['B'],Creature — Spirit,,['Spirit'],Rare,"Haste\nAt the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield.",116,1,1,,LEA,Limited Edition Alpha
+Gauntlet of Might,{4},4.0,,['R'],Artifact,,,Rare,"Red creatures get +1/+1.\nWhenever a Mountain is tapped for mana, its controller adds an additional {R}.",244,,,,LEA,Limited Edition Alpha
+Mana Short,{2}{U},3.0,['U'],['U'],Instant,,,Rare,Tap all lands target player controls and that player loses all unspent mana.,65,,,,LEA,Limited Edition Alpha
+Glasses of Urza,{1},1.0,,,Artifact,,,Uncommon,{T}: Look at target player's hand.,245,,,,LEA,Limited Edition Alpha
+Helm of Chatzuk,{1},1.0,,,Artifact,,,Rare,"{1}, {T}: Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",246,,,,LEA,Limited Edition Alpha
+Howling Mine,{2},2.0,,,Artifact,,,Rare,"At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.",247,,,,LEA,Limited Edition Alpha
+Lord of Atlantis,{U}{U},2.0,['U'],['U'],Creature — Merfolk,,['Merfolk'],Rare,Other Merfolk get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.),62,2,2,,LEA,Limited Edition Alpha
+Icy Manipulator,{4},4.0,,,Artifact,,,Uncommon,"{1}, {T}: Tap target artifact, creature, or land.",248,,,,LEA,Limited Edition Alpha
+Illusionary Mask,{2},2.0,,,Artifact,,,Rare,"{X}: You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on {X}. If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate only as a sorcery.",249,,,,LEA,Limited Edition Alpha
+Iron Star,{1},1.0,,,Artifact,,,Uncommon,"Whenever a player casts a red spell, you may pay {1}. If you do, you gain 1 life.",250,,,,LEA,Limited Edition Alpha
+Savannah Lions,{W},1.0,['W'],['W'],Creature — Cat,,['Cat'],Rare,,38,2,1,,LEA,Limited Edition Alpha
+Ivory Cup,{1},1.0,,,Artifact,,,Uncommon,"Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.",251,,,,LEA,Limited Edition Alpha
+Kudzu,{1}{G}{G},3.0,['G'],['G'],Enchantment — Aura,,['Aura'],Rare,"Enchant land\nWhen enchanted land becomes tapped, destroy it. That land's controller may attach Kudzu to a land of their choice.",204,,,,LEA,Limited Edition Alpha
+Jade Monolith,{4},4.0,,,Artifact,,,Rare,"{1}: The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead.",252,,,,LEA,Limited Edition Alpha
+Drain Life,{X}{1}{B},2.0,['B'],['B'],Sorcery,,,Common,"Spend only black mana on X.\nDrain Life deals X damage to any target. You gain life equal to the damage dealt, but not more life than the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness.",105,,,,LEA,Limited Edition Alpha
+Jade Statue,{4},4.0,,,Artifact,,,Uncommon,{2}: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate only during combat.,253,,,,LEA,Limited Edition Alpha
+Magical Hack,{U},1.0,['U'],['U'],Instant,,,Rare,"Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change ""swampwalk"" to ""plainswalk."" This effect lasts indefinitely.)",63,,,,LEA,Limited Edition Alpha
+Jayemdae Tome,{4},4.0,,,Artifact,,,Rare,"{4}, {T}: Draw a card.",254,,,,LEA,Limited Edition Alpha
+Wall of Swords,{3}{W},4.0,['W'],['W'],Creature — Wall,,['Wall'],Uncommon,Defender (This creature can't attack.)\nFlying,42,3,5,,LEA,Limited Edition Alpha
+Wrath of God,{2}{W}{W},4.0,['W'],['W'],Sorcery,,,Rare,Destroy all creatures. They can't be regenerated.,45,,,,LEA,Limited Edition Alpha
+Sleight of Mind,{U},1.0,['U'],['U'],Instant,,,Rare,"Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change ""target black spell"" to ""target blue spell."" This effect lasts indefinitely.)",78,,,,LEA,Limited Edition Alpha
+Disintegrate,{X}{R},1.0,['R'],['R'],Sorcery,,,Common,"Disintegrate deals X damage to any target. If it's a creature, it can't be regenerated this turn, and if it would die this turn, exile it instead.",140,,,,LEA,Limited Edition Alpha
+Juggernaut,{4},4.0,,,Artifact Creature — Juggernaut,,['Juggernaut'],Uncommon,Juggernaut attacks each combat if able.\nJuggernaut can't be blocked by Walls.,255,5,3,,LEA,Limited Edition Alpha
+Kormus Bell,{4},4.0,,,Artifact,,,Rare,All Swamps are 1/1 black creatures that are still lands.,256,,,,LEA,Limited Edition Alpha
+Library of Leng,{1},1.0,,,Artifact,,,Uncommon,"You have no maximum hand size.\nIf an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.",257,,,,LEA,Limited Edition Alpha
+Living Wall,{4},4.0,,,Artifact Creature — Wall,,['Wall'],Uncommon,Defender (This creature can't attack.)\n{1}: Regenerate Living Wall.,258,0,6,,LEA,Limited Edition Alpha
+Ironclaw Orcs,{1}{R},2.0,['R'],['R'],Creature — Orc,,['Orc'],Common,Ironclaw Orcs can't block creatures with power 2 or greater.,159,2,2,,LEA,Limited Edition Alpha
+Mana Vault,{1},1.0,,,Artifact,,,Rare,"Mana Vault doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault.\nAt the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you.\n{T}: Add {C}{C}{C}.",259,,,,LEA,Limited Edition Alpha
+Pestilence,{2}{B}{B},4.0,['B'],['B'],Enchantment,,,Common,"At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.\n{B}: Pestilence deals 1 damage to each creature and each player.",120,,,,LEA,Limited Edition Alpha
+Meekstone,{1},1.0,,,Artifact,,,Rare,Creatures with power 3 or greater don't untap during their controllers' untap steps.,260,,,,LEA,Limited Edition Alpha
+Pirate Ship,{4}{U},5.0,['U'],['U'],Creature — Human Pirate,,"['Human', 'Pirate']",Rare,"Pirate Ship can't attack unless defending player controls an Island.\n{T}: Pirate Ship deals 1 damage to any target.\nWhen you control no Islands, sacrifice Pirate Ship.",70,4,3,,LEA,Limited Edition Alpha
+Mox Emerald,{0},0.0,,['G'],Artifact,,,Rare,{T}: Add {G}.,261,,,,LEA,Limited Edition Alpha
+Granite Gargoyle,{2}{R},3.0,['R'],['R'],Creature — Gargoyle,,['Gargoyle'],Rare,Flying\n{R}: Granite Gargoyle gets +0/+1 until end of turn.,155,2,2,,LEA,Limited Edition Alpha
+Fire Elemental,{3}{R}{R},5.0,['R'],['R'],Creature — Elemental,,['Elemental'],Uncommon,,148,5,4,,LEA,Limited Edition Alpha
+Mox Jet,{0},0.0,,['B'],Artifact,,,Rare,{T}: Add {B}.,262,,,,LEA,Limited Edition Alpha
+Samite Healer,{1}{W},2.0,['W'],['W'],Creature — Human Cleric,,"['Human', 'Cleric']",Common,{T}: Prevent the next 1 damage that would be dealt to any target this turn.,37,1,1,,LEA,Limited Edition Alpha
+Hill Giant,{3}{R},4.0,['R'],['R'],Creature — Giant,,['Giant'],Common,,157,3,3,,LEA,Limited Edition Alpha
+Lightning Bolt,{R},1.0,['R'],['R'],Instant,,,Common,Lightning Bolt deals 3 damage to any target.,161,,,,LEA,Limited Edition Alpha
+Psionic Blast,{2}{U},3.0,['U'],['U'],Instant,,,Uncommon,Psionic Blast deals 4 damage to any target and 2 damage to you.,74,,,,LEA,Limited Edition Alpha
+Personal Incarnation,{3}{W}{W}{W},6.0,['W'],['W'],Creature — Avatar Incarnation,,"['Avatar', 'Incarnation']",Rare,"{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Only Personal Incarnation's owner may activate this ability.\nWhen Personal Incarnation dies, its owner loses half their life, rounded up.",31,6,6,,LEA,Limited Edition Alpha
+Gray Ogre,{2}{R},3.0,['R'],['R'],Creature — Ogre,,['Ogre'],Common,,156,2,2,,LEA,Limited Edition Alpha
+Red Ward,{W},1.0,['W'],['W'],Enchantment — Aura,,['Aura'],Uncommon,Enchant creature\nEnchanted creature has protection from red. This effect doesn't remove Red Ward.,33,,,,LEA,Limited Edition Alpha
+Bad Moon,{1}{B},2.0,['B'],['B'],Enchantment,,,Rare,Black creatures get +1/+1.,93,,,,LEA,Limited Edition Alpha
+Firebreathing,{R},1.0,['R'],['R'],Enchantment — Aura,,['Aura'],Common,Enchant creature\n{R}: Enchanted creature gets +1/+0 until end of turn.,150,,,,LEA,Limited Edition Alpha
+Mox Pearl,{0},0.0,,['W'],Artifact,,,Rare,{T}: Add {W}.,263,,,,LEA,Limited Edition Alpha
+Righteousness,{W},1.0,['W'],['W'],Instant,,,Rare,Target blocking creature gets +7/+7 until end of turn.,36,,,,LEA,Limited Edition Alpha
+Mox Ruby,{0},0.0,,['R'],Artifact,,,Rare,{T}: Add {R}.,264,,,,LEA,Limited Edition Alpha
+Swords to Plowshares,{W},1.0,['W'],['W'],Instant,,,Uncommon,Exile target creature. Its controller gains life equal to its power.,40,,,,LEA,Limited Edition Alpha
+Black Ward,{W},1.0,['W'],['W'],Enchantment — Aura,,['Aura'],Uncommon,Enchant creature\nEnchanted creature has protection from black. This effect doesn't remove Black Ward.,5,,,,LEA,Limited Edition Alpha
+Mox Sapphire,{0},0.0,,['U'],Artifact,,,Rare,{T}: Add {U}.,265,,,,LEA,Limited Edition Alpha
+Reverse Damage,{1}{W}{W},3.0,['W'],['W'],Instant,,,Rare,"The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.",35,,,,LEA,Limited Edition Alpha
+Nevinyrral's Disk,{4},4.0,,,Artifact,,,Rare,"Nevinyrral's Disk enters the battlefield tapped.\n{1}, {T}: Destroy all artifacts, creatures, and enchantments.",266,,,,LEA,Limited Edition Alpha
+Obsianus Golem,{6},6.0,,,Artifact Creature — Golem,,['Golem'],Uncommon,,267,4,6,,LEA,Limited Edition Alpha
+Rod of Ruin,{4},4.0,,,Artifact,,,Uncommon,"{3}, {T}: Rod of Ruin deals 1 damage to any target.",268,,,,LEA,Limited Edition Alpha
+White Knight,{W}{W},2.0,['W'],['W'],Creature — Human Knight,,"['Human', 'Knight']",Uncommon,"First strike (This creature deals combat damage before creatures without first strike.)\nProtection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)",43,2,2,,LEA,Limited Edition Alpha
+Scavenging Ghoul,{3}{B},4.0,['B'],['B'],Creature — Zombie,,['Zombie'],Uncommon,"At the beginning of each end step, put a corpse counter on Scavenging Ghoul for each creature that died this turn.\nRemove a corpse counter from Scavenging Ghoul: Regenerate Scavenging Ghoul.",126,2,2,,LEA,Limited Edition Alpha
+Purelace,{W},1.0,['W'],['W'],Instant,,,Rare,Target spell or permanent becomes white. (Mana symbols on that permanent remain unchanged.),32,,,,LEA,Limited Edition Alpha
+Creature Bond,{1}{U},2.0,['U'],['U'],Enchantment — Aura,,['Aura'],Common,"Enchant creature\nWhen enchanted creature dies, Creature Bond deals damage equal to that creature's toughness to the creature's controller.",55,,,,LEA,Limited Edition Alpha
+Sol Ring,{1},1.0,,,Artifact,,,Uncommon,{T}: Add {C}{C}.,269,,,,LEA,Limited Edition Alpha
+Soul Net,{1},1.0,,,Artifact,,,Uncommon,"Whenever a creature dies, you may pay {1}. If you do, you gain 1 life.",270,,,,LEA,Limited Edition Alpha
+Sunglasses of Urza,{3},3.0,,,Artifact,,,Rare,You may spend white mana as though it were red mana.,271,,,,LEA,Limited Edition Alpha
+Mons's Goblin Raiders,{R},1.0,['R'],['R'],Creature — Goblin,,['Goblin'],Common,,164,1,1,,LEA,Limited Edition Alpha
+Flashfires,{3}{R},4.0,['R'],['R'],Sorcery,,,Uncommon,Destroy all Plains.,151,,,,LEA,Limited Edition Alpha
+The Hive,{5},5.0,,,Artifact,,,Rare,"{5}, {T}: Create a 1/1 colorless Insect artifact creature token with flying named Wasp. (It can't be blocked except by creatures with flying or reach.)",272,,,,LEA,Limited Edition Alpha
+Invisibility,{U}{U},2.0,['U'],['U'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nEnchanted creature can't be blocked except by Walls.,59,,,,LEA,Limited Edition Alpha
+Mind Twist,{X}{B},1.0,['B'],['B'],Sorcery,,,Rare,Target player discards X cards at random.,115,,,,LEA,Limited Edition Alpha
+Royal Assassin,{1}{B}{B},3.0,['B'],['B'],Creature — Human Assassin,,"['Human', 'Assassin']",Rare,{T}: Destroy target tapped creature.,123,1,1,,LEA,Limited Edition Alpha
+Clone,{3}{U},4.0,['U'],['U'],Creature — Shapeshifter,,['Shapeshifter'],Uncommon,You may have Clone enter the battlefield as a copy of any creature on the battlefield.,51,0,0,,LEA,Limited Edition Alpha
+Conversion,{2}{W}{W},4.0,['W'],['W'],Enchantment,,,Uncommon,"At the beginning of your upkeep, sacrifice Conversion unless you pay {W}{W}.\nAll Mountains are Plains.",15,,,,LEA,Limited Edition Alpha
+Sengir Vampire,{3}{B}{B},5.0,['B'],['B'],Creature — Vampire,,['Vampire'],Uncommon,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.",127,4,4,,LEA,Limited Edition Alpha
+Throne of Bone,{1},1.0,,,Artifact,,,Uncommon,"Whenever a player casts a black spell, you may pay {1}. If you do, you gain 1 life.",273,,,,LEA,Limited Edition Alpha
+Time Vault,{2},2.0,,,Artifact,,,Rare,"Time Vault enters the battlefield tapped.\nTime Vault doesn't untap during your untap step.\nIf you would begin your turn while Time Vault is tapped, you may skip that turn instead. If you do, untap Time Vault.\n{T}: Take an extra turn after this one.",274,,,,LEA,Limited Edition Alpha
+Winter Orb,{2},2.0,,,Artifact,,,Rare,"As long as Winter Orb is untapped, players can't untap more than one land during their untap steps.",275,,,,LEA,Limited Edition Alpha
+Wooden Sphere,{1},1.0,,,Artifact,,,Uncommon,"Whenever a player casts a green spell, you may pay {1}. If you do, you gain 1 life.",276,,,,LEA,Limited Edition Alpha
+Phantasmal Forces,{3}{U},4.0,['U'],['U'],Creature — Illusion,,['Illusion'],Uncommon,"Flying\nAt the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.",67,4,1,,LEA,Limited Edition Alpha
+Badlands,,0.0,,"['B', 'R']",Land — Swamp Mountain,,"['Swamp', 'Mountain']",Rare,({T}: Add {B} or {R}.),277,,,,LEA,Limited Edition Alpha
+Evil Presence,{B},1.0,['B'],['B'],Enchantment — Aura,,['Aura'],Uncommon,Enchant land\nEnchanted land is a Swamp.,107,,,,LEA,Limited Edition Alpha
+Bayou,,0.0,,"['B', 'G']",Land — Swamp Forest,,"['Swamp', 'Forest']",Rare,({T}: Add {B} or {G}.),278,,,,LEA,Limited Edition Alpha
+Lifelace,{G},1.0,['G'],['G'],Instant,,,Rare,Target spell or permanent becomes green. (Mana symbols on that permanent remain unchanged.),207,,,,LEA,Limited Edition Alpha
+Power Leak,{1}{U},2.0,['U'],['U'],Enchantment — Aura,,['Aura'],Common,"Enchant enchantment\nAt the beginning of the upkeep of enchanted enchantment's controller, that player may pay any amount of mana. Power Leak deals 2 damage to that player. Prevent X of that damage, where X is the amount of mana that player paid this way.",71,,,,LEA,Limited Edition Alpha
+Earthbind,{R},1.0,['R'],['R'],Enchantment — Aura,,['Aura'],Common,"Enchant creature\nWhen Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains ""Enchanted creature loses flying.""",145,,,,LEA,Limited Edition Alpha
+Plateau,,0.0,,"['R', 'W']",Land — Mountain Plains,,"['Mountain', 'Plains']",Rare,({T}: Add {R} or {W}.),279,,,,LEA,Limited Edition Alpha
+Savannah,,0.0,,"['G', 'W']",Land — Forest Plains,,"['Forest', 'Plains']",Rare,({T}: Add {G} or {W}.),280,,,,LEA,Limited Edition Alpha
+Timetwister,{2}{U},3.0,['U'],['U'],Sorcery,,,Rare,"Each player shuffles their hand and graveyard into their library, then draws seven cards. (Then put Timetwister into its owner's graveyard.)",84,,,,LEA,Limited Edition Alpha
+Phantom Monster,{3}{U},4.0,['U'],['U'],Creature — Illusion,,['Illusion'],Uncommon,Flying,69,3,3,,LEA,Limited Edition Alpha
+Scrubland,,0.0,,"['B', 'W']",Land — Plains Swamp,,"['Plains', 'Swamp']",Rare,({T}: Add {W} or {B}.),281,,,,LEA,Limited Edition Alpha
+Taiga,,0.0,,"['G', 'R']",Land — Mountain Forest,,"['Mountain', 'Forest']",Rare,({T}: Add {R} or {G}.),282,,,,LEA,Limited Edition Alpha
+Dwarven Demolition Team,{2}{R},3.0,['R'],['R'],Creature — Dwarf,,['Dwarf'],Uncommon,{T}: Destroy target Wall.,142,1,1,,LEA,Limited Edition Alpha
+Crusade,{W}{W},2.0,['W'],['W'],Enchantment,,,Rare,White creatures get +1/+1.,16,,,,LEA,Limited Edition Alpha
+Tropical Island,,0.0,,"['G', 'U']",Land — Forest Island,,"['Forest', 'Island']",Rare,({T}: Add {G} or {U}.),283,,,,LEA,Limited Edition Alpha
+Psychic Venom,{1}{U},2.0,['U'],['U'],Enchantment — Aura,,['Aura'],Common,"Enchant land\nWhenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that land's controller.",75,,,,LEA,Limited Edition Alpha
+Darkpact,{B}{B}{B},3.0,['B'],['B'],Sorcery,,,Rare,Remove Darkpact from your deck before playing if you're not playing for ante.\nYou own target card in the ante. Exchange that card with the top card of your library.,99,,,,LEA,Limited Edition Alpha
+Tundra,,0.0,,"['U', 'W']",Land — Plains Island,,"['Plains', 'Island']",Rare,({T}: Add {W} or {U}.),284,,,,LEA,Limited Edition Alpha
+Underground Sea,,0.0,,"['B', 'U']",Land — Island Swamp,,"['Island', 'Swamp']",Rare,({T}: Add {U} or {B}.),285,,,,LEA,Limited Edition Alpha
+Deathgrip,{B}{B},2.0,['B'],['B'],Enchantment,,,Uncommon,{B}{B}: Counter target green spell.,100,,,,LEA,Limited Edition Alpha
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),286,,,,LEA,Limited Edition Alpha
+Serra Angel,{3}{W}{W},5.0,['W'],['W'],Creature — Angel,,['Angel'],Uncommon,"Flying, vigilance",39,4,4,,LEA,Limited Edition Alpha
+Ancestral Recall,{U},1.0,['U'],['U'],Instant,,,Rare,Target player draws three cards.,47,,,,LEA,Limited Edition Alpha
+Fear,{B}{B},2.0,['B'],['B'],Enchantment — Aura,,['Aura'],Common,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.),108,,,,LEA,Limited Edition Alpha
+Wall of Water,{1}{U}{U},3.0,['U'],['U'],Creature — Wall,,['Wall'],Uncommon,Defender (This creature can't attack.)\n{U}: Wall of Water gets +1/+0 until end of turn.,90,0,5,,LEA,Limited Edition Alpha
+Animate Artifact,{3}{U},4.0,['U'],['U'],Enchantment — Aura,,['Aura'],Uncommon,"Enchant artifact\nAs long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its mana value.",48,,,,LEA,Limited Edition Alpha
+Hypnotic Specter,{1}{B}{B},3.0,['B'],['B'],Creature — Specter,,['Specter'],Uncommon,"Flying\nWhenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.",112,2,2,,LEA,Limited Edition Alpha
+Cursed Land,{2}{B}{B},4.0,['B'],['B'],Enchantment — Aura,,['Aura'],Uncommon,"Enchant land\nAt the beginning of the upkeep of enchanted land's controller, Cursed Land deals 1 damage to that player.",97,,,,LEA,Limited Edition Alpha
+Paralyze,{B},1.0,['B'],['B'],Enchantment — Aura,,['Aura'],Common,"Enchant creature\nWhen Paralyze enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.\nAt the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If the player does, untap the creature.",119,,,,LEA,Limited Edition Alpha
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),287,,,,LEA,Limited Edition Alpha
+Bog Wraith,{3}{B},4.0,['B'],['B'],Creature — Wraith,,['Wraith'],Uncommon,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),95,3,3,,LEA,Limited Edition Alpha
+Jump,{U},1.0,['U'],['U'],Instant,,,Common,Target creature gains flying until end of turn.,60,,,,LEA,Limited Edition Alpha
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),288,,,,LEA,Limited Edition Alpha
+Water Elemental,{3}{U}{U},5.0,['U'],['U'],Creature — Elemental,,['Elemental'],Uncommon,,91,5,4,,LEA,Limited Edition Alpha
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),289,,,,LEA,Limited Edition Alpha
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),290,,,,LEA,Limited Edition Alpha
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),291,,,,LEA,Limited Edition Alpha
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),292,,,,LEA,Limited Edition Alpha
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),293,,,,LEA,Limited Edition Alpha
+Air Elemental,{3}{U}{U},5.0,['U'],['U'],Creature — Elemental,,['Elemental'],Uncommon,Flying,46,4,4,,LEA,Limited Edition Alpha
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),294,,,,LEA,Limited Edition Alpha
+Pearled Unicorn,{2}{W},3.0,['W'],['W'],Creature — Unicorn,,['Unicorn'],Common,,30,2,2,,LEA,Limited Edition Alpha
+Blue Elemental Blast,{U},1.0,['U'],['U'],Instant,,,Common,Choose one —\n• Counter target red spell.\n• Destroy target red permanent.,49,,,,LEA,Limited Edition Alpha
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),295,,,,LEA,Limited Edition Alpha
+Control Magic,{2}{U}{U},4.0,['U'],['U'],Enchantment — Aura,,['Aura'],Uncommon,Enchant creature\nYou control enchanted creature.,52,,,,LEA,Limited Edition Alpha
+Instill Energy,{G},1.0,['G'],['G'],Enchantment — Aura,,['Aura'],Uncommon,Enchant creature\nEnchanted creature can attack as though it had haste.\n{0}: Untap enchanted creature. Activate only during your turn and only once each turn.,202,,,,LEA,Limited Edition Alpha
+Spell Blast,{X}{U},1.0,['U'],['U'],Instant,,,Common,"Counter target spell with mana value X. (For example, if that spell's mana cost is {3}{U}{U}, X is 5.)",79,,,,LEA,Limited Edition Alpha
+Lure,{1}{G}{G},3.0,['G'],['G'],Enchantment — Aura,,['Aura'],Uncommon,Enchant creature\nAll creatures able to block enchanted creature do so.,211,,,,LEA,Limited Edition Alpha
+Lance,{W},1.0,['W'],['W'],Enchantment — Aura,,['Aura'],Uncommon,Enchant creature\nEnchanted creature has first strike.,27,,,,LEA,Limited Edition Alpha
+Circle of Protection: Blue,{1}{W},2.0,['W'],['W'],Enchantment,,,Common,"{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.",10,,,,LEA,Limited Edition Alpha
+Green Ward,{W},1.0,['W'],['W'],Enchantment — Aura,,['Aura'],Uncommon,Enchant creature\nEnchanted creature has protection from green. This effect doesn't remove Green Ward.,20,,,,LEA,Limited Edition Alpha
+Dwarven Warriors,{2}{R},3.0,['R'],['R'],Creature — Dwarf Warrior,,"['Dwarf', 'Warrior']",Common,{T}: Target creature with power 2 or less can't be blocked this turn.,143,1,1,,LEA,Limited Edition Alpha
+False Orders,{R},1.0,['R'],['R'],Instant,,,Common,Cast this spell only during the declare blockers step.\nRemove target creature defending player controls from combat. Creatures it was blocking that had become blocked by only that creature this combat become unblocked. You may have it block an attacking creature of your choice.,147,,,,LEA,Limited Edition Alpha
+Stream of Life,{X}{G},1.0,['G'],['G'],Sorcery,,,Common,Target player gains X life.,217,,,,LEA,Limited Edition Alpha
+Raise Dead,{B},1.0,['B'],['B'],Sorcery,,,Common,Return target creature card from your graveyard to your hand.,122,,,,LEA,Limited Edition Alpha
+Hurricane,{X}{G},1.0,['G'],['G'],Sorcery,,,Uncommon,Hurricane deals X damage to each creature with flying and each player.,200,,,,LEA,Limited Edition Alpha
+Healing Salve,{W},1.0,['W'],['W'],Instant,,,Common,Choose one —\n• Target player gains 3 life.\n• Prevent the next 3 damage that would be dealt to any target this turn.,22,,,,LEA,Limited Edition Alpha
+Volcanic Eruption,{X}{U}{U}{U},3.0,['U'],['U'],Sorcery,,,Rare,Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains put into a graveyard this way.,88,,,,LEA,Limited Edition Alpha
+Fastbond,{G},1.0,['G'],['G'],Enchantment,,,Rare,"You may play any number of lands on each of your turns.\nWhenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you.",192,,,,LEA,Limited Edition Alpha
+Craw Wurm,{4}{G}{G},6.0,['G'],['G'],Creature — Wurm,,['Wurm'],Common,,190,6,4,,LEA,Limited Edition Alpha
+Shanodin Dryads,{G},1.0,['G'],['G'],Creature — Nymph Dryad,,"['Nymph', 'Dryad']",Common,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),216,1,1,,LEA,Limited Edition Alpha
+Circle of Protection: White,{1}{W},2.0,['W'],['W'],Enchantment,,,Common,"{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.",13,,,,LEA,Limited Edition Alpha
+Elvish Archers,{1}{G},2.0,['G'],['G'],Creature — Elf Archer,,"['Elf', 'Archer']",Rare,First strike,191,2,1,,LEA,Limited Edition Alpha
+Sea Serpent,{5}{U},6.0,['U'],['U'],Creature — Serpent,,['Serpent'],Common,"Sea Serpent can't attack unless defending player controls an Island.\nWhen you control no Islands, sacrifice Sea Serpent.",76,5,5,,LEA,Limited Edition Alpha
+Blue Ward,{W},1.0,['W'],['W'],Enchantment — Aura,,['Aura'],Uncommon,Enchant creature\nEnchanted creature has protection from blue. This effect doesn't remove Blue Ward.,8,,,,LEA,Limited Edition Alpha
+Fog,{G},1.0,['G'],['G'],Instant,,,Common,Prevent all combat damage that would be dealt this turn.,193,,,,LEA,Limited Edition Alpha
+Guardian Angel,{X}{W},1.0,['W'],['W'],Instant,,,Common,"Prevent the next X damage that would be dealt to any target this turn. Until end of turn, you may pay {1} any time you could cast an instant. If you do, prevent the next 1 damage that would be dealt to that permanent or player this turn.",21,,,,LEA,Limited Edition Alpha
+Nettling Imp,{2}{B},3.0,['B'],['B'],Creature — Imp,,['Imp'],Uncommon,"{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate only during an opponent's turn, before attackers are declared.",117,1,1,,LEA,Limited Edition Alpha
+Llanowar Elves,{G},1.0,['G'],['G'],Creature — Elf Druid,,"['Elf', 'Druid']",Common,{T}: Add {G}.,210,1,1,,LEA,Limited Edition Alpha
+Holy Strength,{W},1.0,['W'],['W'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nEnchanted creature gets +1/+2.,24,,,,LEA,Limited Edition Alpha
+Copy Artifact,{1}{U},2.0,['U'],['U'],Enchantment,,,Rare,"You may have Copy Artifact enter the battlefield as a copy of any artifact on the battlefield, except it's an enchantment in addition to its other types.",53,,,,LEA,Limited Edition Alpha
+Circle of Protection: Green,{1}{W},2.0,['W'],['W'],Enchantment,,,Common,"{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.",11,,,,LEA,Limited Edition Alpha
+Armageddon,{3}{W},4.0,['W'],['W'],Sorcery,,,Rare,Destroy all lands.,2,,,,LEA,Limited Edition Alpha
+Terror,{1}{B},2.0,['B'],['B'],Instant,,,Common,"Destroy target nonartifact, nonblack creature. It can't be regenerated.",130,,,,LEA,Limited Edition Alpha
+Counterspell,{U}{U},2.0,['U'],['U'],Instant,,,Uncommon,Counter target spell.,54,,,,LEA,Limited Edition Alpha
+Hurloon Minotaur,{1}{R}{R},3.0,['R'],['R'],Creature — Minotaur,,['Minotaur'],Common,,158,2,3,,LEA,Limited Edition Alpha
+Unholy Strength,{B},1.0,['B'],['B'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nEnchanted creature gets +2/+1.,131,,,,LEA,Limited Edition Alpha
+Weakness,{B},1.0,['B'],['B'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nEnchanted creature gets -2/-1.,134,,,,LEA,Limited Edition Alpha
+Wheel of Fortune,{2}{R},3.0,['R'],['R'],Sorcery,,,Rare,"Each player discards their hand, then draws seven cards.",183,,,,LEA,Limited Edition Alpha
+Karma,{2}{W}{W},4.0,['W'],['W'],Enchantment,,,Uncommon,"At the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps they control.",26,,,,LEA,Limited Edition Alpha
+Fork,{R}{R},2.0,['R'],['R'],Instant,,,Rare,"Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.",152,,,,LEA,Limited Edition Alpha
+Thoughtlace,{U},1.0,['U'],['U'],Instant,,,Rare,Target spell or permanent becomes blue. (Mana symbols on that permanent remain unchanged.),82,,,,LEA,Limited Edition Alpha
+Drain Power,{U}{U},2.0,['U'],['U'],Sorcery,,,Rare,Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way.,56,,,,LEA,Limited Edition Alpha
+Drudge Skeletons,{1}{B},2.0,['B'],['B'],Creature — Skeleton,,['Skeleton'],Common,"{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",106,1,1,,LEA,Limited Edition Alpha
+Lord of the Pit,{4}{B}{B}{B},7.0,['B'],['B'],Creature — Demon,,['Demon'],Rare,"Flying, trample\nAt the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.",114,7,7,,LEA,Limited Edition Alpha
+Plague Rats,{2}{B},3.0,['B'],['B'],Creature — Rat,,['Rat'],Common,Plague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield.,121,*,*,,LEA,Limited Edition Alpha
+Goblin Balloon Brigade,{R},1.0,['R'],['R'],Creature — Goblin Warrior,,"['Goblin', 'Warrior']",Uncommon,{R}: Goblin Balloon Brigade gains flying until end of turn.,153,1,1,,LEA,Limited Edition Alpha
+Scathe Zombies,{2}{B},3.0,['B'],['B'],Creature — Zombie,,['Zombie'],Common,,125,2,2,,LEA,Limited Edition Alpha
+Holy Armor,{W},1.0,['W'],['W'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nEnchanted creature gets +0/+2.\n{W}: Enchanted creature gets +0/+1 until end of turn.,23,,,,LEA,Limited Edition Alpha
+Mesa Pegasus,{1}{W},2.0,['W'],['W'],Creature — Pegasus,,['Pegasus'],Common,"Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",28,1,1,,LEA,Limited Edition Alpha
+Blessing,{W}{W},2.0,['W'],['W'],Enchantment — Aura,,['Aura'],Rare,Enchant creature\n{W}: Enchanted creature gets +1/+1 until end of turn.,7,,,,LEA,Limited Edition Alpha
+Fungusaur,{3}{G},4.0,['G'],['G'],Creature — Fungus Dinosaur,,"['Fungus', 'Dinosaur']",Rare,"Whenever Fungusaur is dealt damage, put a +1/+1 counter on it.",195,2,2,,LEA,Limited Edition Alpha
+Shatter,{1}{R},2.0,['R'],['R'],Instant,,,Common,Destroy target artifact.,173,,,,LEA,Limited Edition Alpha
+Force of Nature,{2}{G}{G}{G}{G},6.0,['G'],['G'],Creature — Elemental,,['Elemental'],Rare,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nAt the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.",194,8,8,,LEA,Limited Edition Alpha
+Balance,{1}{W},2.0,['W'],['W'],Sorcery,,,Rare,"Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.",3,,,,LEA,Limited Edition Alpha
+Living Lands,{3}{G},4.0,['G'],['G'],Enchantment,,,Rare,All Forests are 1/1 creatures that are still lands.,209,,,,LEA,Limited Edition Alpha
+Mana Flare,{2}{R},3.0,['R'],['R'],Enchantment,,,Rare,"Whenever a player taps a land for mana, that player adds one mana of any type that land produced.",162,,,,LEA,Limited Edition Alpha
+Vesuvan Doppelganger,{3}{U}{U},5.0,['U'],['U'],Creature — Shapeshifter,,['Shapeshifter'],Rare,"You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield, except it doesn't copy that creature's color and it has ""At the beginning of your upkeep, you may have this creature become a copy of target creature, except it doesn't copy that creature's color and it has this ability.""",87,0,0,,LEA,Limited Edition Alpha
+Rock Hydra,{X}{R}{R},2.0,['R'],['R'],Creature — Hydra,,['Hydra'],Rare,"Rock Hydra enters the battlefield with X +1/+1 counters on it.\nFor each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage.\n{R}: Prevent the next 1 damage that would be dealt to Rock Hydra this turn.\n{R}{R}{R}: Put a +1/+1 counter on Rock Hydra. Activate only during your upkeep.",171,0,0,,LEA,Limited Edition Alpha
+Earthquake,{X}{R},1.0,['R'],['R'],Sorcery,,,Rare,Earthquake deals X damage to each creature without flying and each player.,146,,,,LEA,Limited Edition Alpha
+Veteran Bodyguard,{3}{W}{W},5.0,['W'],['W'],Creature — Human,,['Human'],Rare,"As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.",41,2,5,,LEA,Limited Edition Alpha
+Animate Dead,{1}{B},2.0,['B'],['B'],Enchantment — Aura,,['Aura'],Uncommon,"Enchant creature card in a graveyard\nWhen Animate Dead enters the battlefield, if it's on the battlefield, it loses ""enchant creature card in a graveyard"" and gains ""enchant creature put onto the battlefield with Animate Dead."" Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.",92,,,,LEA,Limited Edition Alpha

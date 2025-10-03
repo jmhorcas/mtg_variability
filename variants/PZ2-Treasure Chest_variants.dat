@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0, 11.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'World', 'Basic', 'Legendary'}
-Types: {'Tribal', 'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Ooze', 'Scout', 'Elk', 'Kor', 'Faerie', 'Naga', 'Rat', 'Equipment', 'Efreet', 'Human', 'Cleric', 'Arcane', 'Giant', 'Rhino', 'Plant', 'Spider', 'Turtle', 'Spirit', 'Ox', 'Wall', 'Hydra', 'Warrior', 'Centaur', 'Bird', 'Fox', 'Saheeli', 'Elemental', 'Vedalken', 'Assassin', 'Horror', 'Yanling', 'Pangolin', 'Curse', 'Mutant', 'Minotaur', 'Merfolk', 'Shapeshifter', 'Ogre', 'Kirin', 'Daretti', 'Elf', 'Sphinx', 'Rogue', 'Goblin', 'Golem', 'Aura', 'Ninja', 'Snake', 'Advisor', 'Island', 'Zombie', 'Dragon', 'Mountain', 'Scorpion', 'Knight', 'Estrid', 'Kraken', 'Dinosaur', 'Phyrexian', 'Shaman', 'Aminatou', 'Forest', 'Insect', 'Berserker', 'Artificer', 'Kaya', 'Druid', 'Avatar', 'Pegasus', 'Lizard', 'Cat', 'Vampire', 'Ally', 'Fish', 'Construct', 'Angel', 'Demon', 'Archer', 'Minion', 'Dog', 'Beast', 'Plains', 'Drake', 'Monk', 'Unicorn', 'Yanggu', 'Soldier', 'Phoenix', 'Windgrace', 'Wizard', 'Nymph', 'Crab'}
-Rarity: {'Rare', 'Common', 'Mythic', 'Uncommon'}
-Power: {'4', '7', '5', '12', '*', '1', '8', '2', '0', '3', '6', '10'}
-Toughness: {'4', '7', '5', '12', '1', '8', '2', '0', '3', '6', '10'}
-Loyalty: {'3', '4', '5'}
+name: ['Throne Warden']
+mana_cost: ['{1}{W}']
+cmc: [2.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Human Soldier']
+supertypes: []
+subtypes: ['Human', 'Soldier']
+rarity: ['Common']
+text: ["At the beginning of your end step, if you're the monarch, put a +1/+1 counter on Throne Warden."]
+number: ['1']
+power: ['2']
+toughness: ['2']
+loyalty: []
+set: ['PZ2']
+set_name: ['Treasure Chest']

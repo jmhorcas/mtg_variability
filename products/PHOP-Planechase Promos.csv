@@ -1,0 +1,3 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Stairs to Infinity,,0.0,,,Plane — Xerex,,['Xerex'],Rare,"Players have no maximum hand size.\nWhenever you roll the planar die, draw a card.\nWhenever chaos ensues, reveal the top card of your planar deck. You may put it on the bottom of your planar deck.",P1,,,,PHOP,Planechase Promos
+Tazeem,,0.0,,,Plane — Zendikar,,['Zendikar'],Rare,"Creatures can't block.\nWhenever chaos ensues, draw a card for each land you control.",41,,,,PHOP,Planechase Promos

@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 6.0, 8.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Instant', 'Creature', 'Artifact'}
-Subtypes: {'Ooze', 'Scout', 'Wizard', 'Minion', 'Bird', 'Goblin', 'Human', 'Phyrexian', 'Ninja'}
-Rarity: {'Rare'}
-Power: {'2', '5', '1'}
-Toughness: {'3', '2', '5', '1'}
-Loyalty: set()
+name: ['Aven Mindcensor']
+mana_cost: ['{2}{W}']
+cmc: [3.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Bird Wizard']
+supertypes: []
+subtypes: ['Bird', 'Wizard']
+rarity: ['Rare']
+text: ['Flash\nFlying\nIf an opponent would search a library, that player searches the top four cards of that library instead.']
+number: ['1']
+power: ['2']
+toughness: ['1']
+loyalty: []
+set: ['PLG21']
+set_name: ['Love Your LGS 2021']

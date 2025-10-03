@@ -1,10 +1,16 @@
-CMC: {3.0}
-Colors: {'Blue'}
-ColorIdentity: {'U'}
-Supertypes: {'Legendary'}
-Types: {'Planeswalker'}
-Subtypes: {'Jace'}
-Rarity: {'Mythic'}
-Power: set()
-Toughness: set()
-Loyalty: {'3'}
+name: ['Jace Beleren']
+mana_cost: ['{1}{U}{U}']
+cmc: [3.0]
+colors: ['U']
+color_identity: ['U']
+type: ['Legendary Planeswalker — Jace']
+supertypes: ['Legendary']
+subtypes: ['Jace']
+rarity: ['Mythic']
+text: ['[+2]: Each player draws a card.\n[−1]: Target player draws a card.\n[−10]: Target player mills twenty cards.']
+number: ['1']
+power: []
+toughness: []
+loyalty: ['3']
+set: ['PBOOK']
+set_name: ['Miscellaneous Book Promos']

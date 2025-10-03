@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0}
-Colors: {'Green'}
-ColorIdentity: {'G'}
-Supertypes: set()
-Types: {'Land', 'Sorcery', 'Artifact'}
-Subtypes: set()
-Rarity: {'Rare'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['Gemstone Mine']
+mana_cost: []
+cmc: [0.0]
+colors: []
+color_identity: []
+type: ['Land']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['Gemstone Mine enters the battlefield with three mining counters on it.\n{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color. If there are no mining counters on Gemstone Mine, sacrifice it.']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['G05']
+set_name: ['Judge Gift Cards 2005']

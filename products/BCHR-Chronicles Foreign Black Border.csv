@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Abu Ja'far,{W},1.0,['W'],['W'],Creature — Human,,['Human'],Uncommon,"When Abu Ja'far dies, destroy all creatures blocking or blocked by it. They can't be regenerated.",1,0,1,,BCHR,Chronicles Foreign Black Border

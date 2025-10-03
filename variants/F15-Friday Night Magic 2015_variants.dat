@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Enchantment', 'Instant', 'Creature', 'Sorcery'}
-Subtypes: {'Elemental', 'Monk', 'Berserker', 'Bird', 'Goblin', 'Dog', 'Shaman'}
-Rarity: {'Rare'}
-Power: {'4', '2', '0', '1'}
-Toughness: {'4', '1'}
-Loyalty: set()
+name: ['Frenzied Goblin']
+mana_cost: ['{R}']
+cmc: [1.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Creature — Goblin Berserker']
+supertypes: []
+subtypes: ['Berserker', 'Goblin']
+rarity: ['Rare']
+text: ["Whenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can't block this turn."]
+number: ['1']
+power: ['1']
+toughness: ['1']
+loyalty: []
+set: ['F15']
+set_name: ['Friday Night Magic 2015']

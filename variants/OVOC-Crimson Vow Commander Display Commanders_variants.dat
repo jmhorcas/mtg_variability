@@ -1,10 +1,16 @@
-CMC: {4.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Blue'}
-ColorIdentity: {'W', 'R', 'U', 'B'}
-Supertypes: {'Legendary'}
-Types: {'Creature'}
-Subtypes: {'Vampire', 'Soldier', 'Spirit', 'Noble'}
-Rarity: {'Mythic'}
-Power: {'3', '4'}
-Toughness: {'4', '2'}
-Loyalty: set()
+name: ['Millicent, Restless Revenant']
+mana_cost: ['{5}{W}{U}']
+cmc: [7.0]
+colors: ['U', 'W']
+color_identity: ['U', 'W']
+type: ['Legendary Creature — Spirit Soldier']
+supertypes: ['Legendary']
+subtypes: ['Soldier', 'Spirit']
+rarity: ['Mythic']
+text: ['This spell costs {1} less to cast for each Spirit you control.\nFlying\nWhenever Millicent, Restless Revenant or another nontoken Spirit you control dies or deals combat damage to a player, create a 1/1 white Spirit creature token with flying.']
+number: ['1']
+power: ['4']
+toughness: ['4']
+loyalty: []
+set: ['OVOC']
+set_name: ['Crimson Vow Commander Display Commanders']

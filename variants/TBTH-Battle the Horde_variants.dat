@@ -1,10 +1,16 @@
-CMC: set()
-Colors: set()
-ColorIdentity: set()
-Supertypes: set()
-Types: {'Sorcery', 'Artifact'}
-Subtypes: set()
-Rarity: {'Common'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['Consuming Rage']
+mana_cost: []
+cmc: [0.0]
+colors: []
+color_identity: []
+type: ['Sorcery']
+supertypes: []
+subtypes: []
+rarity: ['Common']
+text: ['Whenever a Minotaur attacks this turn, it gets +2/+0 until end of turn. Destroy that creature at end of combat.']
+number: ['6']
+power: []
+toughness: []
+loyalty: []
+set: ['TBTH']
+set_name: ['Battle the Horde']

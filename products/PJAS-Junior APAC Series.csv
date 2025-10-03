@@ -1,7 +1,2 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Shard Phoenix,5.0,['Red'],['R'],None,['Creature'],['Phoenix'],Rare,PJAS,2,2,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\nSacrifice Shard Phoenix: It deals 2 damage to each creature without flying.\n{R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate only during your upkeep.
-Sakura-Tribe Elder,2.0,['Green'],['G'],None,['Creature'],"['Snake', 'Shaman']",Rare,PJAS,1,1,None,"Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
-Soltari Priest,2.0,['White'],['W'],None,['Creature'],"['Soltari', 'Cleric']",Rare,PJAS,2,1,None,Protection from red\nShadow (This creature can block or be blocked by only creatures with shadow.)
-Glorious Anthem,3.0,['White'],['W'],None,['Enchantment'],None,Rare,PJAS,None,None,None,Creatures you control get +1/+1.
-Whirling Dervish,2.0,['Green'],['G'],None,['Creature'],"['Human', 'Monk']",Rare,PJAS,1,1,None,"Protection from black\nAt the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it."
-Elvish Champion,3.0,['Green'],['G'],None,['Creature'],['Elf'],Rare,PJAS,2,2,None,Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.)
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Sakura-Tribe Elder,{1}{G},2.0,['G'],['G'],Creature — Snake Shaman,,"['Snake', 'Shaman']",Rare,"Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",1U06,1,1,,PJAS,Junior APAC Series

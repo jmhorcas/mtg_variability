@@ -1,10 +1,16 @@
-CMC: set()
-Colors: set()
-ColorIdentity: set()
-Supertypes: set()
-Types: {'Land'}
-Subtypes: set()
-Rarity: {'Rare'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['Wasteland']
+mana_cost: []
+cmc: [0.0]
+colors: []
+color_identity: []
+type: ['Land']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['{T}: Add {C}.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land.']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['MPR']
+set_name: ['Magic Player Rewards 2001']

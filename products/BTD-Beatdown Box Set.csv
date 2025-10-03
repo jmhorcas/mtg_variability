@@ -1,91 +1,91 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Dwarven Ruins,0.0,None,['R'],None,['Land'],None,Uncommon,BTD,None,None,None,"Dwarven Ruins enters the battlefield tapped.\n{T}: Add {R}.\n{T}, Sacrifice Dwarven Ruins: Add {R}{R}."
-Clockwork Beast,6.0,None,None,None,"['Artifact', 'Creature']",['Beast'],Rare,BTD,0,4,None,"Clockwork Beast enters the battlefield with seven +1/+0 counters on it.\nAt end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.\n{X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate only during your upkeep."
-Clockwork Avian,5.0,None,None,None,"['Artifact', 'Creature']",['Bird'],Rare,BTD,0,4,None,"Flying\nClockwork Avian enters the battlefield with four +1/+0 counters on it.\nAt end of combat, if Clockwork Avian attacked or blocked this combat, remove a +1/+0 counter from it.\n{X}, {T}: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate only during your upkeep."
-Segmented Wurm,5.0,"['Green', 'Red']","['G', 'R']",None,['Creature'],['Wurm'],Uncommon,BTD,5,5,None,"Whenever Segmented Wurm becomes the target of a spell or ability, put a -1/-1 counter on it."
-Diabolic Vision,2.0,"['Black', 'Blue']","['B', 'U']",None,['Sorcery'],None,Uncommon,BTD,None,None,None,Look at the top five cards of your library. Put one of them into your hand and the rest on top of your library in any order.
-Yavimaya Wurm,6.0,['Green'],['G'],None,['Creature'],['Wurm'],Common,BTD,6,4,None,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
-Woolly Spider,3.0,['Green'],['G'],None,['Creature'],['Spider'],Common,BTD,2,3,None,"Reach (This creature can block creatures with flying.)\nWhenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn."
-Wild Growth,1.0,['Green'],['G'],None,['Enchantment'],['Aura'],Common,BTD,None,None,None,"Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional {G}."
-Shambling Strider,6.0,['Green'],"['G', 'R']",None,['Creature'],['Yeti'],Common,BTD,5,5,None,{R}{G}: Shambling Strider gets +1/-1 until end of turn.
-Scaled Wurm,8.0,['Green'],['G'],None,['Creature'],['Wurm'],Common,BTD,7,6,None,None
-Rampant Growth,2.0,['Green'],['G'],None,['Sorcery'],None,Common,BTD,None,None,None,"Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
-Quirion Elves,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,BTD,1,1,None,"As Quirion Elves enters the battlefield, choose a color.\n{T}: Add {G}.\n{T}: Add one mana of the chosen color."
-Plated Spider,5.0,['Green'],['G'],None,['Creature'],['Spider'],Common,BTD,4,4,None,Reach (This creature can block creatures with flying.)
-Llanowar Elves,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,BTD,1,1,None,{T}: Add {G}.
-Giant Growth,1.0,['Green'],['G'],None,['Instant'],None,Common,BTD,None,None,None,Target creature gets +3/+3 until end of turn.
-Force of Nature,6.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,BTD,8,8,None,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nAt the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}."
-Fog,1.0,['Green'],['G'],None,['Instant'],None,Common,BTD,None,None,None,Prevent all combat damage that would be dealt this turn.
-Erhnam Djinn,4.0,['Green'],['G'],None,['Creature'],['Djinn'],Uncommon,BTD,4,5,None,"At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep. (It can't be blocked as long as defending player controls a Forest.)"
-Deadly Insect,5.0,['Green'],['G'],None,['Creature'],['Insect'],Common,BTD,6,1,None,Shroud (This creature can't be the target of spells or abilities.)
-Crashing Boars,5.0,['Green'],['G'],None,['Creature'],['Boar'],Uncommon,BTD,4,4,None,"Whenever Crashing Boars attacks, defending player chooses an untapped creature they control. That creature blocks Crashing Boars this turn if able."
-Crash of Rhinos,8.0,['Green'],['G'],None,['Creature'],['Rhino'],Common,BTD,8,4,None,Trample
-Viashino Warrior,4.0,['Red'],['R'],None,['Creature'],"['Viashino', 'Warrior']",Common,BTD,4,2,None,None
-Thundering Giant,5.0,['Red'],['R'],None,['Creature'],['Giant'],Uncommon,BTD,4,3,None,Haste (This creature can attack and {T} as soon as it comes under your control.)
-Thunderbolt,2.0,['Red'],['R'],None,['Instant'],None,Common,BTD,None,None,None,Choose one —\n• Thunderbolt deals 3 damage to target player or planeswalker.\n• Thunderbolt deals 4 damage to target creature with flying.
-Talruum Minotaur,4.0,['Red'],['R'],None,['Creature'],"['Minotaur', 'Berserker']",Common,BTD,3,3,None,Haste
-Sonic Burst,2.0,['Red'],['R'],None,['Instant'],None,Common,BTD,None,None,None,"As an additional cost to cast this spell, discard a card at random.\nSonic Burst deals 4 damage to any target."
-Shock,1.0,['Red'],['R'],None,['Instant'],None,Common,BTD,None,None,None,Shock deals 2 damage to any target.
-Shivan Dragon,6.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,BTD,5,5,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.
-Raging Goblin,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Berserker']",Common,BTD,1,1,None,Haste (This creature can attack and {T} as soon as it comes under your control.)
-Lowland Giant,4.0,['Red'],['R'],None,['Creature'],['Giant'],Common,BTD,4,3,None,None
-Lightning Bolt,1.0,['Red'],['R'],None,['Instant'],None,Common,BTD,None,None,None,Lightning Bolt deals 3 damage to any target.
-Lava Axe,5.0,['Red'],['R'],None,['Sorcery'],None,Common,BTD,None,None,None,Lava Axe deals 5 damage to target player or planeswalker.
-Kird Ape,1.0,['Red'],['R'],None,['Creature'],['Ape'],Common,BTD,1,1,None,Kird Ape gets +1/+2 as long as you control a Forest.
-Hulking Cyclops,5.0,['Red'],['R'],None,['Creature'],['Cyclops'],Uncommon,BTD,5,5,None,Hulking Cyclops can't block.
-Fireball,1.0,['Red'],['R'],None,['Sorcery'],None,Common,BTD,None,None,None,"This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets."
-Bloodrock Cyclops,3.0,['Red'],['R'],None,['Creature'],['Cyclops'],Common,BTD,3,3,None,Bloodrock Cyclops attacks each combat if able.
-Ball Lightning,3.0,['Red'],['R'],None,['Creature'],['Elemental'],Rare,BTD,6,1,None,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nHaste (This creature can attack and {T} as soon as it comes under your control.)\nAt the beginning of the end step, sacrifice Ball Lightning."
-Balduvian Horde,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Barbarian']",Rare,BTD,5,5,None,"When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random."
-Terror,2.0,['Black'],['B'],None,['Instant'],None,Common,BTD,None,None,None,"Destroy target nonartifact, nonblack creature. It can't be regenerated."
-Tar Pit Warrior,3.0,['Black'],['B'],None,['Creature'],"['Cyclops', 'Warrior']",Common,BTD,3,4,None,"When Tar Pit Warrior becomes the target of a spell or ability, sacrifice it."
-Skittering Skirge,2.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Imp']",Common,BTD,3,2,None,"Flying\nWhen you cast a creature spell, sacrifice Skittering Skirge."
-Skittering Horror,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Horror']",Common,BTD,4,3,None,"When you cast a creature spell, sacrifice Skittering Horror."
-Sengir Vampire,5.0,['Black'],['B'],None,['Creature'],['Vampire'],Uncommon,BTD,4,4,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire."
-Hollow Dogs,5.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Zombie', 'Dog']",Common,BTD,3,3,None,"Whenever Hollow Dogs attacks, it gets +2/+0 until end of turn."
-Gravedigger,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,BTD,2,2,None,"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand."
-Feral Shadow,3.0,['Black'],['B'],None,['Creature'],['Nightstalker'],Common,BTD,2,1,None,Flying
-Fallen Angel,5.0,['Black'],['B'],None,['Creature'],['Angel'],Rare,BTD,3,3,None,Flying\nSacrifice a creature: Fallen Angel gets +2/+1 until end of turn.
-Drain Life,2.0,['Black'],['B'],None,['Sorcery'],None,Common,BTD,None,None,None,"Spend only black mana on X.\nDrain Life deals X damage to any target. You gain life equal to the damage dealt, but not more life than the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness."
-Diabolic Edict,2.0,['Black'],['B'],None,['Instant'],None,Common,BTD,None,None,None,Target player sacrifices a creature.
-Death Stroke,2.0,['Black'],['B'],None,['Sorcery'],None,Common,BTD,None,None,None,Destroy target tapped creature.
-Dark Ritual,1.0,['Black'],['B'],None,['Instant'],None,Common,BTD,None,None,None,Add {B}{B}{B}.
-Coercion,3.0,['Black'],['B'],None,['Sorcery'],None,Common,BTD,None,None,None,Target opponent reveals their hand. You choose a card from it. That player discards that card.
-Bone Harvest,3.0,['Black'],['B'],None,['Instant'],None,Common,BTD,None,None,None,Put any number of target creature cards from your graveyard on top of your library.\nDraw a card at the beginning of the next turn's upkeep.
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,BTD,None,None,None,({T}: Add {G}.)
-Wayward Soul,4.0,['Blue'],['U'],None,['Creature'],['Spirit'],Common,BTD,3,2,None,Flying\n{U}: Put Wayward Soul on top of its owner's library.
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,BTD,None,None,None,({T}: Add {G}.)
-Blizzard Elemental,7.0,['Blue'],['U'],None,['Creature'],['Elemental'],Rare,BTD,5,5,None,Flying\n{3}{U}: Untap Blizzard Elemental.
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,BTD,None,None,None,({T}: Add {G}.)
-Power Sink,1.0,['Blue'],['U'],None,['Instant'],None,Common,BTD,None,None,None,"Counter target spell unless its controller pays {X}. If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana."
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,BTD,None,None,None,({T}: Add {R}.)
-Tolarian Winds,2.0,['Blue'],['U'],None,['Instant'],None,Common,BTD,None,None,None,"Discard all the cards in your hand, then draw that many cards."
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,BTD,None,None,None,({T}: Add {R}.)
-Vigilant Drake,5.0,['Blue'],['U'],None,['Creature'],['Drake'],Common,BTD,3,3,None,Flying\n{2}{U}: Untap Vigilant Drake.
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,BTD,None,None,None,({T}: Add {R}.)
-Snapping Drake,4.0,['Blue'],['U'],None,['Creature'],['Drake'],Common,BTD,3,2,None,Flying (This creature can't be blocked except by creatures with flying or reach.)
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,BTD,None,None,None,({T}: Add {B}.)
-Mahamoti Djinn,6.0,['Blue'],['U'],None,['Creature'],['Djinn'],Rare,BTD,5,6,None,Flying (This creature can't be blocked except by creatures with flying or reach.)
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,BTD,None,None,None,({T}: Add {B}.)
-Leviathan,9.0,['Blue'],['U'],None,['Creature'],['Leviathan'],Rare,BTD,10,10,None,"Trample\nLeviathan enters the battlefield tapped and doesn't untap during your untap step.\nAt the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan.\nLeviathan can't attack unless you sacrifice two Islands. (This cost is paid as attackers are declared.)"
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,BTD,None,None,None,({T}: Add {B}.)
-Killer Whale,5.0,['Blue'],['U'],None,['Creature'],['Whale'],Uncommon,BTD,3,5,None,{U}: Killer Whale gains flying until end of turn.
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,BTD,None,None,None,({T}: Add {U}.)
-Fog Elemental,3.0,['Blue'],['U'],None,['Creature'],['Elemental'],Common,BTD,4,4,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Fog Elemental attacks or blocks, sacrifice it at end of combat."
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,BTD,None,None,None,({T}: Add {U}.)
-Impulse,2.0,['Blue'],['U'],None,['Instant'],None,Common,BTD,None,None,None,Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,BTD,None,None,None,({T}: Add {U}.)
-Giant Crab,5.0,['Blue'],['U'],None,['Creature'],['Crab'],Common,BTD,3,3,None,{U}: Giant Crab gains shroud until end of turn. (It can't be the target of spells or abilities.)
-Svyelunite Temple,0.0,None,['U'],None,['Land'],None,Uncommon,BTD,None,None,None,"Svyelunite Temple enters the battlefield tapped.\n{T}: Add {U}.\n{T}, Sacrifice Svyelunite Temple: Add {U}{U}."
-Gaseous Form,3.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,BTD,None,None,None,Enchant creature\nPrevent all combat damage that would be dealt to and dealt by enchanted creature.
-Smoldering Crater,0.0,None,['R'],None,['Land'],None,Common,BTD,None,None,None,"Smoldering Crater enters the battlefield tapped.\n{T}: Add {R}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Brainstorm,1.0,['Blue'],['U'],None,['Instant'],None,Common,BTD,None,None,None,"Draw three cards, then put two cards from your hand on top of your library in any order."
-Slippery Karst,0.0,None,['G'],None,['Land'],None,Common,BTD,None,None,None,"Slippery Karst enters the battlefield tapped.\n{T}: Add {G}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Air Elemental,5.0,['Blue'],['U'],None,['Creature'],['Elemental'],Uncommon,BTD,4,4,None,Flying
-Remote Isle,0.0,None,['U'],None,['Land'],None,Common,BTD,None,None,None,"Remote Isle enters the battlefield tapped.\n{T}: Add {U}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Counterspell,2.0,['Blue'],['U'],None,['Instant'],None,Common,BTD,None,None,None,Counter target spell.
-Polluted Mire,0.0,None,['B'],None,['Land'],None,Common,BTD,None,None,None,"Polluted Mire enters the battlefield tapped.\n{T}: Add {B}.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-Cloud Elemental,3.0,['Blue'],['U'],None,['Creature'],['Elemental'],Common,BTD,2,3,None,Flying\nCloud Elemental can block only creatures with flying.
-Havenwood Battleground,0.0,None,['G'],None,['Land'],None,Uncommon,BTD,None,None,None,"Havenwood Battleground enters the battlefield tapped.\n{T}: Add {G}.\n{T}, Sacrifice Havenwood Battleground: Add {G}{G}."
-Cloud Djinn,6.0,['Blue'],['U'],None,['Creature'],['Djinn'],Uncommon,BTD,5,4,None,Flying\nCloud Djinn can block only creatures with flying.
-Ebon Stronghold,0.0,None,['B'],None,['Land'],None,Uncommon,BTD,None,None,None,"Ebon Stronghold enters the battlefield tapped.\n{T}: Add {B}.\n{T}, Sacrifice Ebon Stronghold: Add {B}{B}."
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Wild Growth,{G},1.0,['G'],['G'],Enchantment — Aura,,['Aura'],Common,"Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional {G}.",64,,,,BTD,Beatdown Box Set
+Fog Elemental,{2}{U},3.0,['U'],['U'],Creature — Elemental,,['Elemental'],Common,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Fog Elemental attacks or blocks, sacrifice it at end of combat.",7,4,4,,BTD,Beatdown Box Set
+Scaled Wurm,{7}{G},8.0,['G'],['G'],Creature — Wurm,,['Wurm'],Common,,62,7,6,,BTD,Beatdown Box Set
+Bone Harvest,{2}{B},3.0,['B'],['B'],Instant,,,Common,Put any number of target creature cards from your graveyard on top of your library.\nDraw a card at the beginning of the next turn's upkeep.,19,,,,BTD,Beatdown Box Set
+Lowland Giant,{2}{R}{R},4.0,['R'],['R'],Creature — Giant,,['Giant'],Common,,42,4,3,,BTD,Beatdown Box Set
+Svyelunite Temple,,0.0,,['U'],Land,,,Uncommon,"Svyelunite Temple enters the battlefield tapped.\n{T}: Add {U}.\n{T}, Sacrifice Svyelunite Temple: Add {U}{U}.",78,,,,BTD,Beatdown Box Set
+Lightning Bolt,{R},1.0,['R'],['R'],Instant,,,Common,Lightning Bolt deals 3 damage to any target.,41,,,,BTD,Beatdown Box Set
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),88,,,,BTD,Beatdown Box Set
+Remote Isle,,0.0,,['U'],Land,,,Common,"Remote Isle enters the battlefield tapped.\n{T}: Add {U}.\nCycling {2} ({2}, Discard this card: Draw a card.)",75,,,,BTD,Beatdown Box Set
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),81,,,,BTD,Beatdown Box Set
+Coercion,{2}{B},3.0,['B'],['B'],Sorcery,,,Common,Target opponent reveals their hand. You choose a card from it. That player discards that card.,20,,,,BTD,Beatdown Box Set
+Woolly Spider,{1}{G}{G},3.0,['G'],['G'],Creature — Spider,,['Spider'],Common,"Reach (This creature can block creatures with flying.)\nWhenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn.",65,2,3,,BTD,Beatdown Box Set
+Leviathan,{5}{U}{U}{U}{U},9.0,['U'],['U'],Creature — Leviathan,,['Leviathan'],Rare,"Trample\nLeviathan enters the battlefield tapped and doesn't untap during your untap step.\nAt the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan.\nLeviathan can't attack unless you sacrifice two Islands. (This cost is paid as attackers are declared.)",12,10,10,,BTD,Beatdown Box Set
+Viashino Warrior,{3}{R},4.0,['R'],['R'],Creature — Viashino Warrior,,"['Viashino', 'Warrior']",Common,,50,4,2,,BTD,Beatdown Box Set
+Clockwork Avian,{5},5.0,,,Artifact Creature — Bird,,['Bird'],Rare,"Flying\nClockwork Avian enters the battlefield with four +1/+0 counters on it.\nAt end of combat, if Clockwork Avian attacked or blocked this combat, remove a +1/+0 counter from it.\n{X}, {T}: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate only during your upkeep.",69,0,4,,BTD,Beatdown Box Set
+Drain Life,{X}{1}{B},2.0,['B'],['B'],Sorcery,,,Common,"Spend only black mana on X.\nDrain Life deals X damage to any target. You gain life equal to the damage dealt, but not more life than the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness.",24,,,,BTD,Beatdown Box Set
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),89,,,,BTD,Beatdown Box Set
+Tolarian Winds,{1}{U},2.0,['U'],['U'],Instant,,,Common,"Discard all the cards in your hand, then draw that many cards.",16,,,,BTD,Beatdown Box Set
+Plated Spider,{4}{G},5.0,['G'],['G'],Creature — Spider,,['Spider'],Common,Reach (This creature can block creatures with flying.),59,4,4,,BTD,Beatdown Box Set
+Talruum Minotaur,{2}{R}{R},4.0,['R'],['R'],Creature — Minotaur Berserker,,"['Minotaur', 'Berserker']",Common,Haste,47,3,3,,BTD,Beatdown Box Set
+Impulse,{1}{U},2.0,['U'],['U'],Instant,,,Common,Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.,10,,,,BTD,Beatdown Box Set
+Power Sink,{X}{U},1.0,['U'],['U'],Instant,,,Common,"Counter target spell unless its controller pays {X}. If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana.",14,,,,BTD,Beatdown Box Set
+Mahamoti Djinn,{4}{U}{U},6.0,['U'],['U'],Creature — Djinn,,['Djinn'],Rare,Flying (This creature can't be blocked except by creatures with flying or reach.),13,5,6,,BTD,Beatdown Box Set
+Force of Nature,{2}{G}{G}{G}{G},6.0,['G'],['G'],Creature — Elemental,,['Elemental'],Rare,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nAt the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.",56,8,8,,BTD,Beatdown Box Set
+Killer Whale,{3}{U}{U},5.0,['U'],['U'],Creature — Whale,,['Whale'],Uncommon,{U}: Killer Whale gains flying until end of turn.,11,3,5,,BTD,Beatdown Box Set
+Kird Ape,{R},1.0,['R'],['R'],Creature — Ape,,['Ape'],Common,Kird Ape gets +1/+2 as long as you control a Forest.,39,1,1,,BTD,Beatdown Box Set
+Crashing Boars,{3}{G}{G},5.0,['G'],['G'],Creature — Boar,,['Boar'],Uncommon,"Whenever Crashing Boars attacks, defending player chooses an untapped creature they control. That creature blocks Crashing Boars this turn if able.",52,4,4,,BTD,Beatdown Box Set
+Ball Lightning,{R}{R}{R},3.0,['R'],['R'],Creature — Elemental,,['Elemental'],Rare,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nHaste (This creature can attack and {T} as soon as it comes under your control.)\nAt the beginning of the end step, sacrifice Ball Lightning.",35,6,1,,BTD,Beatdown Box Set
+Rampant Growth,{1}{G},2.0,['G'],['G'],Sorcery,,,Common,"Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",61,,,,BTD,Beatdown Box Set
+Giant Growth,{G},1.0,['G'],['G'],Instant,,,Common,Target creature gets +3/+3 until end of turn.,57,,,,BTD,Beatdown Box Set
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),83,,,,BTD,Beatdown Box Set
+Gravedigger,{3}{B},4.0,['B'],['B'],Creature — Zombie,,['Zombie'],Common,"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.",27,2,2,,BTD,Beatdown Box Set
+Raging Goblin,{R},1.0,['R'],['R'],Creature — Goblin Berserker,,"['Goblin', 'Berserker']",Common,Haste (This creature can attack and {T} as soon as it comes under your control.),43,1,1,,BTD,Beatdown Box Set
+Yavimaya Wurm,{4}{G}{G},6.0,['G'],['G'],Creature — Wurm,,['Wurm'],Common,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.),66,6,4,,BTD,Beatdown Box Set
+Cloud Djinn,{5}{U},6.0,['U'],['U'],Creature — Djinn,,['Djinn'],Uncommon,Flying\nCloud Djinn can block only creatures with flying.,4,5,4,,BTD,Beatdown Box Set
+Brainstorm,{U},1.0,['U'],['U'],Instant,,,Common,"Draw three cards, then put two cards from your hand on top of your library in any order.",3,,,,BTD,Beatdown Box Set
+Polluted Mire,,0.0,,['B'],Land,,,Common,"Polluted Mire enters the battlefield tapped.\n{T}: Add {B}.\nCycling {2} ({2}, Discard this card: Draw a card.)",74,,,,BTD,Beatdown Box Set
+Terror,{1}{B},2.0,['B'],['B'],Instant,,,Common,"Destroy target nonartifact, nonblack creature. It can't be regenerated.",33,,,,BTD,Beatdown Box Set
+Fallen Angel,{3}{B}{B},5.0,['B'],['B'],Creature — Angel,,['Angel'],Rare,Flying\nSacrifice a creature: Fallen Angel gets +2/+1 until end of turn.,25,3,3,,BTD,Beatdown Box Set
+Balduvian Horde,{2}{R}{R},4.0,['R'],['R'],Creature — Human Barbarian,,"['Human', 'Barbarian']",Rare,"When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random.",34,5,5,,BTD,Beatdown Box Set
+Quirion Elves,{1}{G},2.0,['G'],['G'],Creature — Elf Druid,,"['Elf', 'Druid']",Common,"As Quirion Elves enters the battlefield, choose a color.\n{T}: Add {G}.\n{T}: Add one mana of the chosen color.",60,1,1,,BTD,Beatdown Box Set
+Dark Ritual,{B},1.0,['B'],['B'],Instant,,,Common,Add {B}{B}{B}.,21,,,,BTD,Beatdown Box Set
+Giant Crab,{4}{U},5.0,['U'],['U'],Creature — Crab,,['Crab'],Common,{U}: Giant Crab gains shroud until end of turn. (It can't be the target of spells or abilities.),9,3,3,,BTD,Beatdown Box Set
+Tar Pit Warrior,{2}{B},3.0,['B'],['B'],Creature — Cyclops Warrior,,"['Cyclops', 'Warrior']",Common,"When Tar Pit Warrior becomes the target of a spell or ability, sacrifice it.",32,3,4,,BTD,Beatdown Box Set
+Smoldering Crater,,0.0,,['R'],Land,,,Common,"Smoldering Crater enters the battlefield tapped.\n{T}: Add {R}.\nCycling {2} ({2}, Discard this card: Draw a card.)",77,,,,BTD,Beatdown Box Set
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),79,,,,BTD,Beatdown Box Set
+Vigilant Drake,{4}{U},5.0,['U'],['U'],Creature — Drake,,['Drake'],Common,Flying\n{2}{U}: Untap Vigilant Drake.,17,3,3,,BTD,Beatdown Box Set
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),84,,,,BTD,Beatdown Box Set
+Ebon Stronghold,,0.0,,['B'],Land,,,Uncommon,"Ebon Stronghold enters the battlefield tapped.\n{T}: Add {B}.\n{T}, Sacrifice Ebon Stronghold: Add {B}{B}.",72,,,,BTD,Beatdown Box Set
+Thundering Giant,{3}{R}{R},5.0,['R'],['R'],Creature — Giant,,['Giant'],Uncommon,Haste (This creature can attack and {T} as soon as it comes under your control.),49,4,3,,BTD,Beatdown Box Set
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),82,,,,BTD,Beatdown Box Set
+Feral Shadow,{2}{B},3.0,['B'],['B'],Creature — Nightstalker,,['Nightstalker'],Common,Flying,26,2,1,,BTD,Beatdown Box Set
+Cloud Elemental,{2}{U},3.0,['U'],['U'],Creature — Elemental,,['Elemental'],Common,Flying\nCloud Elemental can block only creatures with flying.,5,2,3,,BTD,Beatdown Box Set
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),85,,,,BTD,Beatdown Box Set
+Deadly Insect,{4}{G},5.0,['G'],['G'],Creature — Insect,,['Insect'],Common,Shroud (This creature can't be the target of spells or abilities.),53,6,1,,BTD,Beatdown Box Set
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),86,,,,BTD,Beatdown Box Set
+Sonic Burst,{1}{R},2.0,['R'],['R'],Instant,,,Common,"As an additional cost to cast this spell, discard a card at random.\nSonic Burst deals 4 damage to any target.",46,,,,BTD,Beatdown Box Set
+Air Elemental,{3}{U}{U},5.0,['U'],['U'],Creature — Elemental,,['Elemental'],Uncommon,Flying,1,4,4,,BTD,Beatdown Box Set
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),80,,,,BTD,Beatdown Box Set
+Erhnam Djinn,{3}{G},4.0,['G'],['G'],Creature — Djinn,,['Djinn'],Uncommon,"At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep. (It can't be blocked as long as defending player controls a Forest.)",54,4,5,,BTD,Beatdown Box Set
+Sengir Vampire,{3}{B}{B},5.0,['B'],['B'],Creature — Vampire,,['Vampire'],Uncommon,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.",29,4,4,,BTD,Beatdown Box Set
+Bloodrock Cyclops,{2}{R},3.0,['R'],['R'],Creature — Cyclops,,['Cyclops'],Common,Bloodrock Cyclops attacks each combat if able.,36,3,3,,BTD,Beatdown Box Set
+Havenwood Battleground,,0.0,,['G'],Land,,,Uncommon,"Havenwood Battleground enters the battlefield tapped.\n{T}: Add {G}.\n{T}, Sacrifice Havenwood Battleground: Add {G}{G}.",73,,,,BTD,Beatdown Box Set
+Crash of Rhinos,{6}{G}{G},8.0,['G'],['G'],Creature — Rhino,,['Rhino'],Common,Trample,51,8,4,,BTD,Beatdown Box Set
+Hollow Dogs,{4}{B},5.0,['B'],['B'],Creature — Phyrexian Zombie Dog,,"['Phyrexian', 'Zombie', 'Dog']",Common,"Whenever Hollow Dogs attacks, it gets +2/+0 until end of turn.",28,3,3,,BTD,Beatdown Box Set
+Skittering Skirge,{B}{B},2.0,['B'],['B'],Creature — Phyrexian Imp,,"['Phyrexian', 'Imp']",Common,"Flying\nWhen you cast a creature spell, sacrifice Skittering Skirge.",31,3,2,,BTD,Beatdown Box Set
+Slippery Karst,,0.0,,['G'],Land,,,Common,"Slippery Karst enters the battlefield tapped.\n{T}: Add {G}.\nCycling {2} ({2}, Discard this card: Draw a card.)",76,,,,BTD,Beatdown Box Set
+Shock,{R},1.0,['R'],['R'],Instant,,,Common,Shock deals 2 damage to any target.,45,,,,BTD,Beatdown Box Set
+Fireball,{X}{R},1.0,['R'],['R'],Sorcery,,,Common,"This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets.",37,,,,BTD,Beatdown Box Set
+Hulking Cyclops,{3}{R}{R},5.0,['R'],['R'],Creature — Cyclops,,['Cyclops'],Uncommon,Hulking Cyclops can't block.,38,5,5,,BTD,Beatdown Box Set
+Fog,{G},1.0,['G'],['G'],Instant,,,Common,Prevent all combat damage that would be dealt this turn.,55,,,,BTD,Beatdown Box Set
+Death Stroke,{B}{B},2.0,['B'],['B'],Sorcery,,,Common,Destroy target tapped creature.,22,,,,BTD,Beatdown Box Set
+Skittering Horror,{2}{B},3.0,['B'],['B'],Creature — Phyrexian Horror,,"['Phyrexian', 'Horror']",Common,"When you cast a creature spell, sacrifice Skittering Horror.",30,4,3,,BTD,Beatdown Box Set
+Segmented Wurm,{3}{R}{G},5.0,"['G', 'R']","['G', 'R']",Creature — Wurm,,['Wurm'],Uncommon,"Whenever Segmented Wurm becomes the target of a spell or ability, put a -1/-1 counter on it.",68,5,5,,BTD,Beatdown Box Set
+Diabolic Vision,{U}{B},2.0,"['B', 'U']","['B', 'U']",Sorcery,,,Uncommon,Look at the top five cards of your library. Put one of them into your hand and the rest on top of your library in any order.,67,,,,BTD,Beatdown Box Set
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),90,,,,BTD,Beatdown Box Set
+Thunderbolt,{1}{R},2.0,['R'],['R'],Instant,,,Common,Choose one —\n• Thunderbolt deals 3 damage to target player or planeswalker.\n• Thunderbolt deals 4 damage to target creature with flying.,48,,,,BTD,Beatdown Box Set
+Dwarven Ruins,,0.0,,['R'],Land,,,Uncommon,"Dwarven Ruins enters the battlefield tapped.\n{T}: Add {R}.\n{T}, Sacrifice Dwarven Ruins: Add {R}{R}.",71,,,,BTD,Beatdown Box Set
+Wayward Soul,{2}{U}{U},4.0,['U'],['U'],Creature — Spirit,,['Spirit'],Common,Flying\n{U}: Put Wayward Soul on top of its owner's library.,18,3,2,,BTD,Beatdown Box Set
+Shambling Strider,{4}{G}{G},6.0,['G'],"['G', 'R']",Creature — Yeti,,['Yeti'],Common,{R}{G}: Shambling Strider gets +1/-1 until end of turn.,63,5,5,,BTD,Beatdown Box Set
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),87,,,,BTD,Beatdown Box Set
+Counterspell,{U}{U},2.0,['U'],['U'],Instant,,,Common,Counter target spell.,6,,,,BTD,Beatdown Box Set
+Clockwork Beast,{6},6.0,,,Artifact Creature — Beast,,['Beast'],Rare,"Clockwork Beast enters the battlefield with seven +1/+0 counters on it.\nAt end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.\n{X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate only during your upkeep.",70,0,4,,BTD,Beatdown Box Set
+Blizzard Elemental,{5}{U}{U},7.0,['U'],['U'],Creature — Elemental,,['Elemental'],Rare,Flying\n{3}{U}: Untap Blizzard Elemental.,2,5,5,,BTD,Beatdown Box Set
+Gaseous Form,{2}{U},3.0,['U'],['U'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nPrevent all combat damage that would be dealt to and dealt by enchanted creature.,8,,,,BTD,Beatdown Box Set
+Snapping Drake,{3}{U},4.0,['U'],['U'],Creature — Drake,,['Drake'],Common,Flying (This creature can't be blocked except by creatures with flying or reach.),15,3,2,,BTD,Beatdown Box Set
+Lava Axe,{4}{R},5.0,['R'],['R'],Sorcery,,,Common,Lava Axe deals 5 damage to target player or planeswalker.,40,,,,BTD,Beatdown Box Set
+Llanowar Elves,{G},1.0,['G'],['G'],Creature — Elf Druid,,"['Elf', 'Druid']",Common,{T}: Add {G}.,58,1,1,,BTD,Beatdown Box Set
+Diabolic Edict,{1}{B},2.0,['B'],['B'],Instant,,,Common,Target player sacrifices a creature.,23,,,,BTD,Beatdown Box Set
+Shivan Dragon,{4}{R}{R},6.0,['R'],['R'],Creature — Dragon,,['Dragon'],Rare,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.,44,5,5,,BTD,Beatdown Box Set

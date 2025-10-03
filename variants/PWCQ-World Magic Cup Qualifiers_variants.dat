@@ -1,10 +1,16 @@
-CMC: {2.0, 3.0, 4.0}
-Colors: {'White', 'Black', 'Green', 'Blue'}
-ColorIdentity: {'W', 'U', 'G', 'B'}
-Supertypes: {'Legendary'}
-Types: {'Instant', 'Land', 'Creature'}
-Subtypes: {'Human', 'Elemental', 'Soldier', 'Spirit', 'Cleric'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'4', '2'}
-Toughness: {'3', '2', '1'}
-Loyalty: set()
+name: ['Vengevine']
+mana_cost: ['{2}{G}{G}']
+cmc: [4.0]
+colors: ['Green']
+color_identity: ['G']
+type: ['Creature — Elemental']
+supertypes: []
+subtypes: ['Elemental']
+rarity: ['Mythic']
+text: ["Haste\nWhenever you cast a spell, if it's the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield."]
+number: ['2013']
+power: ['4']
+toughness: ['3']
+loyalty: []
+set: ['PWCQ']
+set_name: ['World Magic Cup Qualifiers']

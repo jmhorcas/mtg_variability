@@ -1,10 +1,16 @@
-CMC: set()
-Colors: set()
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Basic'}
-Types: {'Land'}
-Subtypes: {'Swamp', 'Mountain', 'Forest', 'Island', 'Plains'}
-Rarity: {'Common'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['Forest']
+mana_cost: []
+cmc: [0.0]
+colors: []
+color_identity: ['G']
+type: ['Basic Land — Forest']
+supertypes: ['Basic']
+subtypes: ['Forest']
+rarity: ['Common']
+text: ['({T}: Add {G}.)']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['PALP']
+set_name: ['Asia Pacific Land Program']

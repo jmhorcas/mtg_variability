@@ -1,10 +1,16 @@
-CMC: {3.0, 5.0, 6.0}
-Colors: {'Red', 'Black', 'Green', 'Blue'}
-ColorIdentity: {'R', 'G', 'U', 'B'}
-Supertypes: {'Legendary'}
-Types: {'Instant', 'Creature', 'Planeswalker'}
-Subtypes: {'Inzerva', 'Zombie', 'Wizard', 'Elf'}
-Rarity: {'Mythic'}
-Power: {'0'}
-Toughness: {'3'}
-Loyalty: {'4'}
+name: ['Diabolical Salvation']
+mana_cost: ['{2}{R}{R}{R}{R}']
+cmc: [6.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Instant']
+supertypes: []
+subtypes: []
+rarity: ['Mythic']
+text: ['Split second\nCreate four 4/4 red Devil creature tokens with haste and "When this creature dies, create a colorless Treasure artifact token with \'{T}, Sacrifice this artifact: Add one mana of any color.\'" Sacrifice the Devil tokens at the beginning of the next end step.']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['HTR17']
+set_name: ['2017 Heroes of the Realm']

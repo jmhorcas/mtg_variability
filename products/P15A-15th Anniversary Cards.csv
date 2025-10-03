@@ -1,3 +1,2 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Char,3.0,['Red'],['R'],None,['Instant'],None,Rare,P15A,None,None,None,Char deals 4 damage to any target and 2 damage to you.
-"Kamahl, Pit Fighter",6.0,['Red'],['R'],['Legendary'],['Creature'],"['Human', 'Barbarian']",Rare,P15A,6,1,None,"Haste (This creature can attack and {T} as soon as it comes under your control.)\n{T}: Kamahl, Pit Fighter deals 3 damage to any target."
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Char,{2}{R},3.0,['R'],['R'],Instant,,,Rare,Char deals 4 damage to any target and 2 damage to you.,1,,,,P15A,15th Anniversary Cards

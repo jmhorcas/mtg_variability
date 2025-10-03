@@ -1,10 +1,16 @@
-CMC: {5.0}
-Colors: {'White'}
-ColorIdentity: {'W'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Angel'}
-Rarity: {'Rare'}
-Power: {'4'}
-Toughness: {'4'}
-Loyalty: set()
+name: ['Serra Angel']
+mana_cost: ['{3}{W}{W}']
+cmc: [5.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Angel']
+supertypes: []
+subtypes: ['Angel']
+rarity: ['Rare']
+text: ['Flying, vigilance']
+number: ['1']
+power: ['4']
+toughness: ['4']
+loyalty: []
+set: ['PWOS']
+set_name: ['Wizards of the Coast Online Store']

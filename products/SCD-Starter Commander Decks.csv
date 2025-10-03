@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+"Atarka, World Render",{5}{R}{G},7.0,"['G', 'R']","['G', 'R']",Legendary Creature — Dragon,['Legendary'],['Dragon'],Mythic,"Flying, trample\nWhenever a Dragon you control attacks, it gains double strike until end of turn.",1,6,4,,SCD,Starter Commander Decks

@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant'}
-Subtypes: {'Soldier', 'Incarnation', 'Lizard', 'Goblin'}
-Rarity: {'Rare'}
-Power: {'2', '1'}
-Toughness: {'2', '1'}
-Loyalty: set()
+name: ['Firebolt']
+mana_cost: ['{R}']
+cmc: [1.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Sorcery']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['Firebolt deals 2 damage to any target.\nFlashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['F07']
+set_name: ['Friday Night Magic 2007']

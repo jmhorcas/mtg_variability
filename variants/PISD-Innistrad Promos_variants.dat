@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Sorcery', 'Creature'}
-Subtypes: {'Horror', 'Soldier', 'Lizard', 'Werewolf', 'Human', 'Zombie'}
-Rarity: {'Rare', 'Uncommon'}
-Power: {'13', '2', '3'}
-Toughness: {'13', '2', '3'}
-Loyalty: set()
+name: ['Elite Inquisitor']
+mana_cost: ['{W}{W}']
+cmc: [2.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Human Soldier']
+supertypes: []
+subtypes: ['Human', 'Soldier']
+rarity: ['Rare']
+text: ['First strike, vigilance\nProtection from Vampires, from Werewolves, and from Zombies']
+number: ['13']
+power: ['2']
+toughness: ['2']
+loyalty: []
+set: ['PISD']
+set_name: ['Innistrad Promos']

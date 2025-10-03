@@ -1,3 +1,2 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Incinerate,2.0,['Red'],['R'],None,['Instant'],None,Rare,PLGM,None,None,None,Incinerate deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.
-Counterspell,2.0,['Blue'],['U'],None,['Instant'],None,Rare,PLGM,None,None,None,Counter target spell.
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Counterspell,{U}{U},2.0,['U'],['U'],Instant,,,Rare,Counter target spell.,1,,,,PLGM,DCI Legend Membership

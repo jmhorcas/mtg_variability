@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 8.0}
-Colors: set()
-ColorIdentity: set()
-Supertypes: {'Legendary'}
-Types: {'Creature', 'Artifact'}
-Subtypes: {'Equipment', 'Masticore', 'Golem'}
-Rarity: {'Mythic'}
-Power: {'4', '7'}
-Toughness: {'4', '10'}
-Loyalty: set()
+name: ['Aether Vial', 'Black Vise', 'Isochron Scepter', 'Ivory Tower', "Jester's Cap", 'Karn, Silver Golem', 'Masticore', 'Memory Jar', 'Mirari', 'Mox Diamond', "Nevinyrral's Disk", 'Sol Ring', 'Sundering Titan', 'Sword of Body and Mind', 'Zuran Orb']
+mana_cost: ['{0}', '{1}', '{2}', '{3}', '{4}', '{5}', '{8}']
+cmc: [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 8.0]
+colors: []
+color_identity: []
+type: ['Artifact', 'Artifact Creature — Golem', 'Artifact Creature — Masticore', 'Artifact — Equipment', 'Legendary Artifact', 'Legendary Artifact Creature — Golem']
+supertypes: ['Legendary']
+subtypes: ['Equipment', 'Golem', 'Masticore']
+rarity: ['Mythic']
+text: ["As Black Vise enters the battlefield, choose an opponent.\nAt the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4.", 'At the beginning of your upkeep, sacrifice Masticore unless you discard a card.\n{2}: Masticore deals 1 damage to target creature.\n{2}: Regenerate Masticore.', 'At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.', 'At the beginning of your upkeep, you may put a charge counter on Aether Vial.\n{T}: You may put a creature card with mana value equal to the number of charge counters on Aether Vial from your hand onto the battlefield.', 'Equipped creature gets +2/+2 and has protection from green and from blue.\nWhenever equipped creature deals combat damage to a player, you create a 2/2 green Wolf creature token and that player mills ten cards.\nEquip {2}', "If Mox Diamond would enter the battlefield, you may discard a land card instead. If you do, put Mox Diamond onto the battlefield. If you don't, put it into its owner's graveyard.\n{T}: Add one mana of any color.", 'Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with mana value 2 or less from your hand.\n{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.', "Nevinyrral's Disk enters the battlefield tapped.\n{1}, {T}: Destroy all artifacts, creatures, and enchantments.", 'Sacrifice a land: You gain 2 life.', 'When Sundering Titan enters or leaves the battlefield, choose a land of each basic land type, then destroy those lands.', 'Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.\n{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value until end of turn.', 'Whenever you cast an instant or sorcery spell, you may pay {3}. If you do, copy that spell. You may choose new targets for the copy.', "{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles.", '{T}, Sacrifice Memory Jar: Each player exiles all cards from their hand face down and draws seven cards. At the beginning of the next end step, each player discards their hand and returns to their hand each card they exiled this way.', '{T}: Add {C}{C}.']
+number: ['1', '10', '11', '12', '13', '14', '15', '2', '3', '4', '5', '6', '7', '8', '9']
+power: ['4', '7']
+toughness: ['10', '4']
+loyalty: []
+set: ['V10']
+set_name: ['From the Vault: Relics']

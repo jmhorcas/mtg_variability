@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Basic'}
-Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant'}
-Subtypes: {'Swamp', 'Mountain', 'Forest', 'Island', 'Ape', 'Plains'}
-Rarity: {'Rare'}
-Power: {'2'}
-Toughness: {'2'}
-Loyalty: set()
+name: ['Duress']
+mana_cost: ['{B}']
+cmc: [1.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Sorcery']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.']
+number: ['2']
+power: []
+toughness: []
+loyalty: []
+set: ['PAL00']
+set_name: ['Arena League 2000']

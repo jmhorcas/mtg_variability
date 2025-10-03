@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0}
-Colors: {'White', 'Black', 'Green', 'Red'}
-ColorIdentity: {'W', 'R', 'G', 'B'}
-Supertypes: set()
-Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Vampire', 'Warrior', 'Elf', 'Locus', 'Wizard', 'Berserker', 'Zombie', 'Cat', 'Shaman'}
-Rarity: {'Rare'}
-Power: {'3', '2', '1'}
-Toughness: {'2', '1'}
-Loyalty: set()
+name: ['Tidehollow Sculler']
+mana_cost: ['{W}{B}']
+cmc: [2.0]
+colors: ['B', 'W']
+color_identity: ['B', 'W']
+type: ['Artifact Creature — Zombie']
+supertypes: []
+subtypes: ['Zombie']
+rarity: ['Rare']
+text: ["When Tidehollow Sculler enters the battlefield, target opponent reveals their hand and you choose a nonland card from it. Exile that card.\nWhen Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand."]
+number: ['1']
+power: ['2']
+toughness: ['2']
+loyalty: []
+set: ['F10']
+set_name: ['Friday Night Magic 2010']

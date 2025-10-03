@@ -1,10 +1,16 @@
-CMC: {4.0, 5.0, 6.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Creature'}
-Subtypes: {'Beast', 'Elemental', 'Soldier', 'Insect', 'Nightmare', 'Human', 'Dinosaur', 'Shaman'}
-Rarity: {'Mythic'}
-Power: {'3', '6', '4', '2'}
-Toughness: {'3', '6', '4', '5'}
-Loyalty: set()
+name: ['Gavi, Nest Warden']
+mana_cost: ['{2}{U}{R}{W}']
+cmc: [5.0]
+colors: ['R', 'U', 'W']
+color_identity: ['R', 'U', 'W']
+type: ['Legendary Creature — Human Shaman']
+supertypes: ['Legendary']
+subtypes: ['Human', 'Shaman']
+rarity: ['Mythic']
+text: ['You may pay {0} rather than pay the cycling cost of the first card you cycle each turn.\nWhenever you draw your second card each turn, create a 2/2 red and white Dinosaur Cat creature token.']
+number: ['7']
+power: ['2']
+toughness: ['5']
+loyalty: []
+set: ['OC20']
+set_name: ['Commander 2020 Oversized']

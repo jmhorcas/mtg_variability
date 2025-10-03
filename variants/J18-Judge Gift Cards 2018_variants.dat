@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Merfolk', 'Wizard', 'Vedalken'}
-Rarity: {'Rare'}
-Power: {'2', '1'}
-Toughness: {'2', '1'}
-Loyalty: set()
+name: ['Merchant Scroll']
+mana_cost: ['{1}{U}']
+cmc: [2.0]
+colors: ['U']
+color_identity: ['U']
+type: ['Sorcery']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['Search your library for a blue instant card, reveal that card, put it into your hand, then shuffle.']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['J18']
+set_name: ['Judge Gift Cards 2018']

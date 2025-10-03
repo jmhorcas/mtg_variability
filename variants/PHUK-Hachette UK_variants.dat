@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Black'}
-ColorIdentity: {'B'}
-Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant'}
-Subtypes: {'Rat', 'Warrior', 'Swamp', 'Spirit', 'Minion', 'Rogue', 'Shaman', 'Human', 'Ninja'}
-Rarity: {'Common', 'Rare', 'Uncommon'}
-Power: {'6', '1', '2', '*'}
-Toughness: {'3', '6', '2', '1'}
-Loyalty: set()
+name: ['Marrow-Gnawer']
+mana_cost: ['{3}{B}{B}']
+cmc: [5.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Legendary Creature — Rat Rogue']
+supertypes: ['Legendary']
+subtypes: ['Rat', 'Rogue']
+rarity: ['Rare']
+text: ['All Rats have fear.\n{T}, Sacrifice a Rat: Create X 1/1 black Rat creature tokens, where X is the number of Rats you control.']
+number: ['1']
+power: ['2']
+toughness: ['3']
+loyalty: []
+set: ['PHUK']
+set_name: ['Hachette UK']

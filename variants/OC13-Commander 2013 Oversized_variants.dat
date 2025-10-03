@@ -1,10 +1,16 @@
-CMC: {3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Creature', 'Artifact'}
-Subtypes: {'Elemental', 'Orc', 'Faerie', 'Assassin', 'Zombie', 'Vampire', 'Dragon', 'Human', 'Beast', 'Giant', 'Rhino', 'Shaman', 'Soldier', 'Elf', 'Sphinx', 'Wizard', 'Artificer', 'Bird', 'Goblin'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'4', '5', '1', '2', '0', '3', '6'}
-Toughness: {'4', '5', '2', '0', '3', '6'}
-Loyalty: set()
+name: ['Derevi, Empyrial Tactician']
+mana_cost: ['{G}{W}{U}']
+cmc: [3.0]
+colors: ['G', 'U', 'W']
+color_identity: ['G', 'U', 'W']
+type: ['Legendary Creature — Bird Wizard']
+supertypes: ['Legendary']
+subtypes: ['Bird', 'Wizard']
+rarity: ['Mythic']
+text: ['Flying\nWhenever Derevi, Empyrial Tactician enters the battlefield or a creature you control deals combat damage to a player, you may tap or untap target permanent.\n{1}{G}{W}{U}: Put Derevi onto the battlefield from the command zone.']
+number: ['186']
+power: ['2']
+toughness: ['3']
+loyalty: []
+set: ['OC13']
+set_name: ['Commander 2013 Oversized']

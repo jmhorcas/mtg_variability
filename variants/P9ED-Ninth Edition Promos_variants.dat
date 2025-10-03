@@ -1,10 +1,16 @@
-CMC: {6.0}
-Colors: {'Red', 'Green'}
-ColorIdentity: {'R', 'G'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Dragon', 'Elemental'}
-Rarity: {'Rare'}
-Power: {'5', '8'}
-Toughness: {'5', '8'}
-Loyalty: set()
+name: ['Shivan Dragon']
+mana_cost: ['{4}{R}{R}']
+cmc: [6.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Creature — Dragon']
+supertypes: []
+subtypes: ['Dragon']
+rarity: ['Rare']
+text: ["Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn."]
+number: ['219']
+power: ['5']
+toughness: ['5']
+loyalty: []
+set: ['P9ED']
+set_name: ['Ninth Edition Promos']

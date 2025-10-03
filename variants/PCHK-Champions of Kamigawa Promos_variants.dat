@@ -1,10 +1,16 @@
-CMC: {6.0}
-Colors: {'Red'}
-ColorIdentity: {'R'}
-Supertypes: {'Legendary'}
-Types: {'Creature'}
-Subtypes: {'Dragon', 'Spirit'}
-Rarity: {'Rare'}
-Power: {'5'}
-Toughness: {'5'}
-Loyalty: set()
+name: ['Ryusei, the Falling Star']
+mana_cost: ['{5}{R}']
+cmc: [6.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Legendary Creature — Dragon Spirit']
+supertypes: ['Legendary']
+subtypes: ['Dragon', 'Spirit']
+rarity: ['Rare']
+text: ['Flying\nWhen Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying.']
+number: ['185★']
+power: ['5']
+toughness: ['5']
+loyalty: []
+set: ['PCHK']
+set_name: ['Champions of Kamigawa Promos']

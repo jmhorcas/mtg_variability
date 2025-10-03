@@ -1,10 +1,16 @@
-CMC: {3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Equipment', 'Swamp', 'Mountain', 'Praetor', 'Spirit', 'Centaur', 'Island', 'Forest', 'Giant', 'Wizard', 'Soldier', 'Plains', 'Artificer', 'Human', 'Phyrexian', 'Zombie'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'3', '4', '2', '1'}
-Toughness: {'4', '5', '2', '7'}
-Loyalty: set()
+name: ['Karador, Ghost Chieftain']
+mana_cost: ['{5}{W}{B}{G}']
+cmc: [8.0]
+colors: ['B', 'G', 'W']
+color_identity: ['B', 'G', 'W']
+type: ['Legendary Creature — Centaur Spirit']
+supertypes: ['Legendary']
+subtypes: ['Centaur', 'Spirit']
+rarity: ['Rare']
+text: ['This spell costs {1} less to cast for each creature card in your graveyard.\nOnce during each of your turns, you may cast a creature spell from your graveyard.']
+number: ['1']
+power: ['3']
+toughness: ['4']
+loyalty: []
+set: ['J14']
+set_name: ['Judge Gift Cards 2014']

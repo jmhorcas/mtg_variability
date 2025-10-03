@@ -1,10 +1,16 @@
-CMC: {2.0, 3.0, 5.0, 7.0}
-Colors: {'Red', 'Black', 'Green'}
-ColorIdentity: {'R', 'G', 'B'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Beast', 'Vampire', 'Warrior', 'Phoenix', 'Berserker', 'Treefolk', 'Human'}
-Rarity: {'Rare', 'Mythic', 'Uncommon'}
-Power: {'7', '1', '*', '2', '3'}
-Toughness: {'7', '1', '*', '2', '3'}
-Loyalty: set()
+name: ['Bloodlord of Vaasgoth']
+mana_cost: ['{3}{B}{B}']
+cmc: [5.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Creature — Vampire Warrior']
+supertypes: []
+subtypes: ['Vampire', 'Warrior']
+rarity: ['Mythic']
+text: ['Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)\nFlying\nWhenever you cast a Vampire creature spell, it gains bloodthirst 3.']
+number: ['82★']
+power: ['3']
+toughness: ['3']
+loyalty: []
+set: ['PM12']
+set_name: ['Magic 2012 Promos']

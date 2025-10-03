@@ -1,10 +1,16 @@
-CMC: {1.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Land', 'Creature', 'Sorcery'}
-Subtypes: {'Dragon', 'Horror', 'Soldier', 'Plant', 'Insect', 'Fungus', 'Horse', 'Nightmare', 'Archon', 'Dryad', 'Zombie'}
-Rarity: {'Rare', 'Uncommon'}
-Power: {'4', '5', '2', '0', '3'}
-Toughness: {'4', '5', '1', '0', '3'}
-Loyalty: set()
+name: ['Deadbridge Goliath']
+mana_cost: ['{2}{G}{G}']
+cmc: [4.0]
+colors: ['G']
+color_identity: ['G']
+type: ['Creature — Insect']
+supertypes: []
+subtypes: ['Insect']
+rarity: ['Rare']
+text: ["Scavenge {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"]
+number: ['120★']
+power: ['5']
+toughness: ['5']
+loyalty: []
+set: ['PRTR']
+set_name: ['Return to Ravnica Promos']

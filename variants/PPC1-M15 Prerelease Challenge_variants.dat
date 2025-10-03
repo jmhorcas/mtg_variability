@@ -1,10 +1,16 @@
-CMC: set()
-Colors: {'Black', 'Green'}
-ColorIdentity: {'G', 'B'}
-Supertypes: {'Legendary'}
-Types: {'Planeswalker'}
-Subtypes: {'Garruk'}
-Rarity: {'Common'}
-Power: set()
-Toughness: set()
-Loyalty: {'20'}
+name: ['Garruk the Slayer']
+mana_cost: []
+cmc: [0.0]
+colors: ['B', 'G']
+color_identity: ['B', 'G']
+type: ['Legendary Planeswalker — Garruk']
+supertypes: ['Legendary']
+subtypes: ['Garruk']
+rarity: ['Common']
+text: ["[0]: Put a 2/2 green Wolf creature token onto the battlefield.\n[+4]: Target Wolf creature gets +1/+0 and gains deathtouch until end of turn.\n[−10]: Destroy target creature. Put loyalty counters on Garruk the Slayer equal to that creature's toughness.\n[−25]: Destroy all creatures Garruk the Slayer doesn't control."]
+number: ['1']
+power: []
+toughness: []
+loyalty: ['20']
+set: ['PPC1']
+set_name: ['M15 Prerelease Challenge']

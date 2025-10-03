@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Sun Titan,{4}{W}{W},6.0,['W'],['W'],Creature — Giant,,['Giant'],Mythic,"Vigilance\nWhenever Sun Titan enters the battlefield or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.",1,6,6,,HA7,Historic Anthology 7

@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Treasure Hunt,{1}{U},2.0,['U'],['U'],Sorcery,,,Rare,"Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand.",1,,,,PIDW,IDW Comics Inserts

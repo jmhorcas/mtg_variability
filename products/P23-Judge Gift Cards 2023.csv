@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Painter's Servant,{2},2.0,,,Artifact Creature — Scarecrow,,['Scarecrow'],Rare,"As Painter's Servant enters the battlefield, choose a color.\nAll cards that aren't on the battlefield, spells, and permanents are the chosen color in addition to their other colors.",1,1,3,,P23,Judge Gift Cards 2023

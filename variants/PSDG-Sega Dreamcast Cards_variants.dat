@@ -1,10 +1,16 @@
-CMC: {2.0, 3.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Enchantment', 'Instant', 'Creature', 'Sorcery'}
-Subtypes: {'Dragon', 'Druid', 'Angel', 'Elephant', 'Cleric', 'Merfolk'}
-Rarity: {'Rare'}
-Power: {'4', '5', '1', '*', '2'}
-Toughness: {'4', '5', '*', '2', '3'}
-Loyalty: set()
+name: ['Arden Angel']
+mana_cost: ['{4}{W}{W}']
+cmc: [6.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Angel']
+supertypes: []
+subtypes: ['Angel']
+rarity: ['Rare']
+text: ['Flying\nAt the beginning of your upkeep, if Arden Angel is in your graveyard, roll a four-sided die. If the result is 1, return Arden Angel from your graveyard to the battlefield.']
+number: ['1']
+power: ['4']
+toughness: ['4']
+loyalty: []
+set: ['PSDG']
+set_name: ['Sega Dreamcast Cards']

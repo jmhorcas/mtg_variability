@@ -1,307 +1,307 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Viridian Shaman,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Shaman']",Uncommon,MRD,2,2,None,"When Viridian Shaman enters the battlefield, destroy target artifact."
-Viridian Joiner,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,MRD,1,2,None,{T}: Add an amount of {G} equal to Viridian Joiner's power.
-Turn to Dust,1.0,['Green'],['G'],None,['Instant'],None,Common,MRD,None,None,None,Destroy target Equipment. Add {G}.
-Trolls of Tel-Jilad,7.0,['Green'],['G'],None,['Creature'],"['Troll', 'Shaman']",Uncommon,MRD,5,6,None,{1}{G}: Regenerate target green creature.
-Troll Ascetic,3.0,['Green'],['G'],None,['Creature'],"['Troll', 'Shaman']",Rare,MRD,3,2,None,Hexproof (This creature can't be the target of spells or abilities your opponents control.)\n{1}{G}: Regenerate Troll Ascetic.
-Tooth and Nail,7.0,['Green'],['G'],None,['Sorcery'],None,Rare,MRD,None,None,None,"Choose one —\n• Search your library for up to two creature cards, reveal them, put them into your hand, then shuffle.\n• Put up to two creature cards from your hand onto the battlefield.\nEntwine {2} (Choose both if you pay the entwine cost.)"
-Tel-Jilad Exile,4.0,['Green'],['G'],None,['Creature'],"['Troll', 'Warrior']",Common,MRD,2,3,None,{1}{G}: Regenerate Tel-Jilad Exile.
-Tel-Jilad Chosen,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Common,MRD,2,1,None,Protection from artifacts
-Tel-Jilad Archers,5.0,['Green'],['G'],None,['Creature'],"['Elf', 'Archer']",Common,MRD,2,4,None,Protection from artifacts; reach (This creature can block creatures with flying.)
-Sylvan Scrying,2.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,MRD,None,None,None,"Search your library for a land card, reveal it, put it into your hand, then shuffle."
-Slith Predator,2.0,['Green'],['G'],None,['Creature'],['Slith'],Uncommon,MRD,1,1,None,"Trample\nWhenever Slith Predator deals combat damage to a player, put a +1/+1 counter on it."
-Predator's Strike,2.0,['Green'],['G'],None,['Instant'],None,Common,MRD,None,None,None,Target creature gets +3/+3 and gains trample until end of turn.
-Plated Slagwurm,7.0,['Green'],['G'],None,['Creature'],['Wurm'],Rare,MRD,8,8,None,Hexproof (This creature can't be the target of spells or abilities your opponents control.)
-One Dozen Eyes,6.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,MRD,None,None,None,Choose one —\n• Create a 5/5 green Beast creature token.\n• Create five 1/1 green Insect creature tokens.\nEntwine {G}{G}{G} (Choose both if you pay the entwine cost.)
-Molder Slug,5.0,['Green'],['G'],None,['Creature'],"['Slug', 'Beast']",Rare,MRD,4,6,None,"At the beginning of each player's upkeep, that player sacrifices an artifact."
-Living Hive,8.0,['Green'],['G'],None,['Creature'],"['Elemental', 'Insect']",Rare,MRD,6,6,None,"Trample\nWhenever Living Hive deals combat damage to a player, create that many 1/1 green Insect creature tokens."
-Journey of Discovery,3.0,['Green'],['G'],None,['Sorcery'],None,Common,MRD,None,None,None,"Choose one —\n• Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.\n• You may play up to two additional lands this turn.\nEntwine {2}{G} (Choose both if you pay the entwine cost.)"
-Hum of the Radix,4.0,['Green'],['G'],None,['Enchantment'],None,Rare,MRD,None,None,None,Each artifact spell costs {1} more to cast for each artifact its controller controls.
-Groffskithur,6.0,['Green'],['G'],None,['Creature'],['Beast'],Common,MRD,3,3,None,"Whenever Groffskithur becomes blocked, you may return target card named Groffskithur from your graveyard to your hand."
-Glissa Sunseeker,4.0,['Green'],['G'],['Legendary'],['Creature'],['Elf'],Rare,MRD,3,2,None,First strike\n{T}: Destroy target artifact if its mana value is equal to the amount of unspent mana you have.
-Fangren Hunter,5.0,['Green'],['G'],None,['Creature'],['Beast'],Common,MRD,4,4,None,Trample
-Deconstruct,3.0,['Green'],['G'],None,['Sorcery'],None,Common,MRD,None,None,None,Destroy target artifact. Add {G}{G}{G}.
-Creeping Mold,4.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,MRD,None,None,None,"Destroy target artifact, enchantment, or land."
-Ogre Leadfoot,5.0,['Red'],['R'],None,['Creature'],['Ogre'],Common,MRD,3,3,None,"Whenever Ogre Leadfoot becomes blocked by an artifact creature, destroy that creature."
-Battlegrowth,1.0,['Green'],['G'],None,['Instant'],None,Common,MRD,None,None,None,Put a +1/+1 counter on target creature.
-Brown Ouphe,1.0,['Green'],['G'],None,['Creature'],['Ouphe'],Uncommon,MRD,1,1,None,"{1}{G}, {T}: Counter target activated ability from an artifact source. (Mana abilities can't be targeted.)"
-Copperhoof Vorrac,5.0,['Green'],['G'],None,['Creature'],"['Boar', 'Beast']",Rare,MRD,2,2,None,Copperhoof Vorrac gets +1/+1 for each untapped permanent your opponents control.
-Bloodscent,4.0,['Green'],['G'],None,['Instant'],None,Uncommon,MRD,None,None,None,All creatures able to block target creature this turn do so.
-War Elemental,3.0,['Red'],['R'],None,['Creature'],['Elemental'],Rare,MRD,1,1,None,"When War Elemental enters the battlefield, sacrifice it unless an opponent was dealt damage this turn.\nWhenever an opponent is dealt damage, put that many +1/+1 counters on War Elemental."
-Vulshok Berserker,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Berserker']",Common,MRD,3,2,None,Haste (This creature can attack and {T} as soon as it comes under your control.)
-Vulshok Battlemaster,5.0,['Red'],['R'],None,['Creature'],"['Human', 'Warrior']",Rare,MRD,2,2,None,"Haste\nWhen Vulshok Battlemaster enters the battlefield, attach all Equipment on the battlefield to it. (Control of the Equipment doesn't change.)"
-Slith Firewalker,2.0,['Red'],['R'],None,['Creature'],['Slith'],Uncommon,MRD,1,1,None,"Haste\nWhenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it."
-Skyhunter Patrol,4.0,['White'],['W'],None,['Creature'],"['Cat', 'Knight']",Common,MRD,2,3,None,"Flying, first strike (This creature can't be blocked except by creatures with flying or reach, and it deals combat damage before creatures without first strike.)"
-Trash for Treasure,3.0,['Red'],['R'],None,['Sorcery'],None,Rare,MRD,None,None,None,"As an additional cost to cast this spell, sacrifice an artifact.\nReturn target artifact card from your graveyard to the battlefield."
-Skyhunter Cub,3.0,['White'],['W'],None,['Creature'],"['Cat', 'Knight']",Common,MRD,2,2,None,"As long as Skyhunter Cub is equipped, it gets +1/+1 and has flying."
-Spikeshot Goblin,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Shaman']",Common,MRD,1,2,None,"{R}, {T}: Spikeshot Goblin deals damage equal to its power to any target."
-Second Sunrise,3.0,['White'],['W'],None,['Instant'],None,Rare,MRD,None,None,None,"Each player returns to the battlefield all artifact, creature, enchantment, and land cards in their graveyard that were put there from the battlefield this turn."
-Rustmouth Ogre,6.0,['Red'],['R'],None,['Creature'],['Ogre'],Uncommon,MRD,5,4,None,"Whenever Rustmouth Ogre deals combat damage to a player, you may destroy target artifact that player controls."
-Rule of Law,3.0,['White'],['W'],None,['Enchantment'],None,Rare,MRD,None,None,None,Each player can't cast more than one spell each turn.
-Molten Rain,3.0,['Red'],['R'],None,['Sorcery'],None,Common,MRD,None,None,None,"Destroy target land. If that land was nonbasic, Molten Rain deals 2 damage to the land's controller."
-Roar of the Kha,2.0,['White'],['W'],None,['Instant'],None,Uncommon,MRD,None,None,None,Choose one —\n• Creatures you control get +1/+1 until end of turn.\n• Untap all creatures you control.\nEntwine {1}{W} (Choose both if you pay the entwine cost.)
-Shrapnel Blast,2.0,['Red'],['R'],None,['Instant'],None,Uncommon,MRD,None,None,None,"As an additional cost to cast this spell, sacrifice an artifact.\nShrapnel Blast deals 5 damage to any target."
-Razor Barrier,2.0,['White'],['W'],None,['Instant'],None,Common,MRD,None,None,None,Target permanent you control gains protection from artifacts or from the color of your choice until end of turn.
-Shatter,2.0,['Red'],['R'],None,['Instant'],None,Common,MRD,None,None,None,Destroy target artifact.
-Raise the Alarm,2.0,['White'],['W'],None,['Instant'],None,Common,MRD,None,None,None,Create two 1/1 white Soldier creature tokens.
-Seething Song,3.0,['Red'],['R'],None,['Instant'],None,Common,MRD,None,None,None,Add {R}{R}{R}{R}{R}.
-Luminous Angel,7.0,['White'],['W'],None,['Creature'],['Angel'],Rare,MRD,4,4,None,"Flying\nAt the beginning of your upkeep, you may create a 1/1 white Spirit creature token with flying."
-Megatog,6.0,['Red'],['R'],None,['Creature'],['Atog'],Rare,MRD,3,4,None,Sacrifice an artifact: Megatog gets +3/+3 and gains trample until end of turn.
-Loxodon Punisher,4.0,['White'],['W'],None,['Creature'],"['Elephant', 'Soldier']",Rare,MRD,2,2,None,Loxodon Punisher gets +2/+2 for each Equipment attached to it.
-Mass Hysteria,1.0,['Red'],['R'],None,['Enchantment'],None,Rare,MRD,None,None,None,All creatures have haste.
-Loxodon Peacekeeper,2.0,['White'],['W'],None,['Creature'],"['Elephant', 'Soldier']",Rare,MRD,4,4,None,"At the beginning of your upkeep, the player with the lowest life total gains control of Loxodon Peacekeeper. If two or more players are tied for lowest life total, you choose one of them, and that player gains control of Loxodon Peacekeeper."
-Krark-Clan Shaman,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Shaman']",Common,MRD,1,1,None,Sacrifice an artifact: Krark-Clan Shaman deals 1 damage to each creature without flying.
-Thoughtcast,5.0,['Blue'],['U'],None,['Sorcery'],None,Common,MRD,None,None,None,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nDraw two cards.
-Krark-Clan Grunt,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Warrior']",Common,MRD,2,2,None,Sacrifice an artifact: Krark-Clan Grunt gets +1/+0 and gains first strike until end of turn.
-Thirst for Knowledge,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,MRD,None,None,None,Draw three cards. Then discard two cards unless you discard an artifact card.
-Incite War,3.0,['Red'],['R'],None,['Instant'],None,Common,MRD,None,None,None,Choose one —\n• Creatures target player controls attack this turn if able.\n• Creatures you control gain first strike until end of turn.\nEntwine {2} (Choose both if you pay the entwine cost.)
-Temporal Cascade,7.0,['Blue'],['U'],None,['Sorcery'],None,Rare,MRD,None,None,None,Choose one —\n• Each player shuffles their hand and graveyard into their library.\n• Each player draws seven cards.\nEntwine {2} (Choose both if you pay the entwine cost.)
-Grab the Reins,4.0,['Red'],['R'],None,['Instant'],None,Uncommon,MRD,None,None,None,"Choose one —\n• Until end of turn, you gain control of target creature and it gains haste.\n• Sacrifice a creature. Grab the Reins deals damage equal to that creature's power to any target.\nEntwine {2}{R} (Choose both if you pay the entwine cost.)"
-Somber Hoverguard,6.0,['Blue'],['U'],None,['Creature'],['Drone'],Common,MRD,3,2,None,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying
-Goblin Striker,2.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Berserker']",Common,MRD,1,1,None,"First strike, haste"
-Slith Strider,3.0,['Blue'],['U'],None,['Creature'],['Slith'],Uncommon,MRD,1,1,None,"Whenever Slith Strider becomes blocked, draw a card.\nWhenever Slith Strider deals combat damage to a player, put a +1/+1 counter on it."
-Fractured Loyalty,2.0,['Red'],['R'],None,['Enchantment'],['Aura'],Uncommon,MRD,None,None,None,"Enchant creature\nWhenever enchanted creature becomes the target of a spell or ability, that spell or ability's controller gains control of that creature. (This effect lasts indefinitely.)"
-Shared Fate,5.0,['Blue'],['U'],None,['Enchantment'],None,Rare,MRD,None,None,None,"If a player would draw a card, that player exiles the top card of one of their opponents' libraries face down instead.\nEach player may look at cards they exiled with Shared Fate, and they may play lands and cast spells from among those cards."
-Forge Armor,5.0,['Red'],['R'],None,['Instant'],None,Uncommon,MRD,None,None,None,"As an additional cost to cast this spell, sacrifice an artifact.\nPut X +1/+1 counters on target creature, where X is the sacrificed artifact's mana value."
-Regress,3.0,['Blue'],['U'],None,['Instant'],None,Common,MRD,None,None,None,Return target permanent to its owner's hand.
-Quicksilver Elemental,5.0,['Blue'],['U'],None,['Creature'],['Elemental'],Rare,MRD,3,4,None,"{U}: Quicksilver Elemental gains all activated abilities of target creature until end of turn. (If any of the abilities use that creature's name, use this creature's name instead.)\nYou may spend blue mana as though it were mana of any color to pay the activation costs of Quicksilver Elemental's abilities."
-Fists of the Anvil,2.0,['Red'],['R'],None,['Instant'],None,Common,MRD,None,None,None,Target creature gets +4/+0 until end of turn.
-Psychic Membrane,3.0,['Blue'],['U'],None,['Creature'],['Wall'],Uncommon,MRD,0,3,None,"Defender (This creature can't attack.)\nWhenever Psychic Membrane blocks, you may draw a card."
-Fiery Gambit,3.0,['Red'],['R'],None,['Sorcery'],None,Rare,MRD,None,None,None,"Flip a coin until you lose a flip or choose to stop flipping. If you lose a flip, Fiery Gambit has no effect. If you win one or more flips, Fiery Gambit deals 3 damage to target creature. If you win two or more flips, Fiery Gambit deals 6 damage to each opponent. If you win three or more flips, draw nine cards and untap all lands you control."
-Override,3.0,['Blue'],['U'],None,['Instant'],None,Common,MRD,None,None,None,Counter target spell unless its controller pays {1} for each artifact you control.
-Relic Bane,3.0,['Black'],['B'],None,['Enchantment'],['Aura'],Uncommon,MRD,None,None,None,"Enchant artifact\nEnchanted artifact has ""At the beginning of your upkeep, you lose 2 life."""
-Neurok Spy,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Rogue']",Common,MRD,2,2,None,Neurok Spy can't be blocked as long as defending player controls an artifact.
-Atog,2.0,['Red'],['R'],None,['Creature'],['Atog'],Uncommon,MRD,1,2,None,Sacrifice an artifact: Atog gets +2/+2 until end of turn.
-Neurok Familiar,2.0,['Blue'],['U'],None,['Creature'],['Bird'],Common,MRD,1,1,None,"Flying\nWhen Neurok Familiar enters the battlefield, reveal the top card of your library. If it's an artifact card, put it into your hand. Otherwise, put it into your graveyard."
-March of the Machines,4.0,['Blue'],['U'],None,['Enchantment'],None,Rare,MRD,None,None,None,Each noncreature artifact is an artifact creature with power and toughness each equal to its mana value. (Equipment that's a creature can't equip a creature.)
-Lumengrid Warden,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,MRD,1,3,None,None
-Detonate,1.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,MRD,None,None,None,Destroy target artifact with mana value X. It can't be regenerated. Detonate deals X damage to that artifact's controller.
-Lumengrid Sentinel,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Uncommon,MRD,1,2,None,"Flying\nWhenever an artifact enters the battlefield under your control, you may tap target permanent."
-Electrostatic Bolt,1.0,['Red'],['R'],None,['Instant'],None,Common,MRD,None,None,None,"Electrostatic Bolt deals 2 damage to target creature. If it's an artifact creature, Electrostatic Bolt deals 4 damage to it instead."
-Lumengrid Augur,4.0,['Blue'],['U'],None,['Creature'],"['Vedalken', 'Wizard']",Rare,MRD,2,2,None,"{1}, {T}: Target player draws a card, then discards a card. If that player discards an artifact card this way, untap Lumengrid Augur."
-Confusion in the Ranks,5.0,['Red'],['R'],None,['Enchantment'],None,Rare,MRD,None,None,None,"Whenever an artifact, creature, or enchantment enters the battlefield, its controller chooses target permanent another player controls that shares a card type with it. Exchange control of those permanents."
-Looming Hoverguard,6.0,['Blue'],['U'],None,['Creature'],['Drone'],Uncommon,MRD,3,3,None,"Flying\nWhen Looming Hoverguard enters the battlefield, put target artifact on top of its owner's library."
-Arc-Slogger,5.0,['Red'],['R'],None,['Creature'],['Beast'],Rare,MRD,4,5,None,"{R}, Exile the top ten cards of your library: Arc-Slogger deals 2 damage to any target."
-Inertia Bubble,2.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,MRD,None,None,None,Enchant artifact\nEnchanted artifact doesn't untap during its controller's untap step.
-Wrench Mind,2.0,['Black'],['B'],None,['Sorcery'],None,Common,MRD,None,None,None,Target player discards two cards unless they discard an artifact card.
-Fatespinner,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Rare,MRD,1,2,None,"At the beginning of each opponent's upkeep, that player chooses draw step, main phase, or combat phase. The player skips each instance of the chosen step or phase this turn."
-Woebearer,5.0,['Black'],['B'],None,['Creature'],['Zombie'],Uncommon,MRD,2,3,None,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever Woebearer deals combat damage to a player, you may return target creature card from your graveyard to your hand."
-Fabricate,3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,MRD,None,None,None,"Search your library for an artifact card, reveal it, put it into your hand, then shuffle."
-Vermiculos,5.0,['Black'],['B'],None,['Creature'],['Horror'],Rare,MRD,1,1,None,"Whenever an artifact enters the battlefield, Vermiculos gets +4/+4 until end of turn."
-Dream's Grip,1.0,['Blue'],['U'],None,['Instant'],None,Common,MRD,None,None,None,Choose one —\n• Tap target permanent.\n• Untap target permanent.\nEntwine {1} (Choose both if you pay the entwine cost.)
-Wall of Blood,3.0,['Black'],['B'],None,['Creature'],['Wall'],Uncommon,MRD,0,2,None,Defender (This creature can't attack.)\nPay 1 life: Wall of Blood gets +1/+1 until end of turn.
-Domineer,3.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Uncommon,MRD,None,None,None,Enchant artifact creature\nYou control enchanted artifact creature.
-Wail of the Nim,3.0,['Black'],['B'],None,['Instant'],None,Common,MRD,None,None,None,Choose one —\n• Regenerate each creature you control.\n• Wail of the Nim deals 1 damage to each creature and each player.\nEntwine {B} (Choose both if you pay the entwine cost.)
-Disarm,1.0,['Blue'],['U'],None,['Instant'],None,Common,MRD,None,None,None,Unattach all Equipment from target creature.
-Slith Bloodletter,2.0,['Black'],['B'],None,['Creature'],['Slith'],Uncommon,MRD,1,1,None,"Whenever Slith Bloodletter deals combat damage to a player, put a +1/+1 counter on it.\n{1}{B}: Regenerate Slith Bloodletter."
-Broodstar,10.0,['Blue'],['U'],None,['Creature'],['Beast'],Rare,MRD,*,*,None,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying\nBroodstar's power and toughness are each equal to the number of artifacts you control.
-Reiver Demon,8.0,['Black'],['B'],None,['Creature'],['Demon'],Rare,MRD,6,6,None,"Flying\nWhen Reiver Demon enters the battlefield, if you cast it from your hand, destroy all nonartifact, nonblack creatures. They can't be regenerated."
-Assert Authority,7.0,['Blue'],['U'],None,['Instant'],None,Uncommon,MRD,None,None,None,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nCounter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
-Annul,1.0,['Blue'],['U'],None,['Instant'],None,Common,MRD,None,None,None,Counter target artifact or enchantment spell.
-Terror,2.0,['Black'],['B'],None,['Instant'],None,Common,MRD,None,None,None,"Destroy target nonartifact, nonblack creature. It can't be regenerated."
-Tempest of Light,3.0,['White'],['W'],None,['Instant'],None,Uncommon,MRD,None,None,None,Destroy all enchantments.
-Spoils of the Vault,1.0,['Black'],['B'],None,['Instant'],None,Rare,MRD,None,None,None,"Choose a card name. Reveal cards from the top of your library until you reveal a card with that name, then put that card into your hand. Exile all other cards revealed this way, and you lose 1 life for each of the exiled cards."
-Taj-Nar Swordsmith,4.0,['White'],['W'],None,['Creature'],"['Cat', 'Soldier']",Uncommon,MRD,2,3,None,"When Taj-Nar Swordsmith enters the battlefield, you may pay {X}. If you do, search your library for an Equipment card with mana value X or less, put that card onto the battlefield, then shuffle."
-Promise of Power,5.0,['Black'],['B'],None,['Sorcery'],None,Rare,MRD,None,None,None,"Choose one —\n• You draw five cards and you lose 5 life.\n• Create an X/X black Demon creature token with flying, where X is the number of cards in your hand.\nEntwine {4} (Choose both if you pay the entwine cost.)"
-Sphere of Purity,4.0,['White'],['W'],None,['Enchantment'],None,Common,MRD,None,None,None,"If an artifact would deal damage to you, prevent 1 of that damage."
-Nim Shrieker,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,MRD,0,1,None,Flying\nNim Shrieker gets +1/+0 for each artifact you control.
-Soul Nova,5.0,['White'],['W'],None,['Instant'],None,Uncommon,MRD,None,None,None,Exile target attacking creature and all Equipment attached to it.
-Nim Shambler,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Uncommon,MRD,2,1,None,Nim Shambler gets +1/+0 for each artifact you control.\nSacrifice a creature: Regenerate Nim Shambler.
-Solar Tide,6.0,['White'],['W'],None,['Sorcery'],None,Rare,MRD,None,None,None,Choose one —\n• Destroy all creatures with power 2 or less.\n• Destroy all creatures with power 3 or greater.\nEntwine—Sacrifice two lands. (Choose both if you pay the entwine cost.)
-Nim Lasher,3.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,MRD,1,1,None,Nim Lasher gets +1/+0 for each artifact you control.
-Slith Ascendant,3.0,['White'],['W'],None,['Creature'],['Slith'],Uncommon,MRD,1,1,None,"Flying\nWhenever Slith Ascendant deals combat damage to a player, put a +1/+1 counter on it."
-Nim Devourer,5.0,['Black'],['B'],None,['Creature'],['Zombie'],Rare,MRD,4,1,None,"Nim Devourer gets +1/+0 for each artifact you control.\n{B}{B}: Return Nim Devourer from your graveyard to the battlefield, then sacrifice a creature. Activate only during your upkeep."
-Contaminated Bond,2.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,MRD,None,None,None,"Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nWhenever enchanted creature attacks or blocks, its controller loses 3 life."
-Necrogen Mists,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,MRD,None,None,None,"At the beginning of each player's upkeep, that player discards a card."
-Consume Spirit,2.0,['Black'],['B'],None,['Sorcery'],None,Common,MRD,None,None,None,Spend only black mana on X.\nConsume Spirit deals X damage to any target and you gain X life.
-Moriok Scavenger,4.0,['Black'],['B'],None,['Creature'],"['Human', 'Rogue']",Common,MRD,2,3,None,"When Moriok Scavenger enters the battlefield, you may return target artifact creature card from your graveyard to your hand."
-Chimney Imp,5.0,['Black'],['B'],None,['Creature'],['Imp'],Common,MRD,1,2,None,"Flying\nWhen Chimney Imp dies, target opponent puts a card from their hand on top of their library."
-Wanderguard Sentry,5.0,['Blue'],['U'],None,['Creature'],['Drone'],Common,MRD,3,3,None,"When Wanderguard Sentry enters the battlefield, look at target opponent's hand."
-Irradiate,4.0,['Black'],['B'],None,['Instant'],None,Common,MRD,None,None,None,Target creature gets -1/-1 until end of turn for each artifact you control.
-Vedalken Archmage,4.0,['Blue'],['U'],None,['Creature'],"['Vedalken', 'Wizard']",Rare,MRD,0,2,None,"Whenever you cast an artifact spell, draw a card."
-Grim Reminder,3.0,['Black'],['B'],None,['Instant'],None,Rare,MRD,None,None,None,Search your library for a nonland card and reveal it. Each opponent who cast a spell this turn with the same name as that card loses 6 life. Then shuffle.\n{B}{B}: Return Grim Reminder from your graveyard to your hand. Activate only during your upkeep.
-Betrayal of Flesh,6.0,['Black'],['B'],None,['Instant'],None,Uncommon,MRD,None,None,None,Choose one —\n• Destroy target creature.\n• Return target creature card from your graveyard to the battlefield.\nEntwine—Sacrifice three lands. (Choose both if you pay the entwine cost.)
-Flayed Nim,4.0,['Black'],['B'],None,['Creature'],['Skeleton'],Uncommon,MRD,2,2,None,"Whenever Flayed Nim deals combat damage to a creature, that creature's controller loses that much life.\n{2}{B}: Regenerate Flayed Nim."
-Barter in Blood,4.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,MRD,None,None,None,Each player sacrifices two creatures.
-Dross Prowler,3.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,MRD,2,1,None,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
-Dross Harvester,3.0,['Black'],['B'],None,['Creature'],['Horror'],Rare,MRD,4,4,None,"Protection from white\nAt the beginning of your end step, you lose 4 life.\nWhenever a creature dies, you gain 2 life."
-Disciple of the Vault,1.0,['Black'],['B'],None,['Creature'],"['Human', 'Cleric']",Common,MRD,1,1,None,"Whenever an artifact is put into a graveyard from the battlefield, you may have target opponent lose 1 life."
-Loxodon Mender,6.0,['White'],['W'],None,['Creature'],"['Elephant', 'Cleric']",Common,MRD,3,3,None,"{W}, {T}: Regenerate target artifact."
-Cathodion,3.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Uncommon,MRD,3,3,None,"When Cathodion dies, add {C}{C}{C}."
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,MRD,None,None,None,({T}: Add {B}.)
-Leonin Skyhunter,2.0,['White'],['W'],None,['Creature'],"['Cat', 'Knight']",Uncommon,MRD,2,2,None,Flying
-Bottle Gnomes,3.0,None,None,None,"['Artifact', 'Creature']",['Gnome'],Uncommon,MRD,1,3,None,Sacrifice Bottle Gnomes: You gain 3 life.
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,MRD,None,None,None,({T}: Add {B}.)
-Leonin Elder,1.0,['White'],['W'],None,['Creature'],"['Cat', 'Cleric']",Common,MRD,1,1,None,"Whenever an artifact enters the battlefield, you may gain 1 life."
-"Bosh, Iron Golem",8.0,None,['R'],['Legendary'],"['Artifact', 'Creature']",['Golem'],Rare,MRD,6,7,None,"Trample\n{3}{R}, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's mana value to any target."
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,MRD,None,None,None,({T}: Add {B}.)
-Leonin Den-Guard,2.0,['White'],['W'],None,['Creature'],"['Cat', 'Soldier']",Common,MRD,1,3,None,"As long as Leonin Den-Guard is equipped, it gets +1/+1 and has vigilance."
-Chalice of the Void,0.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"Chalice of the Void enters the battlefield with X charge counters on it.\nWhenever a player casts a spell with mana value equal to the number of charge counters on Chalice of the Void, counter that spell."
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,MRD,None,None,None,({T}: Add {B}.)
-Blinding Beam,3.0,['White'],['W'],None,['Instant'],None,Common,MRD,None,None,None,Choose one —\n• Tap two target creatures.\n• Creatures don't untap during target player's next untap step.\nEntwine {1} (Choose both if you pay the entwine cost.)
-Needlebug,4.0,None,None,None,"['Artifact', 'Creature']",['Insect'],Uncommon,MRD,2,2,None,Flash\nProtection from artifacts
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,MRD,None,None,None,({T}: Add {U}.)
-Awe Strike,1.0,['White'],['W'],None,['Instant'],None,Common,MRD,None,None,None,"The next time target creature would deal damage this turn, prevent that damage. You gain life equal to the damage prevented this way."
-Malachite Golem,6.0,None,['G'],None,"['Artifact', 'Creature']",['Golem'],Common,MRD,5,3,None,{1}{G}: Malachite Golem gains trample until end of turn.
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,MRD,None,None,None,({T}: Add {U}.)
-Leonin Abunas,4.0,['White'],['W'],None,['Creature'],"['Cat', 'Cleric']",Rare,MRD,2,5,None,Artifacts you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)
-Myr Mindservant,1.0,None,None,None,"['Artifact', 'Creature']",['Myr'],Uncommon,MRD,1,1,None,"{2}, {T}: Shuffle your library."
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,MRD,None,None,None,({T}: Add {U}.)
-Auriok Transfixer,1.0,['White'],['W'],None,['Creature'],"['Human', 'Scout']",Common,MRD,1,1,None,"{W}, {T}: Tap target artifact."
-Myr Retriever,2.0,None,None,None,"['Artifact', 'Creature']",['Myr'],Uncommon,MRD,1,1,None,"When Myr Retriever dies, return another target artifact card from your graveyard to your hand."
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,MRD,None,None,None,({T}: Add {U}.)
-Auriok Steelshaper,2.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,MRD,1,1,None,"Equip costs you pay cost {1} less.\nAs long as Auriok Steelshaper is equipped, each creature you control that's a Soldier or a Knight gets +1/+1."
-Necrogen Spellbomb,1.0,None,['B'],None,['Artifact'],None,Common,MRD,None,None,None,"{B}, Sacrifice Necrogen Spellbomb: Target player discards a card.\n{1}, Sacrifice Necrogen Spellbomb: Draw a card."
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,MRD,None,None,None,({T}: Add {W}.)
-Arrest,3.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,MRD,None,None,None,"Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated."
-Myr Prototype,5.0,None,None,None,"['Artifact', 'Creature']",['Myr'],Uncommon,MRD,2,2,None,"At the beginning of your upkeep, put a +1/+1 counter on Myr Prototype.\nMyr Prototype can't attack or block unless you pay {1} for each +1/+1 counter on it."
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,MRD,None,None,None,({T}: Add {W}.)
-Altar's Light,4.0,['White'],['W'],None,['Instant'],None,Uncommon,MRD,None,None,None,Exile target artifact or enchantment.
-Myr Incubator,6.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"{6}, {T}, Sacrifice Myr Incubator: Search your library for any number of artifact cards, exile them, then create that many 1/1 colorless Myr artifact creature tokens. Then shuffle."
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,MRD,None,None,None,({T}: Add {W}.)
-Myr Enforcer,7.0,None,None,None,"['Artifact', 'Creature']",['Myr'],Common,MRD,4,4,None,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,MRD,None,None,None,({T}: Add {W}.)
-Myr Adapter,3.0,None,None,None,"['Artifact', 'Creature']",['Myr'],Common,MRD,1,1,None,Myr Adapter gets +1/+1 for each Equipment attached to it.
-Vault of Whispers,0.0,None,['B'],None,"['Artifact', 'Land']",None,Common,MRD,None,None,None,(Vault of Whispers isn't a spell.)\n{T}: Add {B}.
-Mindstorm Crown,3.0,None,None,None,['Artifact'],None,Uncommon,MRD,None,None,None,"At the beginning of your upkeep, draw a card if you had no cards in hand at the beginning of this turn. If you had a card in hand, Mindstorm Crown deals 1 damage to you."
-Tree of Tales,0.0,None,['G'],None,"['Artifact', 'Land']",None,Common,MRD,None,None,None,(Tree of Tales isn't a spell.)\n{T}: Add {G}.
-Mourner's Shield,4.0,None,None,None,['Artifact'],None,Uncommon,MRD,None,None,None,"Imprint — When Mourner's Shield enters the battlefield, you may exile target card from a graveyard.\n{2}, {T}: Prevent all damage that would be dealt this turn by a source of your choice that shares a color with the exiled card."
-Stalking Stones,0.0,None,None,None,['Land'],None,Uncommon,MRD,None,None,None,{T}: Add {C}.\n{6}: Stalking Stones becomes a 3/3 Elemental artifact creature that's still a land. (This effect lasts indefinitely.)
-Mirror Golem,6.0,None,None,None,"['Artifact', 'Creature']",['Golem'],Uncommon,MRD,3,4,None,"Imprint — When Mirror Golem enters the battlefield, you may exile target card from a graveyard.\nMirror Golem has protection from each of the exiled card's card types. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)"
-Seat of the Synod,0.0,None,['U'],None,"['Artifact', 'Land']",None,Common,MRD,None,None,None,(Seat of the Synod isn't a spell.)\n{T}: Add {U}.
-Mask of Memory,2.0,None,None,None,['Artifact'],['Equipment'],Uncommon,MRD,None,None,None,"Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
-Great Furnace,0.0,None,['R'],None,"['Artifact', 'Land']",None,Common,MRD,None,None,None,{T}: Add {R}.
-Loxodon Warhammer,3.0,None,None,None,['Artifact'],['Equipment'],Uncommon,MRD,None,None,None,Equipped creature gets +3/+0 and has trample and lifelink.\nEquip {3}
-Glimmervoid,0.0,None,None,None,['Land'],None,Rare,MRD,None,None,None,"At the beginning of the end step, if you control no artifacts, sacrifice Glimmervoid.\n{T}: Add one mana of any color."
-Mindslaver,6.0,None,None,['Legendary'],['Artifact'],None,Rare,MRD,None,None,None,"{4}, {T}, Sacrifice Mindslaver: You control target player during that player's next turn. (You see all cards that player could see and make all decisions for the player.)"
-Cloudpost,0.0,None,None,None,['Land'],['Locus'],Common,MRD,None,None,None,Cloudpost enters the battlefield tapped.\n{T}: Add {C} for each Locus on the battlefield.
-Mind's Eye,5.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"Whenever an opponent draws a card, you may pay {1}. If you do, draw a card."
-Blinkmoth Well,0.0,None,None,None,['Land'],None,Uncommon,MRD,None,None,None,"{T}: Add {C}.\n{2}, {T}: Tap target noncreature artifact."
-Mesmeric Orb,2.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"Whenever a permanent becomes untapped, that permanent's controller mills a card."
-Ancient Den,0.0,None,['W'],None,"['Artifact', 'Land']",None,Common,MRD,None,None,None,{T}: Add {W}.
-Lodestone Myr,4.0,None,None,None,"['Artifact', 'Creature']",['Myr'],Rare,MRD,2,2,None,Trample\nTap an untapped artifact you control: Lodestone Myr gets +1/+1 until end of turn.
-Yotian Soldier,3.0,None,None,None,"['Artifact', 'Creature']",['Soldier'],Common,MRD,1,4,None,Vigilance
-Lightning Greaves,2.0,None,None,None,['Artifact'],['Equipment'],Uncommon,MRD,None,None,None,Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}
-Worldslayer,5.0,None,None,None,['Artifact'],['Equipment'],Rare,MRD,None,None,None,"Whenever equipped creature deals combat damage to a player, destroy all permanents other than Worldslayer.\nEquip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)"
-Lightning Coils,3.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"Whenever a nontoken creature you control dies, put a charge counter on Lightning Coils.\nAt the beginning of your upkeep, if Lightning Coils has five or more charge counters on it, remove all of them from it and create that many 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step."
-Wizard Replica,3.0,None,['U'],None,"['Artifact', 'Creature']",['Wizard'],Common,MRD,1,3,None,"Flying\n{U}, Sacrifice Wizard Replica: Counter target spell unless its controller pays {2}."
-Lifespark Spellbomb,1.0,None,['G'],None,['Artifact'],None,Common,MRD,None,None,None,"{G}, Sacrifice Lifespark Spellbomb: Until end of turn, target land becomes a 3/3 creature that's still a land.\n{1}, Sacrifice Lifespark Spellbomb: Draw a card."
-Welding Jar,0.0,None,None,None,['Artifact'],None,Common,MRD,None,None,None,Sacrifice Welding Jar: Regenerate target artifact.
-Liar's Pendulum,1.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"{2}, {T}: Choose a card name. Target opponent guesses whether a card with that name is in your hand. You may reveal your hand. If you do and your opponent guessed wrong, draw a card."
-Vulshok Gauntlets,2.0,None,None,None,['Artifact'],['Equipment'],Common,MRD,None,None,None,Equipped creature gets +4/+2 and doesn't untap during its controller's untap step.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
-Leveler,5.0,None,None,None,"['Artifact', 'Creature']",['Juggernaut'],Rare,MRD,10,10,None,"When Leveler enters the battlefield, exile all cards from your library."
-Vulshok Battlegear,3.0,None,None,None,['Artifact'],['Equipment'],Uncommon,MRD,None,None,None,Equipped creature gets +3/+3.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
-Leonin Sun Standard,2.0,None,['W'],None,['Artifact'],None,Rare,MRD,None,None,None,{1}{W}: Creatures you control get +1/+1 until end of turn.
-Vorrac Battlehorns,2.0,None,None,None,['Artifact'],['Equipment'],Common,MRD,None,None,None,Equipped creature has trample and can't be blocked by more than one creature.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
-Leonin Scimitar,1.0,None,None,None,['Artifact'],['Equipment'],Common,MRD,None,None,None,Equipped creature gets +1/+1.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
-Viridian Longbow,1.0,None,None,None,['Artifact'],['Equipment'],Common,MRD,None,None,None,"Equipped creature has ""{T}: This creature deals 1 damage to any target.""\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)"
-Leonin Bladetrap,3.0,None,None,None,['Artifact'],None,Uncommon,MRD,None,None,None,"Flash (You may cast this spell any time you could cast an instant.)\n{2}, Sacrifice Leonin Bladetrap: It deals 2 damage to each attacking creature without flying."
-Triskelion,6.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Rare,MRD,1,1,None,Triskelion enters the battlefield with three +1/+1 counters on it.\nRemove a +1/+1 counter from Triskelion: It deals 1 damage to any target.
-Leaden Myr,2.0,None,['B'],None,"['Artifact', 'Creature']",['Myr'],Common,MRD,1,1,None,{T}: Add {B}.
-Tower of Murmurs,4.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"{8}, {T}: Target player mills eight cards."
-Krark's Thumb,2.0,None,None,['Legendary'],['Artifact'],None,Rare,MRD,None,None,None,"If you would flip a coin, instead flip two coins and ignore one."
-Tower of Fortunes,4.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"{8}, {T}: Draw four cards."
-Jinxed Choker,3.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"At the beginning of your end step, target opponent gains control of Jinxed Choker and puts a charge counter on it.\nAt the beginning of your upkeep, Jinxed Choker deals damage to you equal to the number of charge counters on it.\n{3}: Put a charge counter on Jinxed Choker or remove one from it."
-Tower of Eons,4.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"{8}, {T}: You gain 10 life."
-Isochron Scepter,2.0,None,None,None,['Artifact'],None,Uncommon,MRD,None,None,None,"Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with mana value 2 or less from your hand.\n{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost."
-Tower of Champions,4.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"{8}, {T}: Target creature gets +6/+6 until end of turn."
-Iron Myr,2.0,None,['R'],None,"['Artifact', 'Creature']",['Myr'],Common,MRD,1,1,None,{T}: Add {R}.
-Tooth of Chiss-Goria,3.0,None,None,None,['Artifact'],None,Common,MRD,None,None,None,Flash\nAffinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\n{T}: Target creature gets +1/+0 until end of turn.
-Icy Manipulator,4.0,None,None,None,['Artifact'],None,Uncommon,MRD,None,None,None,"{1}, {T}: Tap target artifact, creature, or land."
-Titanium Golem,5.0,None,['W'],None,"['Artifact', 'Creature']",['Golem'],Common,MRD,3,3,None,{1}{W}: Titanium Golem gains first strike until end of turn.
-Hematite Golem,4.0,None,['R'],None,"['Artifact', 'Creature']",['Golem'],Common,MRD,1,4,None,{1}{R}: Hematite Golem gets +2/+0 until end of turn.
-Timesifter,5.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"At the beginning of each upkeep, each player exiles the top card of their library. The player who exiled the card with the highest mana value takes an extra turn after this one. If two or more players' cards are tied for highest, the tied players repeat this process until the tie is broken."
-Heartwood Shard,3.0,None,['G'],None,['Artifact'],None,Uncommon,MRD,None,None,None,"{3}, {T} or {G}, {T}: Target creature gains trample until end of turn."
-Thought Prison,5.0,None,None,None,['Artifact'],None,Uncommon,MRD,None,None,None,"Imprint — When Thought Prison enters the battlefield, you may have target player reveal their hand. If you do, choose a nonland card from it and exile that card.\nWhenever a player casts a spell that shares a color or mana value with the exiled card, Thought Prison deals 2 damage to that player."
-Grid Monitor,4.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Rare,MRD,4,6,None,You can't cast creature spells.
-Tel-Jilad Stylus,1.0,None,None,None,['Artifact'],None,Uncommon,MRD,None,None,None,{T}: Put target permanent you own on the bottom of your library.
-Granite Shard,3.0,None,['R'],None,['Artifact'],None,Uncommon,MRD,None,None,None,"{3}, {T} or {R}, {T}: Granite Shard deals 1 damage to any target."
-Tangleroot,3.0,None,['G'],None,['Artifact'],None,Rare,MRD,None,None,None,"Whenever a player casts a creature spell, that player adds {G}."
-Golem-Skin Gauntlets,1.0,None,None,None,['Artifact'],['Equipment'],Uncommon,MRD,None,None,None,Equipped creature gets +1/+0 for each Equipment attached to it.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
-Tanglebloom,1.0,None,None,None,['Artifact'],None,Common,MRD,None,None,None,"{1}, {T}: You gain 1 life."
-Gold Myr,2.0,None,['W'],None,"['Artifact', 'Creature']",['Myr'],Common,MRD,1,1,None,{T}: Add {W}.
-Talisman of Unity,2.0,None,"['G', 'W']",None,['Artifact'],None,Uncommon,MRD,None,None,None,{T}: Add {C}.\n{T}: Add {G} or {W}. Talisman of Unity deals 1 damage to you.
-Goblin War Wagon,4.0,None,None,None,"['Artifact', 'Creature']",['Juggernaut'],Common,MRD,3,3,None,"Goblin War Wagon doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {2}. If you do, untap Goblin War Wagon."
-Talisman of Progress,2.0,None,"['U', 'W']",None,['Artifact'],None,Uncommon,MRD,None,None,None,{T}: Add {C}.\n{T}: Add {W} or {U}. Talisman of Progress deals 1 damage to you.
-Goblin Replica,3.0,None,['R'],None,"['Artifact', 'Creature']",['Goblin'],Common,MRD,2,2,None,"{3}{R}, Sacrifice Goblin Replica: Destroy target artifact."
-Talisman of Indulgence,2.0,None,"['B', 'R']",None,['Artifact'],None,Uncommon,MRD,None,None,None,{T}: Add {C}.\n{T}: Add {B} or {R}. Talisman of Indulgence deals 1 damage to you.
-Goblin Dirigible,6.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Uncommon,MRD,4,4,None,"Flying\nGoblin Dirigible doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap Goblin Dirigible."
-Talisman of Impulse,2.0,None,"['G', 'R']",None,['Artifact'],None,Uncommon,MRD,None,None,None,{T}: Add {C}.\n{T}: Add {R} or {G}. Talisman of Impulse deals 1 damage to you.
-Goblin Charbelcher,4.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"{3}, {T}: Reveal cards from the top of your library until you reveal a land card. Goblin Charbelcher deals damage equal to the number of nonland cards revealed this way to any target. If the revealed land card was a Mountain, Goblin Charbelcher deals double that damage instead. Put the revealed cards on the bottom of your library in any order."
-Talisman of Dominance,2.0,None,"['B', 'U']",None,['Artifact'],None,Uncommon,MRD,None,None,None,{T}: Add {C}.\n{T}: Add {U} or {B}. Talisman of Dominance deals 1 damage to you.
-Gilded Lotus,5.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,{T}: Add three mana of any one color.
-Synod Sanctum,1.0,None,None,None,['Artifact'],None,Uncommon,MRD,None,None,None,"{2}, {T}: Exile target permanent you control.\n{2}, Sacrifice Synod Sanctum: Return all cards exiled with Synod Sanctum to the battlefield under your control."
-Gate to the Aether,6.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"At the beginning of each player's upkeep, that player reveals the top card of their library. If it's an artifact, creature, enchantment, or land card, the player may put it onto the battlefield."
-Sword of Kaldra,4.0,None,None,['Legendary'],['Artifact'],['Equipment'],Rare,MRD,None,None,None,"Equipped creature gets +5/+5.\nWhenever equipped creature deals damage to a creature, exile that creature. (Exile it only if it's still on the battlefield.)\nEquip {4} ({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)"
-Galvanic Key,2.0,None,None,None,['Artifact'],None,Common,MRD,None,None,None,"Flash\n{3}, {T}: Untap target artifact."
-Sunbeam Spellbomb,1.0,None,['W'],None,['Artifact'],None,Common,MRD,None,None,None,"{W}, Sacrifice Sunbeam Spellbomb: You gain 5 life.\n{1}, Sacrifice Sunbeam Spellbomb: Draw a card."
-Frogmite,4.0,None,None,None,"['Artifact', 'Creature']",['Frog'],Common,MRD,2,2,None,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
-Sun Droplet,2.0,None,None,None,['Artifact'],None,Uncommon,MRD,None,None,None,"Whenever you're dealt damage, put that many charge counters on Sun Droplet.\nAt the beginning of each upkeep, you may remove a charge counter from Sun Droplet. If you do, you gain 1 life."
-Fireshrieker,3.0,None,None,None,['Artifact'],['Equipment'],Uncommon,MRD,None,None,None,Equipped creature has double strike. (It deals both first-strike and regular combat damage.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
-Steel Wall,1.0,None,None,None,"['Artifact', 'Creature']",['Wall'],Common,MRD,0,4,None,Defender (This creature can't attack.)
-Farsight Mask,5.0,None,None,None,['Artifact'],None,Uncommon,MRD,None,None,None,"Whenever a source an opponent controls deals damage to you, if Farsight Mask is untapped, you may draw a card."
-Spellweaver Helix,3.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"Imprint — When Spellweaver Helix enters the battlefield, you may exile two target sorcery cards from a single graveyard.\nWhenever a player casts a card, if it has the same name as one of the cards exiled with Spellweaver Helix, you may copy the other. If you do, you may cast the copy without paying its mana cost."
-Extraplanar Lens,3.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"Imprint — When Extraplanar Lens enters the battlefield, you may exile target land you control.\nWhenever a land with the same name as the exiled card is tapped for mana, its controller adds one mana of any type that land produced."
-Soul Foundry,4.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"Imprint — When Soul Foundry enters the battlefield, you may exile a creature card from your hand.\n{X}, {T}: Create a token that's a copy of the exiled card. X is the mana value of that card."
-Empyrial Plate,2.0,None,None,None,['Artifact'],['Equipment'],Rare,MRD,None,None,None,Equipped creature gets +1/+1 for each card in your hand.\nEquip {2}
-Solemn Simulacrum,4.0,None,None,None,"['Artifact', 'Creature']",['Golem'],Rare,MRD,2,2,None,"When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.\nWhen Solemn Simulacrum dies, you may draw a card."
-Elf Replica,3.0,None,['G'],None,"['Artifact', 'Creature']",['Elf'],Common,MRD,2,2,None,"{1}{G}, Sacrifice Elf Replica: Destroy target enchantment."
-Soldier Replica,3.0,None,['W'],None,"['Artifact', 'Creature']",['Soldier'],Common,MRD,1,3,None,"{1}{W}, Sacrifice Soldier Replica: It deals 3 damage to target attacking or blocking creature."
-Duskworker,4.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Uncommon,MRD,2,2,None,"Whenever Duskworker becomes blocked, regenerate it.\n{3}: Duskworker gets +1/+0 until end of turn."
-Slagwurm Armor,1.0,None,None,None,['Artifact'],['Equipment'],Common,MRD,None,None,None,Equipped creature gets +0/+6.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
-Duplicant,6.0,None,None,None,"['Artifact', 'Creature']",['Shapeshifter'],Rare,MRD,2,4,None,"Imprint — When Duplicant enters the battlefield, you may exile target nontoken creature.\nAs long as a card exiled with Duplicant is a creature card, Duplicant has the power, toughness, and creature types of the last creature card exiled with Duplicant. It's still a Shapeshifter."
-Skeleton Shard,3.0,None,['B'],None,['Artifact'],None,Uncommon,MRD,None,None,None,"{3}, {T} or {B}, {T}: Return target artifact creature card from your graveyard to your hand."
-Silver Myr,2.0,None,['U'],None,"['Artifact', 'Creature']",['Myr'],Common,MRD,1,1,None,{T}: Add {U}.
-Dross Scorpion,4.0,None,None,None,"['Artifact', 'Creature']",['Scorpion'],Common,MRD,3,1,None,"Whenever Dross Scorpion or another artifact creature dies, you may untap target artifact."
-Serum Tank,3.0,None,None,None,['Artifact'],None,Uncommon,MRD,None,None,None,"Whenever Serum Tank or another artifact enters the battlefield, put a charge counter on Serum Tank.\n{3}, {T}, Remove a charge counter from Serum Tank: Draw a card."
-Dragon Blood,3.0,None,None,None,['Artifact'],None,Uncommon,MRD,None,None,None,"{3}, {T}: Put a +1/+1 counter on target creature."
-Scythe of the Wretched,2.0,None,None,None,['Artifact'],['Equipment'],Rare,MRD,None,None,None,"Equipped creature gets +2/+2.\nWhenever a creature dealt damage by equipped creature this turn dies, return that card to the battlefield under your control. Attach Scythe of the Wretched to that creature.\nEquip {4}"
-Dead-Iron Sledge,1.0,None,None,None,['Artifact'],['Equipment'],Uncommon,MRD,None,None,None,"Whenever equipped creature blocks or becomes blocked by a creature, destroy both creatures.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)"
-Sculpting Steel,3.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,You may have Sculpting Steel enter the battlefield as a copy of any artifact on the battlefield.
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,MRD,None,None,None,({T}: Add {R}.)
-Damping Matrix,3.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,Activated abilities of artifacts and creatures can't be activated unless they're mana abilities.
-Scrabbling Claws,1.0,None,None,None,['Artifact'],None,Uncommon,MRD,None,None,None,"{T}: Target player exiles a card from their graveyard.\n{1}, Sacrifice Scrabbling Claws: Exile target card from a graveyard. Draw a card."
-Culling Scales,3.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"At the beginning of your upkeep, destroy target nonland permanent with the lowest mana value. (If two or more permanents are tied for lowest, target any one of them.)"
-Scale of Chiss-Goria,3.0,None,None,None,['Artifact'],None,Common,MRD,None,None,None,Flash\nAffinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\n{T}: Target creature gets +0/+1 until end of turn.
-Crystal Shard,3.0,None,['U'],None,['Artifact'],None,Uncommon,MRD,None,None,None,"{3}, {T} or {U}, {T}: Return target creature to its owner's hand unless its controller pays {1}."
-Rustspore Ram,4.0,None,None,None,"['Artifact', 'Creature']",['Sheep'],Uncommon,MRD,1,3,None,"When Rustspore Ram enters the battlefield, destroy target Equipment."
-Copper Myr,2.0,None,['G'],None,"['Artifact', 'Creature']",['Myr'],Common,MRD,1,1,None,{T}: Add {G}.
-Rust Elemental,4.0,None,None,None,"['Artifact', 'Creature']",['Elemental'],Uncommon,MRD,4,4,None,"Flying\nAt the beginning of your upkeep, sacrifice an artifact other than Rust Elemental. If you can't, tap Rust Elemental and you lose 4 life."
-Cobalt Golem,4.0,None,['U'],None,"['Artifact', 'Creature']",['Golem'],Common,MRD,2,3,None,{1}{U}: Cobalt Golem gains flying until end of turn.
-Quicksilver Fountain,3.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"At the beginning of each player's upkeep, that player puts a flood counter on target non-Island land they control of their choice. That land is an Island for as long as it has a flood counter on it.\nAt the beginning of each end step, if all lands on the battlefield are Islands, remove all flood counters from them."
-Clockwork Vorrac,5.0,None,None,None,"['Artifact', 'Creature']","['Boar', 'Beast']",Uncommon,MRD,0,0,None,"Trample\nClockwork Vorrac enters the battlefield with four +1/+1 counters on it.\nWhenever Clockwork Vorrac attacks or blocks, remove a +1/+1 counter from it at end of combat.\n{T}: Put a +1/+1 counter on Clockwork Vorrac."
-Pyrite Spellbomb,1.0,None,['R'],None,['Artifact'],None,Common,MRD,None,None,None,"{R}, Sacrifice Pyrite Spellbomb: It deals 2 damage to any target.\n{1}, Sacrifice Pyrite Spellbomb: Draw a card."
-Clockwork Dragon,7.0,None,None,None,"['Artifact', 'Creature']",['Dragon'],Rare,MRD,0,0,None,"Flying\nClockwork Dragon enters the battlefield with six +1/+1 counters on it.\nWhenever Clockwork Dragon attacks or blocks, remove a +1/+1 counter from it at end of combat.\n{3}: Put a +1/+1 counter on Clockwork Dragon."
-Psychogenic Probe,2.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"Whenever a spell or ability causes a player to shuffle their library, Psychogenic Probe deals 2 damage to that player."
-Clockwork Condor,4.0,None,None,None,"['Artifact', 'Creature']",['Bird'],Common,MRD,0,0,None,"Flying\nClockwork Condor enters the battlefield with three +1/+1 counters on it.\nWhenever Clockwork Condor attacks or blocks, remove a +1/+1 counter from it at end of combat."
-Proteus Staff,3.0,None,['U'],None,['Artifact'],None,Rare,MRD,None,None,None,"{2}{U}, {T}: Put target creature on the bottom of its owner's library. That creature's controller reveals cards from the top of their library until they reveal a creature card. The player puts that card onto the battlefield and the rest on the bottom of their library in any order. Activate only as a sorcery."
-Clockwork Beetle,1.0,None,None,None,"['Artifact', 'Creature']",['Insect'],Common,MRD,0,0,None,"Clockwork Beetle enters the battlefield with two +1/+1 counters on it.\nWhenever Clockwork Beetle attacks or blocks, remove a +1/+1 counter from it at end of combat."
-Power Conduit,2.0,None,None,None,['Artifact'],None,Uncommon,MRD,None,None,None,"{T}, Remove a counter from a permanent you control: Choose one —\n• Put a charge counter on target artifact.\n• Put a +1/+1 counter on target creature."
-Chrome Mox,0.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"Imprint — When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand.\n{T}: Add one mana of any of the exiled card's colors."
-Platinum Angel,7.0,None,None,None,"['Artifact', 'Creature']",['Angel'],Rare,MRD,4,4,None,Flying\nYou can't lose the game and your opponents can't win the game.
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,MRD,None,None,None,({T}: Add {G}.)
-Chromatic Sphere,1.0,None,None,None,['Artifact'],None,Common,MRD,None,None,None,"{1}, {T}, Sacrifice Chromatic Sphere: Add one mana of any color. Draw a card."
-Pewter Golem,5.0,None,['B'],None,"['Artifact', 'Creature']",['Golem'],Common,MRD,4,2,None,{1}{B}: Regenerate Pewter Golem.
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,MRD,None,None,None,({T}: Add {R}.)
-Bonesplitter,1.0,None,None,None,['Artifact'],['Equipment'],Common,MRD,None,None,None,Equipped creature gets +2/+0.\nEquip {1}
-Pentavus,7.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Rare,MRD,0,0,None,"Pentavus enters the battlefield with five +1/+1 counters on it.\n{1}, Remove a +1/+1 counter from Pentavus: Create a 1/1 colorless Pentavite artifact creature token with flying.\n{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus."
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,MRD,None,None,None,({T}: Add {G}.)
-Blinkmoth Urn,5.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"At the beginning of each player's precombat main phase, if Blinkmoth Urn is untapped, that player adds {C} for each artifact they control."
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,MRD,None,None,None,({T}: Add {G}.)
-Auriok Bladewarden,2.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,MRD,1,1,None,"{T}: Target creature gets +X/+X until end of turn, where X is Auriok Bladewarden's power."
-Banshee's Blade,2.0,None,None,None,['Artifact'],['Equipment'],Uncommon,MRD,None,None,None,"Equipped creature gets +1/+1 for each charge counter on Banshee's Blade.\nWhenever equipped creature deals combat damage, put a charge counter on Banshee's Blade.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)"
-Pearl Shard,3.0,None,['W'],None,['Artifact'],None,Uncommon,MRD,None,None,None,"{3}, {T} or {W}, {T}: Prevent the next 2 damage that would be dealt to any target this turn."
-Altar of Shadows,7.0,None,['B'],None,['Artifact'],None,Rare,MRD,None,None,None,"At the beginning of your precombat main phase, add {B} for each charge counter on Altar of Shadows.\n{7}, {T}: Destroy target creature. Then put a charge counter on Altar of Shadows."
-Ornithopter,0.0,None,None,None,"['Artifact', 'Creature']",['Thopter'],Uncommon,MRD,0,2,None,Flying
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,MRD,None,None,None,({T}: Add {R}.)
-Alpha Myr,2.0,None,None,None,"['Artifact', 'Creature']",['Myr'],Common,MRD,2,1,None,None
-Omega Myr,2.0,None,None,None,"['Artifact', 'Creature']",['Myr'],Common,MRD,1,2,None,None
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,MRD,None,None,None,({T}: Add {R}.)
-Aether Spellbomb,1.0,None,['U'],None,['Artifact'],None,Common,MRD,None,None,None,"{U}, Sacrifice Aether Spellbomb: Return target creature to its owner's hand.\n{1}, Sacrifice Aether Spellbomb: Draw a card."
-Oblivion Stone,3.0,None,None,None,['Artifact'],None,Rare,MRD,None,None,None,"{4}, {T}: Put a fate counter on target permanent.\n{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents."
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,MRD,None,None,None,({T}: Add {G}.)
-Wurmskin Forger,7.0,['Green'],['G'],None,['Creature'],"['Elf', 'Warrior']",Common,MRD,2,2,None,"When Wurmskin Forger enters the battlefield, distribute three +1/+1 counters among one, two, or three target creatures."
-Nuisance Engine,3.0,None,None,None,['Artifact'],None,Uncommon,MRD,None,None,None,"{2}, {T}: Create a 0/1 colorless Pest artifact creature token."
-Nim Replica,3.0,None,['B'],None,"['Artifact', 'Creature']",['Zombie'],Common,MRD,3,1,None,"{2}{B}, Sacrifice Nim Replica: Target creature gets -1/-1 until end of turn."
-Nightmare Lash,4.0,None,None,None,['Artifact'],['Equipment'],Rare,MRD,None,None,None,Equipped creature gets +1/+1 for each Swamp you control.\nEquip—Pay 3 life. (Pay 3 life: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
-Neurok Hoversail,1.0,None,None,None,['Artifact'],['Equipment'],Common,MRD,None,None,None,Equipped creature has flying.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Temporal Cascade,{5}{U}{U},7.0,['U'],['U'],Sorcery,,,Rare,Choose one —\n• Each player shuffles their hand and graveyard into their library.\n• Each player draws seven cards.\nEntwine {2} (Choose both if you pay the entwine cost.),52,,,,MRD,Mirrodin
+Steel Wall,{1},1.0,,,Artifact Creature — Wall,,['Wall'],Common,Defender (This creature can't attack.),248,0,4,,MRD,Mirrodin
+Seat of the Synod,,0.0,,['U'],Artifact Land,,,Common,{T}: Add {U}.,283,,,,MRD,Mirrodin
+Soul Foundry,{4},4.0,,,Artifact,,,Rare,"Imprint — When Soul Foundry enters the battlefield, you may exile a creature card from your hand.\n{X}, {T}: Create a token that's a copy of the exiled card. X is the mana value of that card.",246,,,,MRD,Mirrodin
+Luminous Angel,{4}{W}{W}{W},7.0,['W'],['W'],Creature — Angel,,['Angel'],Rare,"Flying\nAt the beginning of your upkeep, you may create a 1/1 white Spirit creature token with flying.",15,4,4,,MRD,Mirrodin
+Goblin Charbelcher,{4},4.0,,,Artifact,,,Rare,"{3}, {T}: Reveal cards from the top of your library until you reveal a land card. Goblin Charbelcher deals damage equal to the number of nonland cards revealed this way to any target. If the revealed land card was a Mountain, Goblin Charbelcher deals double that damage instead. Put the revealed cards on the bottom of your library in any order.",176,,,,MRD,Mirrodin
+Solemn Simulacrum,{4},4.0,,,Artifact Creature — Golem,,['Golem'],Rare,"When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.\nWhen Solemn Simulacrum dies, you may draw a card.",245,2,2,,MRD,Mirrodin
+Sun Droplet,{2},2.0,,,Artifact,,,Uncommon,"Whenever you're dealt damage, put that many charge counters on Sun Droplet.\nAt the beginning of each upkeep, you may remove a charge counter from Sun Droplet. If you do, you gain 1 life.",249,,,,MRD,Mirrodin
+Jinxed Choker,{3},3.0,,,Artifact,,,Rare,"At the beginning of your end step, target opponent gains control of Jinxed Choker and puts a charge counter on it.\nAt the beginning of your upkeep, Jinxed Choker deals damage to you equal to the number of charge counters on it.\n{3}: Put a charge counter on Jinxed Choker or remove one from it.",189,,,,MRD,Mirrodin
+Cloudpost,,0.0,,,Land — Locus,,['Locus'],Common,Cloudpost enters the battlefield tapped.\n{T}: Add {C} for each Locus on the battlefield.,280,,,,MRD,Mirrodin
+Spoils of the Vault,{B},1.0,['B'],['B'],Instant,,,Rare,"Choose a card name. Reveal cards from the top of your library until you reveal a card with that name, then put that card into your hand. Exile all other cards revealed this way, and you lose 1 life for each of the exiled cards.",78,,,,MRD,Mirrodin
+Blinkmoth Well,,0.0,,,Land,,,Uncommon,"{T}: Add {C}.\n{2}, {T}: Tap target noncreature artifact.",279,,,,MRD,Mirrodin
+Lightning Coils,{3},3.0,,,Artifact,,,Rare,"Whenever a nontoken creature you control dies, put a charge counter on Lightning Coils.\nAt the beginning of your upkeep, if Lightning Coils has five or more charge counters on it, remove all of them from it and create that many 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.",198,,,,MRD,Mirrodin
+March of the Machines,{3}{U},4.0,['U'],['U'],Enchantment,,,Rare,Each noncreature artifact is an artifact creature with power and toughness each equal to its mana value. (Equipment that's a creature can't equip a creature.),42,,,,MRD,Mirrodin
+Talisman of Impulse,{2},2.0,,"['G', 'R']",Artifact,,,Uncommon,{T}: Add {C}.\n{T}: Add {R} or {G}. Talisman of Impulse deals 1 damage to you.,254,,,,MRD,Mirrodin
+Rust Elemental,{4},4.0,,,Artifact Creature — Elemental,,['Elemental'],Uncommon,"Flying\nAt the beginning of your upkeep, sacrifice an artifact other than Rust Elemental. If you can't, tap Rust Elemental and you lose 4 life.",234,4,4,,MRD,Mirrodin
+Talisman of Indulgence,{2},2.0,,"['B', 'R']",Artifact,,,Uncommon,{T}: Add {C}.\n{T}: Add {B} or {R}. Talisman of Indulgence deals 1 damage to you.,255,,,,MRD,Mirrodin
+Awe Strike,{W},1.0,['W'],['W'],Instant,,,Common,"The next time target creature would deal damage this turn, prevent that damage. You gain life equal to the damage prevented this way.",6,,,,MRD,Mirrodin
+Loxodon Peacekeeper,{1}{W},2.0,['W'],['W'],Creature — Elephant Soldier,,"['Elephant', 'Soldier']",Rare,"At the beginning of your upkeep, the player with the lowest life total gains control of Loxodon Peacekeeper. If two or more players are tied for lowest life total, you choose one of them, and that player gains control of Loxodon Peacekeeper.",13,4,4,,MRD,Mirrodin
+Bottle Gnomes,{3},3.0,,,Artifact Creature — Gnome,,['Gnome'],Uncommon,Sacrifice Bottle Gnomes: You gain 3 life.,148,1,3,,MRD,Mirrodin
+Wizard Replica,{3},3.0,,['U'],Artifact Creature — Wizard,,['Wizard'],Common,"Flying\n{U}, Sacrifice Wizard Replica: Counter target spell unless its controller pays {2}.",275,1,3,,MRD,Mirrodin
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),297,,,,MRD,Mirrodin
+Talisman of Dominance,{2},2.0,,"['B', 'U']",Artifact,,,Uncommon,{T}: Add {C}.\n{T}: Add {U} or {B}. Talisman of Dominance deals 1 damage to you.,253,,,,MRD,Mirrodin
+Rustspore Ram,{4},4.0,,,Artifact Creature — Sheep,,['Sheep'],Uncommon,"When Rustspore Ram enters the battlefield, destroy target Equipment.",235,1,3,,MRD,Mirrodin
+Second Sunrise,{1}{W}{W},3.0,['W'],['W'],Instant,,,Rare,"Each player returns to the battlefield all artifact, creature, enchantment, and land cards in their graveyard that were put there from the battlefield this turn.",20,,,,MRD,Mirrodin
+Dross Prowler,{2}{B},3.0,['B'],['B'],Creature — Zombie,,['Zombie'],Common,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.),64,2,1,,MRD,Mirrodin
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),287,,,,MRD,Mirrodin
+Fractured Loyalty,{1}{R},2.0,['R'],['R'],Enchantment — Aura,,['Aura'],Uncommon,"Enchant creature\nWhenever enchanted creature becomes the target of a spell or ability, that spell or ability's controller gains control of that creature. (This effect lasts indefinitely.)",93,,,,MRD,Mirrodin
+Leonin Bladetrap,{3},3.0,,,Artifact,,,Uncommon,"Flash (You may cast this spell any time you could cast an instant.)\n{2}, Sacrifice Leonin Bladetrap: It deals 2 damage to each attacking creature without flying.",192,,,,MRD,Mirrodin
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),295,,,,MRD,Mirrodin
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),294,,,,MRD,Mirrodin
+Barter in Blood,{2}{B}{B},4.0,['B'],['B'],Sorcery,,,Uncommon,Each player sacrifices two creatures.,57,,,,MRD,Mirrodin
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),296,,,,MRD,Mirrodin
+Confusion in the Ranks,{3}{R}{R},5.0,['R'],['R'],Enchantment,,,Rare,"Whenever an artifact, creature, or enchantment enters the battlefield, its controller chooses target permanent another player controls that shares a card type with it. Exchange control of those permanents.",87,,,,MRD,Mirrodin
+Grid Monitor,{4},4.0,,,Artifact Creature — Construct,,['Construct'],Rare,You can't cast creature spells.,183,4,6,,MRD,Mirrodin
+Brown Ouphe,{G},1.0,['G'],['G'],Creature — Ouphe,,['Ouphe'],Uncommon,"{1}{G}, {T}: Counter target activated ability from an artifact source. (Mana abilities can't be targeted.)",115,1,1,,MRD,Mirrodin
+Soldier Replica,{3},3.0,,['W'],Artifact Creature — Soldier,,['Soldier'],Common,"{1}{W}, Sacrifice Soldier Replica: It deals 3 damage to target attacking or blocking creature.",244,1,3,,MRD,Mirrodin
+Chrome Mox,{0},0.0,,,Artifact,,,Rare,"Imprint — When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand.\n{T}: Add one mana of any of the exiled card's colors.",152,,,,MRD,Mirrodin
+Necrogen Spellbomb,{1},1.0,,['B'],Artifact,,,Common,"{B}, Sacrifice Necrogen Spellbomb: Target player discards a card.\n{1}, Sacrifice Necrogen Spellbomb: Draw a card.",216,,,,MRD,Mirrodin
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),293,,,,MRD,Mirrodin
+Tel-Jilad Stylus,{1},1.0,,,Artifact,,,Uncommon,{T}: Put target permanent you own on the bottom of your library.,260,,,,MRD,Mirrodin
+Woebearer,{4}{B},5.0,['B'],['B'],Creature — Zombie,,['Zombie'],Uncommon,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever Woebearer deals combat damage to a player, you may return target creature card from your graveyard to your hand.",83,2,3,,MRD,Mirrodin
+"Bosh, Iron Golem",{8},8.0,,['R'],Legendary Artifact Creature — Golem,['Legendary'],['Golem'],Rare,"Trample\n{3}{R}, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's mana value to any target.",147,6,7,,MRD,Mirrodin
+Gold Myr,{2},2.0,,['W'],Artifact Creature — Myr,,['Myr'],Common,{T}: Add {W}.,180,1,1,,MRD,Mirrodin
+Neurok Familiar,{1}{U},2.0,['U'],['U'],Creature — Bird,,['Bird'],Common,"Flying\nWhen Neurok Familiar enters the battlefield, reveal the top card of your library. If it's an artifact card, put it into your hand. Otherwise, put it into your graveyard.",43,1,1,,MRD,Mirrodin
+Leonin Sun Standard,{2},2.0,,['W'],Artifact,,,Rare,{1}{W}: Creatures you control get +1/+1 until end of turn.,194,,,,MRD,Mirrodin
+Vault of Whispers,,0.0,,['B'],Artifact Land,,,Common,{T}: Add {B}.,286,,,,MRD,Mirrodin
+Goblin Striker,{1}{R},2.0,['R'],['R'],Creature — Goblin Berserker,,"['Goblin', 'Berserker']",Common,"First strike, haste",94,1,1,,MRD,Mirrodin
+Glissa Sunseeker,{2}{G}{G},4.0,['G'],['G'],Legendary Creature — Elf Warrior,['Legendary'],"['Elf', 'Warrior']",Rare,First strike\n{T}: Destroy target artifact if its mana value is equal to the amount of unspent mana you have.,120,3,2,,MRD,Mirrodin
+Sunbeam Spellbomb,{1},1.0,,['W'],Artifact,,,Common,"{W}, Sacrifice Sunbeam Spellbomb: You gain 5 life.\n{1}, Sacrifice Sunbeam Spellbomb: Draw a card.",250,,,,MRD,Mirrodin
+Platinum Angel,{7},7.0,,,Artifact Creature — Angel,,['Angel'],Rare,Flying\nYou can't lose the game and your opponents can't win the game.,228,4,4,,MRD,Mirrodin
+Thought Prison,{5},5.0,,,Artifact,,,Uncommon,"Imprint — When Thought Prison enters the battlefield, you may have target player reveal their hand. If you do, choose a nonland card from it and exile that card.\nWhenever a player casts a spell that shares a color or mana value with the exiled card, Thought Prison deals 2 damage to that player.",261,,,,MRD,Mirrodin
+Contaminated Bond,{1}{B},2.0,['B'],['B'],Enchantment — Aura,,['Aura'],Common,"Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nWhenever enchanted creature attacks or blocks, its controller loses 3 life.",61,,,,MRD,Mirrodin
+Tangleroot,{3},3.0,,['G'],Artifact,,,Rare,"Whenever a player casts a creature spell, that player adds {G}.",259,,,,MRD,Mirrodin
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),298,,,,MRD,Mirrodin
+Pewter Golem,{5},5.0,,['B'],Artifact Creature — Golem,,['Golem'],Common,{1}{B}: Regenerate Pewter Golem.,227,4,2,,MRD,Mirrodin
+Wurmskin Forger,{5}{G}{G},7.0,['G'],['G'],Creature — Elf Warrior,,"['Elf', 'Warrior']",Common,"When Wurmskin Forger enters the battlefield, distribute three +1/+1 counters among one, two, or three target creatures.",140,2,2,,MRD,Mirrodin
+Ancient Den,,0.0,,['W'],Artifact Land,,,Common,{T}: Add {W}.,278,,,,MRD,Mirrodin
+Molder Slug,{3}{G}{G},5.0,['G'],['G'],Creature — Slug Beast,,"['Slug', 'Beast']",Rare,"At the beginning of each player's upkeep, that player sacrifices an artifact.",125,4,6,,MRD,Mirrodin
+Tempest of Light,{2}{W},3.0,['W'],['W'],Instant,,,Uncommon,Destroy all enchantments.,28,,,,MRD,Mirrodin
+Tanglebloom,{1},1.0,,,Artifact,,,Common,"{1}, {T}: You gain 1 life.",258,,,,MRD,Mirrodin
+Incite War,{2}{R},3.0,['R'],['R'],Instant,,,Common,Choose one —\n• Creatures target player controls attack this turn if able.\n• Creatures you control gain first strike until end of turn.\nEntwine {2} (Choose both if you pay the entwine cost.),96,,,,MRD,Mirrodin
+Battlegrowth,{G},1.0,['G'],['G'],Instant,,,Common,Put a +1/+1 counter on target creature.,113,,,,MRD,Mirrodin
+Spellweaver Helix,{3},3.0,,,Artifact,,,Rare,"Imprint — When Spellweaver Helix enters the battlefield, you may exile two target sorcery cards from a single graveyard.\nWhenever a player casts a card, if it has the same name as one of the cards exiled with Spellweaver Helix, you may copy the other. If you do, you may cast the copy without paying its mana cost.",247,,,,MRD,Mirrodin
+Shared Fate,{4}{U},5.0,['U'],['U'],Enchantment,,,Rare,"If a player would draw a card, that player exiles the top card of one of their opponents' libraries face down instead.\nEach player may look at cards they exiled with Shared Fate, and they may play lands and cast spells from among those cards.",49,,,,MRD,Mirrodin
+Sword of Kaldra,{4},4.0,,,Legendary Artifact — Equipment,['Legendary'],['Equipment'],Rare,"Equipped creature gets +5/+5.\nWhenever equipped creature deals damage to a creature, exile that creature. (Exile it only if it's still on the battlefield.)\nEquip {4} ({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",251,,,,MRD,Mirrodin
+Vulshok Gauntlets,{2},2.0,,,Artifact — Equipment,,['Equipment'],Common,Equipped creature gets +4/+2 and doesn't untap during its controller's untap step.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),273,,,,MRD,Mirrodin
+Cathodion,{3},3.0,,,Artifact Creature — Construct,,['Construct'],Uncommon,"When Cathodion dies, add {C}{C}{C}.",149,3,3,,MRD,Mirrodin
+Dream's Grip,{U},1.0,['U'],['U'],Instant,,,Common,Choose one —\n• Tap target permanent.\n• Untap target permanent.\nEntwine {1} (Choose both if you pay the entwine cost.),34,,,,MRD,Mirrodin
+Soul Nova,{3}{W}{W},5.0,['W'],['W'],Instant,,,Uncommon,Exile target attacking creature and all Equipment attached to it.,25,,,,MRD,Mirrodin
+Talisman of Unity,{2},2.0,,"['G', 'W']",Artifact,,,Uncommon,{T}: Add {C}.\n{T}: Add {G} or {W}. Talisman of Unity deals 1 damage to you.,257,,,,MRD,Mirrodin
+Slith Bloodletter,{B}{B},2.0,['B'],['B'],Creature — Slith,,['Slith'],Uncommon,"Whenever Slith Bloodletter deals combat damage to a player, put a +1/+1 counter on it.\n{1}{B}: Regenerate Slith Bloodletter.",77,1,1,,MRD,Mirrodin
+Hematite Golem,{4},4.0,,['R'],Artifact Creature — Golem,,['Golem'],Common,{1}{R}: Hematite Golem gets +2/+0 until end of turn.,185,1,4,,MRD,Mirrodin
+Chimney Imp,{4}{B},5.0,['B'],['B'],Creature — Imp,,['Imp'],Common,"Flying\nWhen Chimney Imp dies, target opponent puts a card from their hand on top of their library.",59,1,2,,MRD,Mirrodin
+Goblin War Wagon,{4},4.0,,,Artifact Creature — Juggernaut,,['Juggernaut'],Common,"Goblin War Wagon doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {2}. If you do, untap Goblin War Wagon.",179,3,3,,MRD,Mirrodin
+Solar Tide,{4}{W}{W},6.0,['W'],['W'],Sorcery,,,Rare,Choose one —\n• Destroy all creatures with power 2 or less.\n• Destroy all creatures with power 3 or greater.\nEntwine—Sacrifice two lands. (Choose both if you pay the entwine cost.),24,,,,MRD,Mirrodin
+Proteus Staff,{3},3.0,,['U'],Artifact,,,Rare,"{2}{U}, {T}: Put target creature on the bottom of its owner's library. That creature's controller reveals cards from the top of their library until they reveal a creature card. The player puts that card onto the battlefield and the rest on the bottom of their library in any order. Activate only as a sorcery.",230,,,,MRD,Mirrodin
+Timesifter,{5},5.0,,,Artifact,,,Rare,"At the beginning of each upkeep, each player exiles the top card of their library. The player who exiled the card with the highest mana value takes an extra turn after this one. If two or more players' cards are tied for highest, the tied players repeat this process until the tie is broken.",262,,,,MRD,Mirrodin
+Tower of Eons,{4},4.0,,,Artifact,,,Rare,"{8}, {T}: You gain 10 life.",266,,,,MRD,Mirrodin
+Reiver Demon,{4}{B}{B}{B}{B},8.0,['B'],['B'],Creature — Demon,,['Demon'],Rare,"Flying\nWhen Reiver Demon enters the battlefield, if you cast it from your hand, destroy all nonartifact, nonblack creatures. They can't be regenerated.",75,6,6,,MRD,Mirrodin
+Goblin Dirigible,{6},6.0,,,Artifact Creature — Construct,,['Construct'],Uncommon,"Flying\nGoblin Dirigible doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap Goblin Dirigible.",177,4,4,,MRD,Mirrodin
+Forge Armor,{4}{R},5.0,['R'],['R'],Instant,,,Uncommon,"As an additional cost to cast this spell, sacrifice an artifact.\nPut X +1/+1 counters on target creature, where X is the sacrificed artifact's mana value.",92,,,,MRD,Mirrodin
+Heartwood Shard,{3},3.0,,['G'],Artifact,,,Uncommon,"{3}, {T} or {G}, {T}: Target creature gains trample until end of turn.",184,,,,MRD,Mirrodin
+Wall of Blood,{2}{B},3.0,['B'],['B'],Creature — Wall,,['Wall'],Uncommon,Defender (This creature can't attack.)\nPay 1 life: Wall of Blood gets +1/+1 until end of turn.,82,0,2,,MRD,Mirrodin
+Slith Ascendant,{1}{W}{W},3.0,['W'],['W'],Creature — Slith,,['Slith'],Uncommon,"Flying\nWhenever Slith Ascendant deals combat damage to a player, put a +1/+1 counter on it.",23,1,1,,MRD,Mirrodin
+Auriok Transfixer,{W},1.0,['W'],['W'],Creature — Human Scout,,"['Human', 'Scout']",Common,"{W}, {T}: Tap target artifact.",5,1,1,,MRD,Mirrodin
+Sculpting Steel,{3},3.0,,,Artifact,,,Rare,You may have Sculpting Steel enter the battlefield as a copy of any artifact on the battlefield.,238,,,,MRD,Mirrodin
+Loxodon Mender,{5}{W},6.0,['W'],['W'],Creature — Elephant Cleric,,"['Elephant', 'Cleric']",Common,"{W}, {T}: Regenerate target artifact.",12,3,3,,MRD,Mirrodin
+Roar of the Kha,{1}{W},2.0,['W'],['W'],Instant,,,Uncommon,Choose one —\n• Creatures you control get +1/+1 until end of turn.\n• Untap all creatures you control.\nEntwine {1}{W} (Choose both if you pay the entwine cost.),18,,,,MRD,Mirrodin
+Neurok Hoversail,{1},1.0,,,Artifact — Equipment,,['Equipment'],Common,Equipped creature has flying.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),218,,,,MRD,Mirrodin
+Skyhunter Patrol,{2}{W}{W},4.0,['W'],['W'],Creature — Cat Knight,,"['Cat', 'Knight']",Common,"Flying, first strike (This creature can't be blocked except by creatures with flying or reach, and it deals combat damage before creatures without first strike.)",22,2,3,,MRD,Mirrodin
+Leonin Den-Guard,{1}{W},2.0,['W'],['W'],Creature — Cat Soldier,,"['Cat', 'Soldier']",Common,"As long as Leonin Den-Guard is equipped, it gets +1/+1 and has vigilance.",9,1,3,,MRD,Mirrodin
+Viridian Shaman,{2}{G},3.0,['G'],['G'],Creature — Elf Shaman,,"['Elf', 'Shaman']",Uncommon,"When Viridian Shaman enters the battlefield, destroy target artifact.",139,2,2,,MRD,Mirrodin
+Blinkmoth Urn,{5},5.0,,,Artifact,,,Rare,"At the beginning of each player's precombat main phase, if Blinkmoth Urn is untapped, that player adds {C} for each artifact they control.",145,,,,MRD,Mirrodin
+Auriok Steelshaper,{1}{W},2.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Rare,"Equip costs you pay cost {1} less.\nAs long as Auriok Steelshaper is equipped, each creature you control that's a Soldier or a Knight gets +1/+1.",4,1,1,,MRD,Mirrodin
+Welding Jar,{0},0.0,,,Artifact,,,Common,Sacrifice Welding Jar: Regenerate target artifact.,274,,,,MRD,Mirrodin
+Chalice of the Void,{X}{X},0.0,,,Artifact,,,Rare,"Chalice of the Void enters the battlefield with X charge counters on it.\nWhenever a player casts a spell with mana value equal to the number of charge counters on Chalice of the Void, counter that spell.",150,,,,MRD,Mirrodin
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),300,,,,MRD,Mirrodin
+Viridian Longbow,{1},1.0,,,Artifact — Equipment,,['Equipment'],Common,"Equipped creature has ""{T}: This creature deals 1 damage to any target.""\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",270,,,,MRD,Mirrodin
+Golem-Skin Gauntlets,{1},1.0,,,Artifact — Equipment,,['Equipment'],Uncommon,Equipped creature gets +1/+0 for each Equipment attached to it.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),181,,,,MRD,Mirrodin
+Omega Myr,{2},2.0,,,Artifact Creature — Myr,,['Myr'],Common,,223,1,2,,MRD,Mirrodin
+Pearl Shard,{3},3.0,,['W'],Artifact,,,Uncommon,"{3}, {T} or {W}, {T}: Prevent the next 2 damage that would be dealt to any target this turn.",225,,,,MRD,Mirrodin
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),299,,,,MRD,Mirrodin
+Megatog,{4}{R}{R},6.0,['R'],['R'],Creature — Atog,,['Atog'],Rare,Sacrifice an artifact: Megatog gets +3/+3 and gains trample until end of turn.,100,3,4,,MRD,Mirrodin
+One Dozen Eyes,{5}{G},6.0,['G'],['G'],Sorcery,,,Uncommon,Choose one —\n• Create a 5/5 green Beast creature token.\n• Create five 1/1 green Insect creature tokens.\nEntwine {G}{G}{G} (Choose both if you pay the entwine cost.),126,,,,MRD,Mirrodin
+Terror,{1}{B},2.0,['B'],['B'],Instant,,,Common,"Destroy target nonartifact, nonblack creature. It can't be regenerated.",79,,,,MRD,Mirrodin
+Turn to Dust,{G},1.0,['G'],['G'],Instant,,,Common,Destroy target Equipment. Add {G}.,137,,,,MRD,Mirrodin
+Power Conduit,{2},2.0,,,Artifact,,,Uncommon,"{T}, Remove a counter from a permanent you control: Choose one —\n• Put a charge counter on target artifact.\n• Put a +1/+1 counter on target creature.",229,,,,MRD,Mirrodin
+Slith Predator,{G}{G},2.0,['G'],['G'],Creature — Slith,,['Slith'],Uncommon,"Trample\nWhenever Slith Predator deals combat damage to a player, put a +1/+1 counter on it.",129,1,1,,MRD,Mirrodin
+Disciple of the Vault,{B},1.0,['B'],['B'],Creature — Human Cleric,,"['Human', 'Cleric']",Common,"Whenever an artifact is put into a graveyard from the battlefield, you may have target opponent lose 1 life.",62,1,1,,MRD,Mirrodin
+Rustmouth Ogre,{4}{R}{R},6.0,['R'],['R'],Creature — Ogre,,['Ogre'],Uncommon,"Whenever Rustmouth Ogre deals combat damage to a player, you may destroy target artifact that player controls.",103,5,4,,MRD,Mirrodin
+Viridian Joiner,{2}{G},3.0,['G'],['G'],Creature — Elf Druid,,"['Elf', 'Druid']",Common,{T}: Add an amount of {G} equal to Viridian Joiner's power.,138,1,2,,MRD,Mirrodin
+Deconstruct,{2}{G},3.0,['G'],['G'],Sorcery,,,Common,Destroy target artifact. Add {G}{G}{G}.,118,,,,MRD,Mirrodin
+Journey of Discovery,{2}{G},3.0,['G'],['G'],Sorcery,,,Common,"Choose one —\n• Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.\n• You may play up to two additional lands this turn.\nEntwine {2}{G} (Choose both if you pay the entwine cost.)",123,,,,MRD,Mirrodin
+Irradiate,{3}{B},4.0,['B'],['B'],Instant,,,Common,Target creature gets -1/-1 until end of turn for each artifact you control.,67,,,,MRD,Mirrodin
+Leonin Abunas,{3}{W},4.0,['W'],['W'],Creature — Cat Cleric,,"['Cat', 'Cleric']",Rare,Artifacts you control have hexproof. (They can't be the targets of spells or abilities your opponents control.),8,2,5,,MRD,Mirrodin
+Vorrac Battlehorns,{2},2.0,,,Artifact — Equipment,,['Equipment'],Common,Equipped creature has trample and can't be blocked by more than one creature.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),271,,,,MRD,Mirrodin
+Seething Song,{2}{R},3.0,['R'],['R'],Instant,,,Common,Add {R}{R}{R}{R}{R}.,104,,,,MRD,Mirrodin
+Worldslayer,{5},5.0,,,Artifact — Equipment,,['Equipment'],Rare,"Whenever equipped creature deals combat damage to a player, destroy all permanents other than Worldslayer.\nEquip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)",276,,,,MRD,Mirrodin
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),304,,,,MRD,Mirrodin
+Thoughtcast,{4}{U},5.0,['U'],['U'],Sorcery,,,Common,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nDraw two cards.,54,,,,MRD,Mirrodin
+Crystal Shard,{3},3.0,,['U'],Artifact,,,Uncommon,"{3}, {T} or {U}, {T}: Return target creature to its owner's hand unless its controller pays {1}.",159,,,,MRD,Mirrodin
+Domineer,{1}{U}{U},3.0,['U'],['U'],Enchantment — Aura,,['Aura'],Uncommon,Enchant artifact creature\nYou control enchanted artifact creature.,33,,,,MRD,Mirrodin
+Tree of Tales,,0.0,,['G'],Artifact Land,,,Common,{T}: Add {G}.,285,,,,MRD,Mirrodin
+Arc-Slogger,{3}{R}{R},5.0,['R'],['R'],Creature — Beast,,['Beast'],Rare,"{R}, Exile the top ten cards of your library: Arc-Slogger deals 2 damage to any target.",85,4,5,,MRD,Mirrodin
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),305,,,,MRD,Mirrodin
+Icy Manipulator,{4},4.0,,,Artifact,,,Uncommon,"{1}, {T}: Tap target artifact, creature, or land.",186,,,,MRD,Mirrodin
+Blinding Beam,{2}{W},3.0,['W'],['W'],Instant,,,Common,Choose one —\n• Tap two target creatures.\n• Creatures don't untap during target player's next untap step.\nEntwine {1} (Choose both if you pay the entwine cost.),7,,,,MRD,Mirrodin
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),303,,,,MRD,Mirrodin
+Gate to the Aether,{6},6.0,,,Artifact,,,Rare,"At the beginning of each player's upkeep, that player reveals the top card of their library. If it's an artifact, creature, enchantment, or land card, the player may put it onto the battlefield.",174,,,,MRD,Mirrodin
+Nightmare Lash,{4},4.0,,,Artifact — Equipment,,['Equipment'],Rare,Equipped creature gets +1/+1 for each Swamp you control.\nEquip—Pay 3 life. (Pay 3 life: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),219,,,,MRD,Mirrodin
+Fireshrieker,{3},3.0,,,Artifact — Equipment,,['Equipment'],Uncommon,Equipped creature has double strike. (It deals both first-strike and regular combat damage.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),171,,,,MRD,Mirrodin
+Auriok Bladewarden,{1}{W},2.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Uncommon,"{T}: Target creature gets +X/+X until end of turn, where X is Auriok Bladewarden's power.",3,1,1,,MRD,Mirrodin
+Frogmite,{4},4.0,,,Artifact Creature — Frog,,['Frog'],Common,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.),172,2,2,,MRD,Mirrodin
+Mesmeric Orb,{2},2.0,,,Artifact,,,Rare,"Whenever a permanent becomes untapped, that permanent's controller mills a card.",204,,,,MRD,Mirrodin
+Scrabbling Claws,{1},1.0,,,Artifact,,,Uncommon,"{T}: Target player exiles a card from their graveyard.\n{1}, Sacrifice Scrabbling Claws: Exile target card from a graveyard. Draw a card.",237,,,,MRD,Mirrodin
+Silver Myr,{2},2.0,,['U'],Artifact Creature — Myr,,['Myr'],Common,{T}: Add {U}.,241,1,1,,MRD,Mirrodin
+Slith Strider,{1}{U}{U},3.0,['U'],['U'],Creature — Slith,,['Slith'],Uncommon,"Whenever Slith Strider becomes blocked, draw a card.\nWhenever Slith Strider deals combat damage to a player, put a +1/+1 counter on it.",50,1,1,,MRD,Mirrodin
+Scythe of the Wretched,{2},2.0,,,Artifact — Equipment,,['Equipment'],Rare,"Equipped creature gets +2/+2.\nWhenever a creature dealt damage by equipped creature this turn dies, return that card to the battlefield under your control. Attach Scythe of the Wretched to that creature.\nEquip {4}",239,,,,MRD,Mirrodin
+Iron Myr,{2},2.0,,['R'],Artifact Creature — Myr,,['Myr'],Common,{T}: Add {R}.,187,1,1,,MRD,Mirrodin
+Override,{2}{U},3.0,['U'],['U'],Instant,,,Common,Counter target spell unless its controller pays {1} for each artifact you control.,45,,,,MRD,Mirrodin
+Nim Shambler,{2}{B}{B},4.0,['B'],['B'],Creature — Zombie,,['Zombie'],Uncommon,Nim Shambler gets +1/+0 for each artifact you control.\nSacrifice a creature: Regenerate Nim Shambler.,72,2,1,,MRD,Mirrodin
+Tooth and Nail,{5}{G}{G},7.0,['G'],['G'],Sorcery,,,Rare,"Choose one —\n• Search your library for up to two creature cards, reveal them, put them into your hand, then shuffle.\n• Put up to two creature cards from your hand onto the battlefield.\nEntwine {2} (Choose both if you pay the entwine cost.)",134,,,,MRD,Mirrodin
+Inertia Bubble,{1}{U},2.0,['U'],['U'],Enchantment — Aura,,['Aura'],Common,Enchant artifact\nEnchanted artifact doesn't untap during its controller's untap step.,37,,,,MRD,Mirrodin
+Aether Spellbomb,{1},1.0,,['U'],Artifact,,,Common,"{U}, Sacrifice Aether Spellbomb: Return target creature to its owner's hand.\n{1}, Sacrifice Aether Spellbomb: Draw a card.",141,,,,MRD,Mirrodin
+Quicksilver Fountain,{3},3.0,,,Artifact,,,Rare,"At the beginning of each player's upkeep, that player puts a flood counter on target non-Island land they control of their choice. That land is an Island for as long as it has a flood counter on it.\nAt the beginning of each end step, if all lands on the battlefield are Islands, remove all flood counters from them.",233,,,,MRD,Mirrodin
+Fangren Hunter,{3}{G}{G},5.0,['G'],['G'],Creature — Beast,,['Beast'],Common,Trample,119,4,4,,MRD,Mirrodin
+Scale of Chiss-Goria,{3},3.0,,,Artifact,,,Common,Flash\nAffinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\n{T}: Target creature gets +0/+1 until end of turn.,236,,,,MRD,Mirrodin
+Psychic Membrane,{2}{U},3.0,['U'],['U'],Creature — Wall,,['Wall'],Uncommon,"Defender (This creature can't attack.)\nWhenever Psychic Membrane blocks, you may draw a card.",46,0,3,,MRD,Mirrodin
+Nim Devourer,{3}{B}{B},5.0,['B'],['B'],Creature — Zombie,,['Zombie'],Rare,"Nim Devourer gets +1/+0 for each artifact you control.\n{B}{B}: Return Nim Devourer from your graveyard to the battlefield, then sacrifice a creature. Activate only during your upkeep.",70,4,1,,MRD,Mirrodin
+Tower of Champions,{4},4.0,,,Artifact,,,Rare,"{8}, {T}: Target creature gets +6/+6 until end of turn.",265,,,,MRD,Mirrodin
+Regress,{2}{U},3.0,['U'],['U'],Instant,,,Common,Return target permanent to its owner's hand.,48,,,,MRD,Mirrodin
+Hum of the Radix,{2}{G}{G},4.0,['G'],['G'],Enchantment,,,Rare,Each artifact spell costs {1} more to cast for each artifact its controller controls.,122,,,,MRD,Mirrodin
+Lodestone Myr,{4},4.0,,,Artifact Creature — Myr,,['Myr'],Rare,Trample\nTap an untapped artifact you control: Lodestone Myr gets +1/+1 until end of turn.,200,2,2,,MRD,Mirrodin
+Krark-Clan Shaman,{R},1.0,['R'],['R'],Creature — Goblin Shaman,,"['Goblin', 'Shaman']",Common,Sacrifice an artifact: Krark-Clan Shaman deals 1 damage to each creature without flying.,98,1,1,,MRD,Mirrodin
+Flayed Nim,{3}{B},4.0,['B'],['B'],Creature — Skeleton,,['Skeleton'],Uncommon,"Whenever Flayed Nim deals combat damage to a creature, that creature's controller loses that much life.\n{2}{B}: Regenerate Flayed Nim.",65,2,2,,MRD,Mirrodin
+Altar of Shadows,{7},7.0,,['B'],Artifact,,,Rare,"At the beginning of your precombat main phase, add {B} for each charge counter on Altar of Shadows.\n{7}, {T}: Destroy target creature. Then put a charge counter on Altar of Shadows.",143,,,,MRD,Mirrodin
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),302,,,,MRD,Mirrodin
+Mirror Golem,{6},6.0,,,Artifact Creature — Golem,,['Golem'],Uncommon,"Imprint — When Mirror Golem enters the battlefield, you may exile target card from a graveyard.\nMirror Golem has protection from each of the exiled card's card types. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)",208,3,4,,MRD,Mirrodin
+Sylvan Scrying,{1}{G},2.0,['G'],['G'],Sorcery,,,Uncommon,"Search your library for a land card, reveal it, put it into your hand, then shuffle.",130,,,,MRD,Mirrodin
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),290,,,,MRD,Mirrodin
+Taj-Nar Swordsmith,{3}{W},4.0,['W'],['W'],Creature — Cat Soldier,,"['Cat', 'Soldier']",Uncommon,"When Taj-Nar Swordsmith enters the battlefield, you may pay {X}. If you do, search your library for an Equipment card with mana value X or less, put that card onto the battlefield, then shuffle.",27,2,3,,MRD,Mirrodin
+Goblin Replica,{3},3.0,,['R'],Artifact Creature — Goblin,,['Goblin'],Common,"{3}{R}, Sacrifice Goblin Replica: Destroy target artifact.",178,2,2,,MRD,Mirrodin
+Fabricate,{2}{U},3.0,['U'],['U'],Sorcery,,,Uncommon,"Search your library for an artifact card, reveal it, put it into your hand, then shuffle.",35,,,,MRD,Mirrodin
+Predator's Strike,{1}{G},2.0,['G'],['G'],Instant,,,Common,Target creature gets +3/+3 and gains trample until end of turn.,128,,,,MRD,Mirrodin
+Sphere of Purity,{3}{W},4.0,['W'],['W'],Enchantment,,,Common,"If an artifact would deal damage to you, prevent 1 of that damage.",26,,,,MRD,Mirrodin
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),289,,,,MRD,Mirrodin
+Talisman of Progress,{2},2.0,,"['U', 'W']",Artifact,,,Uncommon,{T}: Add {C}.\n{T}: Add {W} or {U}. Talisman of Progress deals 1 damage to you.,256,,,,MRD,Mirrodin
+Quicksilver Elemental,{3}{U}{U},5.0,['U'],['U'],Creature — Elemental,,['Elemental'],Rare,"{U}: Quicksilver Elemental gains all activated abilities of target creature until end of turn. (If any of the abilities use that creature's name, use this creature's name instead.)\nYou may spend blue mana as though it were mana of any color to pay the activation costs of Quicksilver Elemental's abilities.",47,3,4,,MRD,Mirrodin
+Vermiculos,{4}{B},5.0,['B'],['B'],Creature — Horror,,['Horror'],Rare,"Whenever an artifact enters the battlefield, Vermiculos gets +4/+4 until end of turn.",80,1,1,,MRD,Mirrodin
+Disarm,{U},1.0,['U'],['U'],Instant,,,Common,Unattach all Equipment from target creature.,32,,,,MRD,Mirrodin
+Clockwork Vorrac,{5},5.0,,,Artifact Creature — Boar Beast,,"['Boar', 'Beast']",Uncommon,"Trample\nClockwork Vorrac enters the battlefield with four +1/+1 counters on it.\nWhenever Clockwork Vorrac attacks or blocks, remove a +1/+1 counter from it at end of combat.\n{T}: Put a +1/+1 counter on Clockwork Vorrac.",156,0,0,,MRD,Mirrodin
+Troll Ascetic,{1}{G}{G},3.0,['G'],['G'],Creature — Troll Shaman,,"['Troll', 'Shaman']",Rare,Hexproof (This creature can't be the target of spells or abilities your opponents control.)\n{1}{G}: Regenerate Troll Ascetic.,135,3,2,,MRD,Mirrodin
+Synod Sanctum,{1},1.0,,,Artifact,,,Uncommon,"{2}, {T}: Exile target permanent you control.\n{2}, Sacrifice Synod Sanctum: Return all cards exiled with Synod Sanctum to the battlefield under your control.",252,,,,MRD,Mirrodin
+Annul,{U},1.0,['U'],['U'],Instant,,,Common,Counter target artifact or enchantment spell.,29,,,,MRD,Mirrodin
+Leonin Scimitar,{1},1.0,,,Artifact — Equipment,,['Equipment'],Common,Equipped creature gets +1/+1.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.),193,,,,MRD,Mirrodin
+Titanium Golem,{5},5.0,,['W'],Artifact Creature — Golem,,['Golem'],Common,{1}{W}: Titanium Golem gains first strike until end of turn.,263,3,3,,MRD,Mirrodin
+Necrogen Mists,{2}{B},3.0,['B'],['B'],Enchantment,,,Rare,"At the beginning of each player's upkeep, that player discards a card.",69,,,,MRD,Mirrodin
+Atog,{1}{R},2.0,['R'],['R'],Creature — Atog,,['Atog'],Uncommon,Sacrifice an artifact: Atog gets +2/+2 until end of turn.,86,1,2,,MRD,Mirrodin
+Pentavus,{7},7.0,,,Artifact Creature — Construct,,['Construct'],Rare,"Pentavus enters the battlefield with five +1/+1 counters on it.\n{1}, Remove a +1/+1 counter from Pentavus: Create a 1/1 colorless Pentavite artifact creature token with flying.\n{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus.",226,0,0,,MRD,Mirrodin
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),288,,,,MRD,Mirrodin
+Leonin Elder,{W},1.0,['W'],['W'],Creature — Cat Cleric,,"['Cat', 'Cleric']",Common,"Whenever an artifact enters the battlefield, you may gain 1 life.",10,1,1,,MRD,Mirrodin
+Galvanic Key,{2},2.0,,,Artifact,,,Common,"Flash\n{3}, {T}: Untap target artifact.",173,,,,MRD,Mirrodin
+Banshee's Blade,{2},2.0,,,Artifact — Equipment,,['Equipment'],Uncommon,"Equipped creature gets +1/+1 for each charge counter on Banshee's Blade.\nWhenever equipped creature deals combat damage, put a charge counter on Banshee's Blade.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",144,,,,MRD,Mirrodin
+Leaden Myr,{2},2.0,,['B'],Artifact Creature — Myr,,['Myr'],Common,{T}: Add {B}.,191,1,1,,MRD,Mirrodin
+Clockwork Dragon,{7},7.0,,,Artifact Creature — Dragon,,['Dragon'],Rare,"Flying\nClockwork Dragon enters the battlefield with six +1/+1 counters on it.\nWhenever Clockwork Dragon attacks or blocks, remove a +1/+1 counter from it at end of combat.\n{3}: Put a +1/+1 counter on Clockwork Dragon.",155,0,0,,MRD,Mirrodin
+Mind's Eye,{5},5.0,,,Artifact,,,Rare,"Whenever an opponent draws a card, you may pay {1}. If you do, draw a card.",205,,,,MRD,Mirrodin
+Neurok Spy,{2}{U},3.0,['U'],['U'],Creature — Human Rogue,,"['Human', 'Rogue']",Common,Neurok Spy can't be blocked as long as defending player controls an artifact.,44,2,2,,MRD,Mirrodin
+Clockwork Condor,{4},4.0,,,Artifact Creature — Bird,,['Bird'],Common,"Flying\nClockwork Condor enters the battlefield with three +1/+1 counters on it.\nWhenever Clockwork Condor attacks or blocks, remove a +1/+1 counter from it at end of combat.",154,0,0,,MRD,Mirrodin
+Fatespinner,{1}{U}{U},3.0,['U'],['U'],Creature — Human Wizard,,"['Human', 'Wizard']",Rare,"At the beginning of each opponent's upkeep, that player chooses draw step, main phase, or combat phase. The player skips each instance of the chosen step or phase this turn.",36,1,2,,MRD,Mirrodin
+Dead-Iron Sledge,{1},1.0,,,Artifact — Equipment,,['Equipment'],Uncommon,"Whenever equipped creature blocks or becomes blocked by a creature, destroy both creatures.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",162,,,,MRD,Mirrodin
+Myr Enforcer,{7},7.0,,,Artifact Creature — Myr,,['Myr'],Common,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.),211,4,4,,MRD,Mirrodin
+Betrayal of Flesh,{5}{B},6.0,['B'],['B'],Instant,,,Uncommon,Choose one —\n• Destroy target creature.\n• Return target creature card from your graveyard to the battlefield.\nEntwine—Sacrifice three lands. (Choose both if you pay the entwine cost.),58,,,,MRD,Mirrodin
+Ornithopter,{0},0.0,,,Artifact Creature — Thopter,,['Thopter'],Uncommon,Flying,224,0,2,,MRD,Mirrodin
+Krark's Thumb,{2},2.0,,,Legendary Artifact,['Legendary'],,Rare,"If you would flip a coin, instead flip two coins and ignore one.",190,,,,MRD,Mirrodin
+Tooth of Chiss-Goria,{3},3.0,,,Artifact,,,Common,Flash\nAffinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\n{T}: Target creature gets +1/+0 until end of turn.,264,,,,MRD,Mirrodin
+Myr Prototype,{5},5.0,,,Artifact Creature — Myr,,['Myr'],Uncommon,"At the beginning of your upkeep, put a +1/+1 counter on Myr Prototype.\nMyr Prototype can't attack or block unless you pay {1} for each +1/+1 counter on it.",214,2,2,,MRD,Mirrodin
+Needlebug,{4},4.0,,,Artifact Creature — Insect,,['Insect'],Uncommon,Flash\nProtection from artifacts,217,2,2,,MRD,Mirrodin
+Mindstorm Crown,{3},3.0,,,Artifact,,,Uncommon,"At the beginning of your upkeep, draw a card if you had no cards in hand at the beginning of this turn. If you had a card in hand, Mindstorm Crown deals 1 damage to you.",207,,,,MRD,Mirrodin
+Krark-Clan Grunt,{2}{R},3.0,['R'],['R'],Creature — Goblin Warrior,,"['Goblin', 'Warrior']",Common,Sacrifice an artifact: Krark-Clan Grunt gets +1/+0 and gains first strike until end of turn.,97,2,2,,MRD,Mirrodin
+Copperhoof Vorrac,{3}{G}{G},5.0,['G'],['G'],Creature — Boar Beast,,"['Boar', 'Beast']",Rare,Copperhoof Vorrac gets +1/+1 for each untapped permanent your opponents control.,116,2,2,,MRD,Mirrodin
+Lumengrid Augur,{3}{U},4.0,['U'],['U'],Creature — Vedalken Wizard,,"['Vedalken', 'Wizard']",Rare,"{1}, {T}: Target player draws a card, then discards a card. If that player discards an artifact card this way, untap Lumengrid Augur.",39,2,2,,MRD,Mirrodin
+Myr Adapter,{3},3.0,,,Artifact Creature — Myr,,['Myr'],Common,Myr Adapter gets +1/+1 for each Equipment attached to it.,210,1,1,,MRD,Mirrodin
+Myr Retriever,{2},2.0,,,Artifact Creature — Myr,,['Myr'],Uncommon,"When Myr Retriever dies, return another target artifact card from your graveyard to your hand.",215,1,1,,MRD,Mirrodin
+Razor Barrier,{1}{W},2.0,['W'],['W'],Instant,,,Common,Target permanent you control gains protection from artifacts or from the color of your choice until end of turn.,17,,,,MRD,Mirrodin
+Promise of Power,{2}{B}{B}{B},5.0,['B'],['B'],Sorcery,,,Rare,"Choose one —\n• You draw five cards and you lose 5 life.\n• Create an X/X black Demon creature token with flying, where X is the number of cards in your hand.\nEntwine {4} (Choose both if you pay the entwine cost.)",74,,,,MRD,Mirrodin
+Creeping Mold,{2}{G}{G},4.0,['G'],['G'],Sorcery,,,Uncommon,"Destroy target artifact, enchantment, or land.",117,,,,MRD,Mirrodin
+Granite Shard,{3},3.0,,['R'],Artifact,,,Uncommon,"{3}, {T} or {R}, {T}: Granite Shard deals 1 damage to any target.",182,,,,MRD,Mirrodin
+Gilded Lotus,{5},5.0,,,Artifact,,,Rare,{T}: Add three mana of any one color.,175,,,,MRD,Mirrodin
+Mindslaver,{6},6.0,,,Legendary Artifact,['Legendary'],,Rare,"{4}, {T}, Sacrifice Mindslaver: You control target player during that player's next turn. (You see all cards that player could see and make all decisions for the player.)",206,,,,MRD,Mirrodin
+Nim Replica,{3},3.0,,['B'],Artifact Creature — Zombie,,['Zombie'],Common,"{2}{B}, Sacrifice Nim Replica: Target creature gets -1/-1 until end of turn.",220,3,1,,MRD,Mirrodin
+Nuisance Engine,{3},3.0,,,Artifact,,,Uncommon,"{2}, {T}: Create a 0/1 colorless Pest artifact creature token.",221,,,,MRD,Mirrodin
+Skyhunter Cub,{2}{W},3.0,['W'],['W'],Creature — Cat Knight,,"['Cat', 'Knight']",Common,"As long as Skyhunter Cub is equipped, it gets +1/+1 and has flying.",21,2,2,,MRD,Mirrodin
+Oblivion Stone,{3},3.0,,,Artifact,,,Rare,"{4}, {T}: Put a fate counter on target permanent.\n{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.",222,,,,MRD,Mirrodin
+Leonin Skyhunter,{W}{W},2.0,['W'],['W'],Creature — Cat Knight,,"['Cat', 'Knight']",Uncommon,Flying,11,2,2,,MRD,Mirrodin
+Chromatic Sphere,{1},1.0,,,Artifact,,,Common,"{1}, {T}, Sacrifice Chromatic Sphere: Add one mana of any color. Draw a card.",151,,,,MRD,Mirrodin
+Relic Bane,{1}{B}{B},3.0,['B'],['B'],Enchantment — Aura,,['Aura'],Uncommon,"Enchant artifact\nEnchanted artifact has ""At the beginning of your upkeep, you lose 2 life.""",76,,,,MRD,Mirrodin
+Copper Myr,{2},2.0,,['G'],Artifact Creature — Myr,,['Myr'],Common,{T}: Add {G}.,158,1,1,,MRD,Mirrodin
+Mourner's Shield,{4},4.0,,,Artifact,,,Uncommon,"Imprint — When Mourner's Shield enters the battlefield, you may exile target card from a graveyard.\n{2}, {T}: Prevent all damage that would be dealt this turn by a source of your choice that shares a color with the exiled card.",209,,,,MRD,Mirrodin
+Dross Harvester,{1}{B}{B},3.0,['B'],['B'],Creature — Horror,,['Horror'],Rare,"Protection from white\nAt the beginning of your end step, you lose 4 life.\nWhenever a creature dies, you gain 2 life.",63,4,4,,MRD,Mirrodin
+Leveler,{5},5.0,,,Artifact Creature — Juggernaut,,['Juggernaut'],Rare,"When Leveler enters the battlefield, exile all cards from your library.",195,10,10,,MRD,Mirrodin
+Myr Incubator,{6},6.0,,,Artifact,,,Rare,"{6}, {T}, Sacrifice Myr Incubator: Search your library for any number of artifact cards, exile them, then create that many 1/1 colorless Myr artifact creature tokens. Then shuffle.",212,,,,MRD,Mirrodin
+Dragon Blood,{3},3.0,,,Artifact,,,Uncommon,"{3}, {T}: Put a +1/+1 counter on target creature.",163,,,,MRD,Mirrodin
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),292,,,,MRD,Mirrodin
+Wrench Mind,{B}{B},2.0,['B'],['B'],Sorcery,,,Common,Target player discards two cards unless they discard an artifact card.,84,,,,MRD,Mirrodin
+Bonesplitter,{1},1.0,,,Artifact — Equipment,,['Equipment'],Common,Equipped creature gets +2/+0.\nEquip {1},146,,,,MRD,Mirrodin
+Loxodon Punisher,{3}{W},4.0,['W'],['W'],Creature — Elephant Soldier,,"['Elephant', 'Soldier']",Rare,Loxodon Punisher gets +2/+2 for each Equipment attached to it.,14,2,2,,MRD,Mirrodin
+Damping Matrix,{3},3.0,,,Artifact,,,Rare,Activated abilities of artifacts and creatures can't be activated unless they're mana abilities.,161,,,,MRD,Mirrodin
+Loxodon Warhammer,{3},3.0,,,Artifact — Equipment,,['Equipment'],Uncommon,Equipped creature gets +3/+0 and has trample and lifelink.\nEquip {3},201,,,,MRD,Mirrodin
+Duskworker,{4},4.0,,,Artifact Creature — Construct,,['Construct'],Uncommon,"Whenever Duskworker becomes blocked, regenerate it.\n{3}: Duskworker gets +1/+0 until end of turn.",166,2,2,,MRD,Mirrodin
+Broodstar,{8}{U}{U},10.0,['U'],['U'],Creature — Beast,,['Beast'],Rare,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying\nBroodstar's power and toughness are each equal to the number of artifacts you control.,31,*,*,,MRD,Mirrodin
+Culling Scales,{3},3.0,,,Artifact,,,Rare,"At the beginning of your upkeep, destroy target nonland permanent with the lowest mana value. (If two or more permanents are tied for lowest, target any one of them.)",160,,,,MRD,Mirrodin
+Rule of Law,{2}{W},3.0,['W'],['W'],Enchantment,,,Rare,Each player can't cast more than one spell each turn.,19,,,,MRD,Mirrodin
+Clockwork Beetle,{1},1.0,,,Artifact Creature — Insect,,['Insect'],Common,"Clockwork Beetle enters the battlefield with two +1/+1 counters on it.\nWhenever Clockwork Beetle attacks or blocks, remove a +1/+1 counter from it at end of combat.",153,0,0,,MRD,Mirrodin
+Dross Scorpion,{4},4.0,,,Artifact Creature — Scorpion,,['Scorpion'],Common,"Whenever Dross Scorpion or another artifact creature dies, you may untap target artifact.",164,3,1,,MRD,Mirrodin
+Mask of Memory,{2},2.0,,,Artifact — Equipment,,['Equipment'],Uncommon,"Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",203,,,,MRD,Mirrodin
+Lightning Greaves,{2},2.0,,,Artifact — Equipment,,['Equipment'],Uncommon,Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0},199,,,,MRD,Mirrodin
+Molten Rain,{1}{R}{R},3.0,['R'],['R'],Sorcery,,,Common,"Destroy target land. If that land was nonbasic, Molten Rain deals 2 damage to the land's controller.",101,,,,MRD,Mirrodin
+Living Hive,{6}{G}{G},8.0,['G'],['G'],Creature — Elemental Insect,,"['Elemental', 'Insect']",Rare,"Trample\nWhenever Living Hive deals combat damage to a player, create that many 1/1 green Insect creature tokens.",124,6,6,,MRD,Mirrodin
+Detonate,{X}{R},1.0,['R'],['R'],Sorcery,,,Uncommon,Destroy target artifact with mana value X. It can't be regenerated. Detonate deals X damage to that artifact's controller.,88,,,,MRD,Mirrodin
+Thirst for Knowledge,{2}{U},3.0,['U'],['U'],Instant,,,Uncommon,Draw three cards. Then discard two cards unless you discard an artifact card.,53,,,,MRD,Mirrodin
+Duplicant,{6},6.0,,,Artifact Creature — Shapeshifter,,['Shapeshifter'],Rare,"Imprint — When Duplicant enters the battlefield, you may exile target nontoken creature.\nAs long as a card exiled with Duplicant is a creature card, Duplicant has the power, toughness, and creature types of the last creature card exiled with Duplicant. It's still a Shapeshifter.",165,2,4,,MRD,Mirrodin
+Electrostatic Bolt,{R},1.0,['R'],['R'],Instant,,,Common,"Electrostatic Bolt deals 2 damage to target creature. If it's an artifact creature, Electrostatic Bolt deals 4 damage to it instead.",89,,,,MRD,Mirrodin
+Tower of Fortunes,{4},4.0,,,Artifact,,,Rare,"{8}, {T}: Draw four cards.",267,,,,MRD,Mirrodin
+Wail of the Nim,{2}{B},3.0,['B'],['B'],Instant,,,Common,Choose one —\n• Regenerate each creature you control.\n• Wail of the Nim deals 1 damage to each creature and each player.\nEntwine {B} (Choose both if you pay the entwine cost.),81,,,,MRD,Mirrodin
+War Elemental,{R}{R}{R},3.0,['R'],['R'],Creature — Elemental,,['Elemental'],Rare,"When War Elemental enters the battlefield, sacrifice it unless an opponent was dealt damage this turn.\nWhenever an opponent is dealt damage, put that many +1/+1 counters on War Elemental.",112,1,1,,MRD,Mirrodin
+Isochron Scepter,{2},2.0,,,Artifact,,,Uncommon,"Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with mana value 2 or less from your hand.\n{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.",188,,,,MRD,Mirrodin
+Raise the Alarm,{1}{W},2.0,['W'],['W'],Instant,,,Common,Create two 1/1 white Soldier creature tokens.,16,,,,MRD,Mirrodin
+Alpha Myr,{2},2.0,,,Artifact Creature — Myr,,['Myr'],Common,,142,2,1,,MRD,Mirrodin
+Farsight Mask,{5},5.0,,,Artifact,,,Uncommon,"Whenever a source an opponent controls deals damage to you, if Farsight Mask is untapped, you may draw a card.",170,,,,MRD,Mirrodin
+Shatter,{1}{R},2.0,['R'],['R'],Instant,,,Common,Destroy target artifact.,105,,,,MRD,Mirrodin
+Tel-Jilad Archers,{4}{G},5.0,['G'],['G'],Creature — Elf Archer,,"['Elf', 'Archer']",Common,Protection from artifacts; reach (This creature can block creatures with flying.),131,2,4,,MRD,Mirrodin
+Groffskithur,{5}{G},6.0,['G'],['G'],Creature — Beast,,['Beast'],Common,"Whenever Groffskithur becomes blocked, you may return target card named Groffskithur from your graveyard to your hand.",121,3,3,,MRD,Mirrodin
+Assert Authority,{5}{U}{U},7.0,['U'],['U'],Instant,,,Uncommon,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nCounter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",30,,,,MRD,Mirrodin
+Fiery Gambit,{2}{R},3.0,['R'],['R'],Sorcery,,,Rare,"Flip a coin until you lose a flip or choose to stop flipping. If you lose a flip, Fiery Gambit has no effect. If you win one or more flips, Fiery Gambit deals 3 damage to target creature. If you win two or more flips, Fiery Gambit deals 6 damage to each opponent. If you win three or more flips, draw nine cards and untap all lands you control.",90,,,,MRD,Mirrodin
+Moriok Scavenger,{3}{B},4.0,['B'],['B'],Creature — Human Rogue,,"['Human', 'Rogue']",Common,"When Moriok Scavenger enters the battlefield, you may return target artifact creature card from your graveyard to your hand.",68,2,3,,MRD,Mirrodin
+Tel-Jilad Exile,{3}{G},4.0,['G'],['G'],Creature — Troll Warrior,,"['Troll', 'Warrior']",Common,{1}{G}: Regenerate Tel-Jilad Exile.,133,2,3,,MRD,Mirrodin
+Mass Hysteria,{R},1.0,['R'],['R'],Enchantment,,,Rare,All creatures have haste.,99,,,,MRD,Mirrodin
+Slith Firewalker,{R}{R},2.0,['R'],['R'],Creature — Slith,,['Slith'],Uncommon,"Haste\nWhenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it.",107,1,1,,MRD,Mirrodin
+Lumengrid Sentinel,{2}{U},3.0,['U'],['U'],Creature — Human Wizard,,"['Human', 'Wizard']",Uncommon,"Flying\nWhenever an artifact enters the battlefield under your control, you may tap target permanent.",40,1,2,,MRD,Mirrodin
+Cobalt Golem,{4},4.0,,['U'],Artifact Creature — Golem,,['Golem'],Common,{1}{U}: Cobalt Golem gains flying until end of turn.,157,2,3,,MRD,Mirrodin
+Malachite Golem,{6},6.0,,['G'],Artifact Creature — Golem,,['Golem'],Common,{1}{G}: Malachite Golem gains trample until end of turn.,202,5,3,,MRD,Mirrodin
+Vulshok Battlegear,{3},3.0,,,Artifact — Equipment,,['Equipment'],Uncommon,Equipped creature gets +3/+3.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),272,,,,MRD,Mirrodin
+Grab the Reins,{3}{R},4.0,['R'],['R'],Instant,,,Uncommon,"Choose one —\n• Until end of turn, you gain control of target creature and it gains haste.\n• Sacrifice a creature. Grab the Reins deals damage equal to that creature's power to any target.\nEntwine {2}{R} (Choose both if you pay the entwine cost.)",95,,,,MRD,Mirrodin
+Bloodscent,{3}{G},4.0,['G'],['G'],Instant,,,Uncommon,All creatures able to block target creature this turn do so.,114,,,,MRD,Mirrodin
+Pyrite Spellbomb,{1},1.0,,['R'],Artifact,,,Common,"{R}, Sacrifice Pyrite Spellbomb: It deals 2 damage to any target.\n{1}, Sacrifice Pyrite Spellbomb: Draw a card.",232,,,,MRD,Mirrodin
+Tel-Jilad Chosen,{1}{G},2.0,['G'],['G'],Creature — Elf Warrior,,"['Elf', 'Warrior']",Common,Protection from artifacts,132,2,1,,MRD,Mirrodin
+Consume Spirit,{X}{1}{B},2.0,['B'],['B'],Sorcery,,,Common,Spend only black mana on X.\nConsume Spirit deals X damage to any target and you gain X life.,60,,,,MRD,Mirrodin
+Nim Shrieker,{3}{B},4.0,['B'],['B'],Creature — Zombie,,['Zombie'],Common,Flying\nNim Shrieker gets +1/+0 for each artifact you control.,73,0,1,,MRD,Mirrodin
+Vulshok Battlemaster,{4}{R},5.0,['R'],['R'],Creature — Human Warrior,,"['Human', 'Warrior']",Rare,"Haste\nWhen Vulshok Battlemaster enters the battlefield, attach all Equipment on the battlefield to it. (Control of the Equipment doesn't change.)",110,2,2,,MRD,Mirrodin
+Lifespark Spellbomb,{1},1.0,,['G'],Artifact,,,Common,"{G}, Sacrifice Lifespark Spellbomb: Until end of turn, target land becomes a 3/3 creature that's still a land.\n{1}, Sacrifice Lifespark Spellbomb: Draw a card.",197,,,,MRD,Mirrodin
+Psychogenic Probe,{2},2.0,,,Artifact,,,Rare,"Whenever a spell or ability causes a player to shuffle their library, Psychogenic Probe deals 2 damage to that player.",231,,,,MRD,Mirrodin
+Serum Tank,{3},3.0,,,Artifact,,,Uncommon,"Whenever Serum Tank or another artifact enters the battlefield, put a charge counter on Serum Tank.\n{3}, {T}, Remove a charge counter from Serum Tank: Draw a card.",240,,,,MRD,Mirrodin
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),306,,,,MRD,Mirrodin
+Trash for Treasure,{2}{R},3.0,['R'],['R'],Sorcery,,,Rare,"As an additional cost to cast this spell, sacrifice an artifact.\nReturn target artifact card from your graveyard to the battlefield.",109,,,,MRD,Mirrodin
+Skeleton Shard,{3},3.0,,['B'],Artifact,,,Uncommon,"{3}, {T} or {B}, {T}: Return target artifact creature card from your graveyard to your hand.",242,,,,MRD,Mirrodin
+Lumengrid Warden,{1}{U},2.0,['U'],['U'],Creature — Human Wizard,,"['Human', 'Wizard']",Common,,41,1,3,,MRD,Mirrodin
+Elf Replica,{3},3.0,,['G'],Artifact Creature — Elf,,['Elf'],Common,"{1}{G}, Sacrifice Elf Replica: Destroy target enchantment.",167,2,2,,MRD,Mirrodin
+Empyrial Plate,{2},2.0,,,Artifact — Equipment,,['Equipment'],Rare,Equipped creature gets +1/+1 for each card in your hand.\nEquip {2},168,,,,MRD,Mirrodin
+Glimmervoid,,0.0,,,Land,,,Rare,"At the beginning of the end step, if you control no artifacts, sacrifice Glimmervoid.\n{T}: Add one mana of any color.",281,,,,MRD,Mirrodin
+Liar's Pendulum,{1},1.0,,,Artifact,,,Rare,"{2}, {T}: Choose a card name. Target opponent guesses whether a card with that name is in your hand. You may reveal your hand. If you do and your opponent guessed wrong, draw a card.",196,,,,MRD,Mirrodin
+Spikeshot Goblin,{2}{R},3.0,['R'],['R'],Creature — Goblin Shaman,,"['Goblin', 'Shaman']",Common,"{R}, {T}: Spikeshot Goblin deals damage equal to its power to any target.",108,1,2,,MRD,Mirrodin
+Extraplanar Lens,{3},3.0,,,Artifact,,,Rare,"Imprint — When Extraplanar Lens enters the battlefield, you may exile target land you control.\nWhenever a land with the same name as the exiled card is tapped for mana, its controller adds one mana of any type that land produced.",169,,,,MRD,Mirrodin
+Somber Hoverguard,{5}{U},6.0,['U'],['U'],Creature — Drone,,['Drone'],Common,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying,51,3,2,,MRD,Mirrodin
+Tower of Murmurs,{4},4.0,,,Artifact,,,Rare,"{8}, {T}: Target player mills eight cards.",268,,,,MRD,Mirrodin
+Triskelion,{6},6.0,,,Artifact Creature — Construct,,['Construct'],Rare,Triskelion enters the battlefield with three +1/+1 counters on it.\nRemove a +1/+1 counter from Triskelion: It deals 1 damage to any target.,269,1,1,,MRD,Mirrodin
+Grim Reminder,{2}{B},3.0,['B'],['B'],Instant,,,Rare,Search your library for a nonland card and reveal it. Each opponent who cast a spell this turn with the same name as that card loses 6 life. Then shuffle.\n{B}{B}: Return Grim Reminder from your graveyard to your hand. Activate only during your upkeep.,66,,,,MRD,Mirrodin
+Ogre Leadfoot,{4}{R},5.0,['R'],['R'],Creature — Ogre,,['Ogre'],Common,"Whenever Ogre Leadfoot becomes blocked by an artifact creature, destroy that creature.",102,3,3,,MRD,Mirrodin
+Trolls of Tel-Jilad,{5}{G}{G},7.0,['G'],['G'],Creature — Troll Shaman,,"['Troll', 'Shaman']",Uncommon,{1}{G}: Regenerate target green creature.,136,5,6,,MRD,Mirrodin
+Nim Lasher,{2}{B},3.0,['B'],['B'],Creature — Zombie,,['Zombie'],Common,Nim Lasher gets +1/+0 for each artifact you control.,71,1,1,,MRD,Mirrodin
+Myr Mindservant,{1},1.0,,,Artifact Creature — Myr,,['Myr'],Uncommon,"{2}, {T}: Shuffle your library.",213,1,1,,MRD,Mirrodin
+Great Furnace,,0.0,,['R'],Artifact Land,,,Common,{T}: Add {R}.,282,,,,MRD,Mirrodin
+Looming Hoverguard,{4}{U}{U},6.0,['U'],['U'],Creature — Drone,,['Drone'],Uncommon,"Flying\nWhen Looming Hoverguard enters the battlefield, put target artifact on top of its owner's library.",38,3,3,,MRD,Mirrodin
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),301,,,,MRD,Mirrodin
+Arrest,{2}{W},3.0,['W'],['W'],Enchantment — Aura,,['Aura'],Common,"Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated.",2,,,,MRD,Mirrodin
+Wanderguard Sentry,{4}{U},5.0,['U'],['U'],Creature — Drone,,['Drone'],Common,"When Wanderguard Sentry enters the battlefield, look at target opponent's hand.",56,3,3,,MRD,Mirrodin
+Altar's Light,{2}{W}{W},4.0,['W'],['W'],Instant,,,Uncommon,Exile target artifact or enchantment.,1,,,,MRD,Mirrodin
+Slagwurm Armor,{1},1.0,,,Artifact — Equipment,,['Equipment'],Common,Equipped creature gets +0/+6.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),243,,,,MRD,Mirrodin
+Fists of the Anvil,{1}{R},2.0,['R'],['R'],Instant,,,Common,Target creature gets +4/+0 until end of turn.,91,,,,MRD,Mirrodin
+Vedalken Archmage,{2}{U}{U},4.0,['U'],['U'],Creature — Vedalken Wizard,,"['Vedalken', 'Wizard']",Rare,"Whenever you cast an artifact spell, draw a card.",55,0,2,,MRD,Mirrodin
+Stalking Stones,,0.0,,,Land,,,Uncommon,{T}: Add {C}.\n{6}: Stalking Stones becomes a 3/3 Elemental artifact creature that's still a land. (This effect lasts indefinitely.),284,,,,MRD,Mirrodin
+Shrapnel Blast,{1}{R},2.0,['R'],['R'],Instant,,,Uncommon,"As an additional cost to cast this spell, sacrifice an artifact.\nShrapnel Blast deals 5 damage to any target.",106,,,,MRD,Mirrodin
+Plated Slagwurm,{4}{G}{G}{G},7.0,['G'],['G'],Creature — Wurm,,['Wurm'],Rare,Hexproof (This creature can't be the target of spells or abilities your opponents control.),127,8,8,,MRD,Mirrodin
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),291,,,,MRD,Mirrodin
+Vulshok Berserker,{3}{R},4.0,['R'],['R'],Creature — Human Berserker,,"['Human', 'Berserker']",Common,Haste (This creature can attack and {T} as soon as it comes under your control.),111,3,2,,MRD,Mirrodin
+Yotian Soldier,{3},3.0,,,Artifact Creature — Soldier,,['Soldier'],Common,Vigilance,277,1,4,,MRD,Mirrodin

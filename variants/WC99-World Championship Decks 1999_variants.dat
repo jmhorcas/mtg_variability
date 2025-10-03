@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0}
-Colors: {'Red', 'Black', 'Green'}
-ColorIdentity: {'R', 'G', 'B'}
-Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Snake', 'Jackal', 'Cat', 'Rat', 'Dragon', 'Horror', 'Mountain', 'Masticore', 'Human', 'Knight', 'Golem', 'Gnome', 'Dog', 'Ape', 'Treefolk', 'Phyrexian', 'Swamp', 'Nomad', 'Forest', 'Elf', 'Insect', 'Wizard', 'Goblin', 'Carrier', 'Troll', 'Aura'}
-Rarity: {'Rare', 'Common', 'Uncommon'}
-Power: {'4', '5', '1', '2', '3', '6'}
-Toughness: {'4', '5', '1', '2', '3'}
-Loyalty: set()
+name: ['Phyrexian Plaguelord']
+mana_cost: ['{3}{B}{B}']
+cmc: [5.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Creature — Phyrexian Carrier']
+supertypes: []
+subtypes: ['Carrier', 'Phyrexian']
+rarity: ['Rare']
+text: ['{T}, Sacrifice Phyrexian Plaguelord: Target creature gets -4/-4 until end of turn.\nSacrifice a creature: Target creature gets -1/-1 until end of turn.']
+number: ['js62']
+power: ['4']
+toughness: ['4']
+loyalty: []
+set: ['WC99']
+set_name: ['World Championship Decks 1999']

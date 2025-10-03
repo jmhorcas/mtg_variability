@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 6.0}
-Colors: {'Red', 'Black', 'Green', 'Blue'}
-ColorIdentity: {'R', 'G', 'U', 'B'}
-Supertypes: set()
-Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant'}
-Subtypes: {'Warrior', 'Goblin'}
-Rarity: {'Rare'}
-Power: {'2'}
-Toughness: {'2'}
-Loyalty: set()
+name: ["Nissa's Pilgrimage"]
+mana_cost: ['{2}{G}']
+cmc: [3.0]
+colors: ['G']
+color_identity: ['G']
+type: ['Sorcery']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['Search your library for up to two basic Forest cards, reveal those cards, and put one onto the battlefield tapped and the rest into your hand. Then shuffle.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, search your library for up to three basic Forest cards instead of two.']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['F16']
+set_name: ['Friday Night Magic 2016']

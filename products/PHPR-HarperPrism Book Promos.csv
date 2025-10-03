@@ -1,6 +1,6 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Mana Crypt,0.0,None,None,None,['Artifact'],None,Rare,PHPR,None,None,None,"At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.\n{T}: Add {C}{C}."
-Windseeker Centaur,3.0,['Red'],['R'],None,['Creature'],['Centaur'],Rare,PHPR,2,2,None,Vigilance
-Arena,0.0,None,None,None,['Land'],None,Rare,PHPR,None,None,None,"{3}, {T}: Tap target creature you control and target creature of an opponent's choice they control. Those creatures fight each other. (Each deals damage equal to its power to the other.)"
-Sewers of Estark,4.0,['Black'],['B'],None,['Instant'],None,Rare,PHPR,None,None,None,"Choose target creature. If it's attacking, it can't be blocked this turn. If it's blocking, prevent all combat damage that would be dealt this combat by it and each creature it's blocking."
-Giant Badger,3.0,['Green'],['G'],None,['Creature'],['Badger'],Rare,PHPR,2,2,None,"Whenever Giant Badger blocks, it gets +2/+2 until end of turn."
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Sewers of Estark,{2}{B}{B},4.0,['B'],['B'],Instant,,,Rare,"Choose target creature. If it's attacking, it can't be blocked this turn. If it's blocking, prevent all combat damage that would be dealt this combat by it and each creature it's blocking.",2,,,,PHPR,HarperPrism Book Promos
+Arena,,0.0,,,Land,,,Rare,"{3}, {T}: Tap target creature you control and target creature of an opponent's choice they control. Those creatures fight each other. (Each deals damage equal to its power to the other.)",1,,,,PHPR,HarperPrism Book Promos
+Windseeker Centaur,{1}{R}{R},3.0,['R'],['R'],Creature — Centaur,,['Centaur'],Rare,Vigilance,3,2,2,,PHPR,HarperPrism Book Promos
+Giant Badger,{1}{G}{G},3.0,['G'],['G'],Creature — Badger,,['Badger'],Rare,"Whenever Giant Badger blocks, it gets +2/+2 until end of turn.",4,2,2,,PHPR,HarperPrism Book Promos
+Mana Crypt,{0},0.0,,,Artifact,,,Rare,"At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.\n{T}: Add {C}{C}.",5,,,,PHPR,HarperPrism Book Promos

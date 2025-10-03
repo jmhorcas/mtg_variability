@@ -1,10 +1,16 @@
-CMC: {2.0, 4.0}
-Colors: {'Red', 'Black'}
-ColorIdentity: {'R', 'B'}
-Supertypes: {'Legendary'}
-Types: {'Creature'}
-Subtypes: {'Warrior', 'Zombie', 'Elemental'}
-Rarity: {'Rare'}
-Power: {'1', '*'}
-Toughness: {'1', '*'}
-Loyalty: set()
+name: ['Korlash, Heir to Blackblade']
+mana_cost: ['{2}{B}{B}']
+cmc: [4.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Legendary Creature — Zombie Warrior']
+supertypes: ['Legendary']
+subtypes: ['Warrior', 'Zombie']
+rarity: ['Rare']
+text: ["Korlash, Heir to Blackblade's power and toughness are each equal to the number of Swamps you control.\n{1}{B}: Regenerate Korlash.\nGrandeur — Discard another card named Korlash, Heir to Blackblade: Search your library for up to two Swamp cards, put them onto the battlefield tapped, then shuffle."]
+number: ['87★']
+power: ['*']
+toughness: ['*']
+loyalty: []
+set: ['PFUT']
+set_name: ['Future Sight Promos']

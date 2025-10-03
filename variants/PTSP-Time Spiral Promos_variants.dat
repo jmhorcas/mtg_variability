@@ -1,10 +1,16 @@
-CMC: {2.0}
-Colors: {'Red'}
-ColorIdentity: {'R'}
-Supertypes: set()
-Types: {'Instant', 'Artifact'}
-Subtypes: set()
-Rarity: {'Rare'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['Sudden Shock']
+mana_cost: ['{1}{R}']
+cmc: [2.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Instant']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ["Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nSudden Shock deals 2 damage to any target."]
+number: ['179★']
+power: []
+toughness: []
+loyalty: []
+set: ['PTSP']
+set_name: ['Time Spiral Promos']

@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Cogwork Progenitor,{1}{W},2.0,['W'],['W'],Artifact Creature — Gnome,,['Gnome'],Rare,"At the beginning of your end step, you may exile another artifact you control or an artifact card in your graveyard. If you do, seek an artifact card. That card perpetually has base power and toughness 1/1 and becomes a Gnome creature in addition to its other types.",1,2,2,,YLCI,Alchemy: Ixalan

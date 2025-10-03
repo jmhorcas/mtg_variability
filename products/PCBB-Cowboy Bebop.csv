@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Ossification,{1}{W},2.0,['W'],['W'],Enchantment — Aura,,['Aura'],Rare,"Enchant basic land you control\nWhen Ossification enters the battlefield, exile target creature or planeswalker an opponent controls until Ossification leaves the battlefield.",1,,,,PCBB,Cowboy Bebop

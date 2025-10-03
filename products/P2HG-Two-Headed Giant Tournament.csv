@@ -1,2 +1,2 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Underworld Dreams,3.0,['Black'],['B'],None,['Enchantment'],None,Rare,P2HG,None,None,None,"Whenever an opponent draws a card, Underworld Dreams deals 1 damage to that player."
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Underworld Dreams,{B}{B}{B},3.0,['B'],['B'],Enchantment,,,Rare,"Whenever an opponent draws a card, Underworld Dreams deals 1 damage to that player.",1,,,,P2HG,Two-Headed Giant Tournament

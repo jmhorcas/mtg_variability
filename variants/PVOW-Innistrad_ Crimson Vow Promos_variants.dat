@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Kaya', 'Ranger', 'Sorin', 'Zombie', 'Vampire', 'Horror', 'Dragon', 'Demon', 'Curse', 'Wolf', 'Slug', 'Human', 'Cleric', 'Knight', 'Clue', 'Beast', 'Eye', 'Kraken', 'Frog', 'Noble', 'Plant', 'Spirit', 'Chandra', 'Peasant', 'Shaman', 'Warrior', 'Soldier', 'Wizard', 'Rogue', 'Warlock', 'Werewolf', 'Aura'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'4', '7', '5', '1', '8', '*', '2', '3', '6'}
-Toughness: {'4', '7', '5', '1', '8', '*', '2', '3', '6'}
-Loyalty: {'3', '4'}
+name: ['By Invitation Only']
+mana_cost: ['{3}{W}{W}']
+cmc: [5.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Sorcery']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['Choose a number between 0 and 13. Each player sacrifices that many creatures.']
+number: ['5p']
+power: []
+toughness: []
+loyalty: []
+set: ['PVOW']
+set_name: ['Innistrad: Crimson Vow Promos']

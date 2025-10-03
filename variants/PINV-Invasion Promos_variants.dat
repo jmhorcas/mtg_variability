@@ -1,10 +1,16 @@
-CMC: {3.0}
-Colors: {'Red', 'Green'}
-ColorIdentity: {'R', 'G'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Kavu'}
-Rarity: {'Rare'}
-Power: {'3'}
-Toughness: {'1'}
-Loyalty: set()
+name: ['Raging Kavu']
+mana_cost: ['{1}{R}{G}']
+cmc: [3.0]
+colors: ['G', 'R']
+color_identity: ['G', 'R']
+type: ['Creature — Kavu']
+supertypes: []
+subtypes: ['Kavu']
+rarity: ['Rare']
+text: ['Flash\nHaste']
+number: ['262']
+power: ['3']
+toughness: ['1']
+loyalty: []
+set: ['PINV']
+set_name: ['Invasion Promos']

@@ -1,10 +1,16 @@
-CMC: {4.0}
-Colors: {'Red'}
-ColorIdentity: {'R'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Egg', 'Bird'}
-Rarity: {'Rare'}
-Power: {'0'}
-Toughness: {'3'}
-Loyalty: set()
+name: ['Rukh Egg']
+mana_cost: ['{3}{R}']
+cmc: [4.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Creature — Bird Egg']
+supertypes: []
+subtypes: ['Bird', 'Egg']
+rarity: ['Rare']
+text: ['When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the beginning of the next end step.']
+number: ['216★']
+power: ['0']
+toughness: ['3']
+loyalty: []
+set: ['P8ED']
+set_name: ['Eighth Edition Promos']

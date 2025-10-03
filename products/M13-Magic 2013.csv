@@ -1,250 +1,250 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Spiked Baloth,4.0,['Green'],['G'],None,['Creature'],['Beast'],Common,M13,4,2,None,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,M13,None,None,None,({T}: Add {G}.)
-Silklash Spider,5.0,['Green'],['G'],None,['Creature'],['Spider'],Rare,M13,2,7,None,Reach\n{X}{G}{G}: Silklash Spider deals X damage to each creature with flying.
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,M13,None,None,None,({T}: Add {G}.)
-Serpent's Gift,3.0,['Green'],['G'],None,['Instant'],None,Common,M13,None,None,None,Target creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,M13,None,None,None,({T}: Add {R}.)
-Sentinel Spider,5.0,['Green'],['G'],None,['Creature'],['Spider'],Common,M13,4,4,None,"Vigilance, reach"
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,M13,None,None,None,({T}: Add {R}.)
-Roaring Primadox,4.0,['Green'],['G'],None,['Creature'],['Beast'],Uncommon,M13,4,4,None,"At the beginning of your upkeep, return a creature you control to its owner's hand."
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,M13,None,None,None,({T}: Add {R}.)
-Revive,2.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,M13,None,None,None,Return target green card from your graveyard to your hand.
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,M13,None,None,None,({T}: Add {R}.)
-Ranger's Path,4.0,['Green'],['G'],None,['Sorcery'],None,Common,M13,None,None,None,"Search your library for up to two Forest cards, put them onto the battlefield tapped, then shuffle."
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,M13,None,None,None,({T}: Add {B}.)
-Rancor,1.0,['Green'],['G'],None,['Enchantment'],['Aura'],Uncommon,M13,None,None,None,"Enchant creature\nEnchanted creature gets +2/+0 and has trample.\nWhen Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand."
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,M13,None,None,None,({T}: Add {B}.)
-Quirion Dryad,2.0,['Green'],['G'],None,['Creature'],['Dryad'],Rare,M13,1,1,None,"Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 counter on Quirion Dryad."
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,M13,None,None,None,({T}: Add {B}.)
-Primordial Hydra,2.0,['Green'],['G'],None,['Creature'],['Hydra'],Mythic,M13,0,0,None,"Primordial Hydra enters the battlefield with X +1/+1 counters on it.\nAt the beginning of your upkeep, double the number of +1/+1 counters on Primordial Hydra.\nPrimordial Hydra has trample as long as it has ten or more +1/+1 counters on it."
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,M13,None,None,None,({T}: Add {B}.)
-Primal Huntbeast,4.0,['Green'],['G'],None,['Creature'],['Beast'],Common,M13,3,3,None,Hexproof (This creature can't be the target of spells or abilities your opponents control.)
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,M13,None,None,None,({T}: Add {U}.)
-Prey Upon,1.0,['Green'],['G'],None,['Sorcery'],None,Common,M13,None,None,None,Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,M13,None,None,None,({T}: Add {U}.)
-Predatory Rampage,5.0,['Green'],['G'],None,['Sorcery'],None,Rare,M13,None,None,None,Creatures you control get +3/+3 until end of turn. Each creature your opponents control blocks this turn if able.
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,M13,None,None,None,({T}: Add {U}.)
-Plummet,2.0,['Green'],['G'],None,['Instant'],None,Common,M13,None,None,None,Destroy target creature with flying.
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,M13,None,None,None,({T}: Add {U}.)
-Naturalize,2.0,['Green'],['G'],None,['Instant'],None,Common,M13,None,None,None,Destroy target artifact or enchantment.
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,M13,None,None,None,({T}: Add {W}.)
-Mwonvuli Beast Tracker,3.0,['Green'],['G'],None,['Creature'],"['Human', 'Scout']",Uncommon,M13,2,1,None,"When Mwonvuli Beast Tracker enters the battlefield, search your library for a creature card with deathtouch, hexproof, reach, or trample and reveal it. Shuffle and put that card on top."
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,M13,None,None,None,({T}: Add {W}.)
-Ground Seal,2.0,['Green'],['G'],None,['Enchantment'],None,Rare,M13,None,None,None,"When Ground Seal enters the battlefield, draw a card.\nCards in graveyards can't be the targets of spells or abilities."
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,M13,None,None,None,({T}: Add {W}.)
-Garruk's Packleader,5.0,['Green'],['G'],None,['Creature'],['Beast'],Uncommon,M13,4,4,None,"Whenever another creature with power 3 or greater enters the battlefield under your control, you may draw a card."
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,M13,None,None,None,({T}: Add {W}.)
-"Garruk, Primal Hunter",5.0,['Green'],['G'],['Legendary'],['Planeswalker'],['Garruk'],Mythic,M13,None,None,3,[+1]: Create a 3/3 green Beast creature token.\n[−3]: Draw cards equal to the greatest power among creatures you control.\n[−6]: Create a 6/6 green Wurm creature token for each land you control.
-Sunpetal Grove,0.0,None,"['G', 'W']",None,['Land'],None,Rare,M13,None,None,None,Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.\n{T}: Add {G} or {W}.
-Fungal Sprouting,4.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,M13,None,None,None,"Create X 1/1 green Saproling creature tokens, where X is the greatest power among creatures you control."
-Rootbound Crag,0.0,None,"['G', 'R']",None,['Land'],None,Rare,M13,None,None,None,Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G}.
-Fog,1.0,['Green'],['G'],None,['Instant'],None,Common,M13,None,None,None,Prevent all combat damage that would be dealt this turn.
-Reliquary Tower,0.0,None,None,None,['Land'],None,Uncommon,M13,None,None,None,You have no maximum hand size.\n{T}: Add {C}.
-Flinthoof Boar,2.0,['Green'],"['G', 'R']",None,['Creature'],['Boar'],Uncommon,M13,2,2,None,Flinthoof Boar gets +1/+1 as long as you control a Mountain.\n{R}: Flinthoof Boar gains haste until end of turn. (It can attack and {T} this turn.)
-Hellion Crucible,0.0,None,['R'],None,['Land'],None,Rare,M13,None,None,None,"{T}: Add {C}.\n{1}{R}, {T}: Put a pressure counter on Hellion Crucible.\n{1}{R}, {T}, Remove two pressure counters from Hellion Crucible and sacrifice it: Create a 4/4 red Hellion creature token with haste. (It can attack and {T} as soon as it comes under your control.)"
-Farseek,2.0,['Green'],['G'],None,['Sorcery'],None,Common,M13,None,None,None,"Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle."
-Glacial Fortress,0.0,None,"['U', 'W']",None,['Land'],None,Rare,M13,None,None,None,Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.\n{T}: Add {W} or {U}.
-Elvish Visionary,2.0,['Green'],['G'],None,['Creature'],"['Elf', 'Shaman']",Common,M13,1,1,None,"When Elvish Visionary enters the battlefield, draw a card."
-Evolving Wilds,0.0,None,None,None,['Land'],None,Common,M13,None,None,None,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
-Elvish Archdruid,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Rare,M13,2,2,None,Other Elf creatures you control get +1/+1.\n{T}: Add {G} for each Elf you control.
-Drowned Catacomb,0.0,None,"['B', 'U']",None,['Land'],None,Rare,M13,None,None,None,Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.\n{T}: Add {U} or {B}.
-Elderscale Wurm,7.0,['Green'],['G'],None,['Creature'],['Wurm'],Mythic,M13,7,7,None,"Trample\nWhen Elderscale Wurm enters the battlefield, if your life total is less than 7, your life total becomes 7.\nAs long as you have 7 or more life, damage that would reduce your life total to less than 7 reduces it to 7 instead."
-Dragonskull Summit,0.0,None,"['B', 'R']",None,['Land'],None,Rare,M13,None,None,None,Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.\n{T}: Add {B} or {R}.
-Duskdale Wurm,7.0,['Green'],['G'],None,['Creature'],['Wurm'],Uncommon,M13,7,7,None,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
-Cathedral of War,0.0,None,None,None,['Land'],None,Rare,M13,None,None,None,"Cathedral of War enters the battlefield tapped.\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{T}: Add {C}."
-Deadly Recluse,2.0,['Green'],['G'],None,['Creature'],['Spider'],Common,M13,1,2,None,Reach (This creature can block creatures with flying.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
-Trading Post,4.0,None,None,None,['Artifact'],None,Rare,M13,None,None,None,"{1}, {T}, Discard a card: You gain 4 life.\n{1}, {T}, Pay 1 life: Create a 0/1 white Goat creature token.\n{1}, {T}, Sacrifice a creature: Return target artifact card from your graveyard to your hand.\n{1}, {T}, Sacrifice an artifact: Draw a card."
-Centaur Courser,3.0,['Green'],['G'],None,['Creature'],"['Centaur', 'Warrior']",Common,M13,3,3,None,None
-Tormod's Crypt,0.0,None,None,None,['Artifact'],None,Uncommon,M13,None,None,None,"{T}, Sacrifice Tormod's Crypt: Exile target player's graveyard."
-Bountiful Harvest,5.0,['Green'],['G'],None,['Sorcery'],None,Common,M13,None,None,None,You gain 1 life for each land you control.
-Stuffy Doll,5.0,None,None,None,"['Artifact', 'Creature']",['Construct'],Rare,M13,0,1,None,"Indestructible\nAs Stuffy Doll enters the battlefield, choose a player.\nWhenever Stuffy Doll is dealt damage, it deals that much damage to the chosen player.\n{T}: Stuffy Doll deals 1 damage to itself."
-Boundless Realms,7.0,['Green'],['G'],None,['Sorcery'],None,Rare,M13,None,None,None,"Search your library for up to X basic land cards, where X is the number of lands you control, put them onto the battlefield tapped, then shuffle."
-Staff of Nin,6.0,None,None,None,['Artifact'],None,Rare,M13,None,None,None,"At the beginning of your upkeep, draw a card.\n{T}: Staff of Nin deals 1 damage to any target."
-Bond Beetle,1.0,['Green'],['G'],None,['Creature'],['Insect'],Common,M13,0,1,None,"When Bond Beetle enters the battlefield, put a +1/+1 counter on target creature."
-Gilded Lotus,5.0,None,None,None,['Artifact'],None,Rare,M13,None,None,None,{T}: Add three mana of any one color.
-Arbor Elf,1.0,['Green'],['G'],None,['Creature'],"['Elf', 'Druid']",Common,M13,1,1,None,{T}: Untap target Forest.
-Elixir of Immortality,1.0,None,None,None,['Artifact'],None,Uncommon,M13,None,None,None,"{2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner's library."
-Ring of Thune,2.0,None,None,None,['Artifact'],['Equipment'],Uncommon,M13,None,None,None,"Equipped creature has vigilance. (Attacking doesn't cause it to tap.)\nAt the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's white.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
-Acidic Slime,5.0,['Green'],['G'],None,['Creature'],['Ooze'],Uncommon,M13,2,2,None,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nWhen Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land."
-Door to Nothingness,5.0,None,"['B', 'G', 'R', 'U', 'W']",None,['Artifact'],None,Rare,M13,None,None,None,"Door to Nothingness enters the battlefield tapped.\n{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice Door to Nothingness: Target player loses the game."
-Ring of Xathrid,2.0,None,None,None,['Artifact'],['Equipment'],Uncommon,M13,None,None,None,"{2}: Regenerate equipped creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)\nAt the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's black.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
-Worldfire,9.0,['Red'],['R'],None,['Sorcery'],None,Mythic,M13,None,None,None,Exile all permanents. Exile all cards from all hands and graveyards. Each player's life total becomes 1.
-Akroma's Memorial,7.0,None,None,['Legendary'],['Artifact'],None,Mythic,M13,None,None,None,"Creatures you control have flying, first strike, vigilance, trample, haste, and protection from black and from red."
-Sands of Delirium,3.0,None,None,None,['Artifact'],None,Rare,M13,None,None,None,"{X}, {T}: Target player mills X cards."
-Wild Guess,2.0,['Red'],['R'],None,['Sorcery'],None,Common,M13,None,None,None,"As an additional cost to cast this spell, discard a card.\nDraw two cards."
-Ring of Valkas,2.0,None,None,None,['Artifact'],['Equipment'],Uncommon,M13,None,None,None,"Equipped creature has haste. (It can attack and {T} no matter when it came under your control.)\nAt the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's red.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
-Wall of Fire,3.0,['Red'],['R'],None,['Creature'],['Wall'],Common,M13,0,5,None,Defender (This creature can't attack.)\n{R}: Wall of Fire gets +1/+0 until end of turn.
-Ring of Kalonia,2.0,None,None,None,['Artifact'],['Equipment'],Uncommon,M13,None,None,None,"Equipped creature has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)\nAt the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's green.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
-Volcanic Strength,2.0,['Red'],['R'],None,['Enchantment'],['Aura'],Common,M13,None,None,None,Enchant creature\nEnchanted creature gets +2/+2 and has mountainwalk. (It can't be blocked as long as defending player controls a Mountain.)
-Ring of Evos Isle,2.0,None,None,None,['Artifact'],['Equipment'],Uncommon,M13,None,None,None,"{2}: Equipped creature gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)\nAt the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's blue.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
-Volcanic Geyser,2.0,['Red'],['R'],None,['Instant'],None,Uncommon,M13,None,None,None,Volcanic Geyser deals X damage to any target.
-Primal Clay,4.0,None,None,None,"['Artifact', 'Creature']",['Shapeshifter'],Uncommon,M13,*,*,None,"As Primal Clay enters the battlefield, it becomes your choice of a 3/3 artifact creature, a 2/2 artifact creature with flying, or a 1/6 Wall artifact creature with defender in addition to its other types. (A creature with defender can't attack.)"
-Turn to Slag,5.0,['Red'],['R'],None,['Sorcery'],None,Common,M13,None,None,None,Turn to Slag deals 5 damage to target creature. Destroy all Equipment attached to that creature.
-Jayemdae Tome,4.0,None,None,None,['Artifact'],None,Uncommon,M13,None,None,None,"{4}, {T}: Draw a card."
-Trumpet Blast,3.0,['Red'],['R'],None,['Instant'],None,Common,M13,None,None,None,Attacking creatures get +2/+0 until end of turn.
-Phyrexian Hulk,6.0,None,None,None,"['Artifact', 'Creature']","['Phyrexian', 'Golem']",Uncommon,M13,5,4,None,None
-Torch Fiend,2.0,['Red'],['R'],None,['Creature'],['Devil'],Uncommon,M13,2,1,None,"{R}, Sacrifice Torch Fiend: Destroy target artifact."
-"Nicol Bolas, Planeswalker",8.0,"['Black', 'Red', 'Blue']","['B', 'R', 'U']",['Legendary'],['Planeswalker'],['Bolas'],Mythic,M13,None,None,5,"[+3]: Destroy target noncreature permanent.\n[−2]: Gain control of target creature.\n[−9]: Nicol Bolas, Planeswalker deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents."
-Kitesail,2.0,None,None,None,['Artifact'],['Equipment'],Uncommon,M13,None,None,None,Equipped creature gets +1/+0 and has flying.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
-Thundermaw Hellkite,5.0,['Red'],['R'],None,['Creature'],['Dragon'],Mythic,M13,5,5,None,"Flying\nHaste (This creature can attack and {T} as soon as it comes under your control.)\nWhen Thundermaw Hellkite enters the battlefield, it deals 1 damage to each creature with flying your opponents control. Tap those creatures."
-Yeva's Forcemage,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Shaman']",Common,M13,2,2,None,"When Yeva's Forcemage enters the battlefield, target creature gets +2/+2 until end of turn."
-Smelt,1.0,['Red'],['R'],None,['Instant'],None,Common,M13,None,None,None,Destroy target artifact.
-"Yeva, Nature's Herald",4.0,['Green'],['G'],['Legendary'],['Creature'],"['Elf', 'Shaman']",Rare,M13,4,4,None,Flash (You may cast this spell any time you could cast an instant.)\nYou may cast green creature spells as though they had flash.
-Slumbering Dragon,1.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,M13,3,3,None,"Flying\nSlumbering Dragon can't attack or block unless it has five or more +1/+1 counters on it.\nWhenever a creature attacks you or a planeswalker you control, put a +1/+1 counter on Slumbering Dragon."
-Vastwood Gorger,6.0,['Green'],['G'],None,['Creature'],['Wurm'],Common,M13,5,6,None,None
-Searing Spear,2.0,['Red'],['R'],None,['Instant'],None,Common,M13,None,None,None,Searing Spear deals 3 damage to any target.
-Rummaging Goblin,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Rogue']",Common,M13,1,1,None,"{T}, Discard a card: Draw a card."
-Clock of Omens,4.0,None,None,None,['Artifact'],None,Uncommon,M13,None,None,None,Tap two untapped artifacts you control: Untap target artifact.
-Reverberate,2.0,['Red'],['R'],None,['Instant'],None,Rare,M13,None,None,None,Copy target instant or sorcery spell. You may choose new targets for the copy.
-Gem of Becoming,3.0,None,None,None,['Artifact'],None,Uncommon,M13,None,None,None,"{3}, {T}, Sacrifice Gem of Becoming: Search your library for an Island card, a Swamp card, and a Mountain card. Reveal those cards, put them into your hand, then shuffle."
-Reckless Brute,3.0,['Red'],['R'],None,['Creature'],"['Ogre', 'Warrior']",Common,M13,3,1,None,Haste (This creature can attack and {T} as soon as it comes under your control.)\nReckless Brute attacks each combat if able.
-Mogg Flunkies,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,M13,3,3,None,Mogg Flunkies can't attack or block alone.
-Mindclaw Shaman,5.0,['Red'],['R'],None,['Creature'],"['Viashino', 'Shaman']",Uncommon,M13,2,2,None,"When Mindclaw Shaman enters the battlefield, target opponent reveals their hand. You may cast an instant or sorcery spell from among those cards without paying its mana cost."
-Shimian Specter,4.0,['Black'],['B'],None,['Creature'],['Specter'],Rare,M13,2,2,None,"Flying\nWhenever Shimian Specter deals combat damage to a player, that player reveals their hand. You choose a nonland card from it. Search that player's graveyard, hand, and library for all cards with the same name as that card and exile them. Then that player shuffles."
-Mark of Mutiny,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,M13,None,None,None,Gain control of target creature until end of turn. Put a +1/+1 counter on it and untap it. That creature gains haste until end of turn. (It can attack and {T} this turn.)
-Ravenous Rats,2.0,['Black'],['B'],None,['Creature'],['Rat'],Common,M13,1,1,None,"When Ravenous Rats enters the battlefield, target opponent discards a card."
-Magmaquake,2.0,['Red'],['R'],None,['Instant'],None,Rare,M13,None,None,None,Magmaquake deals X damage to each creature without flying and each planeswalker.
-Timberpack Wolf,2.0,['Green'],['G'],None,['Creature'],['Wolf'],Common,M13,2,2,None,Timberpack Wolf gets +1/+1 for each other creature you control named Timberpack Wolf.
-Servant of Nefarox,3.0,['Black'],['B'],None,['Creature'],"['Human', 'Cleric']",Common,M13,3,1,None,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
-Krenko's Command,2.0,['Red'],['R'],None,['Sorcery'],None,Common,M13,None,None,None,Create two 1/1 red Goblin creature tokens.
-Thragtusk,5.0,['Green'],['G'],None,['Creature'],['Beast'],Rare,M13,5,3,None,"When Thragtusk enters the battlefield, you gain 5 life.\nWhen Thragtusk leaves the battlefield, create a 3/3 green Beast creature token."
-"Krenko, Mob Boss",4.0,['Red'],['R'],['Legendary'],['Creature'],"['Goblin', 'Warrior']",Rare,M13,3,3,None,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control."
-Chronomaton,1.0,None,None,None,"['Artifact', 'Creature']",['Golem'],Uncommon,M13,1,1,None,"{1}, {T}: Put a +1/+1 counter on Chronomaton."
-Rise from the Grave,5.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,M13,None,None,None,Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
-Kindled Fury,1.0,['Red'],['R'],None,['Instant'],None,Common,M13,None,None,None,Target creature gets +1/+0 and gains first strike until end of turn.
-Mutilate,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,M13,None,None,None,All creatures get -1/-1 until end of turn for each Swamp you control.
-Hamletback Goliath,7.0,['Red'],['R'],None,['Creature'],"['Giant', 'Warrior']",Rare,M13,6,6,None,"Whenever another creature enters the battlefield, you may put X +1/+1 counters on Hamletback Goliath, where X is that creature's power."
-Titanic Growth,2.0,['Green'],['G'],None,['Instant'],None,Common,M13,None,None,None,Target creature gets +4/+4 until end of turn.
-Murder,3.0,['Black'],['B'],None,['Instant'],None,Common,M13,None,None,None,Destroy target creature.
-Goblin Battle Jester,4.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,M13,2,2,None,"Whenever you cast a red spell, target creature can't block this turn."
-Public Execution,6.0,['Black'],['B'],None,['Instant'],None,Uncommon,M13,None,None,None,Destroy target creature an opponent controls. Each other creature that player controls gets -2/-0 until end of turn.
-Goblin Arsonist,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Shaman']",Common,M13,1,1,None,"When Goblin Arsonist dies, you may have it deal 1 damage to any target."
-Phylactery Lich,3.0,['Black'],['B'],None,['Creature'],['Zombie'],Rare,M13,5,5,None,"Indestructible\nAs Phylactery Lich enters the battlefield, put a phylactery counter on an artifact you control.\nWhen you control no permanents with phylactery counters on them, sacrifice Phylactery Lich."
-Furnace Whelp,4.0,['Red'],['R'],None,['Creature'],['Dragon'],Uncommon,M13,2,2,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Furnace Whelp gets +1/+0 until end of turn.
-"Nefarox, Overlord of Grixis",6.0,['Black'],['B'],['Legendary'],['Creature'],['Demon'],Rare,M13,5,5,None,"Flying\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhenever Nefarox, Overlord of Grixis attacks alone, defending player sacrifices a creature."
-Flames of the Firebrand,3.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,M13,None,None,None,"Flames of the Firebrand deals 3 damage divided as you choose among one, two, or three targets."
-Mind Rot,3.0,['Black'],['B'],None,['Sorcery'],None,Common,M13,None,None,None,Target player discards two cards.
-Mark of the Vampire,4.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,M13,None,None,None,Enchant creature\nEnchanted creature gets +2/+2 and has lifelink.
-Firewing Phoenix,4.0,['Red'],['R'],None,['Creature'],['Phoenix'],Rare,M13,4,2,None,Flying\n{1}{R}{R}{R}: Return Firewing Phoenix from your graveyard to your hand.
-Liliana's Shade,4.0,['Black'],['B'],None,['Creature'],['Shade'],Common,M13,1,1,None,"When Liliana's Shade enters the battlefield, you may search your library for a Swamp card, reveal it, put it into your hand, then shuffle.\n{B}: Liliana's Shade gets +1/+1 until end of turn."
-Fire Elemental,5.0,['Red'],['R'],None,['Creature'],['Elemental'],Common,M13,5,4,None,None
-Liliana of the Dark Realms,4.0,['Black'],['B'],['Legendary'],['Planeswalker'],['Liliana'],Mythic,M13,None,None,3,"[+1]: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.\n[−3]: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.\n[−6]: You get an emblem with ""Swamps you control have '{T}: Add {B}{B}{B}{B}.'"""
-Fervor,3.0,['Red'],['R'],None,['Enchantment'],None,Rare,M13,None,None,None,Creatures you control have haste. (They can attack and {T} as soon as they come under your control.)
-Knight of Infamy,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Knight']",Uncommon,M13,2,1,None,"Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
-Dragon Hatchling,2.0,['Red'],['R'],None,['Creature'],['Dragon'],Common,M13,0,1,None,Flying\n{R}: Dragon Hatchling gets +1/+0 until end of turn.
-Harbor Bandit,3.0,['Black'],"['B', 'U']",None,['Creature'],"['Human', 'Rogue']",Uncommon,M13,2,2,None,Harbor Bandit gets +1/+1 as long as you control an Island.\n{1}{U}: Harbor Bandit can't be blocked this turn.
-Crimson Muckwader,2.0,['Red'],"['B', 'R']",None,['Creature'],['Lizard'],Uncommon,M13,2,1,None,"Crimson Muckwader gets +1/+1 as long as you control a Swamp.\n{2}{B}: Regenerate Crimson Muckwader. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
-Giant Scorpion,3.0,['Black'],['B'],None,['Creature'],['Scorpion'],Common,M13,1,3,None,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
-Craterize,4.0,['Red'],['R'],None,['Sorcery'],None,Common,M13,None,None,None,Destroy target land.
-Essence Drain,5.0,['Black'],['B'],None,['Sorcery'],None,Common,M13,None,None,None,Essence Drain deals 3 damage to any target and you gain 3 life.
-Cleaver Riot,5.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,M13,None,None,None,Creatures you control gain double strike until end of turn. (They deal both first-strike and regular combat damage.)
-Duty-Bound Dead,1.0,['Black'],['B'],None,['Creature'],['Skeleton'],Common,M13,0,2,None,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{3}{B}: Regenerate Duty-Bound Dead. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
-Chandra's Fury,5.0,['Red'],['R'],None,['Instant'],None,Common,M13,None,None,None,Chandra's Fury deals 4 damage to target player or planeswalker and 1 damage to each creature that player or that planeswalker's controller controls.
-Duskmantle Prowler,4.0,['Black'],['B'],None,['Creature'],"['Vampire', 'Rogue']",Uncommon,M13,2,2,None,"Haste (This creature can attack and {T} as soon as it comes under your control.)\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
-"Chandra, the Firebrand",4.0,['Red'],['R'],['Legendary'],['Planeswalker'],['Chandra'],Mythic,M13,None,None,3,"[+1]: Chandra, the Firebrand deals 1 damage to any target.\n[−2]: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.\n[−6]: Chandra, the Firebrand deals 6 damage to each of up to six targets."
-Duress,1.0,['Black'],['B'],None,['Sorcery'],None,Common,M13,None,None,None,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
-Canyon Minotaur,4.0,['Red'],['R'],None,['Creature'],"['Minotaur', 'Warrior']",Common,M13,3,3,None,None
-Disentomb,1.0,['Black'],['B'],None,['Sorcery'],None,Common,M13,None,None,None,Return target creature card from your graveyard to your hand.
-Bladetusk Boar,4.0,['Red'],['R'],None,['Creature'],['Boar'],Common,M13,3,2,None,Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
-Arms Dealer,3.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Rogue']",Uncommon,M13,1,1,None,"{1}{R}, Sacrifice a Goblin: Arms Dealer deals 4 damage to target creature."
-Zombie Goliath,5.0,['Black'],['B'],None,['Creature'],"['Zombie', 'Giant']",Common,M13,4,3,None,None
-Diabolic Revelation,5.0,['Black'],['B'],None,['Sorcery'],None,Rare,M13,None,None,None,"Search your library for up to X cards, put those cards into your hand, then shuffle."
-Xathrid Gorgon,6.0,['Black'],['B'],None,['Creature'],['Gorgon'],Rare,M13,3,6,None,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\n{2}{B}, {T}: Put a petrification counter on target creature. It gains defender and becomes a colorless artifact in addition to its other types. Its activated abilities can't be activated. (A creature with defender can't attack.)"
-Wit's End,7.0,['Black'],['B'],None,['Sorcery'],None,Rare,M13,None,None,None,Target player discards their hand.
-Disciple of Bolas,4.0,['Black'],['B'],None,['Creature'],"['Human', 'Wizard']",Rare,M13,2,1,None,"When Disciple of Bolas enters the battlefield, sacrifice another creature. You gain X life and draw X cards, where X is that creature's power."
-Sign in Blood,2.0,['Black'],['B'],None,['Sorcery'],None,Common,M13,None,None,None,Target player draws two cards and loses 2 life.
-Vampire Nocturnus,4.0,['Black'],['B'],None,['Creature'],['Vampire'],Mythic,M13,3,3,None,"Play with the top card of your library revealed.\nAs long as the top card of your library is black, Vampire Nocturnus and other Vampire creatures you control get +2/+1 and have flying."
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,M13,None,None,None,({T}: Add {G}.)
-Dark Favor,2.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,M13,None,None,None,"Enchant creature\nWhen Dark Favor enters the battlefield, you lose 1 life.\nEnchanted creature gets +3/+1."
-Vile Rebirth,1.0,['Black'],['B'],None,['Instant'],None,Common,M13,None,None,None,Exile target creature card from a graveyard. Create a 2/2 black Zombie creature token.
-Crippling Blight,1.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,M13,None,None,None,Enchant creature\nEnchanted creature gets -1/-1 and can't block.
-Walking Corpse,2.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,M13,2,2,None,None
-Veilborn Ghoul,5.0,['Black'],['B'],None,['Creature'],['Zombie'],Uncommon,M13,4,1,None,"Veilborn Ghoul can't block.\nWhenever a Swamp enters the battlefield under your control, you may return Veilborn Ghoul from your graveyard to your hand."
-Cower in Fear,3.0,['Black'],['B'],None,['Instant'],None,Uncommon,M13,None,None,None,Creatures your opponents control get -1/-1 until end of turn.
-Vampire Nighthawk,3.0,['Black'],['B'],None,['Creature'],"['Vampire', 'Shaman']",Uncommon,M13,2,3,None,"Flying, deathtouch, lifelink"
-Tormented Soul,1.0,['Black'],['B'],None,['Creature'],['Spirit'],Common,M13,1,1,None,Tormented Soul can't block and can't be blocked.
-Arctic Aven,3.0,['Blue'],"['U', 'W']",None,['Creature'],"['Bird', 'Wizard']",Uncommon,M13,2,1,None,Flying\nArctic Aven gets +1/+1 as long as you control a Plains.\n{W}: Arctic Aven gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.)
-Bloodthrone Vampire,2.0,['Black'],['B'],None,['Creature'],['Vampire'],Common,M13,1,1,None,Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.
-Archaeomancer,4.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Common,M13,1,2,None,"When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand."
-Bloodhunter Bat,4.0,['Black'],['B'],None,['Creature'],['Bat'],Common,M13,2,2,None,"Flying\nWhen Bloodhunter Bat enters the battlefield, target player loses 2 life and you gain 2 life."
-Warclamp Mastiff,1.0,['White'],['W'],None,['Creature'],['Dog'],Common,M13,1,1,None,First strike (This creature deals combat damage before creatures without first strike.)
-Blood Reckoning,4.0,['Black'],['B'],None,['Enchantment'],None,Uncommon,M13,None,None,None,"Whenever a creature attacks you or a planeswalker you control, that creature's controller loses 1 life."
-War Priest of Thune,2.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Uncommon,M13,2,2,None,"When War Priest of Thune enters the battlefield, you may destroy target enchantment."
-Wind Drake,3.0,['Blue'],['U'],None,['Creature'],['Drake'],Common,M13,2,2,None,Flying
-War Falcon,1.0,['White'],['W'],None,['Creature'],['Bird'],Common,M13,2,1,None,Flying\nWar Falcon can't attack unless you control a Knight or a Soldier.
-Welkin Tern,2.0,['Blue'],['U'],None,['Creature'],['Bird'],Common,M13,2,1,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\nWelkin Tern can block only creatures with flying.
-Touch of the Eternal,7.0,['White'],['W'],None,['Enchantment'],None,Rare,M13,None,None,None,"At the beginning of your upkeep, count the number of permanents you control. Your life total becomes that number."
-Watercourser,3.0,['Blue'],['U'],None,['Creature'],['Elemental'],Common,M13,2,3,None,{U}: Watercourser gets +1/-1 until end of turn.
-Void Stalker,2.0,['Blue'],['U'],None,['Creature'],['Elemental'],Rare,M13,2,1,None,"{2}{U}, {T}: Put Void Stalker and target creature on top of their owners' libraries, then those players shuffle their libraries."
-Sublime Archangel,4.0,['White'],['W'],None,['Creature'],['Angel'],Mythic,M13,4,3,None,"Flying\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nOther creatures you control have exalted. (If a creature has multiple instances of exalted, each triggers separately.)"
-Silvercoat Lion,2.0,['White'],['W'],None,['Creature'],['Cat'],Common,M13,2,2,None,None
-Vedalken Entrancer,4.0,['Blue'],['U'],None,['Creature'],"['Vedalken', 'Wizard']",Common,M13,1,4,None,"{U}, {T}: Target player mills two cards."
-Show of Valor,2.0,['White'],['W'],None,['Instant'],None,Common,M13,None,None,None,Target creature gets +2/+4 until end of turn.
-Unsummon,1.0,['Blue'],['U'],None,['Instant'],None,Common,M13,None,None,None,Return target creature to its owner's hand.
-Serra Avenger,2.0,['White'],['W'],None,['Creature'],['Angel'],Rare,M13,3,3,None,"You can't cast this spell during your first, second, or third turns of the game.\nFlying, vigilance"
-Tricks of the Trade,4.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,M13,None,None,None,Enchant creature\nEnchanted creature gets +2/+0 and can't be blocked.
-Serra Avatar,7.0,['White'],['W'],None,['Creature'],['Avatar'],Mythic,M13,*,*,None,"Serra Avatar's power and toughness are each equal to your life total.\nWhen Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library."
-Talrand's Invocation,4.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,M13,None,None,None,Create two 2/2 blue Drake creature tokens with flying.
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,M13,None,None,None,({T}: Add {G}.)
-Serra Angel,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,M13,4,4,None,"Flying, vigilance"
-"Talrand, Sky Summoner",4.0,['Blue'],['U'],['Legendary'],['Creature'],"['Merfolk', 'Wizard']",Rare,M13,2,2,None,"Whenever you cast an instant or sorcery spell, create a 2/2 blue Drake creature token with flying."
-Safe Passage,3.0,['White'],['W'],None,['Instant'],None,Common,M13,None,None,None,Prevent all damage that would be dealt to you and creatures you control this turn.
-Switcheroo,5.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,M13,None,None,None,Exchange control of two target creatures.
-Rhox Faithmender,4.0,['White'],['W'],None,['Creature'],"['Rhino', 'Monk']",Rare,M13,1,5,None,"Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nIf you would gain life, you gain twice that much life instead."
-Stormtide Leviathan,8.0,['Blue'],['U'],None,['Creature'],['Leviathan'],Rare,M13,8,8,None,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nAll lands are Islands in addition to their other types.\nCreatures without flying or islandwalk can't attack.
-Rain of Blades,1.0,['White'],['W'],None,['Instant'],None,Uncommon,M13,None,None,None,Rain of Blades deals 1 damage to each attacking creature.
-Sphinx of Uthuun,7.0,['Blue'],['U'],None,['Creature'],['Sphinx'],Rare,M13,5,6,None,"Flying\nWhen Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard."
-Prized Elephant,4.0,['White'],"['G', 'W']",None,['Creature'],['Elephant'],Uncommon,M13,3,3,None,Prized Elephant gets +1/+1 as long as you control a Forest.\n{G}: Prized Elephant gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)
-Planar Cleansing,6.0,['White'],['W'],None,['Sorcery'],None,Rare,M13,None,None,None,Destroy all nonland permanents.
-Spelltwine,6.0,['Blue'],['U'],None,['Sorcery'],None,Rare,M13,None,None,None,Exile target instant or sorcery card from your graveyard and target instant or sorcery card from an opponent's graveyard. Copy those cards. Cast the copies if able without paying their mana costs. Exile Spelltwine.
-Pillarfield Ox,4.0,['White'],['W'],None,['Creature'],['Ox'],Common,M13,2,4,None,None
-Sleep,4.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,M13,None,None,None,Tap all creatures target player controls. Those creatures don't untap during that player's next untap step.
-Pacifism,2.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,M13,None,None,None,Enchant creature\nEnchanted creature can't attack or block.
-Scroll Thief,3.0,['Blue'],['U'],None,['Creature'],"['Merfolk', 'Rogue']",Common,M13,1,3,None,"Whenever Scroll Thief deals combat damage to a player, draw a card."
-"Odric, Master Tactician",4.0,['White'],['W'],['Legendary'],['Creature'],"['Human', 'Soldier']",Rare,M13,3,4,None,"First strike (This creature deals combat damage before creatures without first strike.)\nWhenever Odric, Master Tactician and at least three other creatures attack, you choose which creatures block this combat and how those creatures block."
-Rewind,4.0,['Blue'],['U'],None,['Instant'],None,Uncommon,M13,None,None,None,Counter target spell. Untap up to four lands.
-Oblivion Ring,3.0,['White'],['W'],None,['Enchantment'],None,Uncommon,M13,None,None,None,"When Oblivion Ring enters the battlefield, exile another target nonland permanent.\nWhen Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control."
-Redirect,2.0,['Blue'],['U'],None,['Instant'],None,Rare,M13,None,None,None,You may choose new targets for target spell.
-Knight of Glory,2.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Uncommon,M13,2,1,None,"Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
-Omniscience,10.0,['Blue'],['U'],None,['Enchantment'],None,Mythic,M13,None,None,None,You may cast spells from your hand without paying their mana costs.
-Intrepid Hero,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,M13,1,1,None,{T}: Destroy target creature with power 4 or greater.
-Negate,2.0,['Blue'],['U'],None,['Instant'],None,Common,M13,None,None,None,Counter target noncreature spell.
-Healer of the Pride,4.0,['White'],['W'],None,['Creature'],"['Cat', 'Cleric']",Uncommon,M13,2,3,None,"Whenever another creature enters the battlefield under your control, you gain 2 life."
-Mind Sculpt,2.0,['Blue'],['U'],None,['Sorcery'],None,Common,M13,None,None,None,Target opponent mills seven cards.
-Guardians of Akrasa,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,M13,0,4,None,"Defender (This creature can't attack.)\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
-Merfolk of the Pearl Trident,1.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Common,M13,1,1,None,None
-Guardian Lions,5.0,['White'],['W'],None,['Creature'],['Cat'],Common,M13,1,6,None,Vigilance (Attacking doesn't cause this creature to tap.)
-Ajani's Sunstriker,2.0,['White'],['W'],None,['Creature'],"['Cat', 'Cleric']",Common,M13,2,2,None,Lifelink (Damage dealt by this creature also causes you to gain that much life.)
-Erase,1.0,['White'],['W'],None,['Instant'],None,Common,M13,None,None,None,Exile target enchantment.
-Glorious Charge,2.0,['White'],['W'],None,['Instant'],None,Common,M13,None,None,None,Creatures you control get +1/+1 until end of turn.
-Griffin Protector,4.0,['White'],['W'],None,['Creature'],['Griffin'],Common,M13,2,3,None,"Flying\nWhenever another creature enters the battlefield under your control, Griffin Protector gets +1/+1 until end of turn."
-Master of the Pearl Trident,2.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Rare,M13,2,2,None,Other Merfolk creatures you control get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)
-Faith's Reward,4.0,['White'],['W'],None,['Instant'],None,Rare,M13,None,None,None,Return to the battlefield all permanent cards in your graveyard that were put there from the battlefield this turn.
-Kraken Hatchling,1.0,['Blue'],['U'],None,['Creature'],['Kraken'],Common,M13,0,4,None,None
-Jace's Phantasm,1.0,['Blue'],['U'],None,['Creature'],['Illusion'],Uncommon,M13,1,1,None,Flying\nJace's Phantasm gets +4/+4 as long as an opponent has ten or more cards in their graveyard.
-Divine Verdict,4.0,['White'],['W'],None,['Instant'],None,Common,M13,None,None,None,Destroy target attacking or blocking creature.
-"Jace, Memory Adept",5.0,['Blue'],['U'],['Legendary'],['Planeswalker'],['Jace'],Mythic,M13,None,None,4,[+1]: Draw a card. Target player mills a card.\n[0]: Target player mills ten cards.\n[−7]: Any number of target players each draw twenty cards.
-Divine Favor,2.0,['White'],['W'],None,['Enchantment'],['Aura'],Common,M13,None,None,None,"Enchant creature\nWhen Divine Favor enters the battlefield, you gain 3 life.\nEnchanted creature gets +1/+3."
-Crusader of Odric,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,M13,*,*,None,Crusader of Odric's power and toughness are each equal to the number of creatures you control.
-Index,1.0,['Blue'],['U'],None,['Sorcery'],None,Common,M13,None,None,None,"Look at the top five cards of your library, then put them back in any order."
-Battleflight Eagle,5.0,['White'],['W'],None,['Creature'],['Bird'],Common,M13,2,2,None,"Flying\nWhen Battleflight Eagle enters the battlefield, target creature gets +2/+2 and gains flying until end of turn."
-Captain's Call,4.0,['White'],['W'],None,['Sorcery'],None,Common,M13,None,None,None,Create three 1/1 white Soldier creature tokens.
-Captain of the Watch,6.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,M13,3,3,None,"Vigilance (Attacking doesn't cause this creature to tap.)\nOther Soldier creatures you control get +1/+1 and have vigilance.\nWhen Captain of the Watch enters the battlefield, create three 1/1 white Soldier creature tokens."
-Hydrosurge,1.0,['Blue'],['U'],None,['Instant'],None,Common,M13,None,None,None,Target creature gets -5/-0 until end of turn.
-Angel's Mercy,4.0,['White'],['W'],None,['Instant'],None,Common,M13,None,None,None,You gain 7 life.
-Harbor Serpent,6.0,['Blue'],['U'],None,['Creature'],['Serpent'],Common,M13,5,5,None,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nHarbor Serpent can't attack unless there are five or more Islands on the battlefield.
-"Ajani, Caller of the Pride",3.0,['White'],['W'],['Legendary'],['Planeswalker'],['Ajani'],Mythic,M13,None,None,4,"[+1]: Put a +1/+1 counter on up to one target creature.\n[−3]: Target creature gains flying and double strike until end of turn.\n[−8]: Create X 2/2 white Cat creature tokens, where X is your life total."
-Fog Bank,2.0,['Blue'],['U'],None,['Creature'],['Wall'],Uncommon,M13,0,2,None,"Defender, flying\nPrevent all combat damage that would be dealt to and dealt by Fog Bank."
-Aven Squire,2.0,['White'],['W'],None,['Creature'],"['Bird', 'Soldier']",Common,M13,1,1,None,"Flying\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
-Faerie Invaders,5.0,['Blue'],['U'],None,['Creature'],"['Faerie', 'Rogue']",Common,M13,3,3,None,Flash (You may cast this spell any time you could cast an instant.)\nFlying
-Attended Knight,3.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Common,M13,2,2,None,"First strike\nWhen Attended Knight enters the battlefield, create a 1/1 white Soldier creature token."
-Angelic Benediction,4.0,['White'],['W'],None,['Enchantment'],None,Uncommon,M13,None,None,None,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhenever a creature you control attacks alone, you may tap target creature."
-Essence Scatter,2.0,['Blue'],['U'],None,['Instant'],None,Common,M13,None,None,None,Counter target creature spell.
-Encrust,3.0,['Blue'],['U'],None,['Enchantment'],['Aura'],Common,M13,None,None,None,Enchant artifact or creature\nEnchanted permanent doesn't untap during its controller's untap step and its activated abilities can't be activated.
-Downpour,2.0,['Blue'],['U'],None,['Instant'],None,Common,M13,None,None,None,Tap up to three target creatures.
-Divination,3.0,['Blue'],['U'],None,['Sorcery'],None,Common,M13,None,None,None,Draw two cards.
-Courtly Provocateur,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Uncommon,M13,1,1,None,{T}: Target creature attacks this turn if able.\n{T}: Target creature blocks this turn if able.
-Clone,4.0,['Blue'],['U'],None,['Creature'],['Shapeshifter'],Rare,M13,0,0,None,You may have Clone enter the battlefield as a copy of any creature on the battlefield.
-Battle of Wits,5.0,['Blue'],['U'],None,['Enchantment'],None,Rare,M13,None,None,None,"At the beginning of your upkeep, if you have 200 or more cards in your library, you win the game."
-Augur of Bolas,2.0,['Blue'],['U'],None,['Creature'],"['Merfolk', 'Wizard']",Uncommon,M13,1,3,None,"When Augur of Bolas enters the battlefield, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Talrand's Invocation,{2}{U}{U},4.0,['U'],['U'],Sorcery,,,Uncommon,Create two 2/2 blue Drake creature tokens with flying.,73,,,,M13,Magic 2013
+Predatory Rampage,{3}{G}{G},5.0,['G'],['G'],Sorcery,,,Rare,Creatures you control get +3/+3 until end of turn. Each creature your opponents control blocks this turn if able.,180,,,,M13,Magic 2013
+Wall of Fire,{1}{R}{R},3.0,['R'],['R'],Creature — Wall,,['Wall'],Common,Defender (This creature can't attack.)\n{R}: Wall of Fire gets +1/+0 until end of turn.,156,0,5,,M13,Magic 2013
+Quirion Dryad,{1}{G},2.0,['G'],['G'],Creature — Dryad,,['Dryad'],Rare,"Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 counter on Quirion Dryad.",184,1,1,,M13,Magic 2013
+Void Stalker,{1}{U},2.0,['U'],['U'],Creature — Elemental,,['Elemental'],Rare,"{2}{U}, {T}: Put Void Stalker and target creature on top of their owners' libraries, then those players shuffle their libraries.",77,2,1,,M13,Magic 2013
+Volcanic Geyser,{X}{R}{R},2.0,['R'],['R'],Instant,,,Uncommon,Volcanic Geyser deals X damage to any target.,154,,,,M13,Magic 2013
+Revive,{1}{G},2.0,['G'],['G'],Sorcery,,,Uncommon,Return target green card from your graveyard to your hand.,187,,,,M13,Magic 2013
+Vedalken Entrancer,{3}{U},4.0,['U'],['U'],Creature — Vedalken Wizard,,"['Vedalken', 'Wizard']",Common,"{U}, {T}: Target player mills two cards.",76,1,4,,M13,Magic 2013
+Volcanic Strength,{1}{R},2.0,['R'],['R'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nEnchanted creature gets +2/+2 and has mountainwalk. (It can't be blocked as long as defending player controls a Mountain.),155,,,,M13,Magic 2013
+Reckless Brute,{2}{R},3.0,['R'],['R'],Creature — Ogre Warrior,,"['Ogre', 'Warrior']",Common,Haste (This creature can attack and {T} as soon as it comes under your control.)\nReckless Brute attacks each combat if able.,144,3,1,,M13,Magic 2013
+Tricks of the Trade,{3}{U},4.0,['U'],['U'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nEnchanted creature gets +2/+0 and can't be blocked.,74,,,,M13,Magic 2013
+Turn to Slag,{3}{R}{R},5.0,['R'],['R'],Sorcery,,,Common,Turn to Slag deals 5 damage to target creature. Destroy all Equipment attached to that creature.,153,,,,M13,Magic 2013
+Unsummon,{U},1.0,['U'],['U'],Instant,,,Common,Return target creature to its owner's hand.,75,,,,M13,Magic 2013
+Bond Beetle,{G},1.0,['G'],['G'],Creature — Insect,,['Insect'],Common,"When Bond Beetle enters the battlefield, put a +1/+1 counter on target creature.",161,0,1,,M13,Magic 2013
+Primordial Hydra,{X}{G}{G},2.0,['G'],['G'],Creature — Hydra,,['Hydra'],Mythic,"Primordial Hydra enters the battlefield with X +1/+1 counters on it.\nAt the beginning of your upkeep, double the number of +1/+1 counters on Primordial Hydra.\nPrimordial Hydra has trample as long as it has ten or more +1/+1 counters on it.",183,0,0,,M13,Magic 2013
+Index,{U},1.0,['U'],['U'],Sorcery,,,Common,"Look at the top five cards of your library, then put them back in any order.",55,,,,M13,Magic 2013
+Reliquary Tower,,0.0,,,Land,,,Uncommon,You have no maximum hand size.\n{T}: Add {C}.,227,,,,M13,Magic 2013
+Hydrosurge,{U},1.0,['U'],['U'],Instant,,,Common,Target creature gets -5/-0 until end of turn.,54,,,,M13,Magic 2013
+Xathrid Gorgon,{5}{B},6.0,['B'],['B'],Creature — Gorgon,,['Gorgon'],Rare,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\n{2}{B}, {T}: Put a petrification counter on target creature. It gains defender and becomes a colorless artifact in addition to its other types. Its activated abilities can't be activated. (A creature with defender can't attack.)",118,3,6,,M13,Magic 2013
+"Krenko, Mob Boss",{2}{R}{R},4.0,['R'],['R'],Legendary Creature — Goblin Warrior,['Legendary'],"['Goblin', 'Warrior']",Rare,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",138,3,3,,M13,Magic 2013
+Jace's Phantasm,{U},1.0,['U'],['U'],Creature — Illusion,,['Illusion'],Uncommon,Flying\nJace's Phantasm gets +4/+4 as long as an opponent has ten or more cards in their graveyard.,57,1,1,,M13,Magic 2013
+Goblin Arsonist,{R},1.0,['R'],['R'],Creature — Goblin Shaman,,"['Goblin', 'Shaman']",Common,"When Goblin Arsonist dies, you may have it deal 1 damage to any target.",134,1,1,,M13,Magic 2013
+Mogg Flunkies,{1}{R},2.0,['R'],['R'],Creature — Goblin,,['Goblin'],Common,Mogg Flunkies can't attack or block alone.,143,3,3,,M13,Magic 2013
+"Jace, Memory Adept",{3}{U}{U},5.0,['U'],['U'],Legendary Planeswalker — Jace,['Legendary'],['Jace'],Mythic,[+1]: Draw a card. Target player mills a card.\n[0]: Target player mills ten cards.\n[−7]: Any number of target players each draw twenty cards.,56,,,4,M13,Magic 2013
+Rancor,{G},1.0,['G'],['G'],Enchantment — Aura,,['Aura'],Uncommon,"Enchant creature\nEnchanted creature gets +2/+0 and has trample.\nWhen Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.",185,,,,M13,Magic 2013
+Kraken Hatchling,{U},1.0,['U'],['U'],Creature — Kraken,,['Kraken'],Common,,58,0,4,,M13,Magic 2013
+Merfolk of the Pearl Trident,{U},1.0,['U'],['U'],Creature — Merfolk,,['Merfolk'],Common,,60,1,1,,M13,Magic 2013
+Master of the Pearl Trident,{U}{U},2.0,['U'],['U'],Creature — Merfolk,,['Merfolk'],Rare,Other Merfolk creatures you control get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.),59,2,2,,M13,Magic 2013
+Mind Sculpt,{1}{U},2.0,['U'],['U'],Sorcery,,,Common,Target opponent mills seven cards.,61,,,,M13,Magic 2013
+Cathedral of War,,0.0,,,Land,,,Rare,"Cathedral of War enters the battlefield tapped.\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{T}: Add {C}.",221,,,,M13,Magic 2013
+Craterize,{3}{R},4.0,['R'],['R'],Sorcery,,,Common,Destroy target land.,126,,,,M13,Magic 2013
+Negate,{1}{U},2.0,['U'],['U'],Instant,,,Common,Counter target noncreature spell.,62,,,,M13,Magic 2013
+Torch Fiend,{1}{R},2.0,['R'],['R'],Creature — Devil,,['Devil'],Uncommon,"{R}, Sacrifice Torch Fiend: Destroy target artifact.",151,2,1,,M13,Magic 2013
+Tormod's Crypt,{0},0.0,,,Artifact,,,Uncommon,"{T}, Sacrifice Tormod's Crypt: Exile target player's graveyard.",219,,,,M13,Magic 2013
+Redirect,{U}{U},2.0,['U'],['U'],Instant,,,Rare,You may choose new targets for target spell.,64,,,,M13,Magic 2013
+Angel's Mercy,{2}{W}{W},4.0,['W'],['W'],Instant,,,Common,You gain 7 life.,3,,,,M13,Magic 2013
+Omniscience,{7}{U}{U}{U},10.0,['U'],['U'],Enchantment,,,Mythic,You may cast spells from your hand without paying their mana costs.,63,,,,M13,Magic 2013
+Pillarfield Ox,{3}{W},4.0,['W'],['W'],Creature — Ox,,['Ox'],Common,,25,2,4,,M13,Magic 2013
+Scroll Thief,{2}{U},3.0,['U'],['U'],Creature — Merfolk Rogue,,"['Merfolk', 'Rogue']",Common,"Whenever Scroll Thief deals combat damage to a player, draw a card.",66,1,3,,M13,Magic 2013
+Planar Cleansing,{3}{W}{W}{W},6.0,['W'],['W'],Sorcery,,,Rare,Destroy all nonland permanents.,26,,,,M13,Magic 2013
+Rewind,{2}{U}{U},4.0,['U'],['U'],Instant,,,Uncommon,Counter target spell. Untap up to four lands.,65,,,,M13,Magic 2013
+Pacifism,{1}{W},2.0,['W'],['W'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nEnchanted creature can't attack or block.,24,,,,M13,Magic 2013
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),236,,,,M13,Magic 2013
+Sleep,{2}{U}{U},4.0,['U'],['U'],Sorcery,,,Uncommon,Tap all creatures target player controls. Those creatures don't untap during that player's next untap step.,67,,,,M13,Magic 2013
+Intrepid Hero,{2}{W},3.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Rare,{T}: Destroy target creature with power 4 or greater.,20,1,1,,M13,Magic 2013
+Ground Seal,{1}{G},2.0,['G'],['G'],Enchantment,,,Rare,"When Ground Seal enters the battlefield, draw a card.\nCards in graveyards can't be the targets of spells or abilities.",176,,,,M13,Magic 2013
+Sphinx of Uthuun,{5}{U}{U},7.0,['U'],['U'],Creature — Sphinx,,['Sphinx'],Rare,"Flying\nWhen Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.",69,5,6,,M13,Magic 2013
+Ajani's Sunstriker,{W}{W},2.0,['W'],['W'],Creature — Cat Cleric,,"['Cat', 'Cleric']",Common,Lifelink (Damage dealt by this creature also causes you to gain that much life.),2,2,2,,M13,Magic 2013
+Plummet,{1}{G},2.0,['G'],['G'],Instant,,,Common,Destroy target creature with flying.,179,,,,M13,Magic 2013
+Spelltwine,{5}{U},6.0,['U'],['U'],Sorcery,,,Rare,Exile target instant or sorcery card from your graveyard and target instant or sorcery card from an opponent's graveyard. Copy those cards. Cast the copies if able without paying their mana costs. Exile Spelltwine.,68,,,,M13,Magic 2013
+Prized Elephant,{3}{W},4.0,['W'],"['G', 'W']",Creature — Elephant,,['Elephant'],Uncommon,Prized Elephant gets +1/+1 as long as you control a Forest.\n{G}: Prized Elephant gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.),27,3,3,,M13,Magic 2013
+Trading Post,{4},4.0,,,Artifact,,,Rare,"{1}, {T}, Discard a card: You gain 4 life.\n{1}, {T}, Pay 1 life: Create a 0/1 white Goat creature token.\n{1}, {T}, Sacrifice a creature: Return target artifact card from your graveyard to your hand.\n{1}, {T}, Sacrifice an artifact: Draw a card.",220,,,,M13,Magic 2013
+Stormtide Leviathan,{5}{U}{U}{U},8.0,['U'],['U'],Creature — Leviathan,,['Leviathan'],Rare,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nAll lands are Islands in addition to their other types.\nCreatures without flying or islandwalk can't attack.,70,8,8,,M13,Magic 2013
+"Ajani, Caller of the Pride",{1}{W}{W},3.0,['W'],['W'],Legendary Planeswalker — Ajani,['Legendary'],['Ajani'],Mythic,"[+1]: Put a +1/+1 counter on up to one target creature.\n[−3]: Target creature gains flying and double strike until end of turn.\n[−8]: Create X 2/2 white Cat creature tokens, where X is your life total.",1,,,4,M13,Magic 2013
+"Odric, Master Tactician",{2}{W}{W},4.0,['W'],['W'],Legendary Creature — Human Soldier,['Legendary'],"['Human', 'Soldier']",Rare,"First strike (This creature deals combat damage before creatures without first strike.)\nWhenever Odric, Master Tactician and at least three other creatures attack, you choose which creatures block this combat and how those creatures block.",23,3,4,,M13,Magic 2013
+"Talrand, Sky Summoner",{2}{U}{U},4.0,['U'],['U'],Legendary Creature — Merfolk Wizard,['Legendary'],"['Merfolk', 'Wizard']",Rare,"Whenever you cast an instant or sorcery spell, create a 2/2 blue Drake creature token with flying.",72,2,2,,M13,Magic 2013
+Knight of Glory,{1}{W},2.0,['W'],['W'],Creature — Human Knight,,"['Human', 'Knight']",Uncommon,"Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",21,2,1,,M13,Magic 2013
+Trumpet Blast,{2}{R},3.0,['R'],['R'],Instant,,,Common,Attacking creatures get +2/+0 until end of turn.,152,,,,M13,Magic 2013
+Switcheroo,{4}{U},5.0,['U'],['U'],Sorcery,,,Uncommon,Exchange control of two target creatures.,71,,,,M13,Magic 2013
+Oblivion Ring,{2}{W},3.0,['W'],['W'],Enchantment,,,Uncommon,"When Oblivion Ring enters the battlefield, exile another target nonland permanent.\nWhen Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.",22,,,,M13,Magic 2013
+Acidic Slime,{3}{G}{G},5.0,['G'],['G'],Creature — Ooze,,['Ooze'],Uncommon,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nWhen Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.",159,2,2,,M13,Magic 2013
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),249,,,,M13,Magic 2013
+Phylactery Lich,{B}{B}{B},3.0,['B'],['B'],Creature — Zombie,,['Zombie'],Rare,"Indestructible\nAs Phylactery Lich enters the battlefield, put a phylactery counter on an artifact you control.\nWhen you control no permanents with phylactery counters on them, sacrifice Phylactery Lich.",104,5,5,,M13,Magic 2013
+Thundermaw Hellkite,{3}{R}{R},5.0,['R'],['R'],Creature — Dragon,,['Dragon'],Mythic,"Flying\nHaste (This creature can attack and {T} as soon as it comes under your control.)\nWhen Thundermaw Hellkite enters the battlefield, it deals 1 damage to each creature with flying your opponents control. Tap those creatures.",150,5,5,,M13,Magic 2013
+Naturalize,{1}{G},2.0,['G'],['G'],Instant,,,Common,Destroy target artifact or enchantment.,178,,,,M13,Magic 2013
+Liliana of the Dark Realms,{2}{B}{B},4.0,['B'],['B'],Legendary Planeswalker — Liliana,['Legendary'],['Liliana'],Mythic,"[+1]: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.\n[−3]: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.\n[−6]: You get an emblem with ""Swamps you control have '{T}: Add {B}{B}{B}{B}.'""",97,,,3,M13,Magic 2013
+Angelic Benediction,{3}{W},4.0,['W'],['W'],Enchantment,,,Uncommon,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhenever a creature you control attacks alone, you may tap target creature.",4,,,,M13,Magic 2013
+Slumbering Dragon,{R},1.0,['R'],['R'],Creature — Dragon,,['Dragon'],Rare,"Flying\nSlumbering Dragon can't attack or block unless it has five or more +1/+1 counters on it.\nWhenever a creature attacks you or a planeswalker you control, put a +1/+1 counter on Slumbering Dragon.",148,3,3,,M13,Magic 2013
+Smelt,{R},1.0,['R'],['R'],Instant,,,Common,Destroy target artifact.,149,,,,M13,Magic 2013
+Attended Knight,{2}{W},3.0,['W'],['W'],Creature — Human Knight,,"['Human', 'Knight']",Common,"First strike\nWhen Attended Knight enters the battlefield, create a 1/1 white Soldier creature token.",5,2,2,,M13,Magic 2013
+Rummaging Goblin,{2}{R},3.0,['R'],['R'],Creature — Goblin Rogue,,"['Goblin', 'Rogue']",Common,"{T}, Discard a card: Draw a card.",146,1,1,,M13,Magic 2013
+Mind Rot,{2}{B},3.0,['B'],['B'],Sorcery,,,Common,Target player discards two cards.,100,,,,M13,Magic 2013
+Battleflight Eagle,{4}{W},5.0,['W'],['W'],Creature — Bird,,['Bird'],Common,"Flying\nWhen Battleflight Eagle enters the battlefield, target creature gets +2/+2 and gains flying until end of turn.",7,2,2,,M13,Magic 2013
+Prey Upon,{G},1.0,['G'],['G'],Sorcery,,,Common,Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.),181,,,,M13,Magic 2013
+Liliana's Shade,{2}{B}{B},4.0,['B'],['B'],Creature — Shade,,['Shade'],Common,"When Liliana's Shade enters the battlefield, you may search your library for a Swamp card, reveal it, put it into your hand, then shuffle.\n{B}: Liliana's Shade gets +1/+1 until end of turn.",98,1,1,,M13,Magic 2013
+Aven Squire,{1}{W},2.0,['W'],['W'],Creature — Bird Soldier,,"['Bird', 'Soldier']",Common,"Flying\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",6,1,1,,M13,Magic 2013
+Flinthoof Boar,{1}{G},2.0,['G'],"['G', 'R']",Creature — Boar,,['Boar'],Uncommon,Flinthoof Boar gets +1/+1 as long as you control a Mountain.\n{R}: Flinthoof Boar gains haste until end of turn. (It can attack and {T} this turn.),171,2,2,,M13,Magic 2013
+Mark of the Vampire,{3}{B},4.0,['B'],['B'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nEnchanted creature gets +2/+2 and has lifelink.,99,,,,M13,Magic 2013
+Captain of the Watch,{4}{W}{W},6.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Rare,"Vigilance (Attacking doesn't cause this creature to tap.)\nOther Soldier creatures you control get +1/+1 and have vigilance.\nWhen Captain of the Watch enters the battlefield, create three 1/1 white Soldier creature tokens.",8,3,3,,M13,Magic 2013
+"Nefarox, Overlord of Grixis",{4}{B}{B},6.0,['B'],['B'],Legendary Creature — Demon,['Legendary'],['Demon'],Rare,"Flying\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhenever Nefarox, Overlord of Grixis attacks alone, defending player sacrifices a creature.",103,5,5,,M13,Magic 2013
+Welkin Tern,{1}{U},2.0,['U'],['U'],Creature — Bird,,['Bird'],Common,Flying (This creature can't be blocked except by creatures with flying or reach.)\nWelkin Tern can block only creatures with flying.,79,2,1,,M13,Magic 2013
+Captain's Call,{3}{W},4.0,['W'],['W'],Sorcery,,,Common,Create three 1/1 white Soldier creature tokens.,9,,,,M13,Magic 2013
+Reverberate,{R}{R},2.0,['R'],['R'],Instant,,,Rare,Copy target instant or sorcery spell. You may choose new targets for the copy.,145,,,,M13,Magic 2013
+Watercourser,{2}{U},3.0,['U'],['U'],Creature — Elemental,,['Elemental'],Common,{U}: Watercourser gets +1/-1 until end of turn.,78,2,3,,M13,Magic 2013
+Divine Favor,{1}{W},2.0,['W'],['W'],Enchantment — Aura,,['Aura'],Common,"Enchant creature\nWhen Divine Favor enters the battlefield, you gain 3 life.\nEnchanted creature gets +1/+3.",11,,,,M13,Magic 2013
+Serra Avatar,{4}{W}{W}{W},7.0,['W'],['W'],Creature — Avatar,,['Avatar'],Mythic,"Serra Avatar's power and toughness are each equal to your life total.\nWhen Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.",32,*,*,,M13,Magic 2013
+Blood Reckoning,{3}{B},4.0,['B'],['B'],Enchantment,,,Uncommon,"Whenever a creature attacks you or a planeswalker you control, that creature's controller loses 1 life.",81,,,,M13,Magic 2013
+Crusader of Odric,{2}{W},3.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Uncommon,Crusader of Odric's power and toughness are each equal to the number of creatures you control.,10,*,*,,M13,Magic 2013
+Mindclaw Shaman,{4}{R},5.0,['R'],['R'],Creature — Viashino Shaman,,"['Viashino', 'Shaman']",Uncommon,"When Mindclaw Shaman enters the battlefield, target opponent reveals their hand. You may cast an instant or sorcery spell from among those cards without paying its mana cost.",142,2,2,,M13,Magic 2013
+Wind Drake,{2}{U},3.0,['U'],['U'],Creature — Drake,,['Drake'],Common,Flying,80,2,2,,M13,Magic 2013
+Erase,{W},1.0,['W'],['W'],Instant,,,Common,Exile target enchantment.,13,,,,M13,Magic 2013
+Vampire Nocturnus,{1}{B}{B}{B},4.0,['B'],['B'],Creature — Vampire,,['Vampire'],Mythic,"Play with the top card of your library revealed.\nAs long as the top card of your library is black, Vampire Nocturnus and other Vampire creatures you control get +2/+1 and have flying.",113,3,3,,M13,Magic 2013
+Bloodhunter Bat,{3}{B},4.0,['B'],['B'],Creature — Bat,,['Bat'],Common,"Flying\nWhen Bloodhunter Bat enters the battlefield, target player loses 2 life and you gain 2 life.",82,2,2,,M13,Magic 2013
+Divine Verdict,{3}{W},4.0,['W'],['W'],Instant,,,Common,Destroy target attacking or blocking creature.,12,,,,M13,Magic 2013
+Sign in Blood,{B}{B},2.0,['B'],['B'],Sorcery,,,Common,Target player draws two cards and loses 2 life.,110,,,,M13,Magic 2013
+Archaeomancer,{2}{U}{U},4.0,['U'],['U'],Creature — Human Wizard,,"['Human', 'Wizard']",Common,"When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.",41,1,2,,M13,Magic 2013
+Faith's Reward,{3}{W},4.0,['W'],['W'],Instant,,,Rare,Return to the battlefield all permanent cards in your graveyard that were put there from the battlefield this turn.,14,,,,M13,Magic 2013
+Cower in Fear,{1}{B}{B},3.0,['B'],['B'],Instant,,,Uncommon,Creatures your opponents control get -1/-1 until end of turn.,84,,,,M13,Magic 2013
+Bloodthrone Vampire,{1}{B},2.0,['B'],['B'],Creature — Vampire,,['Vampire'],Common,Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.,83,1,1,,M13,Magic 2013
+Griffin Protector,{3}{W},4.0,['W'],['W'],Creature — Griffin,,['Griffin'],Common,"Flying\nWhenever another creature enters the battlefield under your control, Griffin Protector gets +1/+1 until end of turn.",16,2,3,,M13,Magic 2013
+Arms Dealer,{2}{R},3.0,['R'],['R'],Creature — Goblin Rogue,,"['Goblin', 'Rogue']",Uncommon,"{1}{R}, Sacrifice a Goblin: Arms Dealer deals 4 damage to target creature.",120,1,1,,M13,Magic 2013
+Crippling Blight,{B},1.0,['B'],['B'],Enchantment — Aura,,['Aura'],Common,Enchant creature\nEnchanted creature gets -1/-1 and can't block.,85,,,,M13,Magic 2013
+Glorious Charge,{1}{W},2.0,['W'],['W'],Instant,,,Common,Creatures you control get +1/+1 until end of turn.,15,,,,M13,Magic 2013
+"Chandra, the Firebrand",{3}{R},4.0,['R'],['R'],Legendary Planeswalker — Chandra,['Legendary'],['Chandra'],Mythic,"[+1]: Chandra, the Firebrand deals 1 damage to any target.\n[−2]: When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.\n[−6]: Chandra, the Firebrand deals 6 damage to each of up to six targets.",123,,,3,M13,Magic 2013
+Dark Favor,{1}{B},2.0,['B'],['B'],Enchantment — Aura,,['Aura'],Common,"Enchant creature\nWhen Dark Favor enters the battlefield, you lose 1 life.\nEnchanted creature gets +3/+1.",86,,,,M13,Magic 2013
+Guardian Lions,{4}{W},5.0,['W'],['W'],Creature — Cat,,['Cat'],Common,Vigilance (Attacking doesn't cause this creature to tap.),17,1,6,,M13,Magic 2013
+Crimson Muckwader,{1}{R},2.0,['R'],"['B', 'R']",Creature — Lizard,,['Lizard'],Uncommon,"Crimson Muckwader gets +1/+1 as long as you control a Swamp.\n{2}{B}: Regenerate Crimson Muckwader. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",127,2,1,,M13,Magic 2013
+Disciple of Bolas,{3}{B},4.0,['B'],['B'],Creature — Human Wizard,,"['Human', 'Wizard']",Rare,"When Disciple of Bolas enters the battlefield, sacrifice another creature. You gain X life and draw X cards, where X is that creature's power.",88,2,1,,M13,Magic 2013
+Healer of the Pride,{3}{W},4.0,['W'],['W'],Creature — Cat Cleric,,"['Cat', 'Cleric']",Uncommon,"Whenever another creature enters the battlefield under your control, you gain 2 life.",19,2,3,,M13,Magic 2013
+Staff of Nin,{6},6.0,,,Artifact,,,Rare,"At the beginning of your upkeep, draw a card.\n{T}: Staff of Nin deals 1 damage to any target.",217,,,,M13,Magic 2013
+Diabolic Revelation,{X}{3}{B}{B},5.0,['B'],['B'],Sorcery,,,Rare,"Search your library for up to X cards, put those cards into your hand, then shuffle.",87,,,,M13,Magic 2013
+Guardians of Akrasa,{2}{W},3.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Common,"Defender (This creature can't attack.)\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",18,0,4,,M13,Magic 2013
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),247,,,,M13,Magic 2013
+Duress,{B},1.0,['B'],['B'],Sorcery,,,Common,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",90,,,,M13,Magic 2013
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),246,,,,M13,Magic 2013
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),248,,,,M13,Magic 2013
+Disentomb,{B},1.0,['B'],['B'],Sorcery,,,Common,Return target creature card from your graveyard to your hand.,89,,,,M13,Magic 2013
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),242,,,,M13,Magic 2013
+Duskmantle Prowler,{3}{B},4.0,['B'],['B'],Creature — Vampire Rogue,,"['Vampire', 'Rogue']",Uncommon,"Haste (This creature can attack and {T} as soon as it comes under your control.)\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",91,2,2,,M13,Magic 2013
+Vampire Nighthawk,{1}{B}{B},3.0,['B'],['B'],Creature — Vampire Shaman,,"['Vampire', 'Shaman']",Uncommon,"Flying, deathtouch, lifelink",112,2,3,,M13,Magic 2013
+Essence Drain,{4}{B},5.0,['B'],['B'],Sorcery,,,Common,Essence Drain deals 3 damage to any target and you gain 3 life.,93,,,,M13,Magic 2013
+Evolving Wilds,,0.0,,,Land,,,Common,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",224,,,,M13,Magic 2013
+Duty-Bound Dead,{B},1.0,['B'],['B'],Creature — Skeleton,,['Skeleton'],Common,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{3}{B}: Regenerate Duty-Bound Dead. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",92,0,2,,M13,Magic 2013
+Canyon Minotaur,{3}{R},4.0,['R'],['R'],Creature — Minotaur Warrior,,"['Minotaur', 'Warrior']",Common,,122,3,3,,M13,Magic 2013
+Giant Scorpion,{2}{B},3.0,['B'],['B'],Creature — Scorpion,,['Scorpion'],Common,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),94,1,3,,M13,Magic 2013
+Bladetusk Boar,{3}{R},4.0,['R'],['R'],Creature — Boar,,['Boar'],Common,Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.),121,3,2,,M13,Magic 2013
+Knight of Infamy,{1}{B},2.0,['B'],['B'],Creature — Human Knight,,"['Human', 'Knight']",Uncommon,"Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",96,2,1,,M13,Magic 2013
+Harbor Bandit,{2}{B},3.0,['B'],"['B', 'U']",Creature — Human Rogue,,"['Human', 'Rogue']",Uncommon,Harbor Bandit gets +1/+1 as long as you control an Island.\n{1}{U}: Harbor Bandit can't be blocked this turn.,95,2,2,,M13,Magic 2013
+Wild Guess,{R}{R},2.0,['R'],['R'],Sorcery,,,Common,"As an additional cost to cast this spell, discard a card.\nDraw two cards.",157,,,,M13,Magic 2013
+Sublime Archangel,{2}{W}{W},4.0,['W'],['W'],Creature — Angel,,['Angel'],Mythic,"Flying\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nOther creatures you control have exalted. (If a creature has multiple instances of exalted, each triggers separately.)",36,4,3,,M13,Magic 2013
+Drowned Catacomb,,0.0,,"['B', 'U']",Land,,,Rare,Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.\n{T}: Add {U} or {B}.,223,,,,M13,Magic 2013
+Titanic Growth,{1}{G},2.0,['G'],['G'],Instant,,,Common,Target creature gets +4/+4 until end of turn.,195,,,,M13,Magic 2013
+Krenko's Command,{1}{R},2.0,['R'],['R'],Sorcery,,,Common,Create two 1/1 red Goblin creature tokens.,139,,,,M13,Magic 2013
+Duskdale Wurm,{5}{G}{G},7.0,['G'],['G'],Creature — Wurm,,['Wurm'],Uncommon,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.),166,7,7,,M13,Magic 2013
+Zombie Goliath,{4}{B},5.0,['B'],['B'],Creature — Zombie Giant,,"['Zombie', 'Giant']",Common,,119,4,3,,M13,Magic 2013
+Jayemdae Tome,{4},4.0,,,Artifact,,,Uncommon,"{4}, {T}: Draw a card.",207,,,,M13,Magic 2013
+Gem of Becoming,{3},3.0,,,Artifact,,,Uncommon,"{3}, {T}, Sacrifice Gem of Becoming: Search your library for an Island card, a Swamp card, and a Mountain card. Reveal those cards, put them into your hand, then shuffle.",205,,,,M13,Magic 2013
+Vastwood Gorger,{5}{G},6.0,['G'],['G'],Creature — Wurm,,['Wurm'],Common,,196,5,6,,M13,Magic 2013
+Elixir of Immortality,{1},1.0,,,Artifact,,,Uncommon,"{2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner's library.",204,,,,M13,Magic 2013
+Cleaver Riot,{4}{R},5.0,['R'],['R'],Sorcery,,,Uncommon,Creatures you control gain double strike until end of turn. (They deal both first-strike and regular combat damage.),125,,,,M13,Magic 2013
+Door to Nothingness,{5},5.0,,"['B', 'G', 'R', 'U', 'W']",Artifact,,,Rare,"Door to Nothingness enters the battlefield tapped.\n{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice Door to Nothingness: Target player loses the game.",203,,,,M13,Magic 2013
+Clock of Omens,{4},4.0,,,Artifact,,,Uncommon,Tap two untapped artifacts you control: Untap target artifact.,202,,,,M13,Magic 2013
+Elderscale Wurm,{4}{G}{G}{G},7.0,['G'],['G'],Creature — Wurm,,['Wurm'],Mythic,"Trample\nWhen Elderscale Wurm enters the battlefield, if your life total is less than 7, your life total becomes 7.\nAs long as you have 7 or more life, damage that would reduce your life total to less than 7 reduces it to 7 instead.",167,7,7,,M13,Magic 2013
+Faerie Invaders,{4}{U},5.0,['U'],['U'],Creature — Faerie Rogue,,"['Faerie', 'Rogue']",Common,Flash (You may cast this spell any time you could cast an instant.)\nFlying,51,3,3,,M13,Magic 2013
+Encrust,{1}{U}{U},3.0,['U'],['U'],Enchantment — Aura,,['Aura'],Common,Enchant artifact or creature\nEnchanted permanent doesn't untap during its controller's untap step and its activated abilities can't be activated.,49,,,,M13,Magic 2013
+Boundless Realms,{6}{G},7.0,['G'],['G'],Sorcery,,,Rare,"Search your library for up to X basic land cards, where X is the number of lands you control, put them onto the battlefield tapped, then shuffle.",162,,,,M13,Magic 2013
+Clone,{3}{U},4.0,['U'],['U'],Creature — Shapeshifter,,['Shapeshifter'],Rare,You may have Clone enter the battlefield as a copy of any creature on the battlefield.,45,0,0,,M13,Magic 2013
+Harbor Serpent,{4}{U}{U},6.0,['U'],['U'],Creature — Serpent,,['Serpent'],Common,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nHarbor Serpent can't attack unless there are five or more Islands on the battlefield.,53,5,5,,M13,Magic 2013
+Servant of Nefarox,{2}{B},3.0,['B'],['B'],Creature — Human Cleric,,"['Human', 'Cleric']",Common,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",108,3,1,,M13,Magic 2013
+"Nicol Bolas, Planeswalker",{4}{U}{B}{B}{R},8.0,"['B', 'R', 'U']","['B', 'R', 'U']",Legendary Planeswalker — Bolas,['Legendary'],['Bolas'],Mythic,"[+3]: Destroy target noncreature permanent.\n[−2]: Gain control of target creature.\n[−9]: Nicol Bolas, Planeswalker deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents.",199,,,5,M13,Magic 2013
+Essence Scatter,{1}{U},2.0,['U'],['U'],Instant,,,Common,Counter target creature spell.,50,,,,M13,Magic 2013
+Divination,{2}{U},3.0,['U'],['U'],Sorcery,,,Common,Draw two cards.,47,,,,M13,Magic 2013
+Mwonvuli Beast Tracker,{1}{G}{G},3.0,['G'],['G'],Creature — Human Scout,,"['Human', 'Scout']",Uncommon,"When Mwonvuli Beast Tracker enters the battlefield, search your library for a creature card with deathtouch, hexproof, reach, or trample and reveal it. Shuffle and put that card on top.",177,2,1,,M13,Magic 2013
+Yeva's Forcemage,{2}{G},3.0,['G'],['G'],Creature — Elf Shaman,,"['Elf', 'Shaman']",Common,"When Yeva's Forcemage enters the battlefield, target creature gets +2/+2 until end of turn.",198,2,2,,M13,Magic 2013
+Downpour,{1}{U},2.0,['U'],['U'],Instant,,,Common,Tap up to three target creatures.,48,,,,M13,Magic 2013
+Rootbound Crag,,0.0,,"['G', 'R']",Land,,,Rare,Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G}.,228,,,,M13,Magic 2013
+Sunpetal Grove,,0.0,,"['G', 'W']",Land,,,Rare,Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.\n{T}: Add {G} or {W}.,229,,,,M13,Magic 2013
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),239,,,,M13,Magic 2013
+Flames of the Firebrand,{2}{R},3.0,['R'],['R'],Sorcery,,,Uncommon,"Flames of the Firebrand deals 3 damage divided as you choose among one, two, or three targets.",132,,,,M13,Magic 2013
+Ring of Kalonia,{2},2.0,,,Artifact — Equipment,,['Equipment'],Uncommon,"Equipped creature has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)\nAt the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's green.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",212,,,,M13,Magic 2013
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),241,,,,M13,Magic 2013
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),245,,,,M13,Magic 2013
+Silklash Spider,{3}{G}{G},5.0,['G'],['G'],Creature — Spider,,['Spider'],Rare,Reach\n{X}{G}{G}: Silklash Spider deals X damage to each creature with flying.,191,2,7,,M13,Magic 2013
+Goblin Battle Jester,{3}{R},4.0,['R'],['R'],Creature — Goblin,,['Goblin'],Common,"Whenever you cast a red spell, target creature can't block this turn.",135,2,2,,M13,Magic 2013
+Furnace Whelp,{2}{R}{R},4.0,['R'],['R'],Creature — Dragon,,['Dragon'],Uncommon,Flying\n{R}: Furnace Whelp gets +1/+0 until end of turn.,133,2,2,,M13,Magic 2013
+"Garruk, Primal Hunter",{2}{G}{G}{G},5.0,['G'],['G'],Legendary Planeswalker — Garruk,['Legendary'],['Garruk'],Mythic,[+1]: Create a 3/3 green Beast creature token.\n[−3]: Draw cards equal to the greatest power among creatures you control.\n[−6]: Create a 6/6 green Wurm creature token for each land you control.,174,,,3,M13,Magic 2013
+"Yeva, Nature's Herald",{2}{G}{G},4.0,['G'],['G'],Legendary Creature — Elf Shaman,['Legendary'],"['Elf', 'Shaman']",Rare,Flash (You may cast this spell any time you could cast an instant.)\nYou may cast green creature spells as though they had flash.,197,4,4,,M13,Magic 2013
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),240,,,,M13,Magic 2013
+Ring of Thune,{2},2.0,,,Artifact — Equipment,,['Equipment'],Uncommon,"Equipped creature has vigilance. (Attacking doesn't cause it to tap.)\nAt the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's white.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",213,,,,M13,Magic 2013
+Ring of Xathrid,{2},2.0,,,Artifact — Equipment,,['Equipment'],Uncommon,"{2}: Regenerate equipped creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)\nAt the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's black.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",215,,,,M13,Magic 2013
+Battle of Wits,{3}{U}{U},5.0,['U'],['U'],Enchantment,,,Rare,"At the beginning of your upkeep, if you have 200 or more cards in your library, you win the game.",44,,,,M13,Magic 2013
+Wit's End,{5}{B}{B},7.0,['B'],['B'],Sorcery,,,Rare,Target player discards their hand.,117,,,,M13,Magic 2013
+Fire Elemental,{3}{R}{R},5.0,['R'],['R'],Creature — Elemental,,['Elemental'],Common,,130,5,4,,M13,Magic 2013
+Fog Bank,{1}{U},2.0,['U'],['U'],Creature — Wall,,['Wall'],Uncommon,"Defender, flying\nPrevent all combat damage that would be dealt to and dealt by Fog Bank.",52,0,2,,M13,Magic 2013
+Courtly Provocateur,{2}{U},3.0,['U'],['U'],Creature — Human Wizard,,"['Human', 'Wizard']",Uncommon,{T}: Target creature attacks this turn if able.\n{T}: Target creature blocks this turn if able.,46,1,1,,M13,Magic 2013
+Chronomaton,{1},1.0,,,Artifact Creature — Golem,,['Golem'],Uncommon,"{1}, {T}: Put a +1/+1 counter on Chronomaton.",201,1,1,,M13,Magic 2013
+Stuffy Doll,{5},5.0,,,Artifact Creature — Construct,,['Construct'],Rare,"Indestructible\nAs Stuffy Doll enters the battlefield, choose a player.\nWhenever Stuffy Doll is dealt damage, it deals that much damage to the chosen player.\n{T}: Stuffy Doll deals 1 damage to itself.",218,0,1,,M13,Magic 2013
+Kitesail,{2},2.0,,,Artifact — Equipment,,['Equipment'],Uncommon,Equipped creature gets +1/+0 and has flying.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),208,,,,M13,Magic 2013
+Firewing Phoenix,{3}{R},4.0,['R'],['R'],Creature — Phoenix,,['Phoenix'],Rare,Flying\n{1}{R}{R}{R}: Return Firewing Phoenix from your graveyard to your hand.,131,4,2,,M13,Magic 2013
+Primal Clay,{4},4.0,,,Artifact Creature — Shapeshifter,,['Shapeshifter'],Uncommon,"As Primal Clay enters the battlefield, it becomes your choice of a 3/3 artifact creature, a 2/2 artifact creature with flying, or a 1/6 Wall artifact creature with defender in addition to its other types. (A creature with defender can't attack.)",210,*,*,,M13,Magic 2013
+Dragon Hatchling,{1}{R},2.0,['R'],['R'],Creature — Dragon,,['Dragon'],Common,Flying\n{R}: Dragon Hatchling gets +1/+0 until end of turn.,128,0,1,,M13,Magic 2013
+Elvish Archdruid,{1}{G}{G},3.0,['G'],['G'],Creature — Elf Druid,,"['Elf', 'Druid']",Rare,Other Elf creatures you control get +1/+1.\n{T}: Add {G} for each Elf you control.,168,2,2,,M13,Magic 2013
+Phyrexian Hulk,{6},6.0,,,Artifact Creature — Phyrexian Golem,,"['Phyrexian', 'Golem']",Uncommon,,209,5,4,,M13,Magic 2013
+Gilded Lotus,{5},5.0,,,Artifact,,,Rare,{T}: Add three mana of any one color.,206,,,,M13,Magic 2013
+Vile Rebirth,{B},1.0,['B'],['B'],Instant,,,Common,Exile target creature card from a graveyard. Create a 2/2 black Zombie creature token.,115,,,,M13,Magic 2013
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),244,,,,M13,Magic 2013
+Walking Corpse,{1}{B},2.0,['B'],['B'],Creature — Zombie,,['Zombie'],Common,,116,2,2,,M13,Magic 2013
+Magmaquake,{X}{R}{R},2.0,['R'],['R'],Instant,,,Rare,Magmaquake deals X damage to each creature without flying and each planeswalker.,140,,,,M13,Magic 2013
+Veilborn Ghoul,{4}{B},5.0,['B'],['B'],Creature — Zombie,,['Zombie'],Uncommon,"Veilborn Ghoul can't block.\nWhenever a Swamp enters the battlefield under your control, you may return Veilborn Ghoul from your graveyard to your hand.",114,4,1,,M13,Magic 2013
+Farseek,{1}{G},2.0,['G'],['G'],Sorcery,,,Common,"Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.",170,,,,M13,Magic 2013
+Serpent's Gift,{2}{G},3.0,['G'],['G'],Instant,,,Common,Target creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.),190,,,,M13,Magic 2013
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),237,,,,M13,Magic 2013
+Mark of Mutiny,{2}{R},3.0,['R'],['R'],Sorcery,,,Uncommon,Gain control of target creature until end of turn. Put a +1/+1 counter on it and untap it. That creature gains haste until end of turn. (It can attack and {T} this turn.),141,,,,M13,Magic 2013
+Deadly Recluse,{1}{G},2.0,['G'],['G'],Creature — Spider,,['Spider'],Common,Reach (This creature can block creatures with flying.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.),165,1,2,,M13,Magic 2013
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),235,,,,M13,Magic 2013
+Warclamp Mastiff,{W},1.0,['W'],['W'],Creature — Dog,,['Dog'],Common,First strike (This creature deals combat damage before creatures without first strike.),40,1,1,,M13,Magic 2013
+Timberpack Wolf,{1}{G},2.0,['G'],['G'],Creature — Wolf,,['Wolf'],Common,Timberpack Wolf gets +1/+1 for each other creature you control named Timberpack Wolf.,194,2,2,,M13,Magic 2013
+War Priest of Thune,{1}{W},2.0,['W'],['W'],Creature — Human Cleric,,"['Human', 'Cleric']",Uncommon,"When War Priest of Thune enters the battlefield, you may destroy target enchantment.",39,2,2,,M13,Magic 2013
+Hamletback Goliath,{6}{R},7.0,['R'],['R'],Creature — Giant Warrior,,"['Giant', 'Warrior']",Rare,"Whenever another creature enters the battlefield, you may put X +1/+1 counters on Hamletback Goliath, where X is that creature's power.",136,6,6,,M13,Magic 2013
+Fog,{G},1.0,['G'],['G'],Instant,,,Common,Prevent all combat damage that would be dealt this turn.,172,,,,M13,Magic 2013
+Ranger's Path,{3}{G},4.0,['G'],['G'],Sorcery,,,Common,"Search your library for up to two Forest cards, put them onto the battlefield tapped, then shuffle.",186,,,,M13,Magic 2013
+Arbor Elf,{G},1.0,['G'],['G'],Creature — Elf Druid,,"['Elf', 'Druid']",Common,{T}: Untap target Forest.,160,1,1,,M13,Magic 2013
+Elvish Visionary,{1}{G},2.0,['G'],['G'],Creature — Elf Shaman,,"['Elf', 'Shaman']",Common,"When Elvish Visionary enters the battlefield, draw a card.",169,1,1,,M13,Magic 2013
+Thragtusk,{4}{G},5.0,['G'],['G'],Creature — Beast,,['Beast'],Rare,"When Thragtusk enters the battlefield, you gain 5 life.\nWhen Thragtusk leaves the battlefield, create a 3/3 green Beast creature token.",193,5,3,,M13,Magic 2013
+Ravenous Rats,{1}{B},2.0,['B'],['B'],Creature — Rat,,['Rat'],Common,"When Ravenous Rats enters the battlefield, target opponent discards a card.",106,1,1,,M13,Magic 2013
+Primal Huntbeast,{3}{G},4.0,['G'],['G'],Creature — Beast,,['Beast'],Common,Hexproof (This creature can't be the target of spells or abilities your opponents control.),182,3,3,,M13,Magic 2013
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),238,,,,M13,Magic 2013
+Hellion Crucible,,0.0,,['R'],Land,,,Rare,"{T}: Add {C}.\n{1}{R}, {T}: Put a pressure counter on Hellion Crucible.\n{1}{R}, {T}, Remove two pressure counters from Hellion Crucible and sacrifice it: Create a 4/4 red Hellion creature token with haste. (It can attack and {T} as soon as it comes under your control.)",226,,,,M13,Magic 2013
+Kindled Fury,{R},1.0,['R'],['R'],Instant,,,Common,Target creature gets +1/+0 and gains first strike until end of turn.,137,,,,M13,Magic 2013
+Centaur Courser,{2}{G},3.0,['G'],['G'],Creature — Centaur Warrior,,"['Centaur', 'Warrior']",Common,,164,3,3,,M13,Magic 2013
+Bountiful Harvest,{4}{G},5.0,['G'],['G'],Sorcery,,,Common,You gain 1 life for each land you control.,163,,,,M13,Magic 2013
+Garruk's Packleader,{4}{G},5.0,['G'],['G'],Creature — Beast,,['Beast'],Uncommon,"Whenever another creature with power 3 or greater enters the battlefield under your control, you may draw a card.",175,4,4,,M13,Magic 2013
+War Falcon,{W},1.0,['W'],['W'],Creature — Bird,,['Bird'],Common,Flying\nWar Falcon can't attack unless you control a Knight or a Soldier.,38,2,1,,M13,Magic 2013
+Rise from the Grave,{4}{B},5.0,['B'],['B'],Sorcery,,,Uncommon,Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.,107,,,,M13,Magic 2013
+Akroma's Memorial,{7},7.0,,,Legendary Artifact,['Legendary'],,Mythic,"Creatures you control have flying, first strike, vigilance, trample, haste, and protection from black and from red.",200,,,,M13,Magic 2013
+Fungal Sprouting,{3}{G},4.0,['G'],['G'],Sorcery,,,Uncommon,"Create X 1/1 green Saproling creature tokens, where X is the greatest power among creatures you control.",173,,,,M13,Magic 2013
+Touch of the Eternal,{5}{W}{W},7.0,['W'],['W'],Enchantment,,,Rare,"At the beginning of your upkeep, count the number of permanents you control. Your life total becomes that number.",37,,,,M13,Magic 2013
+Sands of Delirium,{3},3.0,,,Artifact,,,Rare,"{X}, {T}: Target player mills X cards.",216,,,,M13,Magic 2013
+Show of Valor,{1}{W},2.0,['W'],['W'],Instant,,,Common,Target creature gets +2/+4 until end of turn.,34,,,,M13,Magic 2013
+Rhox Faithmender,{3}{W},4.0,['W'],['W'],Creature — Rhino Monk,,"['Rhino', 'Monk']",Rare,"Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nIf you would gain life, you gain twice that much life instead.",29,1,5,,M13,Magic 2013
+Rain of Blades,{W},1.0,['W'],['W'],Instant,,,Uncommon,Rain of Blades deals 1 damage to each attacking creature.,28,,,,M13,Magic 2013
+Serra Angel,{3}{W}{W},5.0,['W'],['W'],Creature — Angel,,['Angel'],Uncommon,"Flying, vigilance",31,4,4,,M13,Magic 2013
+Serra Avenger,{W}{W},2.0,['W'],['W'],Creature — Angel,,['Angel'],Rare,"You can't cast this spell during your first, second, or third turns of the game.\nFlying, vigilance",33,3,3,,M13,Magic 2013
+Safe Passage,{2}{W},3.0,['W'],['W'],Instant,,,Common,Prevent all damage that would be dealt to you and creatures you control this turn.,30,,,,M13,Magic 2013
+Augur of Bolas,{1}{U},2.0,['U'],['U'],Creature — Merfolk Wizard,,"['Merfolk', 'Wizard']",Uncommon,"When Augur of Bolas enters the battlefield, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",43,1,3,,M13,Magic 2013
+Ring of Valkas,{2},2.0,,,Artifact — Equipment,,['Equipment'],Uncommon,"Equipped creature has haste. (It can attack and {T} no matter when it came under your control.)\nAt the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's red.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",214,,,,M13,Magic 2013
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),243,,,,M13,Magic 2013
+Tormented Soul,{B},1.0,['B'],['B'],Creature — Spirit,,['Spirit'],Common,Tormented Soul can't block and can't be blocked.,111,1,1,,M13,Magic 2013
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),233,,,,M13,Magic 2013
+Silvercoat Lion,{1}{W},2.0,['W'],['W'],Creature — Cat,,['Cat'],Common,,35,2,2,,M13,Magic 2013
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),234,,,,M13,Magic 2013
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),230,,,,M13,Magic 2013
+Arctic Aven,{2}{U},3.0,['U'],"['U', 'W']",Creature — Bird Wizard,,"['Bird', 'Wizard']",Uncommon,Flying\nArctic Aven gets +1/+1 as long as you control a Plains.\n{W}: Arctic Aven gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.),42,2,1,,M13,Magic 2013
+Murder,{1}{B}{B},3.0,['B'],['B'],Instant,,,Common,Destroy target creature.,101,,,,M13,Magic 2013
+Sentinel Spider,{3}{G}{G},5.0,['G'],['G'],Creature — Spider,,['Spider'],Common,"Vigilance, reach",189,4,4,,M13,Magic 2013
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),231,,,,M13,Magic 2013
+Fervor,{2}{R},3.0,['R'],['R'],Enchantment,,,Rare,Creatures you control have haste. (They can attack and {T} as soon as they come under your control.),129,,,,M13,Magic 2013
+Roaring Primadox,{3}{G},4.0,['G'],['G'],Creature — Beast,,['Beast'],Uncommon,"At the beginning of your upkeep, return a creature you control to its owner's hand.",188,4,4,,M13,Magic 2013
+Searing Spear,{1}{R},2.0,['R'],['R'],Instant,,,Common,Searing Spear deals 3 damage to any target.,147,,,,M13,Magic 2013
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),232,,,,M13,Magic 2013
+Chandra's Fury,{4}{R},5.0,['R'],['R'],Instant,,,Common,Chandra's Fury deals 4 damage to target player or planeswalker and 1 damage to each creature that player or that planeswalker's controller controls.,124,,,,M13,Magic 2013
+Worldfire,{6}{R}{R}{R},9.0,['R'],['R'],Sorcery,,,Mythic,Exile all permanents. Exile all cards from all hands and graveyards. Each player's life total becomes 1.,158,,,,M13,Magic 2013
+Ring of Evos Isle,{2},2.0,,,Artifact — Equipment,,['Equipment'],Uncommon,"{2}: Equipped creature gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)\nAt the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's blue.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",211,,,,M13,Magic 2013
+Shimian Specter,{2}{B}{B},4.0,['B'],['B'],Creature — Specter,,['Specter'],Rare,"Flying\nWhenever Shimian Specter deals combat damage to a player, that player reveals their hand. You choose a nonland card from it. Search that player's graveyard, hand, and library for all cards with the same name as that card and exile them. Then that player shuffles.",109,2,2,,M13,Magic 2013
+Spiked Baloth,{3}{G},4.0,['G'],['G'],Creature — Beast,,['Beast'],Common,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.),192,4,2,,M13,Magic 2013
+Dragonskull Summit,,0.0,,"['B', 'R']",Land,,,Rare,Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.\n{T}: Add {B} or {R}.,222,,,,M13,Magic 2013
+Glacial Fortress,,0.0,,"['U', 'W']",Land,,,Rare,Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.\n{T}: Add {W} or {U}.,225,,,,M13,Magic 2013
+Public Execution,{5}{B},6.0,['B'],['B'],Instant,,,Uncommon,Destroy target creature an opponent controls. Each other creature that player controls gets -2/-0 until end of turn.,105,,,,M13,Magic 2013
+Mutilate,{2}{B}{B},4.0,['B'],['B'],Sorcery,,,Rare,All creatures get -1/-1 until end of turn for each Swamp you control.,102,,,,M13,Magic 2013

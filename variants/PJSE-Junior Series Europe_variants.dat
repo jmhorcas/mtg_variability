@@ -1,10 +1,16 @@
-CMC: {2.0, 3.0, 5.0}
-Colors: {'White', 'Black', 'Green', 'Red'}
-ColorIdentity: {'W', 'R', 'G', 'B'}
-Supertypes: set()
-Types: {'Enchantment', 'Creature'}
-Subtypes: {'Snake', 'Soltari', 'Phoenix', 'Elf', 'Slith', 'Assassin', 'Monk', 'Human', 'Cleric', 'Shaman'}
-Rarity: {'Rare'}
-Power: {'2', '1'}
-Toughness: {'2', '1'}
-Loyalty: set()
+name: ['Slith Firewalker']
+mana_cost: ['{R}{R}']
+cmc: [2.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Creature — Slith']
+supertypes: []
+subtypes: ['Slith']
+rarity: ['Rare']
+text: ['Haste\nWhenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it.']
+number: ['1E05']
+power: ['1']
+toughness: ['1']
+loyalty: []
+set: ['PJSE']
+set_name: ['Junior Series Europe']

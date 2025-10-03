@@ -1,10 +1,16 @@
-CMC: {3.0, 4.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Creature', 'Artifact'}
-Subtypes: {'Warrior', 'Nightmare', 'Human', 'Dinosaur', 'Cat', 'Ninja'}
-Rarity: {'Rare'}
-Power: {'3', '4', '5', '1'}
-Toughness: {'3', '5'}
-Loyalty: set()
+name: ['Temur Sabertooth']
+mana_cost: ['{2}{G}{G}']
+cmc: [4.0]
+colors: ['G']
+color_identity: ['G']
+type: ['Creature — Cat']
+supertypes: []
+subtypes: ['Cat']
+rarity: ['Rare']
+text: ["{1}{G}: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn."]
+number: ['1']
+power: ['4']
+toughness: ['3']
+loyalty: []
+set: ['PL22']
+set_name: ['Year of the Tiger 2022']

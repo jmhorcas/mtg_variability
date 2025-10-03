@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Another Round,{X}{X}{2}{W},3.0,['W'],['W'],Sorcery,,,Rare,"Exile any number of creatures you control, then return them to the battlefield under their owner's control. Then repeat this process X more times.",1p,,,,POTJ,Outlaws of Thunder Junction Promos

@@ -1,10 +1,16 @@
-CMC: {2.0, 4.0, 5.0}
-Colors: {'White', 'Red', 'Black', 'Green'}
-ColorIdentity: {'W', 'R', 'G', 'B'}
-Supertypes: set()
-Types: {'Enchantment', 'Creature'}
-Subtypes: {'Vampire', 'Elf', 'Insect', 'Fungus', 'Shaman'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'3', '5'}
-Toughness: {'3', '4', '5'}
-Loyalty: set()
+name: ['Honor of the Pure']
+mana_cost: ['{1}{W}']
+cmc: [2.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Enchantment']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['White creatures you control get +1/+1.']
+number: ['16★']
+power: []
+toughness: []
+loyalty: []
+set: ['PM10']
+set_name: ['Magic 2010 Promos']

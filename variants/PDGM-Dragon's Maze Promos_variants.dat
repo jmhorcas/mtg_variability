@@ -1,10 +1,16 @@
-CMC: {8.0, 3.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Basic', 'Legendary'}
-Types: {'Instant', 'Land', 'Creature', 'Sorcery'}
-Subtypes: {'Weird', 'Elf', 'Wizard', 'Plains', 'Shaman'}
-Rarity: {'Common', 'Mythic', 'Uncommon', 'Rare'}
-Power: {'2', '1'}
-Toughness: {'4', '1'}
-Loyalty: set()
+name: ['Melek, Izzet Paragon']
+mana_cost: ['{4}{U}{R}']
+cmc: [6.0]
+colors: ['R', 'U']
+color_identity: ['R', 'U']
+type: ['Legendary Creature — Weird Wizard']
+supertypes: ['Legendary']
+subtypes: ['Weird', 'Wizard']
+rarity: ['Rare']
+text: ['Play with the top card of your library revealed.\nYou may cast instant and sorcery spells from the top of your library.\nWhenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy.']
+number: ['84']
+power: ['2']
+toughness: ['4']
+loyalty: []
+set: ['PDGM']
+set_name: ["Dragon's Maze Promos"]

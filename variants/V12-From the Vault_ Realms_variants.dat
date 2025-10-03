@@ -1,10 +1,16 @@
-CMC: set()
-Colors: {'Green'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Land', 'Creature'}
-Subtypes: {'Desert', 'Forest', 'Dryad'}
-Rarity: {'Mythic'}
-Power: {'1'}
-Toughness: {'1'}
-Loyalty: set()
+name: ['Ancient Tomb', 'Boseiju, Who Shelters All', 'Cephalid Coliseum', 'Desert', 'Dryad Arbor', 'Forbidden Orchard', 'Glacial Chasm', 'Grove of the Burnwillows', 'High Market', 'Maze of Ith', 'Murmuring Bosk', 'Shivan Gorge', 'Urborg, Tomb of Yawgmoth', 'Vesuva', 'Windbrisk Heights']
+mana_cost: []
+cmc: [0.0]
+colors: ['G']
+color_identity: ['B', 'G', 'R', 'U', 'W']
+type: ['Land', 'Land Creature — Forest Dryad', 'Land — Desert', 'Land — Forest', 'Legendary Land']
+supertypes: ['Legendary']
+subtypes: ['Desert', 'Dryad', 'Forest']
+rarity: ['Mythic']
+text: ['(Dryad Arbor isn\'t a spell, it\'s affected by summoning sickness, and it has "{T}: Add {G}.")', "({T}: Add {G}.)\nAs Murmuring Bosk enters the battlefield, you may reveal a Treefolk card from your hand. If you don't, Murmuring Bosk enters the battlefield tapped.\n{T}: Add {W} or {B}. Murmuring Bosk deals 1 damage to you.", "Boseiju, Who Shelters All enters the battlefield tapped.\n{T}, Pay 2 life: Add {C}. If that mana is spent on an instant or sorcery spell, that spell can't be countered.", "Cumulative upkeep—Pay 2 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen Glacial Chasm enters the battlefield, sacrifice a land.\nCreatures you control can't attack.\nPrevent all damage that would be dealt to you.", 'Each land is a Swamp in addition to its other land types.', 'Hideaway 4 (When this land enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)\nWindbrisk Heights enters the battlefield tapped.\n{T}: Add {W}.\n{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.', 'You may have Vesuva enter the battlefield tapped as a copy of any land on the battlefield.', '{T}: Add one mana of any color.\nWhenever you tap Forbidden Orchard for mana, target opponent creates a 1/1 colorless Spirit creature token.', '{T}: Add {C}.\n{2}{R}, {T}: Shivan Gorge deals 1 damage to each opponent.', '{T}: Add {C}.\n{T}, Sacrifice a creature: You gain 1 life.', '{T}: Add {C}.\n{T}: Add {R} or {G}. Each opponent gains 1 life.', '{T}: Add {C}.\n{T}: Desert deals 1 damage to target attacking creature. Activate only during the end of combat step.', '{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.', '{T}: Add {U}. Cephalid Coliseum deals 1 damage to you.\nThreshold — {U}, {T}, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate only if seven or more cards are in your graveyard.', '{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.']
+number: ['1', '10', '11', '12', '13', '14', '15', '2', '3', '4', '5', '6', '7', '8', '9']
+power: ['1']
+toughness: ['1']
+loyalty: []
+set: ['V12']
+set_name: ['From the Vault: Realms']

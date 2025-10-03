@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 7.0, 12.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Snow', 'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery'}
-Subtypes: {'Druid', 'Island', 'Zombie', 'Dragon', 'Horror', 'Mountain', 'Human', 'Vraska', 'Merfolk', 'Frog', 'Plains', 'Elder', 'Dinosaur', 'Ral', 'Warrior', 'Swamp', 'Forest', 'Elf', 'Wizard', 'Artificer', 'Teferi'}
-Rarity: {'Rare', 'Common', 'Mythic'}
-Power: {'4', '12', '1', '2', '6'}
-Toughness: {'4', '12', '1', '2', '6'}
-Loyalty: {'4', '5'}
+name: ['Ral, Izzet Viceroy']
+mana_cost: ['{3}{U}{R}']
+cmc: [5.0]
+colors: ['R', 'U']
+color_identity: ['R', 'U']
+type: ['Legendary Planeswalker — Ral']
+supertypes: ['Legendary']
+subtypes: ['Ral']
+rarity: ['Mythic']
+text: ['[+1]: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.\n[−3]: Ral, Izzet Viceroy deals damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard.\n[−8]: You get an emblem with "Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards."']
+number: ['1']
+power: []
+toughness: []
+loyalty: ['5']
+set: ['PANA']
+set_name: ['MTG Arena Promos']

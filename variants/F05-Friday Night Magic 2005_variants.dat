@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 4.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Enchantment', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Beast', 'Ape', 'Kavu', 'Juggernaut', 'Aura'}
-Rarity: {'Rare'}
-Power: {'4', '5', '1'}
-Toughness: {'3', '5', '2', '1'}
-Loyalty: set()
+name: ['Rancor']
+mana_cost: ['{G}']
+cmc: [1.0]
+colors: ['G']
+color_identity: ['G']
+type: ['Enchantment — Aura']
+supertypes: []
+subtypes: ['Aura']
+rarity: ['Rare']
+text: ["Enchant creature\nEnchanted creature gets +2/+0 and has trample.\nWhen Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand."]
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['F05']
+set_name: ['Friday Night Magic 2005']

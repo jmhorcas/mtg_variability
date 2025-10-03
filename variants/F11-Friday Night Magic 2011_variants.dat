@@ -1,10 +1,16 @@
-CMC: {9.0, 2.0, 3.0, 5.0}
-Colors: {'White', 'Black', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Land', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Eldrazi', 'Rhino', 'Wizard', 'Faerie', 'Monk', 'Bird', 'Wall'}
-Rarity: {'Rare'}
-Power: {'3', '10', '0', '1'}
-Toughness: {'4', '9', '1'}
-Loyalty: set()
+name: ['Everflowing Chalice']
+mana_cost: ['{0}']
+cmc: [0.0]
+colors: []
+color_identity: []
+type: ['Artifact']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['Multikicker {2} (You may pay an additional {2} any number of times as you cast this spell.)\nEverflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.\n{T}: Add {C} for each charge counter on Everflowing Chalice.']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['F11']
+set_name: ['Friday Night Magic 2011']

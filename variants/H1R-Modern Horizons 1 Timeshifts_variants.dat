@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Snow', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Snake', 'Vedalken', 'Faerie', 'Kor', 'Ranger', 'Zombie', 'Bear', 'Sliver', 'Cat', 'Equipment', 'Human', 'Cleric', 'Shapeshifter', 'Spirit', 'Phyrexian', 'Soldier', 'Elf', 'Wizard', 'Artificer', 'Carrier', 'Goblin', 'Ninja'}
-Rarity: {'Uncommon', 'Mythic', 'Rare'}
-Power: {'3', '7', '2', '1'}
-Toughness: {'4', '7', '1', '2', '3'}
-Loyalty: set()
+name: ['Ephemerate']
+mana_cost: ['{W}']
+cmc: [1.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Instant']
+supertypes: []
+subtypes: []
+rarity: ['Uncommon']
+text: ["Exile target creature you control, then return it to the battlefield under its owner's control.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"]
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['H1R']
+set_name: ['Modern Horizons 1 Timeshifts']

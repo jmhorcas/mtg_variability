@@ -1,10 +1,16 @@
-CMC: {3.0, 4.0, 5.0}
-Colors: {'White', 'Red', 'Green', 'Blue'}
-ColorIdentity: {'W', 'R', 'G', 'U'}
-Supertypes: {'Legendary'}
-Types: {'Creature', 'Sorcery', 'Artifact'}
-Subtypes: {'Equipment', 'Autobot'}
-Rarity: {'Mythic'}
-Power: {'4'}
-Toughness: {'4'}
-Loyalty: set()
+name: ['Grimlock, Dinobot Leader // Grimlock, Ferocious King']
+mana_cost: ['{1}{R}{G}{W}']
+cmc: [4.0]
+colors: ['G', 'R', 'W']
+color_identity: ['G', 'R', 'W']
+type: ['Legendary Artifact Creature — Autobot']
+supertypes: ['Legendary']
+subtypes: ['Autobot']
+rarity: ['Mythic']
+text: ['Dinosaurs, Vehicles, and other Transformers® creatures you control get +2/+0.\n{2}, Convert a Transformers toy you own to its other mode: Grimlock, Dinobot Leader becomes Grimlock, Ferocious King.']
+number: ['1']
+power: ['4']
+toughness: ['4']
+loyalty: []
+set: ['H17']
+set_name: ['HasCon 2017']

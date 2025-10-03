@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 5.0, 6.0}
-Colors: {'Green'}
-ColorIdentity: {'G'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Spirit', 'Elemental', 'Freyalise'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'2', '1'}
-Toughness: {'4', '2', '1'}
-Loyalty: {'3'}
+name: ['Bane of Progress', 'Command Tower', "Freyalise, Llanowar's Fury", 'Omnath, Locus of Mana', 'Seedborn Muse', 'Sol Ring', 'Sylvan Library', 'Worldly Tutor']
+mana_cost: ['{1}', '{1}{G}', '{2}{G}', '{3}{G}{G}', '{4}{G}{G}', '{G}']
+cmc: [0.0, 1.0, 2.0, 3.0, 5.0, 6.0]
+colors: ['G']
+color_identity: ['G']
+type: ['Artifact', 'Creature — Elemental', 'Creature — Spirit', 'Enchantment', 'Instant', 'Land', 'Legendary Creature — Elemental', 'Legendary Planeswalker — Freyalise']
+supertypes: ['Legendary']
+subtypes: ['Elemental', 'Freyalise', 'Spirit']
+rarity: ['Mythic', 'Rare']
+text: ['At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.', 'Search your library for a creature card, reveal it, then shuffle and put the card on top.', "Untap all permanents you control during each other player's untap step.", 'When Bane of Progress enters the battlefield, destroy all artifacts and enchantments. Put a +1/+1 counter on Bane of Progress for each permanent destroyed this way.', "You don't lose unspent green mana as steps and phases end.\nOmnath, Locus of Mana gets +1/+1 for each unspent green mana you have.", '[+2]: Create a 1/1 green Elf Druid creature token with "{T}: Add {G}."\n[−2]: Destroy target artifact or enchantment.\n[−6]: Draw a card for each green creature you control.\nFreyalise, Llanowar\'s Fury can be your commander.', "{T}: Add one mana of any color in your commander's color identity.", '{T}: Add {C}{C}.']
+number: ['1', '2', '3', '4', '5', '6', '7', '8']
+power: ['1', '2']
+toughness: ['1', '2', '4']
+loyalty: ['3']
+set: ['CC1']
+set_name: ['Commander Collection: Green']

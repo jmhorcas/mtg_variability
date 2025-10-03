@@ -1,10 +1,16 @@
-CMC: {2.0, 3.0, 5.0}
-Colors: {'White', 'Red', 'Green'}
-ColorIdentity: {'W', 'R', 'G'}
-Supertypes: set()
-Types: {'Enchantment', 'Creature'}
-Subtypes: {'Snake', 'Soltari', 'Phoenix', 'Elf', 'Monk', 'Human', 'Cleric', 'Shaman'}
-Rarity: {'Rare'}
-Power: {'2', '1'}
-Toughness: {'2', '1'}
-Loyalty: set()
+name: ['Sakura-Tribe Elder']
+mana_cost: ['{1}{G}']
+cmc: [2.0]
+colors: ['G']
+color_identity: ['G']
+type: ['Creature — Snake Shaman']
+supertypes: []
+subtypes: ['Shaman', 'Snake']
+rarity: ['Rare']
+text: ['Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.']
+number: ['1U06']
+power: ['1']
+toughness: ['1']
+loyalty: []
+set: ['PJAS']
+set_name: ['Junior APAC Series']

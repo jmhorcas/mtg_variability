@@ -1,10 +1,16 @@
-CMC: {2.0, 3.0, 5.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Enchantment', 'Instant', 'Creature', 'Artifact'}
-Subtypes: {'Beast', 'Druid', 'Soldier', 'Elf', 'Rebel', 'Boar', 'Human', 'Cleric', 'Goblin', 'Zombie', 'Gnome', 'Sliver'}
-Rarity: {'Rare'}
-Power: {'3', '6', '2', '1'}
-Toughness: {'4', '5', '1', '2', '3'}
-Loyalty: set()
+name: ['Bottle Gnomes']
+mana_cost: ['{3}']
+cmc: [3.0]
+colors: []
+color_identity: []
+type: ['Artifact Creature — Gnome']
+supertypes: []
+subtypes: ['Gnome']
+rarity: ['Rare']
+text: ['Sacrifice Bottle Gnomes: You gain 3 life.']
+number: ['1']
+power: ['1']
+toughness: ['3']
+loyalty: []
+set: ['F03']
+set_name: ['Friday Night Magic 2003']

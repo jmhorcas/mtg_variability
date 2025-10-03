@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Enchantment', 'Instant', 'Creature', 'Sorcery'}
-Subtypes: {'Vampire', 'Warrior', 'Elemental', 'Soldier', 'Kor', 'Aura', 'Cat', 'Shaman'}
-Rarity: {'Rare'}
-Power: {'3', '2', '1'}
-Toughness: {'3', '4', '1'}
-Loyalty: set()
+name: []
+mana_cost: []
+cmc: []
+colors: []
+color_identity: []
+type: []
+supertypes: []
+subtypes: []
+rarity: []
+text: []
+number: []
+power: []
+toughness: []
+loyalty: []
+set: []
+set_name: []

@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Elemental', 'Advisor', 'Scout', 'Pirate', 'Sorin', 'Zombie', 'Vampire', 'Dragon', 'Horror', 'Yanling', 'Construct', 'Angel', 'Demon', 'Wolf', 'Nightmare', 'Human', 'Knight', 'Cleric', 'Minotaur', 'Ajani', 'Spirit', 'Chandra', 'Dinosaur', 'Hydra', 'Shaman', 'Warrior', 'Vivien', 'Elf', 'Sphinx', 'Wizard', 'Rogue', 'Elephant', 'Bird'}
-Rarity: {'Rare', 'Common', 'Mythic', 'Uncommon'}
-Power: {'4', '7', '5', '1', '8', '2', '0', '3', '6'}
-Toughness: {'4', '7', '5', '1', '8', '2', '0', '3', '6'}
-Loyalty: {'4', '6', '5', '2'}
+name: ['Ajani, Strength of the Pride']
+mana_cost: ['{2}{W}{W}']
+cmc: [4.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Legendary Planeswalker — Ajani']
+supertypes: ['Legendary']
+subtypes: ['Ajani']
+rarity: ['Mythic']
+text: ['[+1]: You gain life equal to the number of creatures you control plus the number of planeswalkers you control.\n[−2]: Create a 2/2 white Cat Soldier creature token named Ajani\'s Pridemate with "Whenever you gain life, put a +1/+1 counter on Ajani\'s Pridemate."\n[0]: If you have at least 15 life more than your starting life total, exile Ajani, Strength of the Pride and each artifact and creature your opponents control.']
+number: ['2p']
+power: []
+toughness: []
+loyalty: ['5']
+set: ['PM20']
+set_name: ['Core Set 2020 Promos']

@@ -1,10 +1,16 @@
-CMC: {4.0}
-Colors: {'Red'}
-ColorIdentity: {'R'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Dragon'}
-Rarity: {'Rare'}
-Power: {'1'}
-Toughness: {'1'}
-Loyalty: set()
+name: ['Nalathni Dragon']
+mana_cost: ['{2}{R}{R}']
+cmc: [4.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Creature — Dragon']
+supertypes: []
+subtypes: ['Dragon']
+rarity: ['Rare']
+text: ["Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)\n{R}: Nalathni Dragon gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Nalathni Dragon at the beginning of the next end step."]
+number: ['1']
+power: ['1']
+toughness: ['1']
+loyalty: []
+set: ['PRED']
+set_name: ['Redemption Program']

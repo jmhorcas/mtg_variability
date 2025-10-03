@@ -1,10 +1,16 @@
-CMC: {2.0, 4.0, 6.0}
-Colors: {'Green', 'White'}
-ColorIdentity: {'W', 'R', 'G'}
-Supertypes: set()
-Types: {'Land', 'Creature', 'Sorcery'}
-Subtypes: {'Beast', 'Warrior', 'Elf', 'Angel'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'3', '6', '2'}
-Toughness: {'3', '6'}
-Loyalty: set()
+name: ['Day of Judgment']
+mana_cost: ['{2}{W}{W}']
+cmc: [4.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Sorcery']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['Destroy all creatures.']
+number: ['9★']
+power: []
+toughness: []
+loyalty: []
+set: ['PZEN']
+set_name: ['Zendikar Promos']

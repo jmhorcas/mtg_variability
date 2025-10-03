@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Destroy Evil,{1}{W},2.0,['W'],['W'],Instant,,,Rare,Choose one —\n• Destroy target creature with toughness 4 or greater.\n• Destroy target enchantment.,1,,,,P30T,30th Anniversary Celebration Tokyo

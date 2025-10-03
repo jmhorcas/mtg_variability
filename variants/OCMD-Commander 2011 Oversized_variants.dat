@@ -1,10 +1,16 @@
-CMC: {3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Creature'}
-Subtypes: {'Dragon', 'Warrior', 'Elemental', 'Spirit', 'Centaur', 'Giant', 'Ooze', 'Angel', 'Wizard', 'Fungus', 'Monk', 'Human', 'Cleric', 'Minotaur', 'Gorgon', 'Shaman'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'4', '7', '1', '2', '0', '3', '6'}
-Toughness: {'4', '7', '1', '2', '0', '6'}
-Loyalty: set()
+name: ['Animar, Soul of Elements']
+mana_cost: ['{G}{U}{R}']
+cmc: [3.0]
+colors: ['G', 'R', 'U']
+color_identity: ['G', 'R', 'U']
+type: ['Legendary Creature — Elemental']
+supertypes: ['Legendary']
+subtypes: ['Elemental']
+rarity: ['Mythic']
+text: ['Protection from white and from black\nWhenever you cast a creature spell, put a +1/+1 counter on Animar, Soul of Elements.\nCreature spells you cast cost {1} less to cast for each +1/+1 counter on Animar.']
+number: ['181']
+power: ['1']
+toughness: ['1']
+loyalty: []
+set: ['OCMD']
+set_name: ['Commander 2011 Oversized']

@@ -1,10 +1,16 @@
-CMC: set()
-Colors: set()
-ColorIdentity: set()
-Supertypes: set()
-Types: {'Vanguard'}
-Subtypes: set()
-Rarity: {'Rare'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['Ashnod', 'Barrin', 'Crovax', 'Eladamri', 'Ertai', 'Gerrard', 'Gix', 'Greven il-Vec', 'Hanna', 'Karn', 'Lyna', 'Maraxus', 'Mirri', 'Mishra', 'Multani', 'Oracle', 'Orim', 'Rofellos', 'Selenia', 'Serra', 'Sidar Kondo', 'Sisay', 'Sliver Queen, Brood Mother', 'Squee', 'Starke', 'Tahngarth', 'Takara', 'Tawnos', 'Titania', 'Urza', 'Volrath', 'Xantcha']
+mana_cost: []
+cmc: [0.0]
+colors: []
+color_identity: []
+type: ['Vanguard']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['At the beginning of your draw step, draw an additional card.', 'At the beginning of your draw step, you may draw an additional card. If you do, put a card from your hand on the bottom of your library.', 'Creatures you control get +0/+2.', 'Creatures you control get +1/+0.', 'Creatures you control get +X/+0, where X is the number of cards in your hand.', 'Creatures you control have haste.', "Creatures you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)", 'Creatures you control have reach.', 'Creatures you control have shadow. (They can block and be blocked only by creatures with shadow.)', 'Creatures you control have vigilance.', 'Each noncreature artifact you control is an artifact creature with power and toughness each equal to its mana value.', 'If a basic land you control is tapped for mana, it produces mana of a color of your choice instead of any other type.', 'If a creature you control would deal damage, it deals double that damage instead.', 'Sacrifice a creature: Takara deals 1 damage to any target.', 'Sacrifice a permanent: Regenerate target creature.', "Sacrifice a permanent: Return target creature to its owner's hand.", 'Spells you cast cost {1} less to cast.', 'Whenever a creature deals damage to you, destroy it.', 'Whenever a creature you control deals damage to a creature or player, you gain 1 life.', "Whenever a creature you control deals damage to a creature, destroy the other creature. It can't be regenerated.", 'Whenever a creature you control dies, draw a card.', 'Whenever a creature you control is put into your graveyard from the battlefield, you may put it on top of your library.', 'Whenever you tap a land for mana, add one mana of any type that land produced.', 'You may cast artifact, creature, and enchantment spells as though they had flash.', 'You may play an additional land on each of your turns.', 'Your opponents play with their hands revealed.', '{0}: The next 1 damage that would be dealt to target creature you control is dealt to you instead.', '{0}: Untap target attacking creature you control and remove it from combat.', '{3}: Create a 1/1 colorless Sliver creature token.', '{3}: Return target creature card from your graveyard to your hand.', '{3}: Target creature gets +3/+3 until end of turn.', '{3}: Urza deals 1 damage to any target.']
+number: ['101', '102', '103', '104', '105', '106', '107', '108', '201', '202', '203', '204', '205', '206', '207', '208', '301', '302', '303', '304', '305', '306', '307', '308', '401', '402', '403', '404', '405', '406', '407', '408']
+power: []
+toughness: []
+loyalty: []
+set: ['PVAN']
+set_name: ['Vanguard Series']

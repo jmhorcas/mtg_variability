@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Diabolical Salvation,{2}{R}{R}{R}{R},6.0,['R'],['R'],Instant,,,Mythic,"Split second\nCreate four 4/4 red Devil creature tokens with haste and ""When this creature dies, create a colorless Treasure artifact token with '{T}, Sacrifice this artifact: Add one mana of any color.'"" Sacrifice the Devil tokens at the beginning of the next end step.",1,,,,PH17,2017 Heroes of the Realm

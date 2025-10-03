@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Sorcery', 'Instant', 'Land', 'Creature'}
-Subtypes: {'Warrior', 'Snake', 'Human'}
-Rarity: {'Rare'}
-Power: {'3', '2'}
-Toughness: {'2'}
-Loyalty: set()
+name: ['Noose Constrictor']
+mana_cost: ['{1}{G}']
+cmc: [2.0]
+colors: ['G']
+color_identity: ['G']
+type: ['Creature — Snake']
+supertypes: []
+subtypes: ['Snake']
+rarity: ['Rare']
+text: ['Reach\nDiscard a card: Noose Constrictor gets +1/+1 until end of turn.']
+number: ['1']
+power: ['2']
+toughness: ['2']
+loyalty: []
+set: ['F17']
+set_name: ['Friday Night Magic 2017']

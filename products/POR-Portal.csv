@@ -1,232 +1,224 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Endless Cockroaches,3.0,['Black'],['B'],None,['Creature'],['Insect'],Rare,POR,1,1,None,"When Endless Cockroaches dies, return it to its owner's hand."
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,POR,None,None,None,({T}: Add {R}.)
-Arrogant Vampire,5.0,['Black'],['B'],None,['Creature'],['Vampire'],Uncommon,POR,4,3,None,Flying
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,POR,None,None,None,({T}: Add {R}.)
-Djinn of the Lamp,7.0,['Blue'],['U'],None,['Creature'],['Djinn'],Rare,POR,5,6,None,Flying
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,POR,None,None,None,({T}: Add {R}.)
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,POR,None,None,None,({T}: Add {W}.)
-Coral Eel,2.0,['Blue'],['U'],None,['Creature'],['Fish'],Common,POR,2,1,None,None
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,POR,None,None,None,({T}: Add {R}.)
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,POR,None,None,None,({T}: Add {B}.)
-Cloak of Feathers,1.0,['Blue'],['U'],None,['Sorcery'],None,Common,POR,None,None,None,Target creature gains flying until end of turn.\nDraw a card.
-Renewing Dawn,2.0,['White'],['W'],None,['Sorcery'],None,Uncommon,POR,None,None,None,You gain 2 life for each Mountain target opponent controls.
-Anaconda,4.0,['Green'],['G'],None,['Creature'],['Snake'],Uncommon,POR,3,3,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,POR,None,None,None,({T}: Add {B}.)
-Baleful Stare,3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Target opponent reveals their hand. You draw a card for each Mountain and red card in it.
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,POR,None,None,None,({T}: Add {B}.)
-Swamp,0.0,None,['B'],['Basic'],['Land'],['Swamp'],Common,POR,None,None,None,({T}: Add {B}.)
-Dread Reaper,6.0,['Black'],['B'],None,['Creature'],['Horror'],Rare,POR,6,5,None,"Flying\nWhen Dread Reaper enters the battlefield, you lose 5 life."
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,POR,None,None,None,({T}: Add {W}.)
-Warrior's Charge,3.0,['White'],['W'],None,['Sorcery'],None,Common,POR,None,None,None,Creatures you control get +1/+1 until end of turn.
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,POR,None,None,None,({T}: Add {W}.)
-Thundering Wurm,3.0,['Green'],['G'],None,['Creature'],['Wurm'],Rare,POR,4,4,None,"When Thundering Wurm enters the battlefield, sacrifice it unless you discard a land card."
-Wall of Swords,4.0,['White'],['W'],None,['Creature'],['Wall'],Uncommon,POR,3,5,None,Defender (This creature can't attack.)\nFlying
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,POR,None,None,None,({T}: Add {W}.)
-Vengeance,4.0,['White'],['W'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Destroy target tapped creature.
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,POR,None,None,None,({T}: Add {R}.)
-Valorous Charge,3.0,['White'],['W'],None,['Sorcery'],None,Uncommon,POR,None,None,None,White creatures get +2/+0 until end of turn.
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,POR,None,None,None,({T}: Add {W}.)
-Hill Giant,4.0,['Red'],['R'],None,['Creature'],['Giant'],Common,POR,3,3,None,None
-Alluring Scent,3.0,['Green'],['G'],None,['Sorcery'],None,Rare,POR,None,None,None,All creatures able to block target creature this turn do so.
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,POR,None,None,None,({T}: Add {W}.)
-Charging Bandits,5.0,['Black'],['B'],None,['Creature'],"['Human', 'Rogue']",Uncommon,POR,3,3,None,"Whenever Charging Bandits attacks, it gets +2/+0 until end of turn."
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,POR,None,None,None,({T}: Add {W}.)
-Steadfastness,2.0,['White'],['W'],None,['Sorcery'],None,Common,POR,None,None,None,Creatures you control get +0/+3 until end of turn.
-Plains,0.0,None,['W'],['Basic'],['Land'],['Plains'],Common,POR,None,None,None,({T}: Add {W}.)
-Starlit Angel,5.0,['White'],['W'],None,['Creature'],['Angel'],Uncommon,POR,3,4,None,Flying
-Willow Dryad,1.0,['Green'],['G'],None,['Creature'],['Dryad'],Common,POR,1,1,None,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
-Starlight,2.0,['White'],['W'],None,['Sorcery'],None,Uncommon,POR,None,None,None,You gain 3 life for each black creature target opponent controls.
-Raging Cougar,3.0,['Red'],['R'],None,['Creature'],['Cat'],Common,POR,2,2,None,Haste
-Spotted Griffin,4.0,['White'],['W'],None,['Creature'],['Griffin'],Common,POR,2,3,None,Flying
-Nature's Cloak,3.0,['Green'],['G'],None,['Sorcery'],None,Rare,POR,None,None,None,Green creatures you control gain forestwalk until end of turn. (They can't be blocked as long as defending player controls a Forest.)
-Angelic Blessing,3.0,['White'],['W'],None,['Sorcery'],None,Common,POR,None,None,None,Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
-Thundermare,6.0,['Red'],['R'],None,['Creature'],"['Elemental', 'Horse']",Rare,POR,5,5,None,"Haste (This creature can attack and {T} as soon as it comes under your control.)\nWhen Thundermare enters the battlefield, tap all other creatures."
-Sacred Nectar,2.0,['White'],['W'],None,['Sorcery'],None,Common,POR,None,None,None,You gain 4 life.
-Wood Elves,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Scout']",Rare,POR,1,1,None,"When Wood Elves enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle."
-Seasoned Marshal,4.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,POR,2,2,None,"Whenever Seasoned Marshal attacks, you may tap target creature."
-Stone Rain,3.0,['Red'],['R'],None,['Sorcery'],None,Common,POR,None,None,None,Destroy target land.
-Sacred Knight,4.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Common,POR,3,2,None,Sacred Knight can't be blocked by black and/or red creatures.
-Winter's Grasp,3.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Destroy target land.
-Path of Peace,4.0,['White'],['W'],None,['Sorcery'],None,Common,POR,None,None,None,Destroy target creature. Its owner gains 4 life.
-Pyroclasm,2.0,['Red'],['R'],None,['Sorcery'],None,Rare,POR,None,None,None,Pyroclasm deals 2 damage to each creature.
-Devoted Hero,1.0,['White'],['W'],None,['Creature'],"['Elf', 'Soldier']",Common,POR,1,2,None,None
-Rain of Salt,6.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Destroy two target lands.
-Defiant Stand,2.0,['White'],['W'],None,['Instant'],None,Uncommon,POR,None,None,None,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nTarget creature gets +1/+3 until end of turn. Untap that creature.
-Treetop Defense,2.0,['Green'],['G'],None,['Instant'],None,Rare,POR,None,None,None,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nCreatures you control gain reach until end of turn. (They can block creatures with flying.)
-Charging Paladin,3.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Uncommon,POR,2,2,None,"Whenever Charging Paladin attacks, it gets +0/+3 until end of turn."
-Scorching Spear,1.0,['Red'],['R'],None,['Sorcery'],None,Common,POR,None,None,None,Scorching Spear deals 1 damage to any target.
-Alabaster Dragon,6.0,['White'],['W'],None,['Creature'],['Dragon'],Rare,POR,4,4,None,"Flying\nWhen Alabaster Dragon dies, shuffle it into its owner's library."
-Sylvan Tutor,1.0,['Green'],['G'],None,['Sorcery'],None,Rare,POR,None,None,None,"Search your library for a creature card, reveal it, then shuffle and put that card on top."
-Pillaging Horde,4.0,['Red'],['R'],None,['Creature'],"['Human', 'Barbarian']",Rare,POR,5,5,None,"When Pillaging Horde enters the battlefield, sacrifice it unless you discard a card at random."
-Whiptail Wurm,7.0,['Green'],['G'],None,['Creature'],['Wurm'],Uncommon,POR,8,5,None,None
-Armageddon,4.0,['White'],['W'],None,['Sorcery'],None,Rare,POR,None,None,None,Destroy all lands.
-Fire Snake,5.0,['Red'],['R'],None,['Creature'],['Snake'],Common,POR,3,1,None,"When Fire Snake dies, destroy target land."
-Fire Tempest,7.0,['Red'],['R'],None,['Sorcery'],None,Rare,POR,None,None,None,Fire Tempest deals 6 damage to each creature and each player.
-Ardent Militia,5.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Uncommon,POR,2,5,None,Vigilance
-Untamed Wilds,3.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,POR,None,None,None,"Search your library for a basic land card, put that card onto the battlefield, then shuffle."
-Highland Giant,4.0,['Red'],['R'],None,['Creature'],['Giant'],Common,POR,3,4,None,None
-Summer Bloom,2.0,['Green'],['G'],None,['Sorcery'],None,Rare,POR,None,None,None,You may play up to three additional lands this turn.
-Fire Imp,3.0,['Red'],['R'],None,['Creature'],['Imp'],Uncommon,POR,2,1,None,"When Fire Imp enters the battlefield, it deals 2 damage to target creature."
-Natural Spring,5.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Target player gains 8 life.
-Ebon Dragon,7.0,['Black'],['B'],None,['Creature'],['Dragon'],Rare,POR,5,4,None,"Flying\nWhen Ebon Dragon enters the battlefield, you may have target opponent discard a card."
-Winds of Change,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,POR,None,None,None,"Each player shuffles the cards from their hand into their library, then draws that many cards."
-Blaze,1.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Blaze deals X damage to any target.
-Fire Dragon,9.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,POR,6,6,None,"Flying\nWhen Fire Dragon enters the battlefield, it deals damage to target creature equal to the number of Mountains you control."
-Bog Raiders,3.0,['Black'],['B'],None,['Creature'],['Zombie'],Common,POR,2,2,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
-Natural Order,4.0,['Green'],['G'],None,['Sorcery'],None,Rare,POR,None,None,None,"As an additional cost to cast this spell, sacrifice a green creature.\nSearch your library for a green creature card, put it onto the battlefield, then shuffle."
-Déjà Vu,3.0,['Blue'],['U'],None,['Sorcery'],None,Common,POR,None,None,None,Return target sorcery card from your graveyard to your hand.
-Stalking Tiger,4.0,['Green'],['G'],None,['Creature'],['Cat'],Common,POR,3,3,None,Stalking Tiger can't be blocked by more than one creature.
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,POR,None,None,None,({T}: Add {G}.)
-Deep-Sea Serpent,6.0,['Blue'],['U'],None,['Creature'],['Serpent'],Uncommon,POR,5,5,None,Deep-Sea Serpent can't attack unless defending player controls an Island.
-Moon Sprite,2.0,['Green'],['G'],None,['Creature'],['Faerie'],Uncommon,POR,1,1,None,Flying
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,POR,None,None,None,({T}: Add {G}.)
-Cruel Fate,5.0,['Blue'],['U'],None,['Sorcery'],None,Rare,POR,None,None,None,Look at the top five cards of target opponent's library. Put one of those cards into that player's graveyard and the rest on top of their library in any order.
-Goblin Bully,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,POR,2,1,None,None
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,POR,None,None,None,({T}: Add {G}.)
-Cloud Spirit,3.0,['Blue'],['U'],None,['Creature'],['Spirit'],Uncommon,POR,3,1,None,Flying\nCloud Spirit can block only creatures with flying.
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,POR,None,None,None,({T}: Add {G}.)
-Cloud Dragon,6.0,['Blue'],['U'],None,['Creature'],"['Illusion', 'Dragon']",Rare,POR,5,4,None,Flying\nCloud Dragon can block only creatures with flying.
-Spined Wurm,5.0,['Green'],['G'],None,['Creature'],['Wurm'],Common,POR,5,4,None,None
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,POR,None,None,None,({T}: Add {U}.)
-Monstrous Growth,2.0,['Green'],['G'],None,['Sorcery'],None,Common,POR,None,None,None,Target creature gets +4/+4 until end of turn.
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,POR,None,None,None,({T}: Add {U}.)
-Capricious Sorcerer,3.0,['Blue'],['U'],None,['Creature'],"['Human', 'Wizard']",Rare,POR,1,1,None,"{T}: Capricious Sorcerer deals 1 damage to any target. Activate only during your turn, before attackers are declared."
-Rowan Treefolk,4.0,['Green'],['G'],None,['Creature'],['Treefolk'],Common,POR,3,4,None,None
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,POR,None,None,None,({T}: Add {U}.)
-Balance of Power,5.0,['Blue'],['U'],None,['Sorcery'],None,Rare,POR,None,None,None,"If target opponent has more cards in hand than you, draw cards equal to the difference."
-Minotaur Warrior,3.0,['Red'],['R'],None,['Creature'],"['Minotaur', 'Warrior']",Common,POR,2,3,None,None
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,POR,None,None,None,({T}: Add {U}.)
-Wrath of God,4.0,['White'],['W'],None,['Sorcery'],None,Rare,POR,None,None,None,Destroy all creatures. They can't be regenerated.
-Elvish Ranger,3.0,['Green'],['G'],None,['Creature'],"['Elf', 'Ranger']",Common,POR,4,1,None,None
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,POR,None,None,None,({T}: Add {U}.)
-Mobilize,1.0,['Green'],['G'],None,['Sorcery'],None,Common,POR,None,None,None,Untap all creatures you control.
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,POR,None,None,None,({T}: Add {U}.)
-Bee Sting,4.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Bee Sting deals 2 damage to any target.
-Foot Soldiers,4.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,POR,2,4,None,None
-Earthquake,1.0,['Red'],['R'],None,['Sorcery'],None,Rare,POR,None,None,None,Earthquake deals X damage to each creature without flying and each player.
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,POR,None,None,None,({T}: Add {U}.)
-Raging Minotaur,4.0,['Red'],['R'],None,['Creature'],"['Minotaur', 'Berserker']",Common,POR,3,3,None,Haste
-Island,0.0,None,['U'],['Basic'],['Land'],['Island'],Common,POR,None,None,None,({T}: Add {U}.)
-Venerable Monk,3.0,['White'],['W'],None,['Creature'],"['Human', 'Monk', 'Cleric']",Uncommon,POR,2,2,None,"When Venerable Monk enters the battlefield, you gain 2 life."
-Devastation,7.0,['Red'],['R'],None,['Sorcery'],None,Rare,POR,None,None,None,Destroy all creatures and lands.
-Jungle Lion,1.0,['Green'],['G'],None,['Creature'],['Cat'],Common,POR,2,1,None,Jungle Lion can't block.
-Redwood Treefolk,5.0,['Green'],['G'],None,['Creature'],['Treefolk'],Common,POR,3,6,None,None
-Hurricane,1.0,['Green'],['G'],None,['Sorcery'],None,Rare,POR,None,None,None,Hurricane deals X damage to each creature with flying and each player.
-Temporary Truce,2.0,['White'],['W'],None,['Sorcery'],None,Rare,POR,None,None,None,"Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life."
-Volcanic Dragon,6.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,POR,4,4,None,"Flying, haste"
-Grizzly Bears,2.0,['Green'],['G'],None,['Creature'],['Bear'],Common,POR,2,2,None,None
-Elite Cat Warrior,3.0,['Green'],['G'],None,['Creature'],"['Cat', 'Warrior']",Common,POR,2,3,None,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
-Gorilla Warrior,3.0,['Green'],['G'],None,['Creature'],"['Ape', 'Warrior']",Common,POR,3,2,None,None
-Stern Marshal,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,POR,2,2,None,"{T}: Target creature gets +2/+2 until end of turn. Activate only during your turn, before attackers are declared."
-Plant Elemental,2.0,['Green'],['G'],None,['Creature'],"['Plant', 'Elemental']",Uncommon,POR,3,4,None,"When Plant Elemental enters the battlefield, sacrifice it unless you sacrifice a Forest."
-Giant Spider,4.0,['Green'],['G'],None,['Creature'],['Spider'],Common,POR,2,4,None,Reach (This creature can block creatures with flying.)
-Forked Lightning,4.0,['Red'],['R'],None,['Sorcery'],None,Rare,POR,None,None,None,"Forked Lightning deals 4 damage divided as you choose among one, two, or three target creatures."
-Boiling Seas,4.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Destroy all Islands.
-Primeval Force,5.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,POR,8,8,None,"When Primeval Force enters the battlefield, sacrifice it unless you sacrifice three Forests."
-Fruition,1.0,['Green'],['G'],None,['Sorcery'],None,Common,POR,None,None,None,You gain 1 life for each Forest on the battlefield.
-Fleet-Footed Monk,2.0,['White'],['W'],None,['Creature'],"['Human', 'Monk']",Common,POR,1,1,None,Fleet-Footed Monk can't be blocked by creatures with power 2 or greater.
-Wall of Granite,3.0,['Red'],['R'],None,['Creature'],['Wall'],Uncommon,POR,0,7,None,Defender (This creature can't attack.)
-Spiritual Guardian,5.0,['White'],['W'],None,['Creature'],['Spirit'],Rare,POR,3,4,None,"When Spiritual Guardian enters the battlefield, you gain 4 life."
-Volcanic Hammer,2.0,['Red'],['R'],None,['Sorcery'],None,Common,POR,None,None,None,Volcanic Hammer deals 3 damage to any target.
-Regal Unicorn,3.0,['White'],['W'],None,['Creature'],['Unicorn'],Common,POR,2,3,None,None
-Deep Wood,2.0,['Green'],['G'],None,['Instant'],None,Uncommon,POR,None,None,None,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nPrevent all damage that would be dealt to you this turn by attacking creatures.
-Desert Drake,4.0,['Red'],['R'],None,['Creature'],['Drake'],Uncommon,POR,2,2,None,Flying
-Charging Rhino,5.0,['Green'],['G'],None,['Creature'],['Rhino'],Rare,POR,4,4,None,Charging Rhino can't be blocked by more than one creature.
-Scorching Winds,1.0,['Red'],['R'],None,['Instant'],None,Uncommon,POR,None,None,None,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nScorching Winds deals 1 damage to each attacking creature.
-Bull Hippo,4.0,['Green'],['G'],None,['Creature'],['Hippo'],Uncommon,POR,3,3,None,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
-Panther Warriors,5.0,['Green'],['G'],None,['Creature'],"['Cat', 'Warrior']",Common,POR,6,3,None,None
-Lizard Warrior,4.0,['Red'],['R'],None,['Creature'],"['Lizard', 'Warrior']",Common,POR,4,2,None,None
-False Peace,1.0,['White'],['W'],None,['Sorcery'],None,Common,POR,None,None,None,Target player skips all combat phases of their next turn.
-Spitting Earth,2.0,['Red'],['R'],None,['Sorcery'],None,Common,POR,None,None,None,Spitting Earth deals damage to target creature equal to the number of Mountains you control.
-Lava Flow,5.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Destroy target creature or land.
-Breath of Life,4.0,['White'],['W'],None,['Sorcery'],None,Common,POR,None,None,None,Return target creature card from your graveyard to the battlefield.
-Craven Giant,3.0,['Red'],['R'],None,['Creature'],['Giant'],Common,POR,4,1,None,Craven Giant can't block.
-Lava Axe,5.0,['Red'],['R'],None,['Sorcery'],None,Common,POR,None,None,None,Lava Axe deals 5 damage to target player or planeswalker.
-Last Chance,2.0,['Red'],['R'],None,['Sorcery'],None,Rare,POR,None,None,None,"Take an extra turn after this one. At the beginning of that turn's end step, you lose the game."
-Archangel,7.0,['White'],['W'],None,['Creature'],['Angel'],Rare,POR,5,5,None,"Flying, vigilance"
-Needle Storm,3.0,['Green'],['G'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Needle Storm deals 4 damage to each creature with flying.
-Hulking Goblin,2.0,['Red'],['R'],None,['Creature'],['Goblin'],Common,POR,2,2,None,Hulking Goblin can't block.
-Raging Goblin,1.0,['Red'],['R'],None,['Creature'],"['Goblin', 'Berserker']",Common,POR,1,1,None,Haste (This creature can attack and {T} as soon as it comes under your control.)
-Bog Wraith,4.0,['Black'],['B'],None,['Creature'],['Wraith'],Uncommon,POR,3,3,None,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
-Border Guard,3.0,['White'],['W'],None,['Creature'],"['Human', 'Soldier']",Common,POR,1,4,None,None
-Flashfires,4.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Destroy all Plains.
-Elven Cache,4.0,['Green'],['G'],None,['Sorcery'],None,Common,POR,None,None,None,Return target card from your graveyard to your hand.
-Burning Cloak,1.0,['Red'],['R'],None,['Sorcery'],None,Common,POR,None,None,None,Target creature gets +2/+0 until end of turn. Burning Cloak deals 2 damage to that creature.
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,POR,None,None,None,({T}: Add {R}.)
-Nature's Lore,2.0,['Green'],['G'],None,['Sorcery'],None,Common,POR,None,None,None,"Search your library for a Forest card, put that card onto the battlefield, then shuffle."
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,POR,None,None,None,({T}: Add {R}.)
-Mind Knives,2.0,['Black'],['B'],None,['Sorcery'],None,Common,POR,None,None,None,Target opponent discards a card at random.
-Hulking Cyclops,5.0,['Red'],['R'],None,['Creature'],['Cyclops'],Uncommon,POR,5,5,None,Hulking Cyclops can't block.
-Mountain Goat,1.0,['Red'],['R'],None,['Creature'],['Goat'],Uncommon,POR,1,1,None,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
-Mountain,0.0,None,['R'],['Basic'],['Land'],['Mountain'],Common,POR,None,None,None,({T}: Add {R}.)
-Man-o'-War,3.0,['Blue'],['U'],None,['Creature'],['Jellyfish'],Uncommon,POR,2,2,None,"When Man-o'-War enters the battlefield, return target creature to its owner's hand."
-Skeletal Snake,2.0,['Black'],['B'],None,['Creature'],"['Snake', 'Skeleton']",Common,POR,2,1,None,None
-Tidal Surge,2.0,['Blue'],['U'],None,['Sorcery'],None,Common,POR,None,None,None,Tap up to three target creatures without flying.
-Undying Beast,4.0,['Black'],['B'],None,['Creature'],['Beast'],Common,POR,3,2,None,"When Undying Beast dies, put it on top of its owner's library."
-Prosperity,1.0,['Blue'],['U'],None,['Sorcery'],None,Rare,POR,None,None,None,Each player draws X cards.
-Wicked Pact,3.0,['Black'],['B'],None,['Sorcery'],None,Rare,POR,None,None,None,Destroy two target nonblack creatures. You lose 5 life.
-Dread Charge,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,POR,None,None,None,Black creatures you control can't be blocked this turn except by black creatures.
-Soul Shred,5.0,['Black'],['B'],None,['Sorcery'],None,Common,POR,None,None,None,Soul Shred deals 3 damage to target nonblack creature. You gain 3 life.
-Horned Turtle,3.0,['Blue'],['U'],None,['Creature'],['Turtle'],Common,POR,1,4,None,None
-Phantom Warrior,3.0,['Blue'],['U'],None,['Creature'],"['Illusion', 'Warrior']",Rare,POR,2,2,None,Phantom Warrior can't be blocked.
-Thing from the Deep,9.0,['Blue'],['U'],None,['Creature'],['Leviathan'],Rare,POR,9,9,None,"Whenever Thing from the Deep attacks, sacrifice it unless you sacrifice an Island."
-Cruel Tutor,3.0,['Black'],['B'],None,['Sorcery'],None,Rare,POR,None,None,None,"Search your library for a card, then shuffle and put that card on top. You lose 2 life."
-Personal Tutor,1.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,POR,None,None,None,"Search your library for a sorcery card, reveal it, then shuffle and put that card on top."
-Dry Spell,2.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Dry Spell deals 1 damage to each creature and each player.
-Howling Fury,3.0,['Black'],['B'],None,['Sorcery'],None,Common,POR,None,None,None,Target creature gets +4/+0 until end of turn.
-King's Assassin,3.0,['Black'],['B'],None,['Creature'],"['Human', 'Assassin']",Rare,POR,1,1,None,"{T}: Destroy target tapped creature. Activate only during your turn, before attackers are declared."
-Giant Octopus,4.0,['Blue'],['U'],None,['Creature'],['Octopus'],Common,POR,3,3,None,None
-Vampiric Feast,7.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Vampiric Feast deals 4 damage to any target and you gain 4 life.
-Virtue's Ruin,3.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Destroy all white creatures.
-Flux,3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,POR,None,None,None,"Each player discards any number of cards, then draws that many cards.\nDraw a card."
-Theft of Dreams,3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Draw a card for each tapped creature target opponent controls.
-Vampiric Touch,3.0,['Black'],['B'],None,['Sorcery'],None,Common,POR,None,None,None,Vampiric Touch deals 2 damage to target opponent or planeswalker and you gain 2 life.
-Owl Familiar,2.0,['Blue'],['U'],None,['Creature'],['Bird'],Common,POR,1,1,None,"Flying\nWhen Owl Familiar enters the battlefield, draw a card, then discard a card."
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,POR,None,None,None,({T}: Add {G}.)
-Exhaustion,3.0,['Blue'],['U'],None,['Sorcery'],None,Rare,POR,None,None,None,Creatures and lands target opponent controls don't untap during their next untap step.
-Rain of Tears,3.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Destroy target land.
-Command of Unsummoning,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,POR,None,None,None,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nReturn one or two target attacking creatures to their owner's hand.
-Bog Imp,2.0,['Black'],['B'],None,['Creature'],['Imp'],Common,POR,1,1,None,Flying (This creature can't be blocked except by creatures with flying or reach.)
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,POR,None,None,None,({T}: Add {G}.)
-Assassin's Blade,2.0,['Black'],['B'],None,['Instant'],None,Uncommon,POR,None,None,None,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nDestroy target nonblack attacking creature.
-Omen,2.0,['Blue'],['U'],None,['Sorcery'],None,Common,POR,None,None,None,"Look at the top three cards of your library, then put them back in any order. You may shuffle.\nDraw a card."
-Skeletal Crocodile,4.0,['Black'],['B'],None,['Creature'],"['Crocodile', 'Skeleton']",Common,POR,5,1,None,None
-Taunt,1.0,['Blue'],['U'],None,['Sorcery'],None,Rare,POR,None,None,None,"During target player's next turn, creatures that player controls attack you if able."
-Blinding Light,3.0,['White'],['W'],None,['Sorcery'],None,Rare,POR,None,None,None,Tap all nonwhite creatures.
-Mercenary Knight,3.0,['Black'],['B'],None,['Creature'],"['Human', 'Mercenary', 'Knight']",Rare,POR,4,4,None,"When Mercenary Knight enters the battlefield, sacrifice it unless you discard a creature card."
-Symbol of Unsummoning,3.0,['Blue'],['U'],None,['Sorcery'],None,Common,POR,None,None,None,Return target creature to its owner's hand.\nDraw a card.
-Serpent Warrior,3.0,['Black'],['B'],None,['Creature'],"['Snake', 'Warrior']",Common,POR,3,3,None,"When Serpent Warrior enters the battlefield, you lose 3 life."
-Cloud Pirates,1.0,['Blue'],['U'],None,['Creature'],"['Human', 'Pirate']",Common,POR,1,1,None,Flying\nCloud Pirates can block only creatures with flying.
-Blessed Reversal,2.0,['White'],['W'],None,['Instant'],None,Rare,POR,None,None,None,You gain 3 life for each creature attacking you.
-Feral Shadow,3.0,['Black'],['B'],None,['Creature'],['Nightstalker'],Common,POR,2,1,None,Flying
-Withering Gaze,3.0,['Blue'],['U'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Target opponent reveals their hand. You draw a card for each Forest and green card in it.
-Serpent Assassin,5.0,['Black'],['B'],None,['Creature'],"['Snake', 'Assassin']",Rare,POR,2,2,None,"When Serpent Assassin enters the battlefield, you may destroy target nonblack creature."
-Armored Pegasus,2.0,['White'],['W'],None,['Creature'],['Pegasus'],Common,POR,1,2,None,Flying
-Python,3.0,['Black'],['B'],None,['Creature'],['Snake'],Common,POR,3,2,None,None
-Ancestral Memories,5.0,['Blue'],['U'],None,['Sorcery'],None,Rare,POR,None,None,None,Look at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.
-Storm Crow,2.0,['Blue'],['U'],None,['Creature'],['Bird'],Common,POR,1,2,None,Flying (This creature can't be blocked except by creatures with flying or reach.)
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,POR,None,None,None,({T}: Add {G}.)
-Noxious Toad,3.0,['Black'],['B'],None,['Creature'],['Frog'],Uncommon,POR,1,1,None,"When Noxious Toad dies, each opponent discards a card."
-Ingenious Thief,2.0,['Blue'],['U'],None,['Creature'],"['Human', 'Rogue']",Uncommon,POR,1,1,None,"Flying\nWhen Ingenious Thief enters the battlefield, look at target player's hand."
-Nature's Ruin,3.0,['Black'],['B'],None,['Sorcery'],None,Uncommon,POR,None,None,None,Destroy all green creatures.
-Forest,0.0,None,['G'],['Basic'],['Land'],['Forest'],Common,POR,None,None,None,({T}: Add {G}.)
-Muck Rats,1.0,['Black'],['B'],None,['Creature'],['Rat'],Common,POR,1,1,None,None
-Mystic Denial,3.0,['Blue'],['U'],None,['Instant'],None,Uncommon,POR,None,None,None,Counter target creature or sorcery spell.
-Hand of Death,3.0,['Black'],['B'],None,['Sorcery'],None,Common,POR,None,None,None,Destroy target nonblack creature.
-Sorcerous Sight,1.0,['Blue'],['U'],None,['Sorcery'],None,Common,POR,None,None,None,Look at target opponent's hand.\nDraw a card.
-Knight Errant,2.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Common,POR,2,2,None,None
-Raise Dead,1.0,['Black'],['B'],None,['Sorcery'],None,Common,POR,None,None,None,Return target creature card from your graveyard to your hand.
-Time Ebb,3.0,['Blue'],['U'],None,['Sorcery'],None,Common,POR,None,None,None,Put target creature on top of its owner's library.
-Gravedigger,4.0,['Black'],['B'],None,['Creature'],['Zombie'],Uncommon,POR,2,2,None,"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand."
-Snapping Drake,4.0,['Blue'],['U'],None,['Creature'],['Drake'],Common,POR,3,2,None,Flying (This creature can't be blocked except by creatures with flying or reach.)
-Craven Knight,2.0,['Black'],['B'],None,['Creature'],"['Human', 'Knight']",Common,POR,2,2,None,Craven Knight can't block.
-Mind Rot,3.0,['Black'],['B'],None,['Sorcery'],None,Common,POR,None,None,None,Target player discards two cards.
-Wind Drake,3.0,['Blue'],['U'],None,['Creature'],['Drake'],Common,POR,2,2,None,Flying
-Merfolk of the Pearl Trident,1.0,['Blue'],['U'],None,['Creature'],['Merfolk'],Common,POR,1,1,None,None
-Keen-Eyed Archers,3.0,['White'],['W'],None,['Creature'],"['Elf', 'Archer']",Common,POR,2,2,None,Reach (This creature can block creatures with flying.)
-Harsh Justice,3.0,['White'],['W'],None,['Instant'],None,Rare,POR,None,None,None,"Cast this spell only during the declare attackers step and only if you've been attacked this step.\nThis turn, whenever an attacking creature deals combat damage to you, it deals that much damage to its controller."
-Touch of Brilliance,4.0,['Blue'],['U'],None,['Sorcery'],None,Common,POR,None,None,None,Draw two cards.
-Gift of Estates,2.0,['White'],['W'],None,['Sorcery'],None,Rare,POR,None,None,None,"If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, put them into your hand, then shuffle."
-Final Strike,4.0,['Black'],['B'],None,['Sorcery'],None,Rare,POR,None,None,None,"As an additional cost to cast this spell, sacrifice a creature.\nFinal Strike deals damage to target opponent or planeswalker equal to the sacrificed creature's power."
-Cruel Bargain,3.0,['Black'],['B'],None,['Sorcery'],None,Rare,POR,None,None,None,"Draw four cards. You lose half your life, rounded up."
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Spined Wurm,{4}{G},5.0,['G'],['G'],Creature — Wurm,,['Wurm'],Common,,185,5,4,,POR,Portal
+Thundering Wurm,{2}{G},3.0,['G'],['G'],Creature — Wurm,,['Wurm'],Rare,"When Thundering Wurm enters the battlefield, sacrifice it unless you discard a land card.",189,4,4,,POR,Portal
+Desert Drake,{3}{R},4.0,['R'],['R'],Creature — Drake,,['Drake'],Uncommon,Flying,122,2,2,,POR,Portal
+Fire Imp,{2}{R},3.0,['R'],['R'],Creature — Imp,,['Imp'],Uncommon,"When Fire Imp enters the battlefield, it deals 2 damage to target creature.",126,2,1,,POR,Portal
+Fire Snake,{4}{R},5.0,['R'],['R'],Creature — Snake,,['Snake'],Common,"When Fire Snake dies, destroy target land.",127,3,1,,POR,Portal
+Hand of Death,{2}{B},3.0,['B'],['B'],Sorcery,,,Common,Destroy target nonblack creature.,96,,,,POR,Portal
+Devastation,{5}{R}{R},7.0,['R'],['R'],Sorcery,,,Rare,Destroy all creatures and lands.,123,,,,POR,Portal
+Monstrous Growth,{1}{G},2.0,['G'],['G'],Sorcery,,,Common,Target creature gets +4/+4 until end of turn.,173†,,,,POR,Portal
+Earthquake,{X}{R},1.0,['R'],['R'],Sorcery,,,Rare,Earthquake deals X damage to each creature without flying and each player.,124,,,,POR,Portal
+Fleet-Footed Monk,{1}{W},2.0,['W'],['W'],Creature — Human Monk,,"['Human', 'Monk']",Common,Fleet-Footed Monk can't be blocked by creatures with power 2 or greater.,15,1,1,,POR,Portal
+Fire Dragon,{6}{R}{R}{R},9.0,['R'],['R'],Creature — Dragon,,['Dragon'],Rare,"Flying\nWhen Fire Dragon enters the battlefield, it deals damage to target creature equal to the number of Mountains you control.",125,6,6,,POR,Portal
+Serpent Assassin,{3}{B}{B},5.0,['B'],['B'],Creature — Snake Assassin,,"['Snake', 'Assassin']",Rare,"When Serpent Assassin enters the battlefield, you may destroy target nonblack creature.",108,2,2,,POR,Portal
+Merfolk of the Pearl Trident,{U},1.0,['U'],['U'],Creature — Merfolk,,['Merfolk'],Common,,60,1,1,,POR,Portal
+Theft of Dreams,{2}{U},3.0,['U'],['U'],Sorcery,,,Uncommon,Draw a card for each tapped creature target opponent controls.,72,,,,POR,Portal
+False Peace,{W},1.0,['W'],['W'],Sorcery,,,Common,Target player skips all combat phases of their next turn.,14,,,,POR,Portal
+Starlit Angel,{3}{W}{W},5.0,['W'],['W'],Creature — Angel,,['Angel'],Uncommon,Flying,30,3,4,,POR,Portal
+Serpent Warrior,{2}{B},3.0,['B'],['B'],Creature — Snake Warrior,,"['Snake', 'Warrior']",Common,"When Serpent Warrior enters the battlefield, you lose 3 life.",109,3,3,,POR,Portal
+Knight Errant,{1}{W},2.0,['W'],['W'],Creature — Human Knight,,"['Human', 'Knight']",Common,,20,2,2,,POR,Portal
+Skeletal Snake,{1}{B},2.0,['B'],['B'],Creature — Snake Skeleton,,"['Snake', 'Skeleton']",Common,,111,2,1,,POR,Portal
+Moon Sprite,{1}{G},2.0,['G'],['G'],Creature — Faerie,,['Faerie'],Uncommon,Flying,174,1,1,,POR,Portal
+Prosperity,{X}{U},1.0,['U'],['U'],Sorcery,,,Rare,Each player draws X cards.,66,,,,POR,Portal
+Skeletal Crocodile,{3}{B},4.0,['B'],['B'],Creature — Crocodile Skeleton,,"['Crocodile', 'Skeleton']",Common,,110,5,1,,POR,Portal
+Sylvan Tutor,{G},1.0,['G'],['G'],Sorcery,,,Rare,"Search your library for a creature card, reveal it, then shuffle and put that card on top.",188,,,,POR,Portal
+Soul Shred,{3}{B}{B},5.0,['B'],['B'],Sorcery,,,Common,Soul Shred deals 3 damage to target nonblack creature. You gain 3 life.,112,,,,POR,Portal
+Omen,{1}{U},2.0,['U'],['U'],Sorcery,,,Common,"Look at the top three cards of your library, then put them back in any order. You may shuffle.\nDraw a card.",62,,,,POR,Portal
+Undying Beast,{3}{B},4.0,['B'],['B'],Creature — Beast,,['Beast'],Common,"When Undying Beast dies, put it on top of its owner's library.",113,3,2,,POR,Portal
+Plant Elemental,{1}{G},2.0,['G'],['G'],Creature — Plant Elemental,,"['Plant', 'Elemental']",Uncommon,"When Plant Elemental enters the battlefield, sacrifice it unless you sacrifice a Forest.",181,3,4,,POR,Portal
+Vampiric Feast,{5}{B}{B},7.0,['B'],['B'],Sorcery,,,Uncommon,Vampiric Feast deals 4 damage to any target and you gain 4 life.,114,,,,POR,Portal
+Elite Cat Warrior,{2}{G},3.0,['G'],['G'],Creature — Cat Warrior,,"['Cat', 'Warrior']",Common,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),163,2,3,,POR,Portal
+Final Strike,{2}{B}{B},4.0,['B'],['B'],Sorcery,,,Rare,"As an additional cost to cast this spell, sacrifice a creature.\nFinal Strike deals damage to target opponent or planeswalker equal to the sacrificed creature's power.",94,,,,POR,Portal
+Exhaustion,{2}{U},3.0,['U'],['U'],Sorcery,,,Rare,Creatures and lands target opponent controls don't untap during their next untap step.,54,,,,POR,Portal
+Vampiric Touch,{2}{B},3.0,['B'],['B'],Sorcery,,,Common,Vampiric Touch deals 2 damage to target opponent or planeswalker and you gain 2 life.,115,,,,POR,Portal
+Deep Wood,{1}{G},2.0,['G'],['G'],Instant,,,Uncommon,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nPrevent all damage that would be dealt to you this turn by attacking creatures.,162,,,,POR,Portal
+Valorous Charge,{1}{W}{W},3.0,['W'],['W'],Sorcery,,,Uncommon,White creatures get +2/+0 until end of turn.,34,,,,POR,Portal
+Wicked Pact,{1}{B}{B},3.0,['B'],['B'],Sorcery,,,Rare,Destroy two target nonblack creatures. You lose 5 life.,117,,,,POR,Portal
+Elven Cache,{2}{G}{G},4.0,['G'],['G'],Sorcery,,,Common,Return target card from your graveyard to your hand.,164,,,,POR,Portal
+Virtue's Ruin,{2}{B},3.0,['B'],['B'],Sorcery,,,Uncommon,Destroy all white creatures.,116,,,,POR,Portal
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),209,,,,POR,Portal
+Dread Charge,{3}{B},4.0,['B'],['B'],Sorcery,,,Rare,Black creatures you control can't be blocked this turn except by black creatures.,88,,,,POR,Portal
+Defiant Stand,{1}{W},2.0,['W'],['W'],Instant,,,Uncommon,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nTarget creature gets +1/+3 until end of turn. Untap that creature.,12,,,,POR,Portal
+Blaze,{X}{R},1.0,['R'],['R'],Sorcery,,,Uncommon,Blaze deals X damage to any target.,118,,,,POR,Portal
+Bog Raiders,{2}{B},3.0,['B'],['B'],Creature — Zombie,,['Zombie'],Common,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),82,2,2,,POR,Portal
+Phantom Warrior,{1}{U}{U},3.0,['U'],['U'],Creature — Illusion Warrior,,"['Illusion', 'Warrior']",Rare,Phantom Warrior can't be blocked.,65,2,2,,POR,Portal
+Blaze,{X}{R},1.0,['R'],['R'],Sorcery,,,Uncommon,Blaze deals X damage to any target.,118†,,,,POR,Portal
+Storm Crow,{1}{U},2.0,['U'],['U'],Creature — Bird,,['Bird'],Common,Flying (This creature can't be blocked except by creatures with flying or reach.),69,1,2,,POR,Portal
+Boiling Seas,{3}{R},4.0,['R'],['R'],Sorcery,,,Uncommon,Destroy all Islands.,119,,,,POR,Portal
+Craven Giant,{2}{R},3.0,['R'],['R'],Creature — Giant,,['Giant'],Common,Craven Giant can't block.,121,4,1,,POR,Portal
+Burning Cloak,{R},1.0,['R'],['R'],Sorcery,,,Common,Target creature gets +2/+0 until end of turn. Burning Cloak deals 2 damage to that creature.,120,,,,POR,Portal
+Muck Rats,{B},1.0,['B'],['B'],Creature — Rat,,['Rat'],Common,,102,1,1,,POR,Portal
+Ebon Dragon,{5}{B}{B},7.0,['B'],['B'],Creature — Dragon,,['Dragon'],Rare,"Flying\nWhen Ebon Dragon enters the battlefield, you may have target opponent discard a card.",91,5,4,,POR,Portal
+Bee Sting,{3}{G},4.0,['G'],['G'],Sorcery,,,Uncommon,Bee Sting deals 2 damage to any target.,159,,,,POR,Portal
+Snapping Drake,{3}{U},4.0,['U'],['U'],Creature — Drake,,['Drake'],Common,Flying (This creature can't be blocked except by creatures with flying or reach.),67,3,2,,POR,Portal
+Bull Hippo,{3}{G},4.0,['G'],['G'],Creature — Hippo,,['Hippo'],Uncommon,Islandwalk (This creature can't be blocked as long as defending player controls an Island.),160,3,3,,POR,Portal
+Needle Storm,{2}{G},3.0,['G'],['G'],Sorcery,,,Uncommon,Needle Storm deals 4 damage to each creature with flying.,179,,,,POR,Portal
+Anaconda,{3}{G},4.0,['G'],['G'],Creature — Snake,,['Snake'],Uncommon,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),158†,3,3,,POR,Portal
+Spitting Earth,{1}{R},2.0,['R'],['R'],Sorcery,,,Common,Spitting Earth deals damage to target creature equal to the number of Mountains you control.,150,,,,POR,Portal
+Anaconda,{3}{G},4.0,['G'],['G'],Creature — Snake,,['Snake'],Uncommon,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),158,3,3,,POR,Portal
+Charging Rhino,{3}{G}{G},5.0,['G'],['G'],Creature — Rhino,,['Rhino'],Rare,Charging Rhino can't be blocked by more than one creature.,161,4,4,,POR,Portal
+Nature's Lore,{1}{G},2.0,['G'],['G'],Sorcery,,,Common,"Search your library for a Forest card, put that card onto the battlefield, then shuffle.",178,,,,POR,Portal
+Summer Bloom,{1}{G},2.0,['G'],['G'],Sorcery,,,Rare,You may play up to three additional lands this turn.,187,,,,POR,Portal
+Alluring Scent,{1}{G}{G},3.0,['G'],['G'],Sorcery,,,Rare,All creatures able to block target creature this turn do so.,157,,,,POR,Portal
+Stone Rain,{2}{R},3.0,['R'],['R'],Sorcery,,,Common,Destroy target land.,151,,,,POR,Portal
+Angelic Blessing,{2}{W},3.0,['W'],['W'],Sorcery,,,Common,Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.),2,,,,POR,Portal
+Thundermare,{5}{R},6.0,['R'],['R'],Creature — Elemental Horse,,"['Elemental', 'Horse']",Rare,"Haste (This creature can attack and {T} as soon as it comes under your control.)\nWhen Thundermare enters the battlefield, tap all other creatures.",152,5,5,,POR,Portal
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),202,,,,POR,Portal
+Volcanic Dragon,{4}{R}{R},6.0,['R'],['R'],Creature — Dragon,,['Dragon'],Rare,"Flying, haste",153,4,4,,POR,Portal
+Volcanic Hammer,{1}{R},2.0,['R'],['R'],Sorcery,,,Common,Volcanic Hammer deals 3 damage to any target.,154,,,,POR,Portal
+Wood Elves,{2}{G},3.0,['G'],['G'],Creature — Elf Scout,,"['Elf', 'Scout']",Rare,"When Wood Elves enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle.",195,1,1,,POR,Portal
+Breath of Life,{3}{W},4.0,['W'],['W'],Sorcery,,,Common,Return target creature card from your graveyard to the battlefield.,10,,,,POR,Portal
+Wall of Granite,{2}{R},3.0,['R'],['R'],Creature — Wall,,['Wall'],Uncommon,Defender (This creature can't attack.),155,0,7,,POR,Portal
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),201,,,,POR,Portal
+Winds of Change,{R},1.0,['R'],['R'],Sorcery,,,Rare,"Each player shuffles the cards from their hand into their library, then draws that many cards.",156,,,,POR,Portal
+Forked Lightning,{3}{R},4.0,['R'],['R'],Sorcery,,,Rare,"Forked Lightning deals 4 damage divided as you choose among one, two, or three target creatures.",130,,,,POR,Portal
+Flashfires,{3}{R},4.0,['R'],['R'],Sorcery,,,Uncommon,Destroy all Plains.,129,,,,POR,Portal
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),196,,,,POR,Portal
+Highland Giant,{2}{R}{R},4.0,['R'],['R'],Creature — Giant,,['Giant'],Common,,132,3,4,,POR,Portal
+Goblin Bully,{1}{R},2.0,['R'],['R'],Creature — Goblin,,['Goblin'],Common,,131,2,1,,POR,Portal
+Venerable Monk,{2}{W},3.0,['W'],['W'],Creature — Human Monk Cleric,,"['Human', 'Monk', 'Cleric']",Uncommon,"When Venerable Monk enters the battlefield, you gain 2 life.",35,2,2,,POR,Portal
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),197,,,,POR,Portal
+Hill Giant,{3}{R},4.0,['R'],['R'],Creature — Giant,,['Giant'],Common,,133,3,3,,POR,Portal
+Mercenary Knight,{2}{B},3.0,['B'],['B'],Creature — Human Mercenary Knight,,"['Human', 'Mercenary', 'Knight']",Rare,"When Mercenary Knight enters the battlefield, sacrifice it unless you discard a creature card.",99,4,4,,POR,Portal
+Warrior's Charge,{2}{W},3.0,['W'],['W'],Sorcery,,,Common,Creatures you control get +1/+1 until end of turn.,38,,,,POR,Portal
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),198,,,,POR,Portal
+Hulking Cyclops,{3}{R}{R},5.0,['R'],['R'],Creature — Cyclops,,['Cyclops'],Uncommon,Hulking Cyclops can't block.,134,5,5,,POR,Portal
+Steadfastness,{1}{W},2.0,['W'],['W'],Sorcery,,,Common,Creatures you control get +0/+3 until end of turn.,31,,,,POR,Portal
+Howling Fury,{2}{B},3.0,['B'],['B'],Sorcery,,,Common,Target creature gets +4/+0 until end of turn.,97,,,,POR,Portal
+Vengeance,{3}{W},4.0,['W'],['W'],Sorcery,,,Uncommon,Destroy target tapped creature.,36,,,,POR,Portal
+Hulking Goblin,{1}{R},2.0,['R'],['R'],Creature — Goblin,,['Goblin'],Common,Hulking Goblin can't block.,135,2,2,,POR,Portal
+Lava Axe,{4}{R},5.0,['R'],['R'],Sorcery,,,Common,Lava Axe deals 5 damage to target player or planeswalker.,137,,,,POR,Portal
+Bog Wraith,{3}{B},4.0,['B'],['B'],Creature — Wraith,,['Wraith'],Uncommon,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),83,3,3,,POR,Portal
+Plains,,0.0,,['W'],Basic Land — Plains,['Basic'],['Plains'],Common,({T}: Add {W}.),199,,,,POR,Portal
+Last Chance,{R}{R},2.0,['R'],['R'],Sorcery,,,Rare,"Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.",136,,,,POR,Portal
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),200,,,,POR,Portal
+Lava Flow,{3}{R}{R},5.0,['R'],['R'],Sorcery,,,Uncommon,Destroy target creature or land.,138,,,,POR,Portal
+Harsh Justice,{2}{W},3.0,['W'],['W'],Instant,,,Rare,"Cast this spell only during the declare attackers step and only if you've been attacked this step.\nThis turn, whenever an attacking creature deals combat damage to you, it deals that much damage to its controller.",18,,,,POR,Portal
+Lizard Warrior,{3}{R},4.0,['R'],['R'],Creature — Lizard Warrior,,"['Lizard', 'Warrior']",Common,,139,4,2,,POR,Portal
+Keen-Eyed Archers,{2}{W},3.0,['W'],['W'],Creature — Elf Archer,,"['Elf', 'Archer']",Common,Reach (This creature can block creatures with flying.),19,2,2,,POR,Portal
+Mountain Goat,{R},1.0,['R'],['R'],Creature — Goat,,['Goat'],Uncommon,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.),141,1,1,,POR,Portal
+Flux,{2}{U},3.0,['U'],['U'],Sorcery,,,Uncommon,"Each player discards any number of cards, then draws that many cards.\nDraw a card.",55,,,,POR,Portal
+Minotaur Warrior,{2}{R},3.0,['R'],['R'],Creature — Minotaur Warrior,,"['Minotaur', 'Warrior']",Common,,140,2,3,,POR,Portal
+Rowan Treefolk,{3}{G},4.0,['G'],['G'],Creature — Treefolk,,['Treefolk'],Common,,184,3,4,,POR,Portal
+Charging Paladin,{2}{W},3.0,['W'],['W'],Creature — Human Knight,,"['Human', 'Knight']",Uncommon,"Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.",11,2,2,,POR,Portal
+Gift of Estates,{1}{W},2.0,['W'],['W'],Sorcery,,,Rare,"If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, put them into your hand, then shuffle.",17,,,,POR,Portal
+Pyroclasm,{1}{R},2.0,['R'],['R'],Sorcery,,,Rare,Pyroclasm deals 2 damage to each creature.,143,,,,POR,Portal
+Pillaging Horde,{2}{R}{R},4.0,['R'],['R'],Creature — Human Barbarian,,"['Human', 'Barbarian']",Rare,"When Pillaging Horde enters the battlefield, sacrifice it unless you discard a card at random.",142,5,5,,POR,Portal
+Raging Cougar,{2}{R},3.0,['R'],['R'],Creature — Cat,,['Cat'],Common,Haste,144,2,2,,POR,Portal
+Cruel Fate,{4}{U},5.0,['U'],['U'],Sorcery,,,Rare,Look at the top five cards of target opponent's library. Put one of those cards into that player's graveyard and the rest on top of their library in any order.,50,,,,POR,Portal
+Raging Goblin,{R},1.0,['R'],['R'],Creature — Goblin Berserker,,"['Goblin', 'Berserker']",Common,Haste (This creature can attack and {T} as soon as it comes under your control.),145†,1,1,,POR,Portal
+Raging Goblin,{R},1.0,['R'],['R'],Creature — Goblin Berserker,,"['Goblin', 'Berserker']",Common,Haste (This creature can attack and {T} as soon as it comes under your control.),145,1,1,,POR,Portal
+Raging Minotaur,{2}{R}{R},4.0,['R'],['R'],Creature — Minotaur Berserker,,"['Minotaur', 'Berserker']",Common,Haste,146,3,3,,POR,Portal
+Rain of Salt,{4}{R}{R},6.0,['R'],['R'],Sorcery,,,Uncommon,Destroy two target lands.,147,,,,POR,Portal
+Temporary Truce,{1}{W},2.0,['W'],['W'],Sorcery,,,Rare,"Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life.",33,,,,POR,Portal
+Scorching Spear,{R},1.0,['R'],['R'],Sorcery,,,Common,Scorching Spear deals 1 damage to any target.,148,,,,POR,Portal
+Owl Familiar,{1}{U},2.0,['U'],['U'],Creature — Bird,,['Bird'],Common,"Flying\nWhen Owl Familiar enters the battlefield, draw a card, then discard a card.",63,1,1,,POR,Portal
+Armored Pegasus,{1}{W},2.0,['W'],['W'],Creature — Pegasus,,['Pegasus'],Common,Flying,6,1,2,,POR,Portal
+Scorching Winds,{R},1.0,['R'],['R'],Instant,,,Uncommon,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nScorching Winds deals 1 damage to each attacking creature.,149,,,,POR,Portal
+Treetop Defense,{1}{G},2.0,['G'],['G'],Instant,,,Rare,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nCreatures you control gain reach until end of turn. (They can block creatures with flying.),190,,,,POR,Portal
+Untamed Wilds,{2}{G},3.0,['G'],['G'],Sorcery,,,Uncommon,"Search your library for a basic land card, put that card onto the battlefield, then shuffle.",191,,,,POR,Portal
+Ancestral Memories,{2}{U}{U}{U},5.0,['U'],['U'],Sorcery,,,Rare,Look at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.,40,,,,POR,Portal
+Whiptail Wurm,{6}{G},7.0,['G'],['G'],Creature — Wurm,,['Wurm'],Uncommon,,192,8,5,,POR,Portal
+Winter's Grasp,{1}{G}{G},3.0,['G'],['G'],Sorcery,,,Uncommon,Destroy target land.,194,,,,POR,Portal
+Willow Dryad,{G},1.0,['G'],['G'],Creature — Dryad,,['Dryad'],Common,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),193,1,1,,POR,Portal
+Djinn of the Lamp,{5}{U}{U},7.0,['U'],['U'],Creature — Djinn,,['Djinn'],Rare,Flying,52,5,6,,POR,Portal
+Border Guard,{2}{W},3.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Common,,9,1,4,,POR,Portal
+Giant Octopus,{3}{U},4.0,['U'],['U'],Creature — Octopus,,['Octopus'],Common,,56,3,3,,POR,Portal
+Regal Unicorn,{2}{W},3.0,['W'],['W'],Creature — Unicorn,,['Unicorn'],Common,,22,2,3,,POR,Portal
+Sacred Nectar,{1}{W},2.0,['W'],['W'],Sorcery,,,Common,You gain 4 life.,25,,,,POR,Portal
+Command of Unsummoning,{2}{U},3.0,['U'],['U'],Instant,,,Uncommon,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nReturn one or two target attacking creatures to their owner's hand.,48,,,,POR,Portal
+Cloud Pirates,{U},1.0,['U'],['U'],Creature — Human Pirate,,"['Human', 'Pirate']",Common,Flying\nCloud Pirates can block only creatures with flying.,46,1,1,,POR,Portal
+Natural Order,{2}{G}{G},4.0,['G'],['G'],Sorcery,,,Rare,"As an additional cost to cast this spell, sacrifice a green creature.\nSearch your library for a green creature card, put it onto the battlefield, then shuffle.",175,,,,POR,Portal
+Déjà Vu,{2}{U},3.0,['U'],['U'],Sorcery,,,Common,Return target sorcery card from your graveyard to your hand.,53,,,,POR,Portal
+Feral Shadow,{2}{B},3.0,['B'],['B'],Creature — Nightstalker,,['Nightstalker'],Common,Flying,93,2,1,,POR,Portal
+Man-o'-War,{2}{U},3.0,['U'],['U'],Creature — Jellyfish,,['Jellyfish'],Uncommon,"When Man-o'-War enters the battlefield, return target creature to its owner's hand.",59,2,2,,POR,Portal
+Thing from the Deep,{6}{U}{U}{U},9.0,['U'],['U'],Creature — Leviathan,,['Leviathan'],Rare,"Whenever Thing from the Deep attacks, sacrifice it unless you sacrifice an Island.",73,9,9,,POR,Portal
+Dread Reaper,{3}{B}{B}{B},6.0,['B'],['B'],Creature — Horror,,['Horror'],Rare,"Flying\nWhen Dread Reaper enters the battlefield, you lose 5 life.",89,6,5,,POR,Portal
+Wind Drake,{2}{U},3.0,['U'],['U'],Creature — Drake,,['Drake'],Common,Flying,77,2,2,,POR,Portal
+Endless Cockroaches,{1}{B}{B},3.0,['B'],['B'],Creature — Insect,,['Insect'],Rare,"When Endless Cockroaches dies, return it to its owner's hand.",92,1,1,,POR,Portal
+Balance of Power,{3}{U}{U},5.0,['U'],['U'],Sorcery,,,Rare,"If target opponent has more cards in hand than you, draw cards equal to the difference.",41,,,,POR,Portal
+Warrior's Charge,{2}{W},3.0,['W'],['W'],Sorcery,,,Common,Creatures you control get +1/+1 until end of turn.,38†,,,,POR,Portal
+Nature's Ruin,{2}{B},3.0,['B'],['B'],Sorcery,,,Uncommon,Destroy all green creatures.,103,,,,POR,Portal
+Mind Rot,{2}{B},3.0,['B'],['B'],Sorcery,,,Common,Target player discards two cards.,101,,,,POR,Portal
+Sorcerous Sight,{U},1.0,['U'],['U'],Sorcery,,,Common,Look at target opponent's hand.\nDraw a card.,68,,,,POR,Portal
+Craven Knight,{1}{B},2.0,['B'],['B'],Creature — Human Knight,,"['Human', 'Knight']",Common,Craven Knight can't block.,85,2,2,,POR,Portal
+Nature's Cloak,{2}{G},3.0,['G'],['G'],Sorcery,,,Rare,Green creatures you control gain forestwalk until end of turn. (They can't be blocked as long as defending player controls a Forest.),177,,,,POR,Portal
+Baleful Stare,{2}{U},3.0,['U'],['U'],Sorcery,,,Uncommon,Target opponent reveals their hand. You draw a card for each Mountain and red card in it.,42,,,,POR,Portal
+Mystic Denial,{1}{U}{U},3.0,['U'],['U'],Instant,,,Uncommon,Counter target creature or sorcery spell.,61,,,,POR,Portal
+Charging Bandits,{4}{B},5.0,['B'],['B'],Creature — Human Rogue,,"['Human', 'Rogue']",Uncommon,"Whenever Charging Bandits attacks, it gets +2/+0 until end of turn.",84,3,3,,POR,Portal
+Assassin's Blade,{1}{B},2.0,['B'],['B'],Instant,,,Uncommon,Cast this spell only during the declare attackers step and only if you've been attacked this step.\nDestroy target nonblack attacking creature.,80,,,,POR,Portal
+Mind Knives,{1}{B},2.0,['B'],['B'],Sorcery,,,Common,Target opponent discards a card at random.,100,,,,POR,Portal
+King's Assassin,{1}{B}{B},3.0,['B'],['B'],Creature — Human Assassin,,"['Human', 'Assassin']",Rare,"{T}: Destroy target tapped creature. Activate only during your turn, before attackers are declared.",98,1,1,,POR,Portal
+Natural Spring,{3}{G}{G},5.0,['G'],['G'],Sorcery,,,Uncommon,Target player gains 8 life.,176,,,,POR,Portal
+Wall of Swords,{3}{W},4.0,['W'],['W'],Creature — Wall,,['Wall'],Uncommon,Defender (This creature can't attack.)\nFlying,37,3,5,,POR,Portal
+Primeval Force,{2}{G}{G}{G},5.0,['G'],['G'],Creature — Elemental,,['Elemental'],Rare,"When Primeval Force enters the battlefield, sacrifice it unless you sacrifice three Forests.",182,8,8,,POR,Portal
+Personal Tutor,{U},1.0,['U'],['U'],Sorcery,,,Uncommon,"Search your library for a sorcery card, reveal it, then shuffle and put that card on top.",64,,,,POR,Portal
+Horned Turtle,{2}{U},3.0,['U'],['U'],Creature — Turtle,,['Turtle'],Common,,57,1,4,,POR,Portal
+Stalking Tiger,{3}{G},4.0,['G'],['G'],Creature — Cat,,['Cat'],Common,Stalking Tiger can't be blocked by more than one creature.,186,3,3,,POR,Portal
+Starlight,{1}{W},2.0,['W'],['W'],Sorcery,,,Uncommon,You gain 3 life for each black creature target opponent controls.,29,,,,POR,Portal
+Spotted Griffin,{3}{W},4.0,['W'],['W'],Creature — Griffin,,['Griffin'],Common,Flying,28,2,3,,POR,Portal
+Seasoned Marshal,{2}{W}{W},4.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Uncommon,"Whenever Seasoned Marshal attacks, you may tap target creature.",26,2,2,,POR,Portal
+Panther Warriors,{4}{G},5.0,['G'],['G'],Creature — Cat Warrior,,"['Cat', 'Warrior']",Common,,180,6,3,,POR,Portal
+Dry Spell,{1}{B},2.0,['B'],['B'],Sorcery,,,Uncommon,Dry Spell deals 1 damage to each creature and each player.,90,,,,POR,Portal
+Cruel Tutor,{2}{B},3.0,['B'],['B'],Sorcery,,,Rare,"Search your library for a card, then shuffle and put that card on top. You lose 2 life.",87,,,,POR,Portal
+Symbol of Unsummoning,{2}{U},3.0,['U'],['U'],Sorcery,,,Common,Return target creature to its owner's hand.\nDraw a card.,70,,,,POR,Portal
+Ardent Militia,{4}{W},5.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Uncommon,Vigilance,4,2,5,,POR,Portal
+Spiritual Guardian,{3}{W}{W},5.0,['W'],['W'],Creature — Spirit,,['Spirit'],Rare,"When Spiritual Guardian enters the battlefield, you gain 4 life.",27,3,4,,POR,Portal
+Hand of Death,{2}{B},3.0,['B'],['B'],Sorcery,,,Common,Destroy target nonblack creature.,96†,,,,POR,Portal
+Cloud Spirit,{2}{U},3.0,['U'],['U'],Creature — Spirit,,['Spirit'],Uncommon,Flying\nCloud Spirit can block only creatures with flying.,47,3,1,,POR,Portal
+Redwood Treefolk,{4}{G},5.0,['G'],['G'],Creature — Treefolk,,['Treefolk'],Common,,183,3,6,,POR,Portal
+Touch of Brilliance,{3}{U},4.0,['U'],['U'],Sorcery,,,Common,Draw two cards.,76,,,,POR,Portal
+Foot Soldiers,{3}{W},4.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Common,,16,2,4,,POR,Portal
+Renewing Dawn,{1}{W},2.0,['W'],['W'],Sorcery,,,Uncommon,You gain 2 life for each Mountain target opponent controls.,23,,,,POR,Portal
+Archangel,{5}{W}{W},7.0,['W'],['W'],Creature — Angel,,['Angel'],Rare,"Flying, vigilance",3,5,5,,POR,Portal
+Taunt,{U},1.0,['U'],['U'],Sorcery,,,Rare,"During target player's next turn, creatures that player controls attack you if able.",71,,,,POR,Portal
+Withering Gaze,{2}{U},3.0,['U'],['U'],Sorcery,,,Uncommon,Target opponent reveals their hand. You draw a card for each Forest and green card in it.,78,,,,POR,Portal
+Noxious Toad,{2}{B},3.0,['B'],['B'],Creature — Frog,,['Frog'],Uncommon,"When Noxious Toad dies, each opponent discards a card.",104,1,1,,POR,Portal
+Python,{1}{B}{B},3.0,['B'],['B'],Creature — Snake,,['Snake'],Common,,105,3,2,,POR,Portal
+Rain of Tears,{1}{B}{B},3.0,['B'],['B'],Sorcery,,,Uncommon,Destroy target land.,106,,,,POR,Portal
+Blessed Reversal,{1}{W},2.0,['W'],['W'],Instant,,,Rare,You gain 3 life for each creature attacking you.,7,,,,POR,Portal
+Raise Dead,{B},1.0,['B'],['B'],Sorcery,,,Common,Return target creature card from your graveyard to your hand.,107,,,,POR,Portal
+Ingenious Thief,{1}{U},2.0,['U'],['U'],Creature — Human Rogue,,"['Human', 'Rogue']",Uncommon,"Flying\nWhen Ingenious Thief enters the battlefield, look at target player's hand.",58,1,1,,POR,Portal
+Fire Tempest,{5}{R}{R},7.0,['R'],['R'],Sorcery,,,Rare,Fire Tempest deals 6 damage to each creature and each player.,128,,,,POR,Portal
+Arrogant Vampire,{3}{B}{B},5.0,['B'],['B'],Creature — Vampire,,['Vampire'],Uncommon,Flying,79,4,3,,POR,Portal
+Sacred Knight,{3}{W},4.0,['W'],['W'],Creature — Human Knight,,"['Human', 'Knight']",Common,Sacred Knight can't be blocked by black and/or red creatures.,24,3,2,,POR,Portal
+Wrath of God,{2}{W}{W},4.0,['W'],['W'],Sorcery,,,Rare,Destroy all creatures. They can't be regenerated.,39,,,,POR,Portal
+Alabaster Dragon,{4}{W}{W},6.0,['W'],['W'],Creature — Dragon,,['Dragon'],Rare,"Flying\nWhen Alabaster Dragon dies, shuffle it into its owner's library.",1,4,4,,POR,Portal
+Fruition,{G},1.0,['G'],['G'],Sorcery,,,Common,You gain 1 life for each Forest on the battlefield.,166,,,,POR,Portal
+Devoted Hero,{W},1.0,['W'],['W'],Creature — Elf Soldier,,"['Elf', 'Soldier']",Common,,13,1,2,,POR,Portal
+Bog Imp,{1}{B},2.0,['B'],['B'],Creature — Imp,,['Imp'],Common,Flying (This creature can't be blocked except by creatures with flying or reach.),81,1,1,,POR,Portal
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),211,,,,POR,Portal
+Armageddon,{3}{W},4.0,['W'],['W'],Sorcery,,,Rare,Destroy all lands.,5,,,,POR,Portal
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),207,,,,POR,Portal
+Elvish Ranger,{2}{G},3.0,['G'],['G'],Creature — Elf Ranger,,"['Elf', 'Ranger']",Common,,165,4,1,,POR,Portal
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),208,,,,POR,Portal
+Path of Peace,{3}{W},4.0,['W'],['W'],Sorcery,,,Common,Destroy target creature. Its owner gains 4 life.,21,,,,POR,Portal
+Gravedigger,{3}{B},4.0,['B'],['B'],Creature — Zombie,,['Zombie'],Uncommon,"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.",95,2,2,,POR,Portal
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),215,,,,POR,Portal
+Giant Spider,{3}{G},4.0,['G'],['G'],Creature — Spider,,['Spider'],Common,Reach (This creature can block creatures with flying.),167,2,4,,POR,Portal
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),205,,,,POR,Portal
+Grizzly Bears,{1}{G},2.0,['G'],['G'],Creature — Bear,,['Bear'],Common,,169,2,2,,POR,Portal
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),212,,,,POR,Portal
+Stern Marshal,{2}{W},3.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Rare,"{T}: Target creature gets +2/+2 until end of turn. Activate only during your turn, before attackers are declared.",32,2,2,,POR,Portal
+Gorilla Warrior,{2}{G},3.0,['G'],['G'],Creature — Ape Warrior,,"['Ape', 'Warrior']",Common,,168,3,2,,POR,Portal
+Jungle Lion,{G},1.0,['G'],['G'],Creature — Cat,,['Cat'],Common,Jungle Lion can't block.,171,2,1,,POR,Portal
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),213,,,,POR,Portal
+Hurricane,{X}{G},1.0,['G'],['G'],Sorcery,,,Rare,Hurricane deals X damage to each creature with flying and each player.,170,,,,POR,Portal
+Tidal Surge,{1}{U},2.0,['U'],['U'],Sorcery,,,Common,Tap up to three target creatures without flying.,74,,,,POR,Portal
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),204,,,,POR,Portal
+Cruel Bargain,{B}{B}{B},3.0,['B'],['B'],Sorcery,,,Rare,"Draw four cards. You lose half your life, rounded up.",86,,,,POR,Portal
+Monstrous Growth,{1}{G},2.0,['G'],['G'],Sorcery,,,Common,Target creature gets +4/+4 until end of turn.,173,,,,POR,Portal
+Time Ebb,{2}{U},3.0,['U'],['U'],Sorcery,,,Common,Put target creature on top of its owner's library.,75,,,,POR,Portal
+Coral Eel,{1}{U},2.0,['U'],['U'],Creature — Fish,,['Fish'],Common,,49,2,1,,POR,Portal
+Island,,0.0,,['U'],Basic Land — Island,['Basic'],['Island'],Common,({T}: Add {U}.),203,,,,POR,Portal
+Mountain,,0.0,,['R'],Basic Land — Mountain,['Basic'],['Mountain'],Common,({T}: Add {R}.),210,,,,POR,Portal
+Mobilize,{G},1.0,['G'],['G'],Sorcery,,,Common,Untap all creatures you control.,172,,,,POR,Portal
+Armored Pegasus,{1}{W},2.0,['W'],['W'],Creature — Pegasus,,['Pegasus'],Common,Flying,6d,1,2,,POR,Portal
+Swamp,,0.0,,['B'],Basic Land — Swamp,['Basic'],['Swamp'],Common,({T}: Add {B}.),206,,,,POR,Portal
+Cloud Dragon,{5}{U},6.0,['U'],['U'],Creature — Illusion Dragon,,"['Illusion', 'Dragon']",Rare,Flying\nCloud Dragon can block only creatures with flying.,45,5,4,,POR,Portal
+Cloak of Feathers,{U},1.0,['U'],['U'],Sorcery,,,Common,Target creature gains flying until end of turn.\nDraw a card.,44,,,,POR,Portal
+Deep-Sea Serpent,{4}{U}{U},6.0,['U'],['U'],Creature — Serpent,,['Serpent'],Uncommon,Deep-Sea Serpent can't attack unless defending player controls an Island.,51,5,5,,POR,Portal
+Blinding Light,{2}{W},3.0,['W'],['W'],Sorcery,,,Rare,Tap all nonwhite creatures.,8,,,,POR,Portal
+Elite Cat Warrior,{2}{G},3.0,['G'],['G'],Creature — Cat Warrior,,"['Cat', 'Warrior']",Common,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),163†,2,3,,POR,Portal
+Capricious Sorcerer,{2}{U},3.0,['U'],['U'],Creature — Human Wizard,,"['Human', 'Wizard']",Rare,"{T}: Capricious Sorcerer deals 1 damage to any target. Activate only during your turn, before attackers are declared.",43,1,1,,POR,Portal
+Forest,,0.0,,['G'],Basic Land — Forest,['Basic'],['Forest'],Common,({T}: Add {G}.),214,,,,POR,Portal

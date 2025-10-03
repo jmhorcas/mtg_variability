@@ -1,10 +1,16 @@
-CMC: {1.0, 3.0, 5.0}
-Colors: {'Black'}
-ColorIdentity: {'B'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Artifact'}
-Subtypes: {'Cleric', 'Wizard', 'Shaman', 'Human'}
-Rarity: {'Rare', 'Mythic'}
-Power: {'3', '2'}
-Toughness: {'3', '4', '2'}
-Loyalty: set()
+name: ['Liliana, Heretical Healer // Liliana, Defiant Necromancer']
+mana_cost: ['{1}{B}{B}']
+cmc: [3.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Legendary Creature — Human Cleric']
+supertypes: ['Legendary']
+subtypes: ['Cleric', 'Human']
+rarity: ['Mythic']
+text: ["Lifelink\nWhenever another nontoken creature you control dies, exile Liliana, Heretical Healer, then return her to the battlefield transformed under her owner's control. If you do, create a 2/2 black Zombie creature token."]
+number: ['1']
+power: ['2']
+toughness: ['3']
+loyalty: []
+set: ['CC2']
+set_name: ['Commander Collection: Black']

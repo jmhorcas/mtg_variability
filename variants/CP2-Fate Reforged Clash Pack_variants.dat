@@ -1,10 +1,16 @@
-CMC: {9.0, 3.0, 4.0}
-Colors: {'Black', 'Green', 'Blue'}
-ColorIdentity: {'U', 'G', 'B'}
-Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Instant', 'Creature', 'Artifact'}
-Subtypes: {'Centaur', 'Gorgon', 'Demon'}
-Rarity: {'Rare'}
-Power: {'4', '2'}
-Toughness: {'4', '5'}
-Loyalty: set()
+name: ['Necropolis Fiend']
+mana_cost: ['{7}{B}{B}']
+cmc: [9.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Creature — Demon']
+supertypes: []
+subtypes: ['Demon']
+rarity: ['Rare']
+text: ['Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nFlying\n{X}, {T}, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn.']
+number: ['1']
+power: ['4']
+toughness: ['5']
+loyalty: []
+set: ['CP2']
+set_name: ['Fate Reforged Clash Pack']

@@ -1,10 +1,16 @@
-CMC: set()
-Colors: set()
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Basic'}
-Types: {'Land'}
-Subtypes: {'Swamp', 'Mountain', 'Island', 'Forest', 'Plains'}
-Rarity: {'Rare'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['Plains']
+mana_cost: []
+cmc: [0.0]
+colors: []
+color_identity: ['W']
+type: ['Basic Land — Plains']
+supertypes: ['Basic']
+subtypes: ['Plains']
+rarity: ['Rare']
+text: ['({T}: Add {W}.)']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['PPP1']
+set_name: ['M20 Promo Packs']

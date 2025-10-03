@@ -1,10 +1,16 @@
-CMC: {1.0, 3.0}
-Colors: {'White', 'Green', 'Red'}
-ColorIdentity: {'W', 'R', 'G'}
-Supertypes: set()
-Types: {'Instant', 'Creature'}
-Subtypes: {'Soldier', 'Elf', 'Scout', 'Human'}
-Rarity: {'Rare'}
-Power: {'1'}
-Toughness: {'1'}
-Loyalty: set()
+name: []
+mana_cost: []
+cmc: []
+colors: []
+color_identity: []
+type: []
+supertypes: []
+subtypes: []
+rarity: []
+text: []
+number: []
+power: []
+toughness: []
+loyalty: []
+set: []
+set_name: []

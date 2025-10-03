@@ -1,10 +1,16 @@
-CMC: {2.0, 4.0}
-Colors: {'White', 'Red', 'Green'}
-ColorIdentity: {'W', 'R', 'G'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Ogre', 'Warrior', 'Ooze', 'Sliver'}
-Rarity: {'Rare'}
-Power: {'3', '2'}
-Toughness: {'3', '2'}
-Loyalty: set()
+name: ['Bonescythe Sliver']
+mana_cost: ['{3}{W}']
+cmc: [4.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Sliver']
+supertypes: []
+subtypes: ['Sliver']
+rarity: ['Rare']
+text: ['Sliver creatures you control have double strike. (They deal both first-strike and regular combat damage.)']
+number: ['1']
+power: ['2']
+toughness: ['2']
+loyalty: []
+set: ['PDP14']
+set_name: ['Duels of the Planeswalkers 2014 Promos']

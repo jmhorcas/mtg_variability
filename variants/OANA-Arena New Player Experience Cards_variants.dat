@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 5.0, 6.0}
-Colors: {'Red', 'Green', 'White', 'Blue'}
-ColorIdentity: {'W', 'R', 'G', 'U'}
-Supertypes: set()
-Types: {'Enchantment', 'Instant', 'Creature', 'Sorcery'}
-Subtypes: {'Warrior', 'Spirit', 'Soldier', 'Elf', 'Angel', 'Berserker', 'Bird', 'Goblin', 'Human', 'Cleric', 'Cat', 'Aura'}
-Rarity: {'Common', 'Rare', 'Uncommon'}
-Power: {'3', '4', '2', '1'}
-Toughness: {'4', '2', '1'}
-Loyalty: set()
+name: ['Angelic Reward']
+mana_cost: ['{3}{W}{W}']
+cmc: [5.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Enchantment — Aura']
+supertypes: []
+subtypes: ['Aura']
+rarity: ['Uncommon']
+text: ['Enchant creature\nEnchanted creature gets +3/+3 and has flying.']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['OANA']
+set_name: ['Arena New Player Experience Cards']

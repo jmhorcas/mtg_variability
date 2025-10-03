@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'White', 'Black', 'Green', 'Blue'}
-ColorIdentity: {'W', 'U', 'G', 'B'}
-Supertypes: {'Basic'}
-Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Myr', 'Vedalken', 'Elemental', 'Island', 'Ooze', 'Elk', 'Scout', 'Zombie', 'Horror', 'Equipment', 'Construct', 'Angel', 'Gargoyle', 'Imp', 'Wolf', 'Human', 'Beast', 'Shapeshifter', 'Plains', 'Wall', 'Phyrexian', 'Serpent', 'Shaman', 'Swamp', 'Forest', 'Soldier', 'Elf', 'Sphinx', 'Wizard', 'Artificer', 'Carrier', 'Golem', 'Juggernaut', 'Aura'}
-Rarity: {'Common', 'Mythic', 'Uncommon', 'Rare'}
-Power: {'4', '5', '1', '8', '2', '0', '3', '6'}
-Toughness: {'4', '5', '1', '8', '2', '3', '6'}
-Loyalty: set()
+name: ['Platinum Angel']
+mana_cost: ['{7}']
+cmc: [7.0]
+colors: []
+color_identity: []
+type: ['Artifact Creature — Angel']
+supertypes: []
+subtypes: ['Angel']
+rarity: ['Mythic']
+text: ["Flying\nYou can't lose the game and your opponents can't win the game."]
+number: ['1']
+power: ['4']
+toughness: ['4']
+loyalty: []
+set: ['TD2']
+set_name: ['Duel Decks: Mirrodin Pure vs. New Phyrexia']

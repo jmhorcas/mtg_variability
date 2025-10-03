@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Enchantment', 'Instant', 'Creature', 'Artifact'}
-Subtypes: {'Vampire', 'Myr', 'Wurm', 'Spirit', 'Pest', 'Elf', 'Scout', 'Wizard', 'Curse', 'Imp', 'Ranger', 'Artificer', 'Human', 'Phyrexian', 'Aura'}
-Rarity: {'Rare'}
-Power: {'0', '2', '*', '1'}
-Toughness: {'2', '*', '1'}
-Loyalty: set()
+name: ['Curse of the Bloody Tome']
+mana_cost: ['{2}{U}']
+cmc: [3.0]
+colors: ['U']
+color_identity: ['U']
+type: ['Enchantment — Aura Curse']
+supertypes: []
+subtypes: ['Aura', 'Curse']
+rarity: ['Rare']
+text: ["Enchant player\nAt the beginning of enchanted player's upkeep, that player mills two cards."]
+number: ['80']
+power: []
+toughness: []
+loyalty: []
+set: ['PW11']
+set_name: ['Wizards Play Network 2011']

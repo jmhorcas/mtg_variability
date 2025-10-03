@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Mystical Dispute,{2}{U},3.0,['U'],['U'],Instant,,,Rare,This spell costs {2} less to cast if it targets a blue spell.\nCounter target spell unless its controller pays {3}.,1,,,,PR23,Regional Championship Qualifiers 2023

@@ -1,10 +1,16 @@
-CMC: {7.0}
-Colors: {'Green'}
-ColorIdentity: {'G'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Basilisk'}
-Rarity: {'Rare'}
-Power: {'4'}
-Toughness: {'5'}
-Loyalty: set()
+name: ['Stone-Tongue Basilisk']
+mana_cost: ['{4}{G}{G}{G}']
+cmc: [7.0]
+colors: ['G']
+color_identity: ['G']
+type: ['Creature — Basilisk']
+supertypes: []
+subtypes: ['Basilisk']
+rarity: ['Rare']
+text: ['Whenever Stone-Tongue Basilisk deals combat damage to a creature, destroy that creature at end of combat.\nThreshold — As long as seven or more cards are in your graveyard, all creatures able to block Stone-Tongue Basilisk do so.']
+number: ['276']
+power: ['4']
+toughness: ['5']
+loyalty: []
+set: ['PODY']
+set_name: ['Odyssey Promos']

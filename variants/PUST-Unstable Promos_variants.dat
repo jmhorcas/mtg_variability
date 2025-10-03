@@ -1,10 +1,16 @@
-CMC: {6.0}
-Colors: {'Green'}
-ColorIdentity: {'G'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Advisor', 'Squirrel', 'Noble'}
-Rarity: {'Rare'}
-Power: {'4'}
-Toughness: {'4'}
-Loyalty: set()
+name: ['Earl of Squirrel']
+mana_cost: ['{4}{G}{G}']
+cmc: [6.0]
+colors: ['G']
+color_identity: ['G']
+type: ['Creature — Squirrel Noble Advisor']
+supertypes: []
+subtypes: ['Advisor', 'Noble', 'Squirrel']
+rarity: ['Rare']
+text: ['Squirrellink (Damage dealt by this creature also causes you to create that many 1/1 green Squirrel creature tokens.)\nCreature tokens you control are Squirrels in addition to their other creature types.\nOther Squirrels you control get +1/+1.']
+number: ['108']
+power: ['4']
+toughness: ['4']
+loyalty: []
+set: ['PUST']
+set_name: ['Unstable Promos']

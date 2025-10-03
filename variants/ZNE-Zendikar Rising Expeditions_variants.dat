@@ -1,10 +1,16 @@
-CMC: set()
-Colors: set()
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Land'}
-Subtypes: set()
-Rarity: {'Mythic'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['Ancient Tomb', 'Arid Mesa', 'Blackcleave Cliffs', 'Bloodstained Mire', 'Bountiful Promenade', 'Cavern of Souls', 'Celestial Colonnade', 'Copperline Gorge', 'Creeping Tar Pit', 'Darkslick Shores', 'Flooded Strand', 'Grove of the Burnwillows', 'Horizon Canopy', 'Luxury Suite', 'Marsh Flats', 'Misty Rainforest', 'Morphic Pool', 'Polluted Delta', 'Prismatic Vista', 'Razorverge Thicket', 'Scalding Tarn', 'Sea of Clouds', 'Seachrome Coast', 'Spire Garden', 'Strip Mine', 'Valakut, the Molten Pinnacle', 'Verdant Catacombs', 'Wasteland', 'Windswept Heath', 'Wooded Foothills']
+mana_cost: []
+cmc: [0.0]
+colors: []
+color_identity: ['B', 'G', 'R', 'U', 'W']
+type: ['Land']
+supertypes: []
+subtypes: []
+rarity: ['Mythic']
+text: ["As Cavern of Souls enters the battlefield, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.", 'Blackcleave Cliffs enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {B} or {R}.', 'Bountiful Promenade enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {G} or {W}.', "Celestial Colonnade enters the battlefield tapped.\n{T}: Add {W} or {U}.\n{3}{W}{U}: Until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It's still a land.", 'Copperline Gorge enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {R} or {G}.', "Creeping Tar Pit enters the battlefield tapped.\n{T}: Add {U} or {B}.\n{1}{U}{B}: Creeping Tar Pit becomes a 3/2 blue and black Elemental creature until end of turn and can't be blocked this turn. It's still a land.", 'Darkslick Shores enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {U} or {B}.', 'Luxury Suite enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {B} or {R}.', 'Morphic Pool enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {U} or {B}.', 'Razorverge Thicket enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {G} or {W}.', 'Sea of Clouds enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {W} or {U}.', 'Seachrome Coast enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {W} or {U}.', 'Spire Garden enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {R} or {G}.', 'Valakut, the Molten Pinnacle enters the battlefield tapped.\nWhenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to any target.\n{T}: Add {R}.', '{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.', '{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.', '{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.', '{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.', '{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.', '{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.', '{T}, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle.', '{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.', '{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.', '{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.', '{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.', '{T}, Pay 1 life: Add {G} or {W}.\n{1}, {T}, Sacrifice Horizon Canopy: Draw a card.', '{T}: Add {C}.\n{T}, Sacrifice Strip Mine: Destroy target land.', '{T}: Add {C}.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land.', '{T}: Add {C}.\n{T}: Add {R} or {G}. Each opponent gains 1 life.', '{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.']
+number: ['1', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '2', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '3', '30', '4', '5', '6', '7', '8', '9']
+power: []
+toughness: []
+loyalty: []
+set: ['ZNE']
+set_name: ['Zendikar Rising Expeditions']

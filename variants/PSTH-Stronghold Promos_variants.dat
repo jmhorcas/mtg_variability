@@ -1,10 +1,16 @@
-CMC: {5.0}
-Colors: {'Black'}
-ColorIdentity: {'B'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Spirit'}
-Rarity: {'Rare'}
-Power: {'*'}
-Toughness: {'*'}
-Loyalty: set()
+name: ['Revenant']
+mana_cost: ['{4}{B}']
+cmc: [5.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Creature — Spirit']
+supertypes: []
+subtypes: ['Spirit']
+rarity: ['Rare']
+text: ["Flying\nRevenant's power and toughness are each equal to the number of creature cards in your graveyard."]
+number: ['68']
+power: ['*']
+toughness: ['*']
+loyalty: []
+set: ['PSTH']
+set_name: ['Stronghold Promos']

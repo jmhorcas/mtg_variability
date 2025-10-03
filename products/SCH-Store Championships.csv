@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Flame Slash,{R},1.0,['R'],['R'],Sorcery,,,Rare,Flame Slash deals 4 damage to target creature.,1,,,,SCH,Store Championships

@@ -1,46 +1,46 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Wasteland,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land."
-Tectonic Edge,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{1}, {T}, Sacrifice Tectonic Edge: Destroy target nonbasic land. Activate only if an opponent controls four or more lands."
-Strip Mine,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{T}, Sacrifice Strip Mine: Destroy target land."
-Mana Confluence,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,"{T}, Pay 1 life: Add one mana of any color."
-Kor Haven,0.0,None,['W'],['Legendary'],['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{1}{W}, {T}: Prevent all combat damage that would be dealt by target attacking creature this turn."
-Horizon Canopy,0.0,None,"['G', 'W']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}, Pay 1 life: Add {G} or {W}.\n{1}, {T}, Sacrifice Horizon Canopy: Draw a card."
-Forbidden Orchard,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add one mana of any color.\nWhenever you tap Forbidden Orchard for mana, target opponent creates a 1/1 colorless Spirit creature token."
-Eye of Ugin,0.0,None,None,['Legendary'],['Land'],None,Mythic,EXP,None,None,None,"Colorless Eldrazi spells you cast cost {2} less to cast.\n{7}, {T}: Search your library for a colorless creature card, reveal it, put it into your hand, then shuffle."
-Dust Bowl,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{3}, {T}, Sacrifice a land: Destroy target nonbasic land."
-Ancient Tomb,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.
-Flooded Grove,0.0,None,"['G', 'U']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{G/U}, {T}: Add {G}{G}, {G}{U}, or {U}{U}."
-Rugged Prairie,0.0,None,"['R', 'W']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{R/W}, {T}: Add {R}{R}, {R}{W}, or {W}{W}."
-Twilight Mire,0.0,None,"['B', 'G']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{B/G}, {T}: Add {B}{B}, {B}{G}, or {G}{G}."
-Cascade Bluffs,0.0,None,"['R', 'U']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{U/R}, {T}: Add {U}{U}, {U}{R}, or {R}{R}."
-Fetid Heath,0.0,None,"['B', 'W']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B}."
-Wooded Bastion,0.0,None,"['G', 'W']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{G/W}, {T}: Add {G}{G}, {G}{W}, or {W}{W}."
-Fire-Lit Thicket,0.0,None,"['G', 'R']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{R/G}, {T}: Add {R}{R}, {R}{G}, or {G}{G}."
-Cinder Glade,0.0,None,"['G', 'R']",None,['Land'],"['Mountain', 'Forest']",Mythic,EXP,None,None,None,({T}: Add {R} or {G}.)\nCinder Glade enters the battlefield tapped unless you control two or more basic lands.
-Graven Cairns,0.0,None,"['B', 'R']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R}."
-Sunken Ruins,0.0,None,"['B', 'U']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{U/B}, {T}: Add {U}{U}, {U}{B}, or {B}{B}."
-Mystic Gate,0.0,None,"['U', 'W']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{W/U}, {T}: Add {W}{W}, {W}{U}, or {U}{U}."
-Misty Rainforest,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,"{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle."
-Arid Mesa,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,"{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
-Verdant Catacombs,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,"{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
-Scalding Tarn,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,"{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle."
-Marsh Flats,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,"{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle."
-Windswept Heath,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,"{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."
-Wooded Foothills,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,"{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle."
-Bloodstained Mire,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,"{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle."
-Sunken Hollow,0.0,None,"['B', 'U']",None,['Land'],"['Island', 'Swamp']",Mythic,EXP,None,None,None,({T}: Add {U} or {B}.)\nSunken Hollow enters the battlefield tapped unless you control two or more basic lands.
-Sacred Foundry,0.0,None,"['R', 'W']",None,['Land'],"['Mountain', 'Plains']",Mythic,EXP,None,None,None,"({T}: Add {R} or {W}.)\nAs Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
-Flooded Strand,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,"{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle."
-Polluted Delta,0.0,None,None,None,['Land'],None,Mythic,EXP,None,None,None,"{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle."
-Breeding Pool,0.0,None,"['G', 'U']",None,['Land'],"['Forest', 'Island']",Mythic,EXP,None,None,None,"({T}: Add {G} or {U}.)\nAs Breeding Pool enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
-Overgrown Tomb,0.0,None,"['B', 'G']",None,['Land'],"['Swamp', 'Forest']",Mythic,EXP,None,None,None,"({T}: Add {B} or {G}.)\nAs Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
-Steam Vents,0.0,None,"['R', 'U']",None,['Land'],"['Island', 'Mountain']",Mythic,EXP,None,None,None,"({T}: Add {U} or {R}.)\nAs Steam Vents enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
-Godless Shrine,0.0,None,"['B', 'W']",None,['Land'],"['Plains', 'Swamp']",Mythic,EXP,None,None,None,"({T}: Add {W} or {B}.)\nAs Godless Shrine enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
-Watery Grave,0.0,None,"['B', 'U']",None,['Land'],"['Island', 'Swamp']",Mythic,EXP,None,None,None,"({T}: Add {U} or {B}.)\nAs Watery Grave enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
-Temple Garden,0.0,None,"['G', 'W']",None,['Land'],"['Forest', 'Plains']",Mythic,EXP,None,None,None,"({T}: Add {G} or {W}.)\nAs Temple Garden enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
-Stomping Ground,0.0,None,"['G', 'R']",None,['Land'],"['Mountain', 'Forest']",Mythic,EXP,None,None,None,"({T}: Add {R} or {G}.)\nAs Stomping Ground enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
-Blood Crypt,0.0,None,"['B', 'R']",None,['Land'],"['Swamp', 'Mountain']",Mythic,EXP,None,None,None,"({T}: Add {B} or {R}.)\nAs Blood Crypt enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
-Smoldering Marsh,0.0,None,"['B', 'R']",None,['Land'],"['Swamp', 'Mountain']",Mythic,EXP,None,None,None,({T}: Add {B} or {R}.)\nSmoldering Marsh enters the battlefield tapped unless you control two or more basic lands.
-Prairie Stream,0.0,None,"['U', 'W']",None,['Land'],"['Plains', 'Island']",Mythic,EXP,None,None,None,({T}: Add {W} or {U}.)\nPrairie Stream enters the battlefield tapped unless you control two or more basic lands.
-Hallowed Fountain,0.0,None,"['U', 'W']",None,['Land'],"['Plains', 'Island']",Mythic,EXP,None,None,None,"({T}: Add {W} or {U}.)\nAs Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
-Canopy Vista,0.0,None,"['G', 'W']",None,['Land'],"['Forest', 'Plains']",Mythic,EXP,None,None,None,({T}: Add {G} or {W}.)\nCanopy Vista enters the battlefield tapped unless you control two or more basic lands.
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Graven Cairns,,0.0,,"['B', 'R']",Land,,,Mythic,"{T}: Add {C}.\n{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R}.",28,,,,EXP,Zendikar Expeditions
+Prairie Stream,,0.0,,"['U', 'W']",Land — Plains Island,,"['Plains', 'Island']",Mythic,({T}: Add {W} or {U}.)\nPrairie Stream enters the battlefield tapped unless you control two or more basic lands.,1,,,,EXP,Zendikar Expeditions
+Sacred Foundry,,0.0,,"['R', 'W']",Land — Mountain Plains,,"['Mountain', 'Plains']",Mythic,"({T}: Add {R} or {W}.)\nAs Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",14,,,,EXP,Zendikar Expeditions
+Marsh Flats,,0.0,,,Land,,,Mythic,"{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.",21,,,,EXP,Zendikar Expeditions
+Overgrown Tomb,,0.0,,"['B', 'G']",Land — Swamp Forest,,"['Swamp', 'Forest']",Mythic,"({T}: Add {B} or {G}.)\nAs Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",13,,,,EXP,Zendikar Expeditions
+Flooded Grove,,0.0,,"['G', 'U']",Land,,,Mythic,"{T}: Add {C}.\n{G/U}, {T}: Add {G}{G}, {G}{U}, or {U}{U}.",35,,,,EXP,Zendikar Expeditions
+Sunken Ruins,,0.0,,"['B', 'U']",Land,,,Mythic,"{T}: Add {C}.\n{U/B}, {T}: Add {U}{U}, {U}{B}, or {B}{B}.",27,,,,EXP,Zendikar Expeditions
+Cascade Bluffs,,0.0,,"['R', 'U']",Land,,,Mythic,"{T}: Add {C}.\n{U/R}, {T}: Add {U}{U}, {U}{R}, or {R}{R}.",32,,,,EXP,Zendikar Expeditions
+Mystic Gate,,0.0,,"['U', 'W']",Land,,,Mythic,"{T}: Add {C}.\n{W/U}, {T}: Add {W}{W}, {W}{U}, or {U}{U}.",26,,,,EXP,Zendikar Expeditions
+Steam Vents,,0.0,,"['R', 'U']",Land — Island Mountain,,"['Island', 'Mountain']",Mythic,"({T}: Add {U} or {R}.)\nAs Steam Vents enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",12,,,,EXP,Zendikar Expeditions
+Verdant Catacombs,,0.0,,,Land,,,Mythic,"{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.",23,,,,EXP,Zendikar Expeditions
+Misty Rainforest,,0.0,,,Land,,,Mythic,"{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.",25,,,,EXP,Zendikar Expeditions
+Scalding Tarn,,0.0,,,Land,,,Mythic,"{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.",22,,,,EXP,Zendikar Expeditions
+Windswept Heath,,0.0,,,Land,,,Mythic,"{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.",20,,,,EXP,Zendikar Expeditions
+Stomping Ground,,0.0,,"['G', 'R']",Land — Mountain Forest,,"['Mountain', 'Forest']",Mythic,"({T}: Add {R} or {G}.)\nAs Stomping Ground enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",9,,,,EXP,Zendikar Expeditions
+Cinder Glade,,0.0,,"['G', 'R']",Land — Mountain Forest,,"['Mountain', 'Forest']",Mythic,({T}: Add {R} or {G}.)\nCinder Glade enters the battlefield tapped unless you control two or more basic lands.,4,,,,EXP,Zendikar Expeditions
+Wasteland,,0.0,,,Land,,,Mythic,"{T}: Add {C}.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land.",45,,,,EXP,Zendikar Expeditions
+Twilight Mire,,0.0,,"['B', 'G']",Land,,,Mythic,"{T}: Add {C}.\n{B/G}, {T}: Add {B}{B}, {B}{G}, or {G}{G}.",33,,,,EXP,Zendikar Expeditions
+Bloodstained Mire,,0.0,,,Land,,,Mythic,"{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.",18,,,,EXP,Zendikar Expeditions
+Strip Mine,,0.0,,,Land,,,Mythic,"{T}: Add {C}.\n{T}, Sacrifice Strip Mine: Destroy target land.",43,,,,EXP,Zendikar Expeditions
+Hallowed Fountain,,0.0,,"['U', 'W']",Land — Plains Island,,"['Plains', 'Island']",Mythic,"({T}: Add {W} or {U}.)\nAs Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",6,,,,EXP,Zendikar Expeditions
+Blood Crypt,,0.0,,"['B', 'R']",Land — Swamp Mountain,,"['Swamp', 'Mountain']",Mythic,"({T}: Add {B} or {R}.)\nAs Blood Crypt enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",8,,,,EXP,Zendikar Expeditions
+Eye of Ugin,,0.0,,,Legendary Land,['Legendary'],,Mythic,"Colorless Eldrazi spells you cast cost {2} less to cast.\n{7}, {T}: Search your library for a colorless creature card, reveal it, put it into your hand, then shuffle.",38,,,,EXP,Zendikar Expeditions
+Watery Grave,,0.0,,"['B', 'U']",Land — Island Swamp,,"['Island', 'Swamp']",Mythic,"({T}: Add {U} or {B}.)\nAs Watery Grave enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",7,,,,EXP,Zendikar Expeditions
+Dust Bowl,,0.0,,,Land,,,Mythic,"{T}: Add {C}.\n{3}, {T}, Sacrifice a land: Destroy target nonbasic land.",37,,,,EXP,Zendikar Expeditions
+Godless Shrine,,0.0,,"['B', 'W']",Land — Plains Swamp,,"['Plains', 'Swamp']",Mythic,"({T}: Add {W} or {B}.)\nAs Godless Shrine enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",11,,,,EXP,Zendikar Expeditions
+Kor Haven,,0.0,,['W'],Legendary Land,['Legendary'],,Mythic,"{T}: Add {C}.\n{1}{W}, {T}: Prevent all combat damage that would be dealt by target attacking creature this turn.",41,,,,EXP,Zendikar Expeditions
+Canopy Vista,,0.0,,"['G', 'W']",Land — Forest Plains,,"['Forest', 'Plains']",Mythic,({T}: Add {G} or {W}.)\nCanopy Vista enters the battlefield tapped unless you control two or more basic lands.,5,,,,EXP,Zendikar Expeditions
+Fetid Heath,,0.0,,"['B', 'W']",Land,,,Mythic,"{T}: Add {C}.\n{W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B}.",31,,,,EXP,Zendikar Expeditions
+Polluted Delta,,0.0,,,Land,,,Mythic,"{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.",17,,,,EXP,Zendikar Expeditions
+Tectonic Edge,,0.0,,,Land,,,Mythic,"{T}: Add {C}.\n{1}, {T}, Sacrifice Tectonic Edge: Destroy target nonbasic land. Activate only if an opponent controls four or more lands.",44,,,,EXP,Zendikar Expeditions
+Forbidden Orchard,,0.0,,,Land,,,Mythic,"{T}: Add one mana of any color.\nWhenever you tap Forbidden Orchard for mana, target opponent creates a 1/1 colorless Spirit creature token.",39,,,,EXP,Zendikar Expeditions
+Mana Confluence,,0.0,,,Land,,,Mythic,"{T}, Pay 1 life: Add one mana of any color.",42,,,,EXP,Zendikar Expeditions
+Ancient Tomb,,0.0,,,Land,,,Mythic,{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.,36,,,,EXP,Zendikar Expeditions
+Horizon Canopy,,0.0,,"['G', 'W']",Land,,,Mythic,"{T}, Pay 1 life: Add {G} or {W}.\n{1}, {T}, Sacrifice Horizon Canopy: Draw a card.",40,,,,EXP,Zendikar Expeditions
+Wooded Bastion,,0.0,,"['G', 'W']",Land,,,Mythic,"{T}: Add {C}.\n{G/W}, {T}: Add {G}{G}, {G}{W}, or {W}{W}.",30,,,,EXP,Zendikar Expeditions
+Smoldering Marsh,,0.0,,"['B', 'R']",Land — Swamp Mountain,,"['Swamp', 'Mountain']",Mythic,({T}: Add {B} or {R}.)\nSmoldering Marsh enters the battlefield tapped unless you control two or more basic lands.,3,,,,EXP,Zendikar Expeditions
+Rugged Prairie,,0.0,,"['R', 'W']",Land,,,Mythic,"{T}: Add {C}.\n{R/W}, {T}: Add {R}{R}, {R}{W}, or {W}{W}.",34,,,,EXP,Zendikar Expeditions
+Fire-Lit Thicket,,0.0,,"['G', 'R']",Land,,,Mythic,"{T}: Add {C}.\n{R/G}, {T}: Add {R}{R}, {R}{G}, or {G}{G}.",29,,,,EXP,Zendikar Expeditions
+Sunken Hollow,,0.0,,"['B', 'U']",Land — Island Swamp,,"['Island', 'Swamp']",Mythic,({T}: Add {U} or {B}.)\nSunken Hollow enters the battlefield tapped unless you control two or more basic lands.,2,,,,EXP,Zendikar Expeditions
+Temple Garden,,0.0,,"['G', 'W']",Land — Forest Plains,,"['Forest', 'Plains']",Mythic,"({T}: Add {G} or {W}.)\nAs Temple Garden enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",10,,,,EXP,Zendikar Expeditions
+Flooded Strand,,0.0,,,Land,,,Mythic,"{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.",16,,,,EXP,Zendikar Expeditions
+Arid Mesa,,0.0,,,Land,,,Mythic,"{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.",24,,,,EXP,Zendikar Expeditions
+Breeding Pool,,0.0,,"['G', 'U']",Land — Forest Island,,"['Forest', 'Island']",Mythic,"({T}: Add {G} or {U}.)\nAs Breeding Pool enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",15,,,,EXP,Zendikar Expeditions
+Wooded Foothills,,0.0,,,Land,,,Mythic,"{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.",19,,,,EXP,Zendikar Expeditions

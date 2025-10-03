@@ -1,10 +1,16 @@
-CMC: {2.0, 7.0}
-Colors: {'Red', 'Green', 'Blue'}
-ColorIdentity: {'R', 'G', 'U'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Djinn', 'Shaman', 'Human'}
-Rarity: {'Rare'}
-Power: {'3', '2'}
-Toughness: {'5', '2'}
-Loyalty: set()
+name: ['Djinn Illuminatus']
+mana_cost: ['{5}{U/R}{U/R}']
+cmc: [7.0]
+colors: ['R', 'U']
+color_identity: ['R', 'U']
+type: ['Creature — Djinn']
+supertypes: []
+subtypes: ['Djinn']
+rarity: ['Rare']
+text: ['({U/R} can be paid with either {U} or {R}.)\nFlying\nEach instant and sorcery spell you cast has replicate. The replicate cost is equal to its mana cost. (When you cast it, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)']
+number: ['142★']
+power: ['3']
+toughness: ['5']
+loyalty: []
+set: ['PGPT']
+set_name: ['Guildpact Promos']

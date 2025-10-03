@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 4.0, 5.0, 6.0}
-Colors: {'Red', 'Black', 'Green'}
-ColorIdentity: {'R', 'G', 'B'}
-Supertypes: set()
-Types: {'Sorcery', 'Creature'}
-Subtypes: {'Zombie', 'Werewolf', 'Demon', 'Spirit'}
-Rarity: {'Uncommon', 'Rare'}
-Power: {'5', '2', '9'}
-Toughness: {'9', '5', '1'}
-Loyalty: set()
+name: ['Gravecrawler']
+mana_cost: ['{B}']
+cmc: [1.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Creature — Zombie']
+supertypes: []
+subtypes: ['Zombie']
+rarity: ['Rare']
+text: ["Gravecrawler can't block.\nYou may cast Gravecrawler from your graveyard as long as you control a Zombie."]
+number: ['64★']
+power: ['2']
+toughness: ['1']
+loyalty: []
+set: ['PDKA']
+set_name: ['Dark Ascension Promos']

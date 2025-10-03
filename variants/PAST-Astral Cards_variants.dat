@@ -1,10 +1,16 @@
-CMC: {2.0, 3.0, 4.0, 5.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Dragon', 'Summon', 'Enchantment', 'Land', 'Knights', 'Sorcery', 'Goblin', 'Jaguar', 'Instant', 'Artifact'}
-Subtypes: set()
-Rarity: {'Common'}
-Power: {'2', '1'}
-Toughness: {'3', '2', '1'}
-Loyalty: set()
+name: ['Aswan Jaguar']
+mana_cost: ['{1}{G}{G}']
+cmc: [3.0]
+colors: ['G']
+color_identity: ['G']
+type: ['Summon Jaguar']
+supertypes: []
+subtypes: []
+rarity: ['Common']
+text: ["When Aswan Jaguar comes into play, choose a random creature type from those in target opponent's deck.\n{G}{G}, {T}: Bury target creature of the chosen type."]
+number: ['1']
+power: ['2']
+toughness: ['2']
+loyalty: []
+set: ['PAST']
+set_name: ['Astral Cards']

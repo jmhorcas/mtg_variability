@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+"Elesh Norn, Mother of Machines",{4}{W},5.0,['W'],['W'],Legendary Creature — Phyrexian Praetor,['Legendary'],"['Phyrexian', 'Praetor']",Mythic,"Vigilance\nIf a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\nPermanents entering the battlefield don't cause abilities of permanents your opponents control to trigger.",10p,4,7,,PONE,Phyrexia: All Will Be One Promos

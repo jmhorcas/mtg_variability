@@ -1,10 +1,16 @@
-CMC: {3.0, 6.0}
-Colors: {'Red'}
-ColorIdentity: {'R'}
-Supertypes: {'Legendary'}
-Types: {'Instant', 'Creature'}
-Subtypes: {'Barbarian', 'Human'}
-Rarity: {'Rare'}
-Power: {'6'}
-Toughness: {'1'}
-Loyalty: set()
+name: ['Char']
+mana_cost: ['{2}{R}']
+cmc: [3.0]
+colors: ['R']
+color_identity: ['R']
+type: ['Instant']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ['Char deals 4 damage to any target and 2 damage to you.']
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['P15A']
+set_name: ['15th Anniversary Cards']

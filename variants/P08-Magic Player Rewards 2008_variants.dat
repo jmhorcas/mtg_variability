@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 4.0, 5.0, 6.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Instant', 'Sorcery'}
-Subtypes: set()
-Rarity: {'Rare'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['Damnation']
+mana_cost: ['{2}{B}{B}']
+cmc: [4.0]
+colors: ['B']
+color_identity: ['B']
+type: ['Sorcery']
+supertypes: []
+subtypes: []
+rarity: ['Rare']
+text: ["Destroy all creatures. They can't be regenerated."]
+number: ['1']
+power: []
+toughness: []
+loyalty: []
+set: ['P08']
+set_name: ['Magic Player Rewards 2008']

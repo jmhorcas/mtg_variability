@@ -1,10 +1,16 @@
-CMC: set()
-Colors: set()
-ColorIdentity: set()
-Supertypes: set()
-Types: {'Hero'}
-Subtypes: set()
-Rarity: {'Common'}
-Power: set()
-Toughness: set()
-Loyalty: set()
+name: ['The General']
+mana_cost: []
+cmc: [0.0]
+colors: []
+color_identity: []
+type: ['Hero']
+supertypes: []
+subtypes: []
+rarity: ['Common']
+text: ['Exile The General: Creatures you control get +1/+1 until end of turn. Untap them.']
+number: ['4a']
+power: []
+toughness: []
+loyalty: []
+set: ['THP2']
+set_name: ["Born of the Gods Hero's Path"]

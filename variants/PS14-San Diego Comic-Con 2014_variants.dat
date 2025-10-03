@@ -1,10 +1,16 @@
-CMC: {4.0, 5.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Planeswalker'}
-Subtypes: {'Jace', 'Nissa', 'Garruk', 'Liliana', 'Chandra', 'Ajani'}
-Rarity: {'Mythic'}
-Power: set()
-Toughness: set()
-Loyalty: {'3', '4', '5'}
+name: ['Ajani Steadfast']
+mana_cost: ['{3}{W}']
+cmc: [4.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Legendary Planeswalker — Ajani']
+supertypes: ['Legendary']
+subtypes: ['Ajani']
+rarity: ['Mythic']
+text: ['[+1]: Until end of turn, up to one target creature gets +1/+1 and gains first strike, vigilance, and lifelink.\n[−2]: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.\n[−7]: You get an emblem with "If a source would deal damage to you or a planeswalker you control, prevent all but 1 of that damage."']
+number: ['1']
+power: []
+toughness: []
+loyalty: ['4']
+set: ['PS14']
+set_name: ['San Diego Comic-Con 2014']

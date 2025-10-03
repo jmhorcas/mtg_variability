@@ -1,10 +1,16 @@
-CMC: {1.0, 2.0, 3.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: set()
-Types: {'Sorcery', 'Instant', 'Creature', 'Enchantment'}
-Subtypes: {'Soltari', 'Plant', 'Wizard', 'Knight', 'Goblin', 'Human', 'Troll', 'Wall', 'Spike', 'Cleric'}
-Rarity: {'Rare'}
-Power: {'3', '2', '0', '1'}
-Toughness: {'4', '1', '2', '0', '3'}
-Loyalty: set()
+name: ['Soltari Priest']
+mana_cost: ['{W}{W}']
+cmc: [2.0]
+colors: ['W']
+color_identity: ['W']
+type: ['Creature — Soltari Cleric']
+supertypes: []
+subtypes: ['Cleric', 'Soltari']
+rarity: ['Rare']
+text: ['Protection from red\nShadow (This creature can block or be blocked by only creatures with shadow.)']
+number: ['1']
+power: ['2']
+toughness: ['1']
+loyalty: []
+set: ['F02']
+set_name: ['Friday Night Magic 2002']

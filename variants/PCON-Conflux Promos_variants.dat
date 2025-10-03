@@ -1,10 +1,16 @@
-CMC: {6.0}
-Colors: {'Red', 'Black'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Legendary'}
-Types: {'Creature', 'Artifact'}
-Subtypes: {'Dragon', 'Demon'}
-Rarity: {'Rare'}
-Power: {'6'}
-Toughness: {'6'}
-Loyalty: set()
+name: ['Malfegor']
+mana_cost: ['{2}{B}{B}{R}{R}']
+cmc: [6.0]
+colors: ['B', 'R']
+color_identity: ['B', 'R']
+type: ['Legendary Creature — Demon Dragon']
+supertypes: ['Legendary']
+subtypes: ['Demon', 'Dragon']
+rarity: ['Mythic']
+text: ['Flying\nWhen Malfegor enters the battlefield, discard your hand. Each opponent sacrifices a creature for each card discarded this way.']
+number: ['117★']
+power: ['6']
+toughness: ['6']
+loyalty: []
+set: ['PCON']
+set_name: ['Conflux Promos']

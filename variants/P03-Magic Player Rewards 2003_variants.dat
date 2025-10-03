@@ -1,10 +1,16 @@
-CMC: {2.0}
-Colors: {'Blue'}
-ColorIdentity: {'U'}
-Supertypes: set()
-Types: {'Creature'}
-Subtypes: {'Wizard', 'Human'}
-Rarity: {'Rare'}
-Power: {'2'}
-Toughness: {'1'}
-Loyalty: set()
+name: ['Voidmage Prodigy']
+mana_cost: ['{U}{U}']
+cmc: [2.0]
+colors: ['U']
+color_identity: ['U']
+type: ['Creature — Human Wizard']
+supertypes: []
+subtypes: ['Human', 'Wizard']
+rarity: ['Rare']
+text: ['{U}{U}, Sacrifice a Wizard: Counter target spell.\nMorph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)']
+number: ['1']
+power: ['2']
+toughness: ['1']
+loyalty: []
+set: ['P03']
+set_name: ['Magic Player Rewards 2003']

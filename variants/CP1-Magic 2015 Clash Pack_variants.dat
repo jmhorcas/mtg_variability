@@ -1,10 +1,16 @@
-CMC: {1.0, 5.0, 6.0}
-Colors: {'Green', 'Blue'}
-ColorIdentity: {'U', 'G'}
-Supertypes: set()
-Types: {'Enchantment', 'Instant', 'Land', 'Creature'}
-Subtypes: {'Hydra', 'Sphinx', 'Wizard', 'Human'}
-Rarity: {'Common', 'Rare'}
-Power: {'3', '7', '2'}
-Toughness: {'3', '7', '5'}
-Loyalty: set()
+name: ['Prognostic Sphinx']
+mana_cost: ['{3}{U}{U}']
+cmc: [5.0]
+colors: ['U']
+color_identity: ['U']
+type: ['Creature — Sphinx']
+supertypes: []
+subtypes: ['Sphinx']
+rarity: ['Rare']
+text: ['Flying\nDiscard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it.\nWhenever Prognostic Sphinx attacks, scry 3.']
+number: ['1']
+power: ['3']
+toughness: ['5']
+loyalty: []
+set: ['CP1']
+set_name: ['Magic 2015 Clash Pack']

@@ -1,0 +1,2 @@
+name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
+Favored Hoplite,{W},1.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Uncommon,"Heroic — Whenever you cast a spell that targets Favored Hoplite, put a +1/+1 counter on Favored Hoplite and prevent all damage that would be dealt to it this turn.",1,1,2,,EA1,Explorer Anthology 1
