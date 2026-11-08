@@ -30,7 +30,7 @@ CARD_PROPERTIES = ["name",
 import argparse
 import pathlib
 
-from flamapy.metamodels.fm_metamodel.transformations import UVLReader
+from flamapy.metamodels.fm_metamodel.transformations import UVLReader, UVLWriter
 from flamapy.metamodels.configuration_metamodel.models import Configuration
 from flamapy.metamodels.configuration_metamodel.transformations import (
     ConfigurationJSONReader, 
@@ -44,12 +44,12 @@ from flamapy.metamodels.pysat_metamodel.operations import (
 
 
 BASE_UVL_MODEL = 'uvl_models/base.uvl'
-EXPANSION_VARIANTS_CSV = 'variants/LEA-Limited Edition Alpha_variants.dat'
+EXPANSION_VARIANTS_CSV = 'variants/10E-Tenth Edition_variants.dat'
 
 
 def generate_uvl() -> None:
     fm = UVLReader(BASE_UVL_MODEL).transform()
-    print(fm)
+    #print(fm)
 
 
 
@@ -83,6 +83,7 @@ def generate_uvl() -> None:
         if constraint:
             fm.get_constraints().append(constraint)
     print(fm)
+    UVLWriter(fm, 'uvl_models/10E-Tenth Edition.uvl').transform()
 
 
 

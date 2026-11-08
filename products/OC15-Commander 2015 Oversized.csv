@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Daxos the Returned,{1}{W}{B},3.0,"['B', 'W']","['B', 'W']",Legendary Creature — Zombie Soldier,['Legendary'],"['Zombie', 'Soldier']",Mythic,"Whenever you cast an enchantment spell, you get an experience counter.\n{1}{W}{B}: Create a white and black Spirit enchantment creature token. It has ""This creature's power and toughness are each equal to the number of experience counters you have.""",43,2,2,,OC15,Commander 2015 Oversized

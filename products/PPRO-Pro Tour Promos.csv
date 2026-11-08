@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Eternal Dragon,{5}{W}{W},7.0,['W'],['W'],Creature — Dragon Spirit,,"['Dragon', 'Spirit']",Rare,"Flying\n{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate only during your upkeep.\nPlainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)",2007,5,5,,PPRO,Pro Tour Promos

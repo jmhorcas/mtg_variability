@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-"Gavi, Nest Warden",{2}{U}{R}{W},5.0,"['R', 'U', 'W']","['R', 'U', 'W']",Legendary Creature — Human Shaman,['Legendary'],"['Human', 'Shaman']",Mythic,"You may pay {0} rather than pay the cycling cost of the first card you cycle each turn.\nWhenever you draw your second card each turn, create a 2/2 red and white Dinosaur Cat creature token.",7,2,5,,OC20,Commander 2020 Oversized

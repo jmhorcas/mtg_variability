@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Tidehollow Sculler,{W}{B},2.0,"['B', 'W']","['B', 'W']",Artifact Creature — Zombie,,['Zombie'],Rare,"When Tidehollow Sculler enters the battlefield, target opponent reveals their hand and you choose a nonland card from it. Exile that card.\nWhen Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.",1,2,2,,F10,Friday Night Magic 2010

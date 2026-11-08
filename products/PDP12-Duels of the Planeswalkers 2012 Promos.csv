@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Frost Titan,{4}{U}{U},6.0,['U'],['U'],Creature — Giant,,['Giant'],Mythic,"Whenever Frost Titan becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {2}.\nWhenever Frost Titan enters the battlefield or attacks, tap target permanent. It doesn't untap during its controller's next untap step.",1,6,6,,PDP12,Duels of the Planeswalkers 2012 Promos

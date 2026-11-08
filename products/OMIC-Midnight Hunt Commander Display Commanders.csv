@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-"Leinore, Autumn Sovereign",{2}{G}{W},4.0,"['G', 'W']","['G', 'W']",Legendary Creature — Human Noble,['Legendary'],"['Human', 'Noble']",Mythic,"Coven — At the beginning of combat on your turn, put a +1/+1 counter on up to one target creature you control. Then if you control three or more creatures with different powers, draw a card.",1,0,4,,OMIC,Midnight Hunt Commander Display Commanders

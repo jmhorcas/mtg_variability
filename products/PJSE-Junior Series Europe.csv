@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Slith Firewalker,{R}{R},2.0,['R'],['R'],Creature — Slith,,['Slith'],Rare,"Haste\nWhenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it.",1E05,1,1,,PJSE,Junior Series Europe

@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Overtaker,{1}{U},2.0,['U'],['U'],Creature — Merfolk Spellshaper,,"['Merfolk', 'Spellshaper']",Rare,"{3}{U}, {T}, Discard a card: Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.",89,1,1,,PMMQ,Mercadian Masques Promos

@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Resolute Archangel,{5}{W}{W},7.0,['W'],['W'],Creature — Angel,,['Angel'],Rare,"Flying\nWhen Resolute Archangel enters the battlefield, if your life total is less than your starting life total, it becomes equal to your starting life total.",28,4,4,,PM15,Magic 2015 Promos

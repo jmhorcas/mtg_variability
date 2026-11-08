@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Phyrexian Plaguelord,{3}{B}{B},5.0,['B'],['B'],Creature — Phyrexian Carrier,,"['Phyrexian', 'Carrier']",Rare,"{T}, Sacrifice Phyrexian Plaguelord: Target creature gets -4/-4 until end of turn.\nSacrifice a creature: Target creature gets -1/-1 until end of turn.",js62,4,4,,WC99,World Championship Decks 1999

@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Primordial Hydra,{X}{G}{G},2.0,['G'],['G'],Creature — Hydra,,['Hydra'],Mythic,"Primordial Hydra enters the battlefield with X +1/+1 counters on it.\nAt the beginning of your upkeep, double the number of +1/+1 counters on Primordial Hydra.\nPrimordial Hydra has trample as long as it has ten or more +1/+1 counters on it.",1,0,0,,PDP13,Duels of the Planeswalkers 2013 Promos

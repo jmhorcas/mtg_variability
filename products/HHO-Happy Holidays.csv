@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Fruitcake Elemental,{1}{G}{G},3.0,['G'],['G'],Creature — Elemental,,['Elemental'],Rare,"Fruitcake Elemental is indestructible.\nAt the end of your turn, Fruitcake Elemental deals 7 damage to you.\n{3}: Target player gains control of Fruitcake Elemental.",6,7,7,,HHO,Happy Holidays

@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Blight Herder,{5},5.0,,,Creature — Eldrazi Processor,,"['Eldrazi', 'Processor']",Rare,"When you cast this spell, you may put two cards your opponents own from exile into their owners' graveyards. If you do, create three 1/1 colorless Eldrazi Scion creature tokens. They have ""Sacrifice this creature: Add {C}.""",2,4,5,,PBFZ,Battle for Zendikar Promos

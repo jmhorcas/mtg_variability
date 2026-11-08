@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-"Anafenza, Kin-Tree Spirit",{W}{W},2.0,['W'],['W'],Legendary Creature — Spirit Soldier,['Legendary'],"['Spirit', 'Soldier']",Rare,"Whenever another nontoken creature enters the battlefield under your control, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)",2s,2,2,,PDTK,Dragons of Tarkir Promos

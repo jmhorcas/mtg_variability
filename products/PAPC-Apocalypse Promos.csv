@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Fungal Shambler,{4}{B}{G}{U},7.0,"['B', 'G', 'U']","['B', 'G', 'U']",Creature — Fungus Beast,,"['Fungus', 'Beast']",Rare,"Trample\nWhenever Fungal Shambler deals damage to an opponent, you draw a card and that opponent discards a card.",100,6,4,,PAPC,Apocalypse Promos

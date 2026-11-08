@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Hedge Troll,{2}{G},3.0,['G'],"['G', 'W']",Creature — Troll Cleric,,"['Troll', 'Cleric']",Rare,Hedge Troll gets +1/+1 as long as you control a Plains.\n{W}: Regenerate Hedge Troll.,151★,2,2,,PPLC,Planar Chaos Promos

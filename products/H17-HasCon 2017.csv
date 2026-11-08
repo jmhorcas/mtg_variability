@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-"Grimlock, Dinobot Leader // Grimlock, Ferocious King",{1}{R}{G}{W},4.0,"['G', 'R', 'W']","['G', 'R', 'W']",Legendary Artifact Creature — Autobot,['Legendary'],['Autobot'],Mythic,"Dinosaurs, Vehicles, and other Transformers® creatures you control get +2/+0.\n{2}, Convert a Transformers toy you own to its other mode: Grimlock, Dinobot Leader becomes Grimlock, Ferocious King.",1,4,4,,H17,HasCon 2017

@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Honored Hierarch,{G},1.0,['G'],['G'],Creature — Human Druid,,"['Human', 'Druid']",Rare,"Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nAs long as Honored Hierarch is renowned, it has vigilance and ""{T}: Add one mana of any color.""",1,1,1,,CP3,Magic Origins Clash Pack

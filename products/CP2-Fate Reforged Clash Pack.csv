@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Necropolis Fiend,{7}{B}{B},9.0,['B'],['B'],Creature — Demon,,['Demon'],Rare,"Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nFlying\n{X}, {T}, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn.",1,4,5,,CP2,Fate Reforged Clash Pack

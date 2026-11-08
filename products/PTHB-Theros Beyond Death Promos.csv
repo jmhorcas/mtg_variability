@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Archon of Sun's Grace,{2}{W}{W},4.0,['W'],['W'],Creature — Archon,,['Archon'],Rare,"Flying, lifelink\nPegasus creatures you control have lifelink.\nConstellation — Whenever an enchantment enters the battlefield under your control, create a 2/2 white Pegasus creature token with flying.",3p,3,4,,PTHB,Theros Beyond Death Promos

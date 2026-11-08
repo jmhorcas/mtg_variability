@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Herald of Anafenza,{W},1.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Rare,"Outlast {2}{W} ({2}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nWhenever you activate Herald of Anafenza's outlast ability, create a 1/1 white Warrior creature token.",12s,1,2,,PKTK,Khans of Tarkir Promos

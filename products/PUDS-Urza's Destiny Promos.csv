@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-False Prophet,{2}{W}{W},4.0,['W'],['W'],Creature — Human Cleric,,"['Human', 'Cleric']",Rare,"When False Prophet dies, exile all creatures.",6,2,2,,PUDS,Urza's Destiny Promos

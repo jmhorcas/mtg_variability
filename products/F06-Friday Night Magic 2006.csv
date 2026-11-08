@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Elves of Deep Shadow,{G},1.0,['G'],"['B', 'G']",Creature — Elf Druid,,"['Elf', 'Druid']",Rare,{T}: Add {B}. Elves of Deep Shadow deals 1 damage to you.,1,1,1,,F06,Friday Night Magic 2006

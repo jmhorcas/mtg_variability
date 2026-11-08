@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Psychatog,{1}{U}{B},3.0,"['B', 'U']","['B', 'U']",Creature — Atog,,['Atog'],Rare,Discard a card: Psychatog gets +1/+1 until end of turn.\nExile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.,1,1,2,,P05,Magic Player Rewards 2005

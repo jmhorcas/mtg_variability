@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-"Karador, Ghost Chieftain",{5}{W}{B}{G},8.0,"['B', 'G', 'W']","['B', 'G', 'W']",Legendary Creature — Centaur Spirit,['Legendary'],"['Centaur', 'Spirit']",Rare,"This spell costs {1} less to cast for each creature card in your graveyard.\nOnce during each of your turns, you may cast a creature spell from your graveyard.",1,3,4,,J14,Judge Gift Cards 2014

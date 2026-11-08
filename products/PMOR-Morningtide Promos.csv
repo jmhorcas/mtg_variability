@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Earwig Squad,{3}{B}{B},5.0,['B'],['B'],Creature — Goblin Rogue,,"['Goblin', 'Rogue']",Rare,"Prowl {2}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)\nWhen Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles.",60★,5,3,,PMOR,Morningtide Promos

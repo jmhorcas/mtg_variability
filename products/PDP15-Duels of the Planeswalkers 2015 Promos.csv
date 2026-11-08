@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Soul of Ravnica,{4}{U}{U},6.0,['U'],['U'],Creature — Avatar,,['Avatar'],Mythic,"Flying\n{5}{U}{U}: Draw a card for each color among permanents you control.\n{5}{U}{U}, Exile Soul of Ravnica from your graveyard: Draw a card for each color among permanents you control.",1,6,6,,PDP15,Duels of the Planeswalkers 2015 Promos

@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Duress,{B},1.0,['B'],['B'],Sorcery,,,Rare,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",2,,,,PAL00,Arena League 2000

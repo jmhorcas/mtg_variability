@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Electrolyze,{1}{U}{R},3.0,"['R', 'U']","['R', 'U']",Instant,,,Rare,Electrolyze deals 2 damage divided as you choose among one or two targets.\nDraw a card.,1,,,,PCMP,Champs and States

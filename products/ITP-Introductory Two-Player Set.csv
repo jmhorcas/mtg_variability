@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Alabaster Potion,{X}{W}{W},2.0,['W'],['W'],Instant,,,Common,Choose one —\n• Target player gains X life.\n• Prevent the next X damage that would be dealt to any target this turn.,1,,,,ITP,Introductory Two-Player Set

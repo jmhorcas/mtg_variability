@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Dimir Guildmage,{U/B}{U/B},2.0,"['B', 'U']","['B', 'U']",Creature — Human Wizard,,"['Human', 'Wizard']",Rare,({U/B} can be paid with either {U} or {B}.)\n{3}{U}: Target player draws a card. Activate only as a sorcery.\n{3}{B}: Target player discards a card. Activate only as a sorcery.,245★,2,2,,PRAV,Ravnica: City of Guilds Promos

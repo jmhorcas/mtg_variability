@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Goblin Mutant,{2}{R}{R},4.0,['R'],['R'],Creature — Goblin Mutant,,"['Goblin', 'Mutant']",Rare,Trample\nGoblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.\nGoblin Mutant can't block creatures with power 3 or greater.,1,5,3,,PHJ,Hobby Japan Promos

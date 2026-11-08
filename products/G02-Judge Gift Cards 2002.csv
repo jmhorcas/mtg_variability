@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Hammer of Bogardan,{1}{R}{R},3.0,['R'],['R'],Sorcery,,,Rare,Hammer of Bogardan deals 3 damage to any target.\n{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate only during your upkeep.,1,,,,G02,Judge Gift Cards 2002

@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Arden Angel,{4}{W}{W},6.0,['W'],['W'],Creature — Angel,,['Angel'],Rare,"Flying\nAt the beginning of your upkeep, if Arden Angel is in your graveyard, roll a four-sided die. If the result is 1, return Arden Angel from your graveyard to the battlefield.",1,4,4,,PSDG,Sega Dreamcast Cards

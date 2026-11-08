@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-"Adeline, Resplendent Cathar",{1}{W}{W},3.0,['W'],['W'],Legendary Creature — Human Knight,['Legendary'],"['Human', 'Knight']",Rare,"Vigilance\nAdeline, Resplendent Cathar's power is equal to the number of creatures you control.\nWhenever you attack, for each opponent, create a 1/1 white Human creature token that's tapped and attacking that player or a planeswalker they control.",1p,*,4,,PMID,Innistrad: Midnight Hunt Promos

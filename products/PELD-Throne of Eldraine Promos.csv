@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Acclaimed Contender,{2}{W},3.0,['W'],['W'],Creature — Human Knight,,"['Human', 'Knight']",Rare,"When Acclaimed Contender enters the battlefield, if you control another Knight, look at the top five cards of your library. You may reveal a Knight, Aura, Equipment, or legendary artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",1p,3,3,,PELD,Throne of Eldraine Promos

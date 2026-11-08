@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-"Regna, the Redeemer",{5}{W},6.0,['W'],['W'],Legendary Creature — Angel,['Legendary'],['Angel'],Rare,"Partner with Krav, the Unredeemed (When this creature enters the battlefield, target player may put Krav into their hand from their library, then shuffle.)\nFlying\nAt the beginning of each end step, if your team gained life this turn, create two 1/1 white Warrior creature tokens.",3s,4,4,,PBBD,Battlebond Promos

@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Spiritmonger,{3}{B}{G},5.0,"['B', 'G']","['B', 'G']",Creature — Beast,,['Beast'],Rare,"Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger.\n{B}: Regenerate Spiritmonger.\n{G}: Spiritmonger becomes the color of your choice until end of turn.",2007,6,6,,PGPX,Grand Prix Promos

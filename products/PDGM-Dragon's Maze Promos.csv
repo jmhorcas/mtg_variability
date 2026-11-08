@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-"Melek, Izzet Paragon",{4}{U}{R},6.0,"['R', 'U']","['R', 'U']",Legendary Creature — Weird Wizard,['Legendary'],"['Weird', 'Wizard']",Rare,"Play with the top card of your library revealed.\nYou may cast instant and sorcery spells from the top of your library.\nWhenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy.",84,2,4,,PDGM,Dragon's Maze Promos

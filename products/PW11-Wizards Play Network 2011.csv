@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Curse of the Bloody Tome,{2}{U},3.0,['U'],['U'],Enchantment — Aura Curse,,"['Aura', 'Curse']",Rare,"Enchant player\nAt the beginning of enchanted player's upkeep, that player mills two cards.",80,,,,PW11,Wizards Play Network 2011

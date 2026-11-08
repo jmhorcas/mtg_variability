@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Esper Sentinel,{W},1.0,['W'],['W'],Artifact Creature — Human Soldier,,"['Human', 'Soldier']",Rare,"Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is Esper Sentinel's power.",12s,1,1,,PMH2,Modern Horizons 2 Promos

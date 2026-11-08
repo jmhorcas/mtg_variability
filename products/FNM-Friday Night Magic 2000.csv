@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-River Boa,{1}{G},2.0,['G'],['G'],Creature — Snake,,['Snake'],Rare,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\n{G}: Regenerate River Boa.,1,2,1,,FNM,Friday Night Magic 2000

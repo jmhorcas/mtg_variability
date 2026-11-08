@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Angel of Destiny,{3}{W}{W},5.0,['W'],['W'],Creature — Angel Cleric,,"['Angel', 'Cleric']",Mythic,"Flying, double strike\nWhenever a creature you control deals combat damage to a player, you and that player each gain that much life.\nAt the beginning of your end step, if you have at least 15 life more than your starting life total, each player Angel of Destiny attacked this turn loses the game.",2p,2,6,,PZNR,Zendikar Rising Promos

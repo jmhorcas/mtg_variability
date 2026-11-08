@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-"Liliana, Heretical Healer // Liliana, Defiant Necromancer",{1}{B}{B},3.0,['B'],['B'],Legendary Creature — Human Cleric,['Legendary'],"['Human', 'Cleric']",Mythic,"Lifelink\nWhenever another nontoken creature you control dies, exile Liliana, Heretical Healer, then return her to the battlefield transformed under her owner's control. If you do, create a 2/2 black Zombie creature token.",1,2,3,,CC2,Commander Collection: Black

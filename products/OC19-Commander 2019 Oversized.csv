@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Anje Falkenrath,{1}{B}{R},3.0,"['B', 'R']","['B', 'R']",Legendary Creature — Vampire,['Legendary'],['Vampire'],Mythic,"Haste\n{T}, Discard a card: Draw a card.\nWhenever you discard a card, if it has madness, untap Anje Falkenrath.",37,1,3,,OC19,Commander 2019 Oversized

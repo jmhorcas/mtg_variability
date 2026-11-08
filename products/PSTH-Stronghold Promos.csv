@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Revenant,{4}{B},5.0,['B'],['B'],Creature — Spirit,,['Spirit'],Rare,Flying\nRevenant's power and toughness are each equal to the number of creature cards in your graveyard.,68,*,*,,PSTH,Stronghold Promos

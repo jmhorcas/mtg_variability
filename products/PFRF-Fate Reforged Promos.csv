@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Daghatar the Adamant,{3}{W},4.0,['W'],"['B', 'G', 'W']",Legendary Creature — Human Warrior,['Legendary'],"['Human', 'Warrior']",Rare,Vigilance\nDaghatar the Adamant enters the battlefield with four +1/+1 counters on it.\n{1}{B/G}{B/G}: Move a +1/+1 counter from target creature onto a second target creature.,9s,0,0,,PFRF,Fate Reforged Promos

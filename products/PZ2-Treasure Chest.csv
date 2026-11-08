@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Throne Warden,{1}{W},2.0,['W'],['W'],Creature — Human Soldier,,"['Human', 'Soldier']",Common,"At the beginning of your end step, if you're the monarch, put a +1/+1 counter on Throne Warden.",1,2,2,,PZ2,Treasure Chest

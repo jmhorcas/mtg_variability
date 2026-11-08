@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Marrow-Gnawer,{3}{B}{B},5.0,['B'],['B'],Legendary Creature — Rat Rogue,['Legendary'],"['Rat', 'Rogue']",Rare,"All Rats have fear.\n{T}, Sacrifice a Rat: Create X 1/1 black Rat creature tokens, where X is the number of Rats you control.",1,2,3,,PHUK,Hachette UK

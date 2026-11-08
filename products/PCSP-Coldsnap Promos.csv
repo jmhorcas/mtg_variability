@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Allosaurus Rider,{5}{G}{G},7.0,['G'],['G'],Creature — Elf Warrior,,"['Elf', 'Warrior']",Rare,You may exile two green cards from your hand rather than pay this spell's mana cost.\nAllosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.,101★,1+*,1+*,,PCSP,Coldsnap Promos

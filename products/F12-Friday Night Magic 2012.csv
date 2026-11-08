@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Glistener Elf,{G},1.0,['G'],['G'],Creature — Phyrexian Elf Warrior,,"['Phyrexian', 'Elf', 'Warrior']",Rare,Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),1,1,1,,F12,Friday Night Magic 2012

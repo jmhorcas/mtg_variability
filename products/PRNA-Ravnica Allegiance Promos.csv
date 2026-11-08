@@ -1,2 +1,0 @@
-name,mana_cost,cmc,colors,color_identity,type,supertypes,subtypes,rarity,text,number,power,toughness,loyalty,set,set_name
-Hero of Precinct One,{1}{W},2.0,['W'],['W'],Creature — Human Warrior,,"['Human', 'Warrior']",Rare,"Whenever you cast a multicolored spell, create a 1/1 white Human creature token.",11p,2,2,,PRNA,Ravnica Allegiance Promos
