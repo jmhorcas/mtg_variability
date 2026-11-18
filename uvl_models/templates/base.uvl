@@ -1,0 +1,46 @@
+features
+    "MTG Card"
+        mandatory
+            String Name
+        optional
+            "Mana Cost"
+                or
+                    Integer "Colorless Mana" {constraint "Colorless Mana" > 0}
+                    Integer "White Mana" {constraint "White Mana" > 0}
+                    Integer "Blue Mana" {constraint "Blue Mana" > 0}
+                    Integer "Black Mana" {constraint "Black Mana" > 0}
+                    Integer "Red Mana" {constraint "Red Mana" > 0}
+                    Integer "Green Mana" {constraint "Green Mana" > 0}
+            Integer "Mana Value" {constraint "White Mana" > 0}
+            "Type"
+            Supertype
+            Subtype
+                optional 
+                    "Creature Types"
+            "Color Indicator" {doc 'An object with a color indicator is each color denoted by that color indicator.', rule '204', constraint "NonLandCard" & !"Mana Cost" => "Color Indicator"}
+                or
+                    "Color Indicator White" {constraint "Color Indicator White" => "Color Identity White"}
+                    "Color Indicator Blue" {constraint "Color Indicator Blue" => "Color Identity Blue"}
+                    "Color Indicator Black" {constraint "Color Indicator Black" => "Color Identity Black"}
+                    "Color Indicator Red" {constraint "Color Indicator Red" => "Color Identity Red"}
+                    "Color Indicator Green" {constraint "Color Indicator Green" => "Color Identity Green"}
+            "Color Identity" {doc 'A set of colors that determines what cards may be included in a deck for the Commander casual variant.', rule '903.4'}
+                or
+                    "Color Identity White"
+                    "Color Identity Blue"
+                    "Color Identity Black"
+                    "Color Identity Red"
+                    "Color Identity Green"
+            PowerToughness {abstract}
+                mandatory
+                    Power {gameplay, doc 'Amount of damage a creature deals in combat.'}
+                    Toughness {gameplay, doc 'Amount of damage needed to destroy a creature.'}
+            Rarity {gameplay false, doc 'Rarity of the card within its set.'}
+constraints
+    "White Mana" > 0 => "Color Identity White"
+    "Blue Mana" > 0 => "Color Identity Blue"
+    "Black Mana" > 0 => "Color Identity Black"
+    "Red Mana" > 0 => "Color Identity Red"
+    "Green Mana" > 0 => "Color Identity Green"
+    ("White Mana" == 0 & "Blue Mana" == 0 & "Black Mana" == 0 & "Red Mana" == 0 & "Green Mana" == 0) => Colorless
+    "Mana Value" == ("Colorless Mana" + "White Mana" + "Blue Mana" + "Black Mana" + "Red Mana" + "Green Mana")

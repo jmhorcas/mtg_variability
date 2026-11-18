@@ -1,0 +1,73 @@
+features
+    "MTG Card"
+        mandatory
+            String Name
+            "Mana cost"
+                or
+                    Integer "Colorless mana" {default 0}
+                    Integer "White mana" {default 0}
+                    Integer "Blue mana" {default 0}
+                    Integer "Black mana" {default 0}
+                    Integer "Red mana" {default 0}
+                    Integer "Green mana" {default 0}
+            Integer "Mana Value" {default 0}
+            Rarity {"@variable"}
+            "Type" {"@variable"}
+        optional
+            "Color indicator"
+                or
+                    White
+                    Blue
+                    Black
+                    Red
+                    Green
+            Supertype {"@variable"}
+            Subtype {"@variable"}
+                optional 
+                    "Creature types" {"@variable"}
+            PowerToughness {abstract}
+                mandatory
+                    Power {abstract, doc 'Amount of damage a creature deals in combat.'}
+                        alternative
+                            Integer "Power value"
+                                optional
+                                    "Power modifiers" {abstract}
+                                        alternative
+                                            "Power sign" {abstract}
+                                                "Power modifier Plus" {value '+'}
+                                                "Power modifier Minus" {value '-'}
+                                            "Power Complex Star" {abstract}
+                                                alternative
+                                                    "Power Complex Star Plus" {value '+*'}
+                                                    "Power Complex Star Minus" {value '-*'}
+                                            "Power half" {value '.5'}
+                            "Power Infinity" {value '∞', rule '702.186'}
+                            "Power Unknown" {value '?'}
+                            "Power Star" {value '*'}
+                            "Power Complex Star" {value '*²'}
+                    Toughness {abstract, doc 'Amount of damage needed to destroy a creature.'}
+                        alternative
+                            Integer "Toughness value"
+                                optional
+                                    "Toughness modifiers" {abstract}
+                                        alternative
+                                            "Toughness sign" {abstract}
+                                                "Toughness modifier Plus" {value '+'}
+                                                "Toughness modifier Minus" {value '-'}
+                                            "Toughness Complex Star" {abstract}
+                                                alternative
+                                                    "Toughness Complex Star Plus" {value '+*'}
+                                                    "Toughness Complex Star Minus" {value '-*'}
+                                            "Toughness half" {value '.5'}
+                            "Toughness Unknown" {value '?'}
+                            "Toughness Star" {value '*'}
+                            "Toughness Complex Star" {value '*²'}
+                            "Toughness Star Plus 1" {value '*+1'}
+constraints
+    "White mana" > 0 => White
+    "Blue mana" > 0 => Blue
+    "Black mana" > 0 => Black
+    "Red mana" > 0 => Red
+    "Green mana" > 0 => Green
+    ("White mana" == 0 & "Blue mana" == 0 & "Black mana" == 0 & "Red mana" == 0 & "Green mana" == 0) => Colorless
+    "Mana Value" == ("Colorless mana" + "White mana" + "Blue mana" + "Black mana" + "Red mana" + "Green mana")

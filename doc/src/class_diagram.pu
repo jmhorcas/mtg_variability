@@ -1,0 +1,159 @@
+@startuml mtg_variability
+skinparam classAttributeIconSize 0
+skinparam backgroundColor #FEFEFE
+skinparam packageStyle rectangle
+
+hide circle
+hide interface attribute
+
+' Class styling
+skinparam class {
+    BackgroundColor #FFFFFF
+    BorderColor #2B3E6A
+    FontColor #000000
+}
+
+' Note styling
+skinparam note {
+    BackgroundColor #FDE2B8
+    BorderColor #2B3E6A
+    FontColor #000000
+    FontName monospace
+}
+
+' Arrow styling
+skinparam arrow {
+    Color #2B3E6A
+}
+
+class Main #HoneyDew {
+    {static} + main() : int
+    {static} + configure_logging() : void
+}
+
+
+package "Extraction module" {
+    class DownloadPipeline #Thistle {
+        - data_dir: Path
+        + run() : list[str]
+        - _fetch_unique_cards(set_code: str) : list[Card]
+        - _write_csv(path: Path, header: Sequence, rows: Iterable) : void
+    }
+
+    class VariantExtractionPipeline #Thistle {
+        - products_dir: Path
+        - variants_dir: Path
+        - all_variants_file: Path
+        + run() : void
+        - _read_cards_from_csv(csv_path: Path) : list[dict]
+    }
+
+    class MTGAPIClient {
+        {static} + get_all_expansions() : list[Set]
+        {static} + fetch_cards_from_expansion(set_code: str, retries: int) : list[Card]
+    }
+
+    class Transformers {
+        {static} + is_base_number(number: str) : bool
+        {static} + to_hashable(value: Any) : Any
+        {static} + clean_text(text: Any) : Any
+        {static} + extract_product_features_from_card(card: Card) : dict
+        {static} + parse_csv_row(row: dict) : dict
+        {static} + extract_variants_from_cards(cards: Collection, properties: Sequence) : dict
+    }
+
+    DownloadPipeline ..> MTGAPIClient : uses
+    DownloadPipeline ..> Transformers : uses
+    VariantExtractionPipeline ..> Transformers : uses
+}
+
+package "UVL Generator module" {
+    class UVLGenerationPipeline #Thistle {
+        - data_dir: Path
+        - output_dir: Path
+        - template_path: Path
+        + run() : void
+        - _load_variants_dat(path: Path) : dict
+    }
+
+    class VariationManager {
+        - base_model: FeatureModel
+        - strategies: dict[str, BaseVariationStrategy]
+        + register_strategy(feature_name: str, strategy: BaseVariationStrategy) : void
+        + apply_variations(expansion_variants: dict[str, list]) : FeatureModel
+    }
+
+    interface BaseVariationStrategy <<interface>>{
+        + inject(model: FeatureModel, parent_feature_name: str, variants: list) : void
+    }
+
+    class CombatStatInjectionStrategy {
+        - stat_name: str
+        + __init__(stat_name: str)
+        + inject(model: FeatureModel, parent_feature_name: str, variants: list) : void
+    }
+
+    class AlternativeListInjectionStrategy {
+        + inject(model: FeatureModel, parent_feature_name: str, variants: list) : void
+    }
+
+    class UVLUtils {
+        {static} + generate_feature_variations(data: list, parse_func: Callable) : dict
+        {static} + apply_constraints(fm: FeatureModel, feature_variations: dict) : void
+        {static} + create_range_constraint(identifier: str, values: Iterable, constraint_name: str) : Constraint
+        {static} + add_features_group(fm: FeatureModel, parent_name: str, children_names: list, card_min: int, card_max: int) : void
+    }
+
+    BaseVariationStrategy <|.. CombatStatInjectionStrategy
+    BaseVariationStrategy <|.. AlternativeListInjectionStrategy
+    VariationManager o--> BaseVariationStrategy : manages strategies
+    UVLGenerationPipeline --> VariationManager : uses
+    CombatStatInjectionStrategy ..> UVLUtils : uses
+    AlternativeListInjectionStrategy ..> UVLUtils : uses
+}
+
+package "FM Metamodel (flamapy)" #DarkGray {
+    class FeatureModel {
+        + get_feature_by_name(name: str) : Feature
+        + get_constraints() : list[Constraint]
+    }
+
+    class Feature {
+        + name: str
+        + is_abstract: bool
+        + constraints_attributes: list
+        + add_relation(relation: Relation) : void
+    }
+
+    class Relation {
+        + card_min: int
+        + card_max: int
+    }
+
+    class Constraint {
+        + name: str
+    }
+
+    class AST {
+        + root: Node
+    }
+
+    FeatureModel *-- "1..*"Feature : features
+    Feature *-- "0..*" Relation : has
+    Relation --> "1..*" Feature : children
+    Relation --> "1" Feature : parent
+    FeatureModel *-- "0..*"Constraint : constraints
+    Constraint *-- AST : ast
+}
+
+Main --> DownloadPipeline : executes (Phase 1)
+Main --> VariantExtractionPipeline : executes (Phase 2)
+Main --> UVLGenerationPipeline : executes (Phase 3)
+
+VariationManager --> FeatureModel : modifies/transforms
+UVLGenerationPipeline --> FeatureModel : reads template / writes UVL
+UVLUtils --> FeatureModel : updates
+UVLUtils --> Constraint : creates
+UVLUtils --> AST : builds
+
+@enduml
