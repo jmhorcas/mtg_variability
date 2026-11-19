@@ -34,7 +34,8 @@ class VariantExtractionPipeline:
 
         global_accumulator: dict[str, set[Any]] = {prop: set() for prop in CARD_PROPERTIES}
 
-        for csv_path in csv_files:
+        for i, csv_path in enumerate(csv_files):
+            logger.info(f"Processing {i + 1}/{len(csv_files)} ({(i+1)/len(csv_files)*100:.0f}%): {csv_path.name}")
             variant_path = self.variants_dir / f"{csv_path.stem}_variants.dat"
             cards = self._read_cards_from_csv(csv_path)
             variants = extract_variants_from_cards(cards, ALL_CARD_PROPERTIES)

@@ -8,8 +8,12 @@ from flamapy.metamodels.fm_metamodel.transformations.uvl_reader import UVLReader
 from flamapy.metamodels.fm_metamodel.transformations.uvl_writer import UVLWriter
 
 from .variation_manager import VariationManager
-from .strategies import AlternativeListInjectionStrategy, CreatureStatInjectionStrategy
-
+from .strategies import (
+    AlternativeListInjectionStrategy, 
+    OrListInjectionStrategy,
+    OptionalListInjectionStrategy,
+    CreatureStatInjectionStrategy
+)
 
 logger = logging.getLogger("uvl_generation")
 
@@ -62,16 +66,22 @@ class UVLGenerationPipeline:
             # 1. Load a fresh copy of the base template for each expansion independently
             base_model = UVLReader(str(self.template_path)).transform()
 
-            # 2. Configure the variation manager (Registry Pattern) and register strategies
+            # 2. Read the specific variants for this expansion from its local .dat file
+            expansion_variants = self._load_variants_dat(dat_path)
+
+            # 3. Configure the variation manager (Registry Pattern) and register strategies
             manager = VariationManager(base_model)
             manager.register_strategy("Rarity", AlternativeListInjectionStrategy(), data_key="rarity")
-            #manager.register_strategy("Type", AlternativeListInjectionStrategy())
-            #manager.register_strategy("Subtype", AlternativeListInjectionStrategy())
+            manager.register_strategy("Supertypes", OrListInjectionStrategy(), data_key="supertypes")
+            manager.register_strategy("Type", OrListInjectionStrategy(), data_key="types")
+            for card_type in expansion_variants.get("types", []):
+                card_subtypes_key = f"{card_type} Subtypes"
+                if card_subtypes_key in expansion_variants and expansion_variants[card_subtypes_key]:
+                    expansion_variants.setdefault(f"{card_type}", [card_subtypes_key])
+                    manager.register_strategy(card_type, OptionalListInjectionStrategy(), data_key=f"{card_type}")
+                    manager.register_strategy(card_subtypes_key, OrListInjectionStrategy(), data_key=card_subtypes_key)
             manager.register_strategy("Power", CreatureStatInjectionStrategy("Power"), data_key="power")
             manager.register_strategy("Toughness", CreatureStatInjectionStrategy("Toughness"), data_key="toughness")
-
-            # 3. Read the specific variants for this expansion from its local .dat file
-            expansion_variants = self._load_variants_dat(dat_path)
             
             # 4. Apply the polymorphic injection to the Flamapy metamodel
             final_model = manager.apply_variations(expansion_variants)
@@ -80,7 +90,9 @@ class UVLGenerationPipeline:
             output_filename = dat_path.name.replace("_variants.dat", ".uvl")
             output_uvl_path = self.output_dir / output_filename
             
-            UVLWriter( str(output_uvl_path), final_model).transform()
+            uvl_writer = UVLWriter(str(output_uvl_path), final_model)
+            uvl_writer.set_compact_relations(True)
+            uvl_writer.transform()
             logger.info("✨ [%d/%d] Generated: %s", i, total, output_uvl_path.name)
 
             raise Exception("Test Exception")  # For testing purposes, remove this line in production

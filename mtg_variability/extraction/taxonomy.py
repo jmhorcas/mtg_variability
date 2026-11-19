@@ -90,3 +90,8 @@ KNOWN_DUNGEON_SUBTYPES = {
 KNOWN_BATTLE_SUBTYPES = {
     "Siege"
 }
+
+# Subtipos oficiales de criatura que constan de dos palabras (Regla 205.3m)
+KNOWN_MULTIWORD_CREATURE_SUBTYPES = {
+    "Time Lord"
+}

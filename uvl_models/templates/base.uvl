@@ -13,10 +13,7 @@ features
                     Integer "Green Mana" {constraint "Green Mana" > 0}
             Integer "Mana Value" {constraint "White Mana" > 0}
             "Type"
-            Supertype
-            Subtype
-                optional 
-                    "Creature Types"
+            Supertypes
             "Color Indicator" {doc 'An object with a color indicator is each color denoted by that color indicator.', rule '204', constraint "NonLandCard" & !"Mana Cost" => "Color Indicator"}
                 or
                     "Color Indicator White" {constraint "Color Indicator White" => "Color Identity White"}
@@ -42,5 +39,4 @@ constraints
     "Black Mana" > 0 => "Color Identity Black"
     "Red Mana" > 0 => "Color Identity Red"
     "Green Mana" > 0 => "Color Identity Green"
-    ("White Mana" == 0 & "Blue Mana" == 0 & "Black Mana" == 0 & "Red Mana" == 0 & "Green Mana" == 0) => Colorless
     "Mana Value" == ("Colorless Mana" + "White Mana" + "Blue Mana" + "Black Mana" + "Red Mana" + "Green Mana")

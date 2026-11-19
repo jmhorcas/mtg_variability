@@ -11,11 +11,98 @@ features
 					Integer "Black Mana" {constraint "Black Mana" > 0}
 					Integer "Red Mana" {constraint "Red Mana" > 0}
 					Integer "Green Mana" {constraint "Green Mana" > 0}
-		optional
 			Integer "Mana Value" {constraint "White Mana" > 0}
-		optional
-			"Type" {"@variable" true}
-		optional
+			"Type" 
+				or
+					Artifact 
+					Creature 
+						optional
+							"Creature Subtypes" 
+								or
+									Angel 
+									Archer 
+									Assassin 
+									Avatar 
+									Barbarian 
+									Basilisk 
+									Bear 
+									Beast 
+									Bird 
+									Cat 
+									Cleric 
+									Cockatrice 
+									Demon 
+									Dinosaur 
+									Djinn 
+									Dragon 
+									Druid 
+									Dryad 
+									Dwarf 
+									Elemental 
+									Elephant 
+									Elf 
+									Faerie 
+									Fungus 
+									Gargoyle 
+									Giant 
+									Goblin 
+									Golem 
+									Horse 
+									Human 
+									Hydra 
+									Illusion 
+									Imp 
+									Incarnation 
+									Juggernaut 
+									Knight 
+									Merfolk 
+									Minotaur 
+									Nightmare 
+									Nymph 
+									Ogre 
+									Orc 
+									Pegasus 
+									Pirate 
+									Plant 
+									Rat 
+									Serpent 
+									Shade 
+									Shapeshifter 
+									Skeleton 
+									Soldier 
+									Specter 
+									Spider 
+									Spirit 
+									Treefolk 
+									Troll 
+									Unicorn 
+									Vampire 
+									Wall 
+									Warrior 
+									Wizard 
+									Wolf 
+									Wraith 
+									Wurm 
+									Zombie 
+					Enchantment 
+						optional
+							"Enchantment Subtypes" 
+								mandatory
+									Aura 
+					Instant 
+					Land 
+						optional
+							"Land Subtypes" 
+								or
+									Forest 
+									Island 
+									Mountain 
+									Plains 
+									Swamp 
+					Sorcery 
+			Supertypes 
+				mandatory
+					Basic 
 			"Color Indicator" {doc 'An object with a color indicator is each color denoted by that color indicator.', rule '204', constraint (NonLandCard & ! "Mana Cost") => "Color Indicator"}
 				or
 					"Color Indicator White" {constraint "Color Indicator White" => "Color Identity White"}
@@ -23,7 +110,6 @@ features
 					"Color Indicator Black" {constraint "Color Indicator Black" => "Color Identity Black"}
 					"Color Indicator Red" {constraint "Color Indicator Red" => "Color Identity Red"}
 					"Color Indicator Green" {constraint "Color Indicator Green" => "Color Identity Green"}
-		optional
 			"Color Identity" {doc 'A set of colors that determines what cards may be included in a deck for the Commander casual variant.', rule '903.4'}
 				or
 					"Color Identity White" 
@@ -31,25 +117,16 @@ features
 					"Color Identity Black" 
 					"Color Identity Red" 
 					"Color Identity Green" 
-		optional
-			Supertype {"@variable" true}
-		optional
-			Subtype {"@variable" true}
-				optional
-					"Creature Types" {"@variable" true}
-		optional
 			PowerToughness {abstract}
 				mandatory
 					Power {gameplay true, doc 'Amount of damage a creature deals in combat.'}
 						alternative
 							Integer "Power value" {constraint ("Power value" >= 0) & ("Power value" <= 8)}
 							"Power Star" {value '*'}
-				mandatory
 					Toughness {gameplay true, doc 'Amount of damage needed to destroy a creature.'}
 						alternative
 							Integer "Toughness value" {constraint ("Toughness value" >= 0) & ("Toughness value" <= 8)}
 							"Toughness Star" {value '*'}
-		optional
 			Rarity {gameplay false, doc 'Rarity of the card within its set.'}
 				alternative
 					Common 
@@ -61,5 +138,4 @@ constraints
 	("Black Mana" > 0) => "Color Identity Black"
 	("Red Mana" > 0) => "Color Identity Red"
 	("Green Mana" > 0) => "Color Identity Green"
-	((((("White Mana" == 0) & ("Blue Mana" == 0)) & ("Black Mana" == 0)) & ("Red Mana" == 0)) & ("Green Mana" == 0)) => Colorless
 	"Mana Value" == ((((("Colorless Mana" + "White Mana") + "Blue Mana") + "Black Mana") + "Red Mana") + "Green Mana")

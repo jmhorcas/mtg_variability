@@ -11,7 +11,8 @@ from .taxonomy import (
     KNOWN_ARTIFACT_SUBTYPES,
     KNOWN_ENCHANTMENT_SUBTYPES,
     KNOWN_LAND_SUBTYPES,
-    KNOWN_SPELL_SUBTYPES
+    KNOWN_SPELL_SUBTYPES,
+    KNOWN_MULTIWORD_CREATURE_SUBTYPES
 )
 
 
@@ -44,11 +45,12 @@ LIST_FIELDS = {"colors", "color_identity", "supertypes", "subtypes", "names", "v
 
 # Diccionario de mapeo estático para subtipos cerrados (evita los if-elif masivos)
 SUBTYPE_TAXONOMY_MAP = {
-    "artifact": KNOWN_ARTIFACT_SUBTYPES,
-    "enchantment": KNOWN_ENCHANTMENT_SUBTYPES,
-    "land": KNOWN_LAND_SUBTYPES,
-    "spell": KNOWN_SPELL_SUBTYPES,
+    "Artifact": KNOWN_ARTIFACT_SUBTYPES,
+    "Enchantment": KNOWN_ENCHANTMENT_SUBTYPES,
+    "Land": KNOWN_LAND_SUBTYPES,
+    "Spell": KNOWN_SPELL_SUBTYPES,
 }
+
 
 # --------------------------------------------------------------------------- #
 # Pure Transformation Functions
@@ -113,6 +115,11 @@ def extract_variants_from_cards(cards: Collection[mtgsdk.Card | dict[str, Any]],
             items = value if isinstance(value, (list, tuple, set, frozenset)) else [value]
             for item in items:
                 result[prop].add(to_hashable(item))
+            
+    # Extract and classify types and subtypes if the property is 'type'
+    if "type" in result:
+        extracted_types = extract_types_and_subtypes(result.get("type"))
+        result.update({k: set(v) for k, v in extracted_types.items()})
 
     return {prop: sorted(values, key=str) for prop, values in result.items()}
 
@@ -138,52 +145,83 @@ def _classify_subtype(sub_cap: str, main_types: list[str]) -> str:
     return "creature_subtypes"
 
 
+def _classify_subtype(sub_cap: str, main_types: list[str]) -> str:
+    """Determina la categoría de un subtipo basándose en las reglas taxonómicas."""
+    for category, known_set in SUBTYPE_TAXONOMY_MAP.items():
+        if sub_cap in known_set:
+            return f"{category} Subtypes"
+            
+    if "Plane" in main_types:
+        return "Planar Subtypes"
+    if "Dungeon" in main_types:
+        return "Dungeon Subtypes"
+    if "Battle" in main_types:
+        return "Battle Subtypes"
+    if "Planeswalker" in main_types:
+        return "Planeswalker Subtypes"
+        
+    return "Creature Subtypes"
+
+
 def extract_types_and_subtypes(raw_type_strings: list[str]) -> dict[str, list[str]]:
     """
-    Parse a list of MTG type strings into cleanly separated and categorized structures 
-    following Clean Code and Open/Closed Principles.
+    Parse a list of MTG type strings into cleanly separated and categorized structures,
+    handling multi-word subtypes (e.g., 'Time Lord') and structural independence.
     """
     extracted_data = {
-        "supertypes": set(),
+        #"supertypes": set(),
         "types": set(),
-        "creature_subtypes": set(),
-        "artifact_subtypes": set(),
-        "land_subtypes": set(),
-        "enchantment_subtypes": set(),
-        "spell_subtypes": set(),
-        "planeswalker_subtypes": set(),
-        "planar_subtypes": set(),
-        "dungeon_subtypes": set(),
-        "battle_subtypes": set(),
+        "Creature Subtypes": set(),
+        "Artifact Subtypes": set(),
+        "Land Subtypes": set(),
+        "Enchantment Subtypes": set(),
+        "Spell Subtypes": set(),
+        "Planeswalker Subtypes": set(),
+        "Planar Subtypes": set(),
+        "Dungeon Subtypes": set(),
+        "Battle Subtypes": set(),
     }
     
     for entry in raw_type_strings:
         if not entry:
             continue
             
-        # El formato en MTG es: "[Supertypes] [Types] — [Subtypes]"
         parts = re.split(r'\s+—\s+|\s+-\s+', entry)
         
-        # 1. Procesar la parte izquierda (Supertypes y Main Types)
+        # 1. Parte izquierda: Supertypes y Tipos principales
         left_side = parts[0].strip()
         main_types_in_card = []
         
         for word in left_side.split():
             word_cap = word.capitalize()
             if word_cap in KNOWN_SUPERTYPES:
-                extracted_data["supertypes"].add(word_cap)
+                #extracted_data["supertypes"].add(word_cap)
+                continue  # Supertypes are already handled as a independent variant
             elif word_cap in KNOWN_CARD_TYPES:
                 extracted_data["types"].add(word_cap)
                 main_types_in_card.append(word_cap)
                 
-        # 2. Procesar la parte derecha (Subtipos) si existe
+        # 2. Parte derecha: Subtipos (gestionando multipalabra como 'Time Lord')
         if len(parts) > 1:
             subtypes_part = parts[1].strip()
+            if not subtypes_part:
+                continue
+
+            # Regla 205.3b: en Planos, todo lo que hay tras el guion es un único subtipo multipalabra
+            if "Plane" in main_types_in_card:
+                extracted_data["Planar Subtypes"].add(subtypes_part)
+                continue
+            
+            # Comprobar primero subtipos multipalabra oficiales
+            for multi_sub in KNOWN_MULTIWORD_CREATURE_SUBTYPES:
+                if multi_sub.lower() in subtypes_part.lower():
+                    extracted_data["Creature Subtypes"].add(multi_sub)
+                    subtypes_part = re.sub(re.escape(multi_sub), "", subtypes_part, flags=re.IGNORECASE)
+            # Procesar el resto palabra por palabra
             for sub in subtypes_part.split():
                 sub_cap = sub.capitalize()
-                # Delegamos la clasificación a una función pura especializada
-                category_key = _classify_subtype(sub_cap, main_types_in_card)
-                extracted_data[category_key].add(sub_cap)
-                
-    # Convertir todos los sets a listas ordenadas de forma limpia
+                if sub_cap:
+                    category_key = _classify_subtype(sub_cap, main_types_in_card)
+                    extracted_data[category_key].add(sub_cap)
+                    
     return {k: sorted(list(v)) for k, v in extracted_data.items()}

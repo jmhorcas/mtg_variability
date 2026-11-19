@@ -4,7 +4,7 @@ from .base_strategy import BaseVariationStrategy
 
 
 class AlternativeListInjectionStrategy(BaseVariationStrategy):
-    """Generic strategy for injecting alternative variation points (e.g., Rarity, Types)."""
+    """Generic strategy for injecting alternative variation points (e.g., Rarity)."""
     
     def inject(self, model: FeatureModel, parent_feature_name: str, variants: list[str]) -> None:
         parent_feature = model.get_feature_by_name(parent_feature_name)
