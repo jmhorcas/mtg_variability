@@ -1,0 +1,144 @@
+@startuml Phase2_Variability_Class_Diagram
+skinparam classAttributeIconSize 0
+skinparam packageStyle rectangle
+
+package "mtg_variability.variability" {
+
+  enum RelationType {
+    REQUIRES = "requires"
+    EXCLUDES = "excludes"
+    CARDINALITY = "cardinality"
+    DOMAIN_RULE = "domain_rule"
+  }
+
+  class ConstraintSpec {
+    +kind : RelationType
+    +source : str
+    +target : str | None = None
+    +min_val : int | None = None
+    +max_val : int | None = None
+    +description : str = ""
+  }
+
+  class VariantNode {
+    +id : str
+    +label : str
+    +attributes : dict[str, Any]
+    +constraints : list[ConstraintSpec]
+  }
+
+  class VariationPointNode {
+    +id : str
+    +name : str
+    +mandatory : bool = False
+    +min_select : int = 0
+    +max_select : int | None = None
+    +variants : list[VariantNode]
+    +sub_points : list[VariationPointNode]
+    +constraints : list[ConstraintSpec]
+    +metadata : dict[str, Any]
+    +collect_variants_by_path(accumulator : dict[str, list[str]], parent_path : str = "") : void
+    +to_dict() : dict[str, Any]
+  }
+
+  class ExpansionVariabilityModel {
+    +expansion_code : str
+    +expansion_name : str
+    +schema_version : str = "1.0"
+    +variation_points : list[VariationPointNode]
+    +list_variants_by_variation_point() : dict[str, list[str]]
+    +list_all_variants() : list[str]
+    +format_variants_report() : str
+    +to_dict() : dict[str, Any]
+  }
+
+  class VariabilityModelBuilder {
+    -_extractors : list[IVariationExtractor]
+    +__init__(extractors : list[IVariationExtractor] | None = None)
+    +register(extractor : IVariationExtractor) : VariabilityModelBuilder
+    +{static} load_csv_rows(csv_path : Path) : list[dict[str, str]]
+    +build_from_rows(rows : list[dict[str, str]], expansion_code : str, expansion_name : str) : ExpansionVariabilityModel
+    +build_and_save_json(csv_path : Path, output_json_path : Path) : ExpansionVariabilityModel
+  }
+
+  class VariabilityInspector {
+    -_builder : VariabilityModelBuilder
+    +__init__(extractors : list[IVariationExtractor])
+    +inspect_csv(csv_path : Path, report_output_path : Path | None = None, print_report : bool = True) : ExpansionVariabilityModel
+    +{static} get_variants_by_point(model : ExpansionVariabilityModel) : dict[str, list[str]]
+    +{static} get_all_variants(model : ExpansionVariabilityModel) : list[str]
+  }
+
+  package "extractors" {
+
+    interface IVariationExtractor <<Protocol>> {
+      +{abstract} point_id : str
+      +{abstract} extract(rows : list[dict[str, str]]) : VariationPointNode
+    }
+
+    abstract class BaseCardExtractor {
+      #_point_id : str
+      #_point_name : str
+      #_mandatory : bool
+      +__init__(point_id : str, point_name : str, mandatory : bool = False)
+      +point_id : str
+      +point_name : str
+      +extract(rows : list[dict[str, str]]) : VariationPointNode
+      #{abstract} _build_variation_point(rows : list[dict[str, str]]) : VariationPointNode
+      +{static} parse_list_field(raw_value : str | None) : list[str]
+      +{static} to_identifier(prefix : str, label : str) : str
+      +{static} to_uvl_identifier(label : str) : str
+    }
+
+    class TypeSystemExtractor {
+      -_SUBTYPE_GROUPS : dict[str, tuple[set[str], str]]
+      +__init__()
+      #_build_variation_point(rows : list[dict[str, str]]) : VariationPointNode
+      -_extract_row_subtypes(row : dict[str, str], type_line : str, main_types_in_card : list[str]) : list[str]
+      -_classify_subtype(subtype : str, main_types_in_card : list[str]) : str
+      -_build_supertypes_point(supertypes : set[str]) : VariationPointNode
+      -_build_card_types_point(card_types : set[str]) : VariationPointNode
+      -_build_subtypes_point(categorized_subtypes : dict[str, set[str]], max_subtypes_in_card : int) : VariationPointNode
+    }
+
+    abstract class BasePowerToughnessExtractor {
+      -_csv_column : str
+      +__init__(point_id : str, point_name : str, csv_column : str)
+      #_build_variation_point(rows : list[dict[str, str]]) : VariationPointNode
+      -_build_variant(value : str) : VariantNode
+      -{static} _is_creature_type_line(type_line : str) : bool
+      -{static} _normalize_value(raw_val : str) : str
+      #{classmethod} _sort_key(value : str) : tuple[int, float, str]
+      -{static} _format_uvl_token(value : str) : str
+    }
+
+    class PowerExtractor {
+      +__init__()
+    }
+
+    class ToughnessExtractor {
+      +__init__()
+    }
+  }
+}
+
+' Relationships
+IVariationExtractor <|.. BaseCardExtractor : implements
+BaseCardExtractor <|-- TypeSystemExtractor : extends
+BaseCardExtractor <|-- BasePowerToughnessExtractor : extends
+BasePowerToughnessExtractor <|-- PowerExtractor : extends
+BasePowerToughnessExtractor <|-- ToughnessExtractor : extends
+
+ExpansionVariabilityModel "1" *-- "0..*" VariationPointNode : variation_points
+VariationPointNode "1" *-- "0..*" VariationPointNode : sub_points
+VariationPointNode "1" *-- "0..*" VariantNode : variants
+VariationPointNode "1" *-- "0..*" ConstraintSpec : constraints
+VariantNode "1" *-- "0..*" ConstraintSpec : constraints
+ConstraintSpec --> RelationType : kind
+
+VariabilityModelBuilder o-- "0..*" IVariationExtractor : _extractors
+VariabilityModelBuilder ..> ExpansionVariabilityModel : builds & serializes
+VariabilityInspector *-- "1" VariabilityModelBuilder : _builder
+VariabilityInspector ..> ExpansionVariabilityModel : inspects
+
+@enduml

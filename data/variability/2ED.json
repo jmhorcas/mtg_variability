@@ -1,0 +1,1739 @@
+{
+  "expansion_code": "2ED",
+  "expansion_name": "Unlimited Edition",
+  "metadata": {},
+  "schema_version": 1,
+  "total_cards": 302,
+  "variation_points": [
+    {
+      "category": "functional",
+      "child_points": [],
+      "metadata": {},
+      "missing_observations": 72,
+      "name": "colors",
+      "source_attributes": [
+        "colors"
+      ],
+      "total_observations": 302,
+      "variants": [
+        {
+          "child_points": [],
+          "examples": [
+            "Animate Dead",
+            "Bad Moon",
+            "Black Knight"
+          ],
+          "metadata": {},
+          "name": "B",
+          "occurrences": 46
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Aspect of Wolf",
+            "Berserk",
+            "Birds of Paradise"
+          ],
+          "metadata": {},
+          "name": "G",
+          "occurrences": 46
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Burrowing",
+            "Chaoslace",
+            "Disintegrate"
+          ],
+          "metadata": {},
+          "name": "R",
+          "occurrences": 46
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Air Elemental",
+            "Ancestral Recall",
+            "Animate Artifact"
+          ],
+          "metadata": {},
+          "name": "U",
+          "occurrences": 46
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Animate Wall",
+            "Armageddon",
+            "Balance"
+          ],
+          "metadata": {},
+          "name": "W",
+          "occurrences": 46
+        }
+      ]
+    },
+    {
+      "category": "functional",
+      "child_points": [],
+      "metadata": {},
+      "missing_observations": 41,
+      "name": "color_identity",
+      "source_attributes": [
+        "color_identity"
+      ],
+      "total_observations": 302,
+      "variants": [
+        {
+          "child_points": [],
+          "examples": [
+            "Animate Dead",
+            "Bad Moon",
+            "Black Knight"
+          ],
+          "metadata": {},
+          "name": "B",
+          "occurrences": 55
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Aspect of Wolf",
+            "Berserk",
+            "Birds of Paradise"
+          ],
+          "metadata": {},
+          "name": "G",
+          "occurrences": 54
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Burrowing",
+            "Chaoslace",
+            "Disintegrate"
+          ],
+          "metadata": {},
+          "name": "R",
+          "occurrences": 55
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Air Elemental",
+            "Ancestral Recall",
+            "Animate Artifact"
+          ],
+          "metadata": {},
+          "name": "U",
+          "occurrences": 54
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Animate Wall",
+            "Armageddon",
+            "Balance"
+          ],
+          "metadata": {},
+          "name": "W",
+          "occurrences": 54
+        }
+      ]
+    },
+    {
+      "category": "functional",
+      "child_points": [
+        {
+          "category": "functional",
+          "child_points": [],
+          "metadata": {},
+          "missing_observations": 0,
+          "name": "supertypes",
+          "source_attributes": [
+            "type"
+          ],
+          "total_observations": 302,
+          "variants": [
+            {
+              "child_points": [],
+              "examples": [
+                "Plains",
+                "Island",
+                "Swamp"
+              ],
+              "metadata": {},
+              "name": "Basic",
+              "occurrences": 15
+            }
+          ]
+        },
+        {
+          "category": "functional",
+          "child_points": [],
+          "metadata": {},
+          "missing_observations": 0,
+          "name": "card_types",
+          "source_attributes": [
+            "type"
+          ],
+          "total_observations": 302,
+          "variants": [
+            {
+              "child_points": [],
+              "examples": [
+                "Ankh of Mishra",
+                "Basalt Monolith",
+                "Black Lotus"
+              ],
+              "metadata": {},
+              "name": "Artifact",
+              "occurrences": 47
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Benalish Hero",
+                "Mesa Pegasus",
+                "Northern Paladin"
+              ],
+              "metadata": {},
+              "name": "Creature",
+              "occurrences": 92
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Animate Wall",
+                "Black Ward",
+                "Blessing"
+              ],
+              "metadata": {},
+              "name": "Enchantment",
+              "occurrences": 69
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Blaze of Glory",
+                "Death Ward",
+                "Disenchant"
+              ],
+              "metadata": {},
+              "name": "Instant",
+              "occurrences": 43
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Badlands",
+                "Bayou",
+                "Plateau"
+              ],
+              "metadata": {},
+              "name": "Land",
+              "occurrences": 25
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Armageddon",
+                "Balance",
+                "Resurrection"
+              ],
+              "metadata": {},
+              "name": "Sorcery",
+              "occurrences": 30
+            }
+          ]
+        },
+        {
+          "category": "functional",
+          "child_points": [
+            {
+              "category": "functional",
+              "child_points": [],
+              "metadata": {},
+              "missing_observations": 27,
+              "name": "subtypes:enchantment",
+              "source_attributes": [
+                "type"
+              ],
+              "total_observations": 69,
+              "variants": [
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Animate Wall",
+                    "Black Ward",
+                    "Blessing"
+                  ],
+                  "metadata": {},
+                  "name": "Aura",
+                  "occurrences": 42
+                }
+              ]
+            },
+            {
+              "category": "functional",
+              "child_points": [],
+              "metadata": {},
+              "missing_observations": 0,
+              "name": "subtypes:land",
+              "source_attributes": [
+                "type"
+              ],
+              "total_observations": 25,
+              "variants": [
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Bayou",
+                    "Savannah",
+                    "Taiga"
+                  ],
+                  "metadata": {},
+                  "name": "Forest",
+                  "occurrences": 7
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Tropical Island",
+                    "Tundra",
+                    "Underground Sea"
+                  ],
+                  "metadata": {},
+                  "name": "Island",
+                  "occurrences": 7
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Badlands",
+                    "Plateau",
+                    "Taiga"
+                  ],
+                  "metadata": {},
+                  "name": "Mountain",
+                  "occurrences": 7
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Plateau",
+                    "Savannah",
+                    "Scrubland"
+                  ],
+                  "metadata": {},
+                  "name": "Plains",
+                  "occurrences": 7
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Badlands",
+                    "Bayou",
+                    "Scrubland"
+                  ],
+                  "metadata": {},
+                  "name": "Swamp",
+                  "occurrences": 7
+                }
+              ]
+            },
+            {
+              "category": "functional",
+              "child_points": [],
+              "metadata": {},
+              "missing_observations": 0,
+              "name": "subtypes:creature",
+              "source_attributes": [
+                "type"
+              ],
+              "total_observations": 92,
+              "variants": [
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Serra Angel"
+                  ],
+                  "metadata": {},
+                  "name": "Angel",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Elvish Archers"
+                  ],
+                  "metadata": {},
+                  "name": "Archer",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Royal Assassin"
+                  ],
+                  "metadata": {},
+                  "name": "Assassin",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Personal Incarnation",
+                    "Gaea's Liege"
+                  ],
+                  "metadata": {},
+                  "name": "Avatar",
+                  "occurrences": 2
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Keldon Warlord"
+                  ],
+                  "metadata": {},
+                  "name": "Barbarian",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Thicket Basilisk"
+                  ],
+                  "metadata": {},
+                  "name": "Basilisk",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Grizzly Bears"
+                  ],
+                  "metadata": {},
+                  "name": "Bear",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Clockwork Beast"
+                  ],
+                  "metadata": {},
+                  "name": "Beast",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Roc of Kher Ridges",
+                    "Birds of Paradise"
+                  ],
+                  "metadata": {},
+                  "name": "Bird",
+                  "occurrences": 2
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Savannah Lions"
+                  ],
+                  "metadata": {},
+                  "name": "Cat",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Samite Healer"
+                  ],
+                  "metadata": {},
+                  "name": "Cleric",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Cockatrice"
+                  ],
+                  "metadata": {},
+                  "name": "Cockatrice",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Demonic Hordes",
+                    "Lord of the Pit"
+                  ],
+                  "metadata": {},
+                  "name": "Demon",
+                  "occurrences": 2
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Fungusaur"
+                  ],
+                  "metadata": {},
+                  "name": "Dinosaur",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Mahamoti Djinn"
+                  ],
+                  "metadata": {},
+                  "name": "Djinn",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Dragon Whelp",
+                    "Shivan Dragon"
+                  ],
+                  "metadata": {},
+                  "name": "Dragon",
+                  "occurrences": 2
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Ley Druid",
+                    "Llanowar Elves",
+                    "Verduran Enchantress"
+                  ],
+                  "metadata": {},
+                  "name": "Druid",
+                  "occurrences": 3
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Shanodin Dryads"
+                  ],
+                  "metadata": {},
+                  "name": "Dryad",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Dwarven Demolition Team",
+                    "Dwarven Warriors"
+                  ],
+                  "metadata": {},
+                  "name": "Dwarf",
+                  "occurrences": 2
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Air Elemental",
+                    "Water Elemental",
+                    "Earth Elemental"
+                  ],
+                  "metadata": {},
+                  "name": "Elemental",
+                  "occurrences": 5
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "War Mammoth"
+                  ],
+                  "metadata": {},
+                  "name": "Elephant",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Elvish Archers",
+                    "Llanowar Elves"
+                  ],
+                  "metadata": {},
+                  "name": "Elf",
+                  "occurrences": 2
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Scryb Sprites"
+                  ],
+                  "metadata": {},
+                  "name": "Faerie",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Fungusaur"
+                  ],
+                  "metadata": {},
+                  "name": "Fungus",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Granite Gargoyle"
+                  ],
+                  "metadata": {},
+                  "name": "Gargoyle",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Hill Giant",
+                    "Stone Giant",
+                    "Two-Headed Giant of Foriys"
+                  ],
+                  "metadata": {},
+                  "name": "Giant",
+                  "occurrences": 3
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Goblin Balloon Brigade",
+                    "Goblin King",
+                    "Mons's Goblin Raiders"
+                  ],
+                  "metadata": {},
+                  "name": "Goblin",
+                  "occurrences": 3
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Obsianus Golem"
+                  ],
+                  "metadata": {},
+                  "name": "Golem",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Nightmare"
+                  ],
+                  "metadata": {},
+                  "name": "Horse",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Benalish Hero",
+                    "Northern Paladin",
+                    "Samite Healer"
+                  ],
+                  "metadata": {},
+                  "name": "Human",
+                  "occurrences": 12
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Rock Hydra"
+                  ],
+                  "metadata": {},
+                  "name": "Hydra",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Phantasmal Forces",
+                    "Phantom Monster"
+                  ],
+                  "metadata": {},
+                  "name": "Illusion",
+                  "occurrences": 2
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Nettling Imp"
+                  ],
+                  "metadata": {},
+                  "name": "Imp",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Personal Incarnation"
+                  ],
+                  "metadata": {},
+                  "name": "Incarnation",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Juggernaut"
+                  ],
+                  "metadata": {},
+                  "name": "Juggernaut",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Northern Paladin",
+                    "White Knight",
+                    "Black Knight"
+                  ],
+                  "metadata": {},
+                  "name": "Knight",
+                  "occurrences": 3
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Lord of Atlantis",
+                    "Merfolk of the Pearl Trident"
+                  ],
+                  "metadata": {},
+                  "name": "Merfolk",
+                  "occurrences": 2
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Hurloon Minotaur"
+                  ],
+                  "metadata": {},
+                  "name": "Minotaur",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Nightmare"
+                  ],
+                  "metadata": {},
+                  "name": "Nightmare",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Shanodin Dryads"
+                  ],
+                  "metadata": {},
+                  "name": "Nymph",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Gray Ogre"
+                  ],
+                  "metadata": {},
+                  "name": "Ogre",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Ironclaw Orcs",
+                    "Orcish Artillery"
+                  ],
+                  "metadata": {},
+                  "name": "Orc",
+                  "occurrences": 2
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Mesa Pegasus"
+                  ],
+                  "metadata": {},
+                  "name": "Pegasus",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Pirate Ship"
+                  ],
+                  "metadata": {},
+                  "name": "Pirate",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Wall of Brambles"
+                  ],
+                  "metadata": {},
+                  "name": "Plant",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Plague Rats"
+                  ],
+                  "metadata": {},
+                  "name": "Rat",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Sea Serpent"
+                  ],
+                  "metadata": {},
+                  "name": "Serpent",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Frozen Shade"
+                  ],
+                  "metadata": {},
+                  "name": "Shade",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Clone",
+                    "Vesuvan Doppelganger"
+                  ],
+                  "metadata": {},
+                  "name": "Shapeshifter",
+                  "occurrences": 2
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Drudge Skeletons",
+                    "Wall of Bone"
+                  ],
+                  "metadata": {},
+                  "name": "Skeleton",
+                  "occurrences": 2
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Benalish Hero"
+                  ],
+                  "metadata": {},
+                  "name": "Soldier",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Hypnotic Specter"
+                  ],
+                  "metadata": {},
+                  "name": "Specter",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Giant Spider"
+                  ],
+                  "metadata": {},
+                  "name": "Spider",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Nether Shadow",
+                    "Will-o'-the-Wisp"
+                  ],
+                  "metadata": {},
+                  "name": "Spirit",
+                  "occurrences": 2
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Ironroot Treefolk"
+                  ],
+                  "metadata": {},
+                  "name": "Treefolk",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Sedge Troll",
+                    "Uthden Troll"
+                  ],
+                  "metadata": {},
+                  "name": "Troll",
+                  "occurrences": 2
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Pearled Unicorn"
+                  ],
+                  "metadata": {},
+                  "name": "Unicorn",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Sengir Vampire"
+                  ],
+                  "metadata": {},
+                  "name": "Vampire",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Wall of Swords",
+                    "Wall of Air",
+                    "Wall of Water"
+                  ],
+                  "metadata": {},
+                  "name": "Wall",
+                  "occurrences": 10
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Dwarven Warriors",
+                    "Goblin Balloon Brigade",
+                    "Orcish Artillery"
+                  ],
+                  "metadata": {},
+                  "name": "Warrior",
+                  "occurrences": 3
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Prodigal Sorcerer"
+                  ],
+                  "metadata": {},
+                  "name": "Wizard",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Timber Wolves"
+                  ],
+                  "metadata": {},
+                  "name": "Wolf",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Bog Wraith"
+                  ],
+                  "metadata": {},
+                  "name": "Wraith",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Craw Wurm"
+                  ],
+                  "metadata": {},
+                  "name": "Wurm",
+                  "occurrences": 1
+                },
+                {
+                  "child_points": [],
+                  "examples": [
+                    "Scathe Zombies",
+                    "Scavenging Ghoul",
+                    "Zombie Master"
+                  ],
+                  "metadata": {},
+                  "name": "Zombie",
+                  "occurrences": 3
+                }
+              ]
+            }
+          ],
+          "metadata": {},
+          "missing_observations": 0,
+          "name": "subtypes",
+          "source_attributes": [
+            "type"
+          ],
+          "total_observations": 302,
+          "variants": []
+        }
+      ],
+      "metadata": {},
+      "missing_observations": 0,
+      "name": "type",
+      "source_attributes": [
+        "type"
+      ],
+      "total_observations": 302,
+      "variants": []
+    },
+    {
+      "category": "functional",
+      "child_points": [],
+      "metadata": {},
+      "missing_observations": 210,
+      "name": "power",
+      "source_attributes": [
+        "power"
+      ],
+      "total_observations": 302,
+      "variants": [
+        {
+          "child_points": [],
+          "examples": [
+            "Nightmare",
+            "Plague Rats",
+            "Keldon Warlord"
+          ],
+          "metadata": {},
+          "name": "*",
+          "occurrences": 4
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Clone",
+            "Vesuvan Doppelganger",
+            "Wall of Water"
+          ],
+          "metadata": {},
+          "name": "0",
+          "occurrences": 14
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Benalish Hero",
+            "Mesa Pegasus",
+            "Samite Healer"
+          ],
+          "metadata": {},
+          "name": "1",
+          "occurrences": 21
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Pearled Unicorn",
+            "Savannah Lions",
+            "Veteran Bodyguard"
+          ],
+          "metadata": {},
+          "name": "2",
+          "occurrences": 25
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Northern Paladin",
+            "Wall of Swords",
+            "Phantom Monster"
+          ],
+          "metadata": {},
+          "name": "3",
+          "occurrences": 9
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Serra Angel",
+            "Air Elemental",
+            "Phantasmal Forces"
+          ],
+          "metadata": {},
+          "name": "4",
+          "occurrences": 8
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Mahamoti Djinn",
+            "Sea Serpent",
+            "Water Elemental"
+          ],
+          "metadata": {},
+          "name": "5",
+          "occurrences": 7
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Personal Incarnation",
+            "Craw Wurm"
+          ],
+          "metadata": {},
+          "name": "6",
+          "occurrences": 2
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Lord of the Pit"
+          ],
+          "metadata": {},
+          "name": "7",
+          "occurrences": 1
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Force of Nature"
+          ],
+          "metadata": {},
+          "name": "8",
+          "occurrences": 1
+        }
+      ]
+    },
+    {
+      "category": "functional",
+      "child_points": [],
+      "metadata": {},
+      "missing_observations": 210,
+      "name": "toughness",
+      "source_attributes": [
+        "toughness"
+      ],
+      "total_observations": 302,
+      "variants": [
+        {
+          "child_points": [],
+          "examples": [
+            "Nightmare",
+            "Plague Rats",
+            "Keldon Warlord"
+          ],
+          "metadata": {},
+          "name": "*",
+          "occurrences": 4
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Clone",
+            "Vesuvan Doppelganger",
+            "Rock Hydra"
+          ],
+          "metadata": {},
+          "name": "0",
+          "occurrences": 3
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Benalish Hero",
+            "Mesa Pegasus",
+            "Samite Healer"
+          ],
+          "metadata": {},
+          "name": "1",
+          "occurrences": 24
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Pearled Unicorn",
+            "White Knight",
+            "Lord of Atlantis"
+          ],
+          "metadata": {},
+          "name": "2",
+          "occurrences": 16
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Northern Paladin",
+            "Phantom Monster",
+            "Pirate Ship"
+          ],
+          "metadata": {},
+          "name": "3",
+          "occurrences": 14
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Serra Angel",
+            "Air Elemental",
+            "Water Elemental"
+          ],
+          "metadata": {},
+          "name": "4",
+          "occurrences": 13
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Veteran Bodyguard",
+            "Wall of Swords",
+            "Sea Serpent"
+          ],
+          "metadata": {},
+          "name": "5",
+          "occurrences": 10
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Personal Incarnation",
+            "Mahamoti Djinn",
+            "Living Wall"
+          ],
+          "metadata": {},
+          "name": "6",
+          "occurrences": 4
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Lord of the Pit",
+            "Wall of Ice"
+          ],
+          "metadata": {},
+          "name": "7",
+          "occurrences": 2
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Wall of Stone",
+            "Force of Nature"
+          ],
+          "metadata": {},
+          "name": "8",
+          "occurrences": 2
+        }
+      ]
+    },
+    {
+      "category": "functional",
+      "child_points": [
+        {
+          "category": "functional",
+          "child_points": [],
+          "metadata": {},
+          "missing_observations": 0,
+          "name": "black",
+          "source_attributes": [
+            "mana_cost"
+          ],
+          "total_observations": 302,
+          "variants": [
+            {
+              "child_points": [],
+              "examples": [
+                "Animate Wall",
+                "Armageddon",
+                "Balance"
+              ],
+              "metadata": {},
+              "name": "0",
+              "occurrences": 256
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Animate Dead",
+                "Bad Moon",
+                "Bog Wraith"
+              ],
+              "metadata": {},
+              "name": "1",
+              "occurrences": 28
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Black Knight",
+                "Cursed Land",
+                "Deathgrip"
+              ],
+              "metadata": {},
+              "name": "2",
+              "occurrences": 14
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Darkpact",
+                "Demonic Hordes",
+                "Lord of the Pit"
+              ],
+              "metadata": {},
+              "name": "3",
+              "occurrences": 3
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Lich"
+              ],
+              "metadata": {},
+              "name": "4",
+              "occurrences": 1
+            }
+          ]
+        },
+        {
+          "category": "functional",
+          "child_points": [],
+          "metadata": {},
+          "missing_observations": 0,
+          "name": "blue",
+          "source_attributes": [
+            "mana_cost"
+          ],
+          "total_observations": 302,
+          "variants": [
+            {
+              "child_points": [],
+              "examples": [
+                "Animate Wall",
+                "Armageddon",
+                "Balance"
+              ],
+              "metadata": {},
+              "name": "0",
+              "occurrences": 256
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Ancestral Recall",
+                "Animate Artifact",
+                "Blue Elemental Blast"
+              ],
+              "metadata": {},
+              "name": "1",
+              "occurrences": 30
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Air Elemental",
+                "Braingeyser",
+                "Control Magic"
+              ],
+              "metadata": {},
+              "name": "2",
+              "occurrences": 15
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Volcanic Eruption"
+              ],
+              "metadata": {},
+              "name": "3",
+              "occurrences": 1
+            }
+          ]
+        },
+        {
+          "category": "functional",
+          "child_points": [],
+          "metadata": {},
+          "missing_observations": 0,
+          "name": "generic",
+          "source_attributes": [
+            "mana_cost"
+          ],
+          "total_observations": 302,
+          "variants": [
+            {
+              "child_points": [],
+              "examples": [
+                "Animate Wall",
+                "Benalish Hero",
+                "Black Ward"
+              ],
+              "metadata": {},
+              "name": "0",
+              "occurrences": 135
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Balance",
+                "Circle of Protection: Black",
+                "Circle of Protection: Blue"
+              ],
+              "metadata": {},
+              "name": "1",
+              "occurrences": 58
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Conversion",
+                "Karma",
+                "Northern Paladin"
+              ],
+              "metadata": {},
+              "name": "2",
+              "occurrences": 47
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Armageddon",
+                "Castle",
+                "Personal Incarnation"
+              ],
+              "metadata": {},
+              "name": "3",
+              "occurrences": 37
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Mahamoti Djinn",
+                "Pirate Ship",
+                "Lord of the Pit"
+              ],
+              "metadata": {},
+              "name": "4",
+              "occurrences": 20
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Sea Serpent",
+                "Nightmare",
+                "The Hive"
+              ],
+              "metadata": {},
+              "name": "5",
+              "occurrences": 3
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Clockwork Beast",
+                "Obsianus Golem"
+              ],
+              "metadata": {},
+              "name": "6",
+              "occurrences": 2
+            }
+          ]
+        },
+        {
+          "category": "functional",
+          "child_points": [],
+          "metadata": {},
+          "missing_observations": 0,
+          "name": "green",
+          "source_attributes": [
+            "mana_cost"
+          ],
+          "total_observations": 302,
+          "variants": [
+            {
+              "child_points": [],
+              "examples": [
+                "Animate Wall",
+                "Armageddon",
+                "Balance"
+              ],
+              "metadata": {},
+              "name": "0",
+              "occurrences": 256
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Aspect of Wolf",
+                "Berserk",
+                "Birds of Paradise"
+              ],
+              "metadata": {},
+              "name": "1",
+              "occurrences": 36
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Channel",
+                "Cockatrice",
+                "Craw Wurm"
+              ],
+              "metadata": {},
+              "name": "2",
+              "occurrences": 8
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Gaea's Liege"
+              ],
+              "metadata": {},
+              "name": "3",
+              "occurrences": 1
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Force of Nature"
+              ],
+              "metadata": {},
+              "name": "4",
+              "occurrences": 1
+            }
+          ]
+        },
+        {
+          "category": "functional",
+          "child_points": [],
+          "metadata": {},
+          "missing_observations": 0,
+          "name": "red",
+          "source_attributes": [
+            "mana_cost"
+          ],
+          "total_observations": 302,
+          "variants": [
+            {
+              "child_points": [],
+              "examples": [
+                "Animate Wall",
+                "Armageddon",
+                "Balance"
+              ],
+              "metadata": {},
+              "name": "0",
+              "occurrences": 256
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Burrowing",
+                "Chaoslace",
+                "Disintegrate"
+              ],
+              "metadata": {},
+              "name": "1",
+              "occurrences": 30
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Dragon Whelp",
+                "Earth Elemental",
+                "Fire Elemental"
+              ],
+              "metadata": {},
+              "name": "2",
+              "occurrences": 16
+            }
+          ]
+        },
+        {
+          "category": "functional",
+          "child_points": [],
+          "metadata": {},
+          "missing_observations": 0,
+          "name": "variable",
+          "source_attributes": [
+            "mana_cost"
+          ],
+          "total_observations": 302,
+          "variants": [
+            {
+              "child_points": [],
+              "examples": [
+                "Animate Wall",
+                "Armageddon",
+                "Balance"
+              ],
+              "metadata": {},
+              "name": "0",
+              "occurrences": 288
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Guardian Angel",
+                "Braingeyser",
+                "Power Sink"
+              ],
+              "metadata": {},
+              "name": "1",
+              "occurrences": 14
+            }
+          ]
+        },
+        {
+          "category": "functional",
+          "child_points": [],
+          "metadata": {},
+          "missing_observations": 0,
+          "name": "variable_symbol:X",
+          "source_attributes": [
+            "mana_cost"
+          ],
+          "total_observations": 302,
+          "variants": [
+            {
+              "child_points": [],
+              "examples": [
+                "Animate Wall",
+                "Armageddon",
+                "Balance"
+              ],
+              "metadata": {},
+              "name": "0",
+              "occurrences": 288
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Guardian Angel",
+                "Braingeyser",
+                "Power Sink"
+              ],
+              "metadata": {},
+              "name": "1",
+              "occurrences": 14
+            }
+          ]
+        },
+        {
+          "category": "functional",
+          "child_points": [],
+          "metadata": {},
+          "missing_observations": 0,
+          "name": "white",
+          "source_attributes": [
+            "mana_cost"
+          ],
+          "total_observations": 302,
+          "variants": [
+            {
+              "child_points": [],
+              "examples": [
+                "Air Elemental",
+                "Ancestral Recall",
+                "Animate Artifact"
+              ],
+              "metadata": {},
+              "name": "0",
+              "occurrences": 256
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Animate Wall",
+                "Armageddon",
+                "Balance"
+              ],
+              "metadata": {},
+              "name": "1",
+              "occurrences": 33
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Blessing",
+                "Conversion",
+                "Crusade"
+              ],
+              "metadata": {},
+              "name": "2",
+              "occurrences": 11
+            },
+            {
+              "child_points": [],
+              "examples": [
+                "Farmstead",
+                "Personal Incarnation"
+              ],
+              "metadata": {},
+              "name": "3",
+              "occurrences": 2
+            }
+          ]
+        }
+      ],
+      "metadata": {},
+      "missing_observations": 0,
+      "name": "mana_cost",
+      "source_attributes": [
+        "mana_cost"
+      ],
+      "total_observations": 302,
+      "variants": []
+    },
+    {
+      "category": "collection",
+      "child_points": [],
+      "metadata": {},
+      "missing_observations": 0,
+      "name": "rarity",
+      "source_attributes": [
+        "rarity"
+      ],
+      "total_observations": 302,
+      "variants": [
+        {
+          "child_points": [],
+          "examples": [
+            "Benalish Hero",
+            "Circle of Protection: Black",
+            "Circle of Protection: Blue"
+          ],
+          "metadata": {},
+          "name": "Common",
+          "occurrences": 90
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Animate Wall",
+            "Armageddon",
+            "Balance"
+          ],
+          "metadata": {},
+          "name": "Rare",
+          "occurrences": 117
+        },
+        {
+          "child_points": [],
+          "examples": [
+            "Black Ward",
+            "Blue Ward",
+            "Castle"
+          ],
+          "metadata": {},
+          "name": "Uncommon",
+          "occurrences": 95
+        }
+      ]
+    }
+  ]
+}

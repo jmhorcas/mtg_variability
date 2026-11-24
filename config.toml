@@ -1,0 +1,22 @@
+[paths]
+data_dir = "data"
+
+# Phase 1: data extraction
+products_dir = "data/cards"
+expansions_file = "data/expansions/all_expansions.csv"
+
+# Phase 2: variability analysis
+variability_dir = "data/variability"
+taxonomy_path = "mtg_variability/data/taxonomy.json"
+
+# UVL generation
+uvl_output_dir = "uvl_models/generated"
+uvl_template_path = "uvl_models/templates/base.uvl"
+
+[inspection]
+inspect_reports = false
+print_reports = false
+
+[logging]
+level = "INFO"
+file = ""

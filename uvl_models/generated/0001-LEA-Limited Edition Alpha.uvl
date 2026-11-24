@@ -11,7 +11,7 @@ features
 					Integer "Black Mana" {constraint "Black Mana" > 0}
 					Integer "Red Mana" {constraint "Red Mana" > 0}
 					Integer "Green Mana" {constraint "Green Mana" > 0}
-			Integer "Mana Value" {constraint "White Mana" > 0}
+			Integer "Mana Value" {constraints ["Mana Value" > 0, ("Mana Value" >= 0) & ("Mana Value" <= 7)]}
 			"Type" 
 				or
 					Artifact 
@@ -103,7 +103,7 @@ features
 			Supertypes 
 				mandatory
 					Basic 
-			"Color Indicator" {doc 'An object with a color indicator is each color denoted by that color indicator.', rule '204', constraint (NonLandCard & ! "Mana Cost") => "Color Indicator"}
+			"Color Indicator" {doc 'An object with a color indicator is each color denoted by that color indicator.', rule '204', constraint (! Land & ! "Mana Cost") => "Color Indicator"}
 				or
 					"Color Indicator White" {constraint "Color Indicator White" => "Color Identity White"}
 					"Color Indicator Blue" {constraint "Color Indicator Blue" => "Color Identity Blue"}
