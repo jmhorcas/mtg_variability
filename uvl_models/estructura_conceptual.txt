@@ -1,0 +1,140 @@
+MTG Card
+│
+├── mandatory Type {abstract}
+│   │
+│   ├── optional Supertypes {abstract}
+│   │   └── [1..*]
+│   │       ├── Basic
+│   │       ├── Legendary
+│   │       ├── Snow
+│   │       ├── World
+│   │       └── Ongoing
+│   │
+│   └── mandatory Card Types {abstract}
+│       └── [1..*]
+│           ├── Artifact
+│           │   └── optional Artifact Subtypes {abstract}
+│           │       └── [1..*] ...
+│           ├── Battle
+│           │   └── optional Battle Subtypes {abstract}
+│           │       └── [1..*] ...
+│           ├── Creature
+│           │   └── optional Creature Subtypes {abstract}
+│           │       └── [1..*]
+│           │           ├── Human
+│           │           ├── Troll
+│           │           └── Wizard
+│           ├── Enchantment
+│           │   └── optional Enchantment Subtypes {abstract}
+│           │       └── [1..*] ...
+│           ├── Instant
+│           ├── Land
+│           │   └── optional Land Subtypes {abstract}
+│           │       └── [1..*] ...
+│           ├── Planeswalker
+│           │   └── optional Planeswalker Subtypes {abstract}
+│           │       └── [1..*] ...
+│           └── Sorcery
+│
+├── mandatory Layout
+│   └── alternative
+│       ├── Normal
+│       ├── Split
+│       ├── Transform
+│       └── ...
+│
+├── mandatory Mana Value
+│   └── Integer [minimum..maximum]
+│
+├── optional Mana Cost {abstract}
+│   ├── mandatory Generic Mana [0..maximum]
+│   ├── mandatory Colorless Mana [0..maximum]
+│   ├── mandatory White Mana [0..maximum]
+│   ├── mandatory Blue Mana [0..maximum]
+│   ├── mandatory Black Mana [0..maximum]
+│   ├── mandatory Red Mana [0..maximum]
+│   ├── mandatory Green Mana [0..maximum]
+│   ├── mandatory Variable Mana [0..maximum]
+│   └── ... other extracted mana components
+│
+├── mandatory Colors {abstract}
+│   └── [0..5]
+│       ├── White
+│       ├── Blue
+│       ├── Black
+│       ├── Red
+│       └── Green
+│
+├── mandatory Color Identity {abstract}
+│   └── [0..5]
+│       ├── White
+│       ├── Blue
+│       ├── Black
+│       ├── Red
+│       └── Green
+│
+├── optional Color Indicator {abstract}
+│   └── [1..5]
+│       ├── White
+│       ├── Blue
+│       ├── Black
+│       ├── Red
+│       └── Green
+│
+└── optional PowerToughness {abstract}
+    │
+    └── mandatory
+        ├── Power {gameplay true}
+        │   └── alternative
+        │       ├── Integer "Power value" [minimum..maximum]
+        │       └── ... observed special values
+        │
+        └── Toughness {gameplay true}
+            └── alternative
+                ├── Integer "Toughness value" [minimum..maximum]
+                └── ... observed special values
+
+
+Reglas semánticas del template
+Hay varias decisiones que conviene dejar explícitas para que el builder no introduzca restricciones incorrectas:
+Elemento	Regla
+Card Types	Una o varias selecciones. Al menos una.
+Supertypes	Cero o varios.
+Subtypes	Solo disponibles si se selecciona su Card Type padre. Cero o varios.
+Layout	Exactamente una alternativa.
+Mana Cost	Puede no existir; si existe, sus componentes coexisten.
+Mana components	Valores enteros independientes, incluyendo cero.
+Colors	Conjunto de cero a cinco colores.
+Color Identity	Conjunto independiente de cero a cinco colores.
+Color Indicator	Propiedad opcional; si existe, uno o varios colores.
+Power/Toughness	O no existe el grupo, o existen ambas propiedades. Cada una puede ser numérica o especial.
+
+Algunas decisiones importantes
+1. Type System
+
+Los subtipos se generan dinámicamente a partir de la taxonomía, nunca mediante una lista fija en el builder. Por ejemplo, Human y Troll aparecen bajo Creature Subtypes, no como hijos directos de Type. Esto garantiza que seleccionar Human implique seleccionar Creature.
+
+2. Mana Cost
+
+No utilizaremos un grupo alternative: los componentes del coste no son excluyentes. Una carta puede tener simultáneamente mana genérico, blanco y azul. Además, Generic Mana y Colorless Mana son dimensiones distintas.
+
+Los componentes se generan a partir de Phase 2. Así podremos incorporar símbolos híbridos, pirexianos y otros componentes cuando el extractor los represente adecuadamente, sin tener que rediseñar el template.
+
+3. Colores
+
+Colors, Color Identity y Color Indicator son tres propiedades independientes. No debemos inferir una a partir de otra ni imponer equivalencias entre ellas. Sus cardinalidades se ajustarán a las observaciones.
+
+4. Power/Toughness
+
+El grupo es opcional, pero, cuando aparece, ambas propiedades son obligatorias. Los valores numéricos se acotan mediante los límites observados y los valores especiales se representan como alternativas independientes con su atributo value.
+Qué debe ser dinámico y qué debe ser fijo
+Elemento	Procedencia
+Estructura general del template	Fija
+Card Types y Subtypes	Taxonomía de Phase 2
+Supertypes	Taxonomía de Phase 2
+Layouts	Observaciones de Phase 2
+Componentes de Mana Cost	Extractor de Phase 2
+Límites de Mana Value	Estadísticas de Phase 2
+Cardinalidades de colores	Estadísticas de Phase 2
+Límites numéricos de Power/Toughness	Estadísticas de Phase 2
+Valores especiales de Power/Toughness	Observaciones de Phase 2

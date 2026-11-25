@@ -1,0 +1,53 @@
+features
+    "MTG Card"
+        mandatory
+            Type
+            "Mana Value"
+
+        optional
+            "Mana Cost"
+                "Generic Mana"
+                "Colorless Mana"
+                "White Mana"
+                "Blue Mana"
+                "Black Mana"
+                "Red Mana"
+                "Green Mana"
+                "Variable Mana"
+                "Variable Symbols"
+
+            Colors
+                or
+                    White
+                    Blue
+                    Black
+                    Red
+                    Green
+
+            "Color Identity"
+                or
+                    "Color Identity White"
+                    "Color Identity Blue"
+                    "Color Identity Black"
+                    "Color Identity Red"
+                    "Color Identity Green"
+
+            "Color Indicator"
+                or
+                    "Color Indicator White"
+                    "Color Indicator Blue"
+                    "Color Indicator Black"
+                    "Color Indicator Red"
+                    "Color Indicator Green"
+
+            PowerToughness {abstract}
+                mandatory
+                    Power
+                        alternative
+                            Integer "Power value"
+                            "Power Star"
+
+                    Toughness
+                        alternative
+                            Integer "Toughness value"
+                            "Toughness Star"

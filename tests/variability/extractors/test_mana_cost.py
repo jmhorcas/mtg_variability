@@ -448,3 +448,45 @@ class TestManaCostExtractor:
     def test_invalid_configuration(self, kwargs):
         with pytest.raises(ValueError):
             ManaCostExtractor(**kwargs)
+
+    def test_generic_dimension_calculates_numeric_bounds(self, extractor):
+        records = [
+            {"name": "Card A", "manaCost": "{1}{R}"},
+            {"name": "Card B", "manaCost": "{2}{R}"},
+            {"name": "Card C", "manaCost": "{3}{R}"},
+            {"name": "Card D", "manaCost": "{5}{R}"},
+        ]
+
+        root = _extract_root(extractor, records)
+        generic = _find_child(root, "generic")
+
+        assert generic.statistics.numeric_minimum == 1
+        assert generic.statistics.numeric_maximum == 5
+
+    def test_generic_dimension_includes_zero_in_numeric_bounds(
+        self,
+        extractor,
+    ):
+        records = [
+            {"name": "Card A", "manaCost": "{R}"},
+            {"name": "Card B", "manaCost": "{R}"},
+            {"name": "Card C", "manaCost": "{2}{R}"},
+            {"name": "Card D", "manaCost": "{3}{R}"},
+        ]
+
+        root = _extract_root(extractor, records)
+        generic = _find_child(root, "generic")
+
+        assert generic.statistics.numeric_minimum == 0
+        assert generic.statistics.numeric_maximum == 3
+
+        variants = {
+            variant.name: variant.occurrences
+            for variant in generic.variants
+        }
+
+        assert variants == {
+            "0": 2,
+            "2": 1,
+            "3": 1,
+        }

@@ -9,6 +9,7 @@ from mtg_variability.variability.extractors.base import BaseVariationExtractor
 from mtg_variability.variability.models import (
     VariabilityCategory,
     VariationPointSpec,
+    VariationStatistics,
     VariantSpec,
 )
 from mtg_variability.variability.protocols import CardRecord
@@ -111,7 +112,11 @@ class MultiValueExtractor(BaseVariationExtractor):
         occurrences: dict[str, int] = defaultdict(int)
         examples: dict[str, list[str]] = defaultdict(list)
 
+        observed_combinations: set[frozenset[str]] = set()
+
         missing_count = 0
+        minimum_cardinality: int | None = None
+        maximum_cardinality: int | None = None
 
         for record in records:
             raw_value = self._get_value(record, self._attribute)
@@ -121,6 +126,22 @@ class MultiValueExtractor(BaseVariationExtractor):
                 continue
 
             values = self._parse_values(raw_value)
+            cardinality = len(values)
+
+            observed_combinations.add(frozenset(values))
+
+            if minimum_cardinality is None:
+                minimum_cardinality = cardinality
+                maximum_cardinality = cardinality
+            else:
+                minimum_cardinality = min(
+                    minimum_cardinality,
+                    cardinality,
+                )
+                maximum_cardinality = max(
+                    maximum_cardinality,
+                    cardinality,
+                )
 
             example = self._get_normalized_value(
                 record,
@@ -137,8 +158,13 @@ class MultiValueExtractor(BaseVariationExtractor):
                 ):
                     examples[value].append(example)
 
-        # A constant or entirely empty attribute is not a variation point.
-        if len(occurrences) < 2:
+        # No observed elements means there is no useful variation point.
+        if not occurrences:
+            return ()
+
+        # Skip attributes that have exactly the same combination
+        # in every record and are never missing.
+        if len(observed_combinations) == 1 and missing_count == 0:
             return ()
 
         variants = tuple(
@@ -153,6 +179,11 @@ class MultiValueExtractor(BaseVariationExtractor):
             )
         )
 
+        statistics = VariationStatistics(
+            minimum_cardinality=minimum_cardinality,
+            maximum_cardinality=maximum_cardinality,
+        )
+
         return (
             VariationPointSpec(
                 name=self._attribute,
@@ -161,5 +192,6 @@ class MultiValueExtractor(BaseVariationExtractor):
                 total_observations=len(records),
                 missing_observations=missing_count,
                 category=self._category,
+                statistics=statistics,
             ),
         )

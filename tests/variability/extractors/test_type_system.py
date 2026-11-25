@@ -710,3 +710,81 @@ def test_extractor_rejects_invalid_configuration(
 
     with pytest.raises(ValueError):
         TypeSystemExtractor(taxonomy, max_examples=True)
+
+
+def test_extractor_calculates_subtype_cardinality(
+    extractor: TypeSystemExtractor,
+) -> None:
+    """Calculate subtype cardinality per applicable card."""
+    records = [
+        {"name": "Card A", "type": "Creature — Human"},
+        {"name": "Card B", "type": "Creature — Human Wizard"},
+        {"name": "Card C", "type": "Creature — Golem"},
+        {"name": "Card D", "type": "Creature"},
+    ]
+
+    root = extractor.extract(records)[0]
+    subtype_root = _find_child(root, "subtypes")
+    assert subtype_root is not None
+
+    creature = _find_child(subtype_root, "subtypes:creature")
+    assert creature is not None
+
+    assert creature.statistics.minimum_cardinality == 0
+    assert creature.statistics.maximum_cardinality == 2
+    assert creature.total_observations == 4
+    assert creature.missing_observations == 1
+
+
+def test_extractor_counts_applicable_categories_once_per_card(
+    extractor: TypeSystemExtractor,
+) -> None:
+    """Do not count the same category twice for a multi-type card."""
+    records = [
+        {
+            "name": "Card A",
+            "type": "Artifact Creature — Equipment Golem",
+        },
+        {
+            "name": "Card B",
+            "type": "Artifact — Equipment",
+        },
+    ]
+
+    root = extractor.extract(records)[0]
+    subtype_root = _find_child(root, "subtypes")
+    assert subtype_root is not None
+
+    artifact = _find_child(subtype_root, "subtypes:artifact")
+    creature = _find_child(subtype_root, "subtypes:creature")
+
+    assert artifact is not None
+    assert creature is not None
+
+    assert artifact.total_observations == 2
+    assert artifact.missing_observations == 0
+
+    assert creature.total_observations == 1
+    assert creature.missing_observations == 0
+
+
+def test_extractor_preserves_constant_card_types(
+    extractor: TypeSystemExtractor,
+) -> None:
+    """Preserve structural types even when they are constant."""
+    records = [
+        {"name": "Card A", "type": "Creature — Human"},
+        {"name": "Card B", "type": "Creature — Wizard"},
+    ]
+
+    root = extractor.extract(records)[0]
+    card_types = _find_child(root, "card_types")
+
+    assert card_types is not None
+
+    creature = _find_variant(card_types, "Creature")
+
+    assert creature is not None
+    assert creature.occurrences == 2
+    assert card_types.statistics.minimum_cardinality == 1
+    assert card_types.statistics.maximum_cardinality == 1

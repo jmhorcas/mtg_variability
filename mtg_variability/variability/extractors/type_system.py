@@ -7,7 +7,7 @@ from dataclasses import dataclass
 import re
 
 from mtg_variability.variability.extractors.base import BaseVariationExtractor
-from mtg_variability.variability.models import VariationPointSpec, VariantSpec
+from mtg_variability.variability.models import VariationPointSpec, VariantSpec, VariationStatistics
 from mtg_variability.variability.protocols import CardRecord
 from mtg_variability.variability.taxonomy import MTGTaxonomy, SubtypeCategory
 
@@ -233,6 +233,7 @@ class TypeLineParser:
         return None
 
 
+
 class TypeSystemExtractor(BaseVariationExtractor):
     """Discover variability in MTG supertypes, card types and subtypes."""
 
@@ -244,18 +245,7 @@ class TypeSystemExtractor(BaseVariationExtractor):
         example_attribute: str = "name",
         max_examples: int = 3,
     ) -> None:
-        """Initialize the type system extractor.
-
-        Args:
-            taxonomy: Loaded MTG taxonomy.
-            attribute: Dataset attribute containing the type line.
-            example_attribute: Attribute used to obtain example card names.
-            max_examples: Maximum number of examples per variant.
-
-        Raises:
-            ValueError: If an attribute name is empty or max_examples
-                is not a positive integer.
-        """
+        """Initialize the type system extractor."""
         normalized_attribute = attribute.strip()
         normalized_example_attribute = example_attribute.strip()
 
@@ -288,14 +278,21 @@ class TypeSystemExtractor(BaseVariationExtractor):
         records: Sequence[CardRecord],
     ) -> Sequence[VariationPointSpec]:
         """Extract the hierarchical type system specification."""
+        groups = ("supertypes", "card_types")
+
         counts: dict[str, dict[str, int]] = {
-            "supertypes": defaultdict(int),
-            "card_types": defaultdict(int),
+            group: defaultdict(int)
+            for group in groups
         }
 
         examples: dict[str, dict[str, list[str]]] = {
-            "supertypes": defaultdict(list),
-            "card_types": defaultdict(list),
+            group: defaultdict(list)
+            for group in groups
+        }
+
+        cardinality_ranges: dict[str, list[int | None]] = {
+            group: [None, None]
+            for group in groups
         }
 
         subtype_counts: dict[SubtypeCategory, dict[str, int]] = {
@@ -313,6 +310,14 @@ class TypeSystemExtractor(BaseVariationExtractor):
 
         category_observations: dict[SubtypeCategory, int] = defaultdict(int)
         category_missing: dict[SubtypeCategory, int] = defaultdict(int)
+
+        category_cardinality_ranges: dict[
+            SubtypeCategory,
+            list[int | None],
+        ] = {
+            category: [None, None]
+            for category in SubtypeCategory
+        }
 
         unknown_prefix_counts: dict[str, int] = defaultdict(int)
         unknown_subtype_counts: dict[str, int] = defaultdict(int)
@@ -344,6 +349,10 @@ class TypeSystemExtractor(BaseVariationExtractor):
                 examples,
                 example,
             )
+            self._update_cardinality(
+                cardinality_ranges["supertypes"],
+                len(parsed.supertypes),
+            )
 
             self._accumulate_values(
                 "card_types",
@@ -351,6 +360,10 @@ class TypeSystemExtractor(BaseVariationExtractor):
                 counts,
                 examples,
                 example,
+            )
+            self._update_cardinality(
+                cardinality_ranges["card_types"],
+                len(parsed.card_types),
             )
 
             subtypes_by_category: dict[
@@ -361,14 +374,28 @@ class TypeSystemExtractor(BaseVariationExtractor):
             for category, value in parsed.subtypes:
                 subtypes_by_category[category].add(value)
 
-            for card_type in parsed.card_types:
+            # A category is observed only once per card, even if several
+            # card types make that category applicable.
+            applicable_categories = {
+                category
+                for card_type in parsed.card_types
                 for category in self._taxonomy.get_categories_for_card_type(
                     card_type
-                ):
-                    category_observations[category] += 1
+                )
+            }
 
-                    if not subtypes_by_category[category]:
-                        category_missing[category] += 1
+            for category in applicable_categories:
+                category_observations[category] += 1
+
+                category_cardinality = len(subtypes_by_category[category])
+
+                self._update_cardinality(
+                    category_cardinality_ranges[category],
+                    category_cardinality,
+                )
+
+                if category_cardinality == 0:
+                    category_missing[category] += 1
 
             for category, values in subtypes_by_category.items():
                 for value in values:
@@ -392,6 +419,7 @@ class TypeSystemExtractor(BaseVariationExtractor):
             examples=examples["supertypes"],
             total_observations=len(records),
             missing_observations=missing_count,
+            cardinality_range=cardinality_ranges["supertypes"],
         )
 
         card_type_point = self._build_point(
@@ -401,6 +429,7 @@ class TypeSystemExtractor(BaseVariationExtractor):
             examples=examples["card_types"],
             total_observations=len(records),
             missing_observations=missing_count,
+            cardinality_range=cardinality_ranges["card_types"],
         )
 
         subtype_points = tuple(
@@ -414,6 +443,9 @@ class TypeSystemExtractor(BaseVariationExtractor):
                     examples=subtype_examples[category],
                     total_observations=category_observations[category],
                     missing_observations=category_missing[category],
+                    cardinality_range=(
+                        category_cardinality_ranges[category]
+                    ),
                 )
             ) is not None
         )
@@ -466,6 +498,25 @@ class TypeSystemExtractor(BaseVariationExtractor):
             ),
         )
 
+    @staticmethod
+    def _update_cardinality(
+        bounds: list[int | None],
+        cardinality: int,
+    ) -> None:
+        """Update the minimum and maximum observed cardinalities."""
+        minimum, maximum = bounds
+
+        bounds[0] = (
+            cardinality
+            if minimum is None
+            else min(minimum, cardinality)
+        )
+        bounds[1] = (
+            cardinality
+            if maximum is None
+            else max(maximum, cardinality)
+        )
+
     def _accumulate_values(
         self,
         group: str,
@@ -501,6 +552,7 @@ class TypeSystemExtractor(BaseVariationExtractor):
         examples: dict[str, list[str]],
         total_observations: int,
         missing_observations: int,
+        cardinality_range: list[int | None],
     ) -> VariationPointSpec | None:
         """Build a variation point from accumulated values."""
         if not counts:
@@ -518,10 +570,16 @@ class TypeSystemExtractor(BaseVariationExtractor):
             )
         )
 
+        statistics = VariationStatistics(
+            minimum_cardinality=cardinality_range[0],
+            maximum_cardinality=cardinality_range[1],
+        )
+
         return VariationPointSpec(
             name=name,
             source_attributes=(source_attribute,),
             variants=variants,
             total_observations=total_observations,
             missing_observations=missing_observations,
+            statistics=statistics,
         )

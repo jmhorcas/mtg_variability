@@ -5,16 +5,22 @@ from collections import Counter, defaultdict
 from collections.abc import Sequence
 
 from mtg_variability.variability.extractors.base import BaseVariationExtractor
-from mtg_variability.variability.models import VariantSpec, VariationPointSpec
+from mtg_variability.variability.models import (
+    VariationPointSpec,
+    VariationStatistics,
+    VariantSpec,
+)
 from mtg_variability.variability.protocols import CardRecord
 
 
 class PowerToughnessExtractor(BaseVariationExtractor):
     """Extract power and toughness variation from card records.
 
-    Power and toughness are treated as independent categorical dimensions.
     Values are preserved as strings because MTG supports both numeric and
     symbolic expressions, such as '*', 'X', and '1+*'.
+
+    Integer values are additionally summarized using numeric bounds.
+    Non-integer values are retained as special values.
     """
 
     def __init__(
@@ -71,6 +77,9 @@ class PowerToughnessExtractor(BaseVariationExtractor):
         examples: dict[str, list[str]] = defaultdict(list)
         missing_count = 0
 
+        numeric_values: list[int] = []
+        special_values: set[str] = set()
+
         for record in records:
             value = self._get_normalized_value(record, attribute)
 
@@ -80,14 +89,21 @@ class PowerToughnessExtractor(BaseVariationExtractor):
 
             counts[value] += 1
 
+            numeric_value = self._parse_integer(value)
+
+            if numeric_value is None:
+                special_values.add(value)
+            else:
+                numeric_values.append(numeric_value)
+
             example = self._get_normalized_value(
                 record,
                 self._example_attribute,
             )
             self._append_example(examples[value], example)
 
-        # Constant attributes do not represent variation points.
-        if len(counts) < 2:
+        # Skip attributes that are constant and always present.
+        if len(counts) < 2 and missing_count == 0:
             return None
 
         variants = tuple(
@@ -102,13 +118,30 @@ class PowerToughnessExtractor(BaseVariationExtractor):
             )
         )
 
+        statistics = VariationStatistics(
+            numeric_minimum=min(numeric_values) if numeric_values else None,
+            numeric_maximum=max(numeric_values) if numeric_values else None,
+            special_values=tuple(
+                sorted(special_values, key=lambda value: (value.casefold(), value))
+            ),
+        )
+
         return VariationPointSpec(
             name=attribute,
             source_attributes=(attribute,),
             variants=variants,
             total_observations=len(records),
             missing_observations=missing_count,
+            statistics=statistics,
         )
+
+    @staticmethod
+    def _parse_integer(value: str) -> int | None:
+        """Parse an integer value, returning None for symbolic values."""
+        try:
+            return int(value)
+        except ValueError:
+            return None
 
     def _append_example(
         self,

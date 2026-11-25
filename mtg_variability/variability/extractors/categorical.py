@@ -1,3 +1,4 @@
+
 """Extractor for simple categorical card attributes."""
 
 from collections import defaultdict
@@ -17,7 +18,7 @@ class CategoricalExtractor(BaseVariationExtractor):
 
     Each distinct non-missing attribute value becomes a variant.
     Attributes with fewer than two distinct values do not produce
-    a variation point.
+    a variation point unless some observations are missing.
 
     The extractor is intentionally domain-independent. It does not
     interpret MTG-specific structures or multi-valued attributes.
@@ -99,8 +100,6 @@ class CategoricalExtractor(BaseVariationExtractor):
                 continue
 
             value = self._normalize_value(raw_value)
-
-            # Normalize internal whitespace without changing the label.
             value = " ".join(value.split())
 
             if not value:
@@ -121,8 +120,10 @@ class CategoricalExtractor(BaseVariationExtractor):
             ):
                 examples[value].append(example)
 
-        # A constant or entirely missing attribute is not a variation point.
-        if len(occurrences) < 2:
+        # A constant attribute is relevant when some records lack it.
+        if not occurrences or (
+            len(occurrences) == 1 and missing_count == 0
+        ):
             return ()
 
         variants = tuple(

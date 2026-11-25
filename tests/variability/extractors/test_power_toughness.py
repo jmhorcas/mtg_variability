@@ -257,3 +257,24 @@ class TestPowerToughnessExtractor:
     def test_invalid_configuration(self, kwargs):
         with pytest.raises(ValueError):
             PowerToughnessExtractor(**kwargs)
+
+    def test_creates_point_for_constant_attribute_with_missing_values(
+        self,
+        extractor,
+    ):
+        records = [
+            {"name": "Card A", "power": "2", "toughness": "3"},
+            {"name": "Card B", "power": None, "toughness": "3"},
+            {"name": "Card C", "power": "2", "toughness": "3"},
+        ]
+
+        points = extractor.extract(records)
+
+        power = next(point for point in points if point.name == "power")
+
+        assert len(power.variants) == 1
+        assert power.variants[0].name == "2"
+        assert power.variants[0].occurrences == 2
+        assert power.missing_observations == 1
+        assert power.statistics.numeric_minimum == 2
+        assert power.statistics.numeric_maximum == 2

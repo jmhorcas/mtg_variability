@@ -1,0 +1,263 @@
+============================= test session starts ==============================
+platform linux -- Python 3.14.10, pytest-9.2.0, pluggy-1.7.0 -- /home/josemi/Workspaces/variability/mtg_variability/env/bin/python
+cachedir: .pytest_cache
+rootdir: /home/josemi/Workspaces/variability/mtg_variability
+collecting ... collected 163 items
+
+tests/variability/extractors/test_categorical.py::test_extractor_assigns_category[functional-functional0] PASSED [  0%]
+tests/variability/extractors/test_categorical.py::test_extractor_assigns_category[collection-collection0] PASSED [  1%]
+tests/variability/extractors/test_categorical.py::test_extractor_assigns_category[presentation-presentation0] PASSED [  1%]
+tests/variability/extractors/test_categorical.py::test_extractor_assigns_category[functional-functional1] PASSED [  2%]
+tests/variability/extractors/test_categorical.py::test_extractor_assigns_category[collection-collection1] PASSED [  3%]
+tests/variability/extractors/test_categorical.py::test_extractor_assigns_category[presentation-presentation1] PASSED [  3%]
+tests/variability/extractors/test_categorical.py::test_extractor_defaults_to_functional_category PASSED [  4%]
+tests/variability/extractors/test_categorical.py::test_extractor_rejects_invalid_category PASSED [  4%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_name PASSED [  5%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_empty_dataset PASSED [  6%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_mana_cost_hierarchy PASSED [  6%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_generic_mana PASSED [  7%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_sums_numeric_generic_symbols PASSED [  7%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_all_five_colors PASSED [  8%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_colorless_mana PASSED [  9%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_does_not_confuse_colorless_with_generic PASSED [  9%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_snow_mana PASSED [ 10%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_variable_symbols[X] PASSED [ 11%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_variable_symbols[Y] PASSED [ 11%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_variable_symbols[Z] PASSED [ 12%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_hybrid_symbols[W/U] PASSED [ 12%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_hybrid_symbols[U/B] PASSED [ 13%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_hybrid_symbols[B/R] PASSED [ 14%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_hybrid_symbols[R/G] PASSED [ 14%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_hybrid_symbols[G/W] PASSED [ 15%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_hybrid_symbols[2/W] PASSED [ 15%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_hybrid_symbols[2/U] PASSED [ 16%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_hybrid_symbols_do_not_increment_individual_colors PASSED [ 17%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_phyrexian_symbols[W/P] PASSED [ 17%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_phyrexian_symbols[U/P] PASSED [ 18%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_phyrexian_symbols[B/P] PASSED [ 19%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_phyrexian_symbols[R/P] PASSED [ 19%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_phyrexian_symbols[G/P] PASSED [ 20%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_hybrid_phyrexian_symbols PASSED [ 20%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_phyrexian_hybrid_combinations PASSED [ 21%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_extracts_special_phyrexian_symbol_h PASSED [ 22%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_preserves_exact_hybrid_combinations PASSED [ 22%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_counts_repeated_symbols PASSED [ 23%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_empty_mana_cost_is_valid_zero_cost PASSED [ 23%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_whitespace_mana_cost_is_valid_zero_cost PASSED [ 24%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_missing_mana_cost_is_counted PASSED [ 25%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_missing_cost_is_not_treated_as_zero_cost PASSED [ 25%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_unknown_symbol_is_preserved PASSED [ 26%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_malformed_text_is_not_silently_discarded PASSED [ 26%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_variant_examples_are_collected PASSED [ 27%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_examples_are_unique PASSED [ 28%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_max_examples_is_respected PASSED [ 28%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_zero_max_examples PASSED [ 29%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_missing_example_attribute PASSED [ 30%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_custom_attribute_names PASSED [ 30%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_invalid_configuration[kwargs0] PASSED [ 31%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_invalid_configuration[kwargs1] PASSED [ 31%]
+tests/variability/extractors/test_mana_cost.py::TestManaCostExtractor::test_invalid_configuration[kwargs2] PASSED [ 32%]
+tests/variability/extractors/test_multi_value.py::test_extracts_independent_values PASSED [ 33%]
+tests/variability/extractors/test_multi_value.py::test_empty_lists_are_valid_observations PASSED [ 33%]
+tests/variability/extractors/test_multi_value.py::test_missing_values_are_counted PASSED [ 34%]
+tests/variability/extractors/test_multi_value.py::test_duplicate_values_are_counted_once_per_record PASSED [ 34%]
+tests/variability/extractors/test_multi_value.py::test_preserves_examples PASSED [ 35%]
+tests/variability/extractors/test_multi_value.py::test_does_not_extract_constant_attribute FAILED [ 36%]
+tests/variability/extractors/test_multi_value.py::test_assigns_category[functional-functional] PASSED [ 36%]
+tests/variability/extractors/test_multi_value.py::test_assigns_category[collection-collection] PASSED [ 37%]
+tests/variability/extractors/test_multi_value.py::test_assigns_category[presentation-presentation] PASSED [ 38%]
+tests/variability/extractors/test_multi_value.py::test_rejects_invalid_serialized_lists[W,U] PASSED [ 38%]
+tests/variability/extractors/test_multi_value.py::test_rejects_invalid_serialized_lists[{'W', 'U'}] PASSED [ 39%]
+tests/variability/extractors/test_multi_value.py::test_rejects_invalid_serialized_lists[not a list] PASSED [ 39%]
+tests/variability/extractors/test_multi_value.py::test_rejects_invalid_serialized_lists[['W', 2]] PASSED [ 40%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_name PASSED [ 41%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_empty_dataset PASSED [ 41%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_extracts_power_and_toughness_independently PASSED [ 42%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_power_occurrences PASSED [ 42%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_toughness_occurrences PASSED [ 43%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_preserves_symbolic_values[*] PASSED [ 44%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_preserves_symbolic_values[X] PASSED [ 44%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_preserves_symbolic_values[1+*] PASSED [ 45%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_preserves_symbolic_values[*+1] PASSED [ 46%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_preserves_symbolic_values[1+1] PASSED [ 46%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_preserves_symbolic_values[\u221e] PASSED [ 47%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_preserves_whitespace_normalization PASSED [ 47%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_does_not_create_point_for_constant_power PASSED [ 48%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_does_not_create_point_for_constant_toughness PASSED [ 49%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_does_not_create_points_when_both_attributes_are_constant PASSED [ 49%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_missing_values_are_counted PASSED [ 50%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_missing_values_do_not_contribute_to_variants PASSED [ 50%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_variant_examples_are_collected PASSED [ 51%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_examples_are_unique PASSED [ 52%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_max_examples_is_respected PASSED [ 52%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_zero_max_examples PASSED [ 53%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_missing_example_attribute PASSED [ 53%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_custom_attribute_names PASSED [ 54%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_invalid_configuration[kwargs0] PASSED [ 55%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_invalid_configuration[kwargs1] PASSED [ 55%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_invalid_configuration[kwargs2] PASSED [ 56%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_invalid_configuration[kwargs3] PASSED [ 57%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_invalid_configuration[kwargs4] PASSED [ 57%]
+tests/variability/extractors/test_power_toughness.py::TestPowerToughnessExtractor::test_creates_point_for_constant_attribute_with_missing_values PASSED [ 58%]
+tests/variability/extractors/test_type_system.py::test_parse_empty_type_line PASSED [ 58%]
+tests/variability/extractors/test_type_system.py::test_parse_type_line_with_only_card_type PASSED [ 59%]
+tests/variability/extractors/test_type_system.py::test_parse_supertypes_and_multiple_card_types PASSED [ 60%]
+tests/variability/extractors/test_type_system.py::test_parse_subtypes_by_category PASSED [ 60%]
+tests/variability/extractors/test_type_system.py::test_parse_multi_word_creature_subtype PASSED [ 61%]
+tests/variability/extractors/test_type_system.py::test_parse_multi_word_planar_subtype PASSED [ 61%]
+tests/variability/extractors/test_type_system.py::test_parse_shared_subtype_using_card_type_context PASSED [ 62%]
+tests/variability/extractors/test_type_system.py::test_parse_multiple_card_types_with_shared_subtype PASSED [ 63%]
+tests/variability/extractors/test_type_system.py::test_parse_en_dash_separator PASSED [ 63%]
+tests/variability/extractors/test_type_system.py::test_parse_case_insensitively PASSED [ 64%]
+tests/variability/extractors/test_type_system.py::test_parse_unknown_prefix_value PASSED [ 65%]
+tests/variability/extractors/test_type_system.py::test_parse_unknown_subtype PASSED [ 65%]
+tests/variability/extractors/test_type_system.py::test_parse_type_line_without_applicable_subtype_category PASSED [ 66%]
+tests/variability/extractors/test_type_system.py::test_parse_multi_face_type_line PASSED [ 66%]
+tests/variability/extractors/test_type_system.py::test_parse_deduplicates_values_across_faces PASSED [ 67%]
+tests/variability/extractors/test_type_system.py::test_parse_rejects_non_string_input PASSED [ 68%]
+tests/variability/extractors/test_type_system.py::test_extractor_name PASSED [ 68%]
+tests/variability/extractors/test_type_system.py::test_extractor_returns_empty_for_empty_dataset PASSED [ 69%]
+tests/variability/extractors/test_type_system.py::test_extractor_builds_type_hierarchy PASSED [ 69%]
+tests/variability/extractors/test_type_system.py::test_extractor_counts_supertypes_and_card_types PASSED [ 70%]
+tests/variability/extractors/test_type_system.py::test_extractor_counts_subtypes_by_category PASSED [ 71%]
+tests/variability/extractors/test_type_system.py::test_extractor_does_not_duplicate_subtypes_per_card PASSED [ 71%]
+tests/variability/extractors/test_type_system.py::test_extractor_counts_category_observations_and_missing_subtypes PASSED [ 72%]
+tests/variability/extractors/test_type_system.py::test_extractor_records_unknown_values_in_metadata PASSED [ 73%]
+tests/variability/extractors/test_type_system.py::test_extractor_tracks_missing_type_lines PASSED [ 73%]
+tests/variability/extractors/test_type_system.py::test_extractor_keeps_unknown_only_type_lines PASSED [ 74%]
+tests/variability/extractors/test_type_system.py::test_extractor_respects_max_examples PASSED [ 74%]
+tests/variability/extractors/test_type_system.py::test_extractor_handles_missing_example_attribute PASSED [ 75%]
+tests/variability/extractors/test_type_system.py::test_extractor_rejects_invalid_configuration PASSED [ 76%]
+tests/variability/persistence/test_specification_writer.py::test_writes_valid_json PASSED [ 76%]
+tests/variability/persistence/test_specification_writer.py::test_serializes_nested_dataclasses PASSED [ 77%]
+tests/variability/persistence/test_specification_writer.py::test_preserves_unicode PASSED [ 77%]
+tests/variability/persistence/test_specification_writer.py::test_creates_parent_directories PASSED [ 78%]
+tests/variability/persistence/test_specification_writer.py::test_writes_deterministic_output PASSED [ 79%]
+tests/variability/persistence/test_specification_writer.py::test_overwrites_existing_file PASSED [ 79%]
+tests/variability/persistence/test_specification_writer.py::test_preserves_existing_file_on_serialization_error PASSED [ 80%]
+tests/variability/persistence/test_specification_writer.py::test_rejects_invalid_specification PASSED [ 80%]
+tests/variability/persistence/test_specification_writer.py::test_returns_destination_path PASSED [ 81%]
+tests/variability/taxonomy/test_generate_taxonomy.py::test_generate_taxonomy_from_comprehensive_rules PASSED [ 82%]
+tests/variability/taxonomy/test_generate_taxonomy.py::test_generated_taxonomy_has_expected_subtype_counts PASSED [ 82%]
+tests/variability/taxonomy/test_generate_taxonomy.py::test_generated_taxonomy_preserves_special_subtypes PASSED [ 83%]
+tests/variability/taxonomy/test_generate_taxonomy.py::test_generated_taxonomy_can_be_loaded PASSED [ 84%]
+tests/variability/taxonomy/test_generate_taxonomy.py::test_generation_is_deterministic PASSED [ 84%]
+tests/variability/taxonomy/test_generate_taxonomy.py::test_generation_failure_does_not_overwrite_existing_output PASSED [ 85%]
+tests/variability/taxonomy/test_loader.py::test_load_valid_taxonomy PASSED [ 85%]
+tests/variability/taxonomy/test_loader.py::test_load_taxonomy_preserves_unicode PASSED [ 86%]
+tests/variability/taxonomy/test_loader.py::test_load_taxonomy_preserves_ambiguous_subtypes PASSED [ 87%]
+tests/variability/taxonomy/test_loader.py::test_load_taxonomy_is_case_insensitive PASSED [ 87%]
+tests/variability/taxonomy/test_loader.py::test_load_missing_file_raises_file_not_found_error PASSED [ 88%]
+tests/variability/taxonomy/test_loader.py::test_load_invalid_json_raises_taxonomy_load_error PASSED [ 88%]
+tests/variability/taxonomy/test_loader.py::test_load_taxonomy_rejects_missing_required_fields PASSED [ 89%]
+tests/variability/taxonomy/test_loader.py::test_load_taxonomy_rejects_unknown_root_fields PASSED [ 90%]
+tests/variability/test_models.py::test_variation_point_category[functional-functional0] PASSED [ 90%]
+tests/variability/test_models.py::test_variation_point_category[collection-collection0] PASSED [ 91%]
+tests/variability/test_models.py::test_variation_point_category[presentation-presentation0] PASSED [ 92%]
+tests/variability/test_models.py::test_variation_point_category[functional-functional1] PASSED [ 92%]
+tests/variability/test_models.py::test_variation_point_category[collection-collection1] PASSED [ 93%]
+tests/variability/test_models.py::test_variation_point_category[presentation-presentation1] PASSED [ 93%]
+tests/variability/test_models.py::test_variation_point_rejects_invalid_category PASSED [ 94%]
+tests/variability/test_models.py::test_variation_point_defaults_to_functional_category PASSED [ 95%]
+tests/variability/test_pipeline.py::test_runs_complete_pipeline PASSED   [ 95%]
+tests/variability/test_pipeline.py::test_includes_custom_metadata PASSED [ 96%]
+tests/variability/test_pipeline.py::test_uses_empty_metadata_by_default PASSED [ 96%]
+tests/variability/test_pipeline.py::test_supports_empty_dataset PASSED   [ 97%]
+tests/variability/test_pipeline.py::test_supports_multiple_extractors PASSED [ 98%]
+tests/variability/test_pipeline.py::test_propagates_reader_errors PASSED [ 98%]
+tests/variability/test_pipeline.py::test_propagates_writer_errors PASSED [ 99%]
+tests/variability/test_pipeline.py::test_converts_string_paths_to_path_objects PASSED [100%]
+
+=================================== FAILURES ===================================
+___________________ test_does_not_extract_constant_attribute ___________________
+
+    def test_does_not_extract_constant_attribute():
+        extractor = MultiValueExtractor("colors")
+    
+        records = [
+            {"name": "Card A", "colors": "['W']"},
+            {"name": "Card B", "colors": "['W']"},
+            {"name": "Card C", "colors": "[]"},
+        ]
+    
+>       assert extractor.extract(records) == ()
+E       AssertionError: assert (VariationPointSpec(name='colors', source_attributes=('colors',), variants=(VariantSpec(name='W', occurrences=2, child_points=(), examples=('Card A', 'Card B'), metadata={}),), child_points=(), total_observations=3, missing_observations=0, metadata={}, category=<VariabilityCategory.FUNCTIONAL: 'functional'>, statistics=VariationStatistics(numeric_minimum=None, numeric_maximum=None, special_values=(), minimum_cardinality=0, maximum_cardinality=1)),) == ()
+E         
+E         Left contains one more item: VariationPointSpec(name='colors', source_attributes=('colors',), variants=(VariantSpec(name='W', occurrences=2, child_...tatistics(numeric_minimum=None, numeric_maximum=None, special_values=(), minimum_cardinality=0, maximum_cardinality=1))
+E         
+E         Full diff: (-: missing in left side, +: extra in left side)
+E         - ()
+E         + (
+E         +     VariationPointSpec(
+E         +         name='colors',
+E         +         source_attributes=(
+E         +                               'colors',
+E         +                           ),
+E         +         variants=(
+E         +                      VariantSpec(
+E         +                          name='W',
+E         +                          occurrences=2,
+E         +                          child_points=(),
+E         +                          examples=(
+E         +                                       'Card A',
+E         +                                       'Card B',
+E         +                                   ),
+E         +                          metadata={},
+E         +                      ),
+E         +                  ),
+E         +         child_points=(),
+E         +         total_observations=3,
+E         +         missing_observations=0,
+E         +         metadata={},
+E         +         category=<VariabilityCategory.FUNCTIONAL: 'functional'>,
+E         +         statistics=VariationStatistics(
+E         +                        numeric_minimum=None,
+E         +                        numeric_maximum=None,
+E         +                        special_values=(),
+E         +                        minimum_cardinality=0,
+E         +                        maximum_cardinality=1,
+E         +                    ),
+E         +     ),
+E         + )
+
+tests/variability/extractors/test_multi_value.py:108: AssertionError
+=========================== short test summary info ============================
+FAILED tests/variability/extractors/test_multi_value.py::test_does_not_extract_constant_attribute - AssertionError: assert (VariationPointSpec(name='colors', source_attributes=('colors',), variants=(VariantSpec(name='W', occurrences=2, child_points=(), examples=('Card A', 'Card B'), metadata={}),), child_points=(), total_observations=3, missing_observations=0, metadata={}, category=<VariabilityCategory.FUNCTIONAL: 'functional'>, statistics=VariationStatistics(numeric_minimum=None, numeric_maximum=None, special_values=(), minimum_cardinality=0, maximum_cardinality=1)),) == ()
+  
+  Left contains one more item: VariationPointSpec(name='colors', source_attributes=('colors',), variants=(VariantSpec(name='W', occurrences=2, child_...tatistics(numeric_minimum=None, numeric_maximum=None, special_values=(), minimum_cardinality=0, maximum_cardinality=1))
+  
+  Full diff: (-: missing in left side, +: extra in left side)
+  - ()
+  + (
+  +     VariationPointSpec(
+  +         name='colors',
+  +         source_attributes=(
+  +                               'colors',
+  +                           ),
+  +         variants=(
+  +                      VariantSpec(
+  +                          name='W',
+  +                          occurrences=2,
+  +                          child_points=(),
+  +                          examples=(
+  +                                       'Card A',
+  +                                       'Card B',
+  +                                   ),
+  +                          metadata={},
+  +                      ),
+  +                  ),
+  +         child_points=(),
+  +         total_observations=3,
+  +         missing_observations=0,
+  +         metadata={},
+  +         category=<VariabilityCategory.FUNCTIONAL: 'functional'>,
+  +         statistics=VariationStatistics(
+  +                        numeric_minimum=None,
+  +                        numeric_maximum=None,
+  +                        special_values=(),
+  +                        minimum_cardinality=0,
+  +                        maximum_cardinality=1,
+  +                    ),
+  +     ),
+  + )
+======================== 1 failed, 162 passed in 0.46s =========================

@@ -96,7 +96,8 @@ def test_preserves_examples():
     assert variants["U"].examples == ("Card A",)
 
 
-def test_does_not_extract_constant_attribute():
+
+def test_extracts_attribute_with_empty_lists():
     extractor = MultiValueExtractor("colors")
 
     records = [
@@ -105,7 +106,20 @@ def test_does_not_extract_constant_attribute():
         {"name": "Card C", "colors": "[]"},
     ]
 
-    assert extractor.extract(records) == ()
+    points = extractor.extract(records)
+
+    assert len(points) == 1
+
+    point = points[0]
+
+    assert point.name == "colors"
+    assert len(point.variants) == 1
+    assert point.variants[0].name == "W"
+    assert point.variants[0].occurrences == 2
+    assert point.missing_observations == 0
+    assert point.statistics.minimum_cardinality == 0
+    assert point.statistics.maximum_cardinality == 1
+
 
 
 @pytest.mark.parametrize(

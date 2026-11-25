@@ -14,6 +14,13 @@
       "source_attributes": [
         "colors"
       ],
+      "statistics": {
+        "maximum_cardinality": 1,
+        "minimum_cardinality": 1,
+        "numeric_maximum": null,
+        "numeric_minimum": null,
+        "special_values": []
+      },
       "total_observations": 302,
       "variants": [
         {
@@ -82,6 +89,13 @@
       "source_attributes": [
         "color_identity"
       ],
+      "statistics": {
+        "maximum_cardinality": 2,
+        "minimum_cardinality": 1,
+        "numeric_maximum": null,
+        "numeric_minimum": null,
+        "special_values": []
+      },
       "total_observations": 302,
       "variants": [
         {
@@ -153,6 +167,13 @@
           "source_attributes": [
             "type"
           ],
+          "statistics": {
+            "maximum_cardinality": 1,
+            "minimum_cardinality": 0,
+            "numeric_maximum": null,
+            "numeric_minimum": null,
+            "special_values": []
+          },
           "total_observations": 302,
           "variants": [
             {
@@ -177,6 +198,13 @@
           "source_attributes": [
             "type"
           ],
+          "statistics": {
+            "maximum_cardinality": 2,
+            "minimum_cardinality": 1,
+            "numeric_maximum": null,
+            "numeric_minimum": null,
+            "special_values": []
+          },
           "total_observations": 302,
           "variants": [
             {
@@ -259,6 +287,13 @@
               "source_attributes": [
                 "type"
               ],
+              "statistics": {
+                "maximum_cardinality": 1,
+                "minimum_cardinality": 0,
+                "numeric_maximum": null,
+                "numeric_minimum": null,
+                "special_values": []
+              },
               "total_observations": 69,
               "variants": [
                 {
@@ -283,6 +318,13 @@
               "source_attributes": [
                 "type"
               ],
+              "statistics": {
+                "maximum_cardinality": 2,
+                "minimum_cardinality": 1,
+                "numeric_maximum": null,
+                "numeric_minimum": null,
+                "special_values": []
+              },
               "total_observations": 25,
               "variants": [
                 {
@@ -351,6 +393,13 @@
               "source_attributes": [
                 "type"
               ],
+              "statistics": {
+                "maximum_cardinality": 2,
+                "minimum_cardinality": 1,
+                "numeric_maximum": null,
+                "numeric_minimum": null,
+                "special_values": []
+              },
               "total_observations": 92,
               "variants": [
                 {
@@ -978,6 +1027,13 @@
           "source_attributes": [
             "type"
           ],
+          "statistics": {
+            "maximum_cardinality": null,
+            "minimum_cardinality": null,
+            "numeric_maximum": null,
+            "numeric_minimum": null,
+            "special_values": []
+          },
           "total_observations": 302,
           "variants": []
         }
@@ -988,6 +1044,13 @@
       "source_attributes": [
         "type"
       ],
+      "statistics": {
+        "maximum_cardinality": null,
+        "minimum_cardinality": null,
+        "numeric_maximum": null,
+        "numeric_minimum": null,
+        "special_values": []
+      },
       "total_observations": 302,
       "variants": []
     },
@@ -1000,6 +1063,15 @@
       "source_attributes": [
         "power"
       ],
+      "statistics": {
+        "maximum_cardinality": null,
+        "minimum_cardinality": null,
+        "numeric_maximum": 8,
+        "numeric_minimum": 0,
+        "special_values": [
+          "*"
+        ]
+      },
       "total_observations": 302,
       "variants": [
         {
@@ -1118,6 +1190,15 @@
       "source_attributes": [
         "toughness"
       ],
+      "statistics": {
+        "maximum_cardinality": null,
+        "minimum_cardinality": null,
+        "numeric_maximum": 8,
+        "numeric_minimum": 0,
+        "special_values": [
+          "*"
+        ]
+      },
       "total_observations": 302,
       "variants": [
         {
@@ -1242,6 +1323,13 @@
           "source_attributes": [
             "mana_cost"
           ],
+          "statistics": {
+            "maximum_cardinality": null,
+            "minimum_cardinality": null,
+            "numeric_maximum": 4,
+            "numeric_minimum": 0,
+            "special_values": []
+          },
           "total_observations": 302,
           "variants": [
             {
@@ -1308,6 +1396,13 @@
           "source_attributes": [
             "mana_cost"
           ],
+          "statistics": {
+            "maximum_cardinality": null,
+            "minimum_cardinality": null,
+            "numeric_maximum": 3,
+            "numeric_minimum": 0,
+            "special_values": []
+          },
           "total_observations": 302,
           "variants": [
             {
@@ -1363,6 +1458,13 @@
           "source_attributes": [
             "mana_cost"
           ],
+          "statistics": {
+            "maximum_cardinality": null,
+            "minimum_cardinality": null,
+            "numeric_maximum": 6,
+            "numeric_minimum": 0,
+            "special_values": []
+          },
           "total_observations": 302,
           "variants": [
             {
@@ -1452,6 +1554,13 @@
           "source_attributes": [
             "mana_cost"
           ],
+          "statistics": {
+            "maximum_cardinality": null,
+            "minimum_cardinality": null,
+            "numeric_maximum": 4,
+            "numeric_minimum": 0,
+            "special_values": []
+          },
           "total_observations": 302,
           "variants": [
             {
@@ -1516,6 +1625,13 @@
           "source_attributes": [
             "mana_cost"
           ],
+          "statistics": {
+            "maximum_cardinality": null,
+            "minimum_cardinality": null,
+            "numeric_maximum": 2,
+            "numeric_minimum": 0,
+            "special_values": []
+          },
           "total_observations": 302,
           "variants": [
             {
@@ -1562,6 +1678,13 @@
           "source_attributes": [
             "mana_cost"
           ],
+          "statistics": {
+            "maximum_cardinality": null,
+            "minimum_cardinality": null,
+            "numeric_maximum": 1,
+            "numeric_minimum": 0,
+            "special_values": []
+          },
           "total_observations": 302,
           "variants": [
             {
@@ -1597,6 +1720,13 @@
           "source_attributes": [
             "mana_cost"
           ],
+          "statistics": {
+            "maximum_cardinality": null,
+            "minimum_cardinality": null,
+            "numeric_maximum": 1,
+            "numeric_minimum": 0,
+            "special_values": []
+          },
           "total_observations": 302,
           "variants": [
             {
@@ -1632,6 +1762,13 @@
           "source_attributes": [
             "mana_cost"
           ],
+          "statistics": {
+            "maximum_cardinality": null,
+            "minimum_cardinality": null,
+            "numeric_maximum": 3,
+            "numeric_minimum": 0,
+            "special_values": []
+          },
           "total_observations": 302,
           "variants": [
             {
@@ -1686,6 +1823,13 @@
       "source_attributes": [
         "mana_cost"
       ],
+      "statistics": {
+        "maximum_cardinality": null,
+        "minimum_cardinality": null,
+        "numeric_maximum": null,
+        "numeric_minimum": null,
+        "special_values": []
+      },
       "total_observations": 302,
       "variants": []
     },
@@ -1698,6 +1842,13 @@
       "source_attributes": [
         "rarity"
       ],
+      "statistics": {
+        "maximum_cardinality": null,
+        "minimum_cardinality": null,
+        "numeric_maximum": null,
+        "numeric_minimum": null,
+        "special_values": []
+      },
       "total_observations": 302,
       "variants": [
         {

@@ -1,0 +1,160 @@
+features
+	"MTG Card" 
+		mandatory
+			Layout 
+		mandatory
+			"Type" {abstract}
+				optional
+					Supertypes {abstract}
+						optional
+							Basic 
+				mandatory
+					"Card Types" {abstract}
+						[1..2]
+							Artifact 
+							Creature 
+								mandatory
+									"Creature subtypes" {abstract}
+										[1..2]
+											Angel 
+											Archer 
+											Assassin 
+											Avatar 
+											Barbarian 
+											Basilisk 
+											Bear 
+											Beast 
+											Bird 
+											Cat 
+											Cleric 
+											Cockatrice 
+											Demon 
+											Dinosaur 
+											Djinn 
+											Dragon 
+											Druid 
+											Dryad 
+											Dwarf 
+											Elemental 
+											Elephant 
+											Elf 
+											Faerie 
+											Fungus 
+											Gargoyle 
+											Giant 
+											Goblin 
+											Golem 
+											Horse 
+											Human 
+											Hydra 
+											Illusion 
+											Imp 
+											Incarnation 
+											Juggernaut 
+											Knight 
+											Merfolk 
+											Minotaur 
+											Nightmare 
+											Nymph 
+											Ogre 
+											Orc 
+											Pegasus 
+											Pirate 
+											Plant 
+											Rat 
+											Serpent 
+											Shade 
+											Shapeshifter 
+											Skeleton 
+											Soldier 
+											Specter 
+											Spider 
+											Spirit 
+											Treefolk 
+											Troll 
+											Unicorn 
+											Vampire 
+											Wall 
+											Warrior 
+											Wizard 
+											Wolf 
+											Wraith 
+											Wurm 
+											Zombie 
+							Enchantment 
+								optional
+									"Enchantment subtypes" {abstract}
+										optional
+											Aura 
+							Instant 
+							Land 
+								mandatory
+									"Land subtypes" {abstract}
+										[1..2]
+											Forest 
+											Island 
+											Mountain 
+											Plains 
+											Swamp 
+							Sorcery 
+		mandatory
+			"Mana Value" 
+		optional
+			Colors 
+				alternative
+					B 
+					G 
+					R 
+					U 
+					W 
+		optional
+			"Color Identity" 
+				[1..2]
+					B 
+					G 
+					R 
+					U 
+					W 
+		mandatory
+			rarity 
+				alternative
+					Common 
+					Rare 
+					Uncommon 
+		mandatory
+			"Mana Cost" {abstract}
+				mandatory
+					Integer black 
+				mandatory
+					Integer blue 
+				mandatory
+					Integer generic 
+				mandatory
+					Integer green 
+				mandatory
+					Integer red 
+				mandatory
+					Integer variable 
+				mandatory
+					Integer "variable_symbol:X" 
+				mandatory
+					Integer white 
+		optional
+			"Color Indicator" 
+		optional
+			PowerToughness 
+				optional
+					Integer Power 
+				optional
+					Integer Toughness 
+constraints
+	(Power >= 0) & (Power <= 8)
+	(Toughness >= 0) & (Toughness <= 8)
+	(black >= 0) & (black <= 4)
+	(blue >= 0) & (blue <= 3)
+	(generic >= 0) & (generic <= 6)
+	(green >= 0) & (green <= 4)
+	(red >= 0) & (red <= 2)
+	(variable >= 0) & (variable <= 1)
+	("variable_symbol:X" >= 0) & ("variable_symbol:X" <= 1)
+	(white >= 0) & (white <= 3)

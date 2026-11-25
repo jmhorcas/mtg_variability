@@ -52,3 +52,25 @@ def test_extractor_rejects_invalid_category():
             "rarity",
             category="unknown",
         )
+
+
+def test_extracts_constant_value_when_some_observations_are_missing():
+    extractor = CategoricalExtractor("rarity")
+
+    records = [
+        {"name": "Card A", "rarity": "rare"},
+        {"name": "Card B", "rarity": "rare"},
+        {"name": "Card C", "rarity": None},
+    ]
+
+    points = extractor.extract(records)
+
+    assert len(points) == 1
+    point = points[0]
+
+    assert point.name == "rarity"
+    assert point.total_observations == 3
+    assert point.missing_observations == 1
+    assert len(point.variants) == 1
+    assert point.variants[0].name == "rare"
+    assert point.variants[0].occurrences == 2

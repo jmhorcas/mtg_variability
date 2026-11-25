@@ -6,7 +6,11 @@ from collections import Counter, defaultdict
 from collections.abc import Sequence
 
 from mtg_variability.variability.extractors.base import BaseVariationExtractor
-from mtg_variability.variability.models import VariantSpec, VariationPointSpec
+from mtg_variability.variability.models import (
+    VariantSpec,
+    VariationPointSpec,
+    VariationStatistics,
+)
 from mtg_variability.variability.protocols import CardRecord
 
 
@@ -22,6 +26,7 @@ class ManaCostExtractor(BaseVariationExtractor):
     """
 
     _SYMBOL_PATTERN = re.compile(r"\{([^{}]+)\}")
+
     _COLORED_SYMBOLS = {
         "W": "white",
         "U": "blue",
@@ -29,6 +34,7 @@ class ManaCostExtractor(BaseVariationExtractor):
         "R": "red",
         "G": "green",
     }
+
     _VARIABLE_SYMBOLS = {"X", "Y", "Z"}
 
     _BASE_DIMENSIONS = (
@@ -70,12 +76,11 @@ class ManaCostExtractor(BaseVariationExtractor):
         """Return the extractor identifier."""
         return f"mana-cost:{self._attribute}"
 
-    
     def _extract(
         self,
         records: Sequence[CardRecord],
     ) -> Sequence[VariationPointSpec]:
-        parsed_records = []
+        parsed_records: list[tuple[Counter[str], str]] = []
         dimensions = set(self._BASE_DIMENSIONS)
         missing_count = 0
 
@@ -153,8 +158,7 @@ class ManaCostExtractor(BaseVariationExtractor):
             self._parse_symbol(symbol, components)
 
         # Preserve unexpected text instead of silently discarding it.
-        remainder = self._SYMBOL_PATTERN.sub("", cost)
-        remainder = remainder.strip()
+        remainder = self._SYMBOL_PATTERN.sub("", cost).strip()
 
         if remainder:
             components["other"] += 1
@@ -275,10 +279,16 @@ class ManaCostExtractor(BaseVariationExtractor):
             for value, count in sorted(counts.items())
         )
 
+        statistics = VariationStatistics(
+            numeric_minimum=min(counts),
+            numeric_maximum=max(counts),
+        )
+
         return VariationPointSpec(
             name=dimension,
             source_attributes=(self._attribute,),
             variants=variants,
             total_observations=total_observations,
             missing_observations=missing_observations,
+            statistics=statistics,
         )
